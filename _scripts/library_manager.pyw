@@ -47,7 +47,7 @@ class HomePage(Page):
         import time
         self.wait = label(self.stats, "⏳  Loading the library", 13, True, fg="dim")
         self.wait.pack(anchor="w", pady=(6, 2))
-        label(self.stats, "Reading about 18,000 items - this can take a few seconds when the computer has just started.",
+        label(self.stats, "Reading the library - a large one can take a few seconds when the computer has just started.",
               9, fg="dim").pack(anchor="w", pady=(0, 6))
         label(self.recent, "The newest items will appear here.", 9, fg="dim").pack(anchor="w", padx=6, pady=(0, 20))
         label(self.cats, "Categories will appear here.", 9, fg="dim").pack(anchor="w", pady=(0, 20))
@@ -82,7 +82,7 @@ class HomePage(Page):
         docs = sum(1 for r in items if r["type"] in lv.DOC_TYPES)
         lessons = sum(1 for r in course if r["type"] in ("lesson-video", "audio"))
         for n, t in [(len(items), "items in the library"), (by.get("recipes", 0), "recipes"), (docs, "documents & books"),
-                     (lessons, "Cooking School lessons"), (len(self.app.favs.d), "favorites")]:
+                     *([(lessons, "Cooking School lessons")] if lessons else []), (len(self.app.favs.d), "favorites")]:
             b = tk.Frame(self.stats, bg=C["card"]); b.pack(side="left", padx=(0, 28))
             label(b, f"{n:,}", 20, True, fg="primary").pack(anchor="w")
             label(b, t, 9, fg="dim").pack(anchor="w")
@@ -710,7 +710,7 @@ LIB_TOPICS = [
       ("Weather", _cat("weather"))]),
     ("Security & Defense", "\U0001F6E1", "Home and personal security, firearms, self-defense", _cat("security-defense"), _KINDS),
     ("Legal & Financial", "\u2696", "Documents, insurance, scams, disaster assistance, financial resilience", _cat("legal-financial"), _KINDS),
-    ("Local Area", "\u26F0", "Kalispell plants, Montana wildlife, fungi and grasses, growing guides and pest pages",
+    ("Local Area", "\u26F0", "Your local area: plants, wildlife, fungi, growing guides and pest pages",
      _cat("local-area"), [("Plants", _typ("local-profile")), ("Wildlife & fungi", _typ("local-wildlife")),
                           ("Guides & references", _typ("growing-guide", "local-reference", "local-overview", "local-guide", "local-map")),
                           ("Pests & problems", _typ("local-pest"))]),
@@ -966,6 +966,17 @@ class App(tk.Tk):
              ("email", "\u2709", "Recipe from Email", EmailPage), ("doc", "\U0001F4C4", "Add a Document", DocPage),
              ("bulk", "\U0001F4C1", "Bulk Add Folder", BulkPage)]
 
+    @staticmethod
+    def has_section(key):
+        """Cooking School, Local Area and Waypoints only show in the menu when this library has something for them."""
+        if key == "school":
+            return os.path.isdir(os.path.join(RESEARCH, *lv.WARDEE.split("/")))
+        if key == "local":
+            return any(f.endswith(".md") for _, _, fs in os.walk(os.path.join(RESEARCH, "local-area")) for f in fs)
+        if key == "waypoints":
+            return bool(wpt.load()) or os.path.isdir(os.path.join(RESEARCH, "local-area", "maps"))
+        return True
+
     def __init__(self):
         super().__init__()
         self.title("Library Manager")
@@ -993,7 +1004,9 @@ class App(tk.Tk):
                 tk.Label(side, text=e_, font=(F, 8, "bold"), bg=C["side"], fg=C["side_dim"]).pack(anchor="w", padx=24, pady=(14, 4))
                 continue
             key, ic, name, _ = e_
-            f = tk.Frame(side, bg=C["side"], cursor="hand2"); f.pack(fill="x")
+            f = tk.Frame(side, bg=C["side"], cursor="hand2")
+            if self.has_section(key):   # the page still exists (links can open it); only its menu entry is left out
+                f.pack(fill="x")
             bar = tk.Frame(f, bg=C["side"], width=4); bar.pack(side="left", fill="y")
             ico = tk.Label(f, text=ic, font=("Segoe UI Emoji", 12), bg=C["side"], fg=C["side_text"], width=2, padx=0)
             ico.pack(side="left", padx=(16, 0))

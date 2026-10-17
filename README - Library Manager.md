@@ -62,7 +62,7 @@ To just check without installing: `_scripts\.venv\Scripts\python _scripts\check_
   The app and scripts find the library from wherever they are; nothing is tied to a drive letter.
 - Then run **`Setup.bat`** in the new copy. On the same PC this just re-points the desktop shortcut. On a new PC
   it installs Python and the packages.
-- Your favorites, Cooking School progress and view settings travel with the folder (they're in `_work\`).
+- Your favorites and view settings travel with the folder (they're in `_work\`).
 
 ---
 
@@ -77,10 +77,9 @@ The Home page shows totals, the most recently added items and every category; cl
 |---|---|
 | **Favorites** | Everything you've starred, grouped by section, by category, or newest first |
 | **Recipes** | All recipes: web bookmarks, emails, Facebook saves, recipe cards, videos, cookbooks. Opens on tiles by kind of dish (All Recipes first, then Breads & Baking, Desserts, Breakfast, Soups, Chicken & Turkey, Beef, Pork, Fish, Pasta & Casseroles, Pizza & Sandwiches, Vegetables & Salads, Sauces, Drinks, Canning & Dairy, Air Fryer, Instant Pot, Other) – inside each, buttons by source (Web, Email, Facebook, Recipe cards, Videos, Cookbooks). A recipe can be in more than one tile (e.g. chicken soup) |
-| **Cooking School** | A video cooking course laid out as its learning schedule (built for the first owner's own course - empty in a new library) |
 | **Local Area** | Your home area: plants, wildlife, growing guides, maps and waypoints (built for the first owner's area - empty in a new library; see below) |
 | **Documents & Books** | PDFs, Word documents and books from every category. Opens on topic tiles (All Documents first, then Gardening & Farming, Food Storage, Cooking & Recipes, Medical, Water & Sanitation, Wilderness/Hunting/Foraging, Emergency & Disaster, Energy, Skills/Tools/Building, Radio, Security, Legal & Financial) – click one to drill in; **◀ All topics** goes back |
-| **Whole Library** | Everything except the Cooking School, which only appears in its own section. Opens on topic tiles (All of the Library first, then Vehicles & Engines, Skills/Tools/Building, Gardening & Farming, Food Storage, Recipes & Cooking, Medical, Water & Sanitation, Energy, Radio, Wilderness/Hunting/Foraging, Emergency & Disaster, Security, Legal & Financial, Local Area) – inside, buttons by category or by kind (Repair guides, Q & A, Wikipedia, PDFs…) |
+| **Whole Library** | Everything. Opens on topic tiles (All of the Library first, then Vehicles & Engines, Skills/Tools/Building, Gardening & Farming, Food Storage, Recipes & Cooking, Medical, Water & Sanitation, Energy, Radio, Wilderness/Hunting/Foraging, Emergency & Disaster, Security, Legal & Financial, Local Area) – inside, buttons by category or by kind (Repair guides, Q & A, Wikipedia, PDFs…) |
 | **Offline Archives** | The Kiwix .zim archives (Wikipedia, iFixit, Stack Exchange…) - read-only, see below |
 
 The window remembers its size and position (and whether it was maximised) from the last time you closed it. In a
@@ -180,23 +179,10 @@ On long pages (whole books, long articles, lists) **▲ Top / ▼ Bottom** butto
 
 **Back** returns to the list where you left it.
 
-### The Cooking School
-
-Built for the first owner's own video cooking course; it is empty in a new library. With a course in it:
-
-- The left side is the course outline: the modules in order, then the extras. The number shows how many lessons
-  each has.
-- Each module shows, top to bottom: **Course materials** (eBooks and handouts), **Start here**, the numbered
-  **Lessons** (all parts of a lesson together), then **More videos**, **Q&A and bonus videos** and **Audio**.
-- **Start this module** opens the first item. In the reader, **‹ Previous / Next ›** walk through the course in
-  order and carry on into the next module.
-- **Continue where you left off** (top of the outline) reopens the last lesson you viewed.
-- The search box above the outline searches just the course.
-
 ### Favorites
 
 Star anything with **☆** (on a card or in the reader). The Favorites page groups them **By section**
-(Recipes → Web / Email / …, Cooking School → by module, Documents & Books, Library), **By category**
+(Recipes → Web / Email / …, Documents & Books, Library), **By category**
 or **Newest first**.
 
 ### Notes
@@ -220,7 +206,7 @@ automatically when you switch tabs, go **Back**, use Previous/Next or close the 
   **Use automatic** goes back to the guess. Saved in `_work\recipe_tiles.json` – no files are moved.
 - **Change category…** (on documents and articles): tick the category it belongs in – the line underneath says what
   will move (the page, its original PDF, photos and your note) – then **Save**. Favorites follow it and the catalog refreshes on its own.
-  Items inside collections (your recipe collection, the Cooking School, Local Area) and items that other pages link to
+  Items inside collections (your recipe collection, Local Area) and items that other pages link to
   can't be moved – the window says why.
 - **Change type…** (on Local Area plant, grass, wildlife and fungi pages): pick the type it belongs under (e.g. from
   *Shrubs & hedges* to *Trees - Shade & ornamental*). It then shows under that tile and button. The page itself stays
@@ -275,7 +261,6 @@ Web pages, PDFs from links, Wikipedia articles and the starter packs are added f
 | `CATALOG.csv` / `CATALOG.json` | The list of every item (open the CSV in Excel) |
 | `LIBRARY.md` | A summary of your library (counts per category and source) |
 | `_work\favorites.json` | Your favorites |
-| `_work\course_progress.json` | Where you left off in the Cooking School |
 | `<item name>.txt` beside an item | Your note for that item |
 | `_work\viewer_settings.json` | Remembered choices such as the sort order |
 | `_work\thumbs\` | Picture previews; safe to delete, they are remade as needed |
