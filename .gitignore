@@ -2,6 +2,7 @@
 # The library itself (category folders, _sources, _work, catalogs, the tour video) never does.
 /*
 !/.gitignore
+!/.gitattributes
 !/Setup.bat
 !/Library Manager.vbs
 !/README.md
