@@ -1,11 +1,12 @@
 # Research Library & Library Manager – How to set up and use
 
-This folder is a self-contained offline library: about 18,000 survival, homesteading, medical, repair and recipe
-items (with their PDFs, photos and videos), plus **Library Manager**, a desktop app for browsing, reading and
-adding to it. Everything lives inside this folder, so you can copy the whole folder to another drive or PC.
+This folder is a self-contained offline library (practical, medical, repair and recipe material, with its PDFs,
+photos and videos) plus **Library Manager**, a desktop app for browsing, reading and adding to it. Everything lives
+inside this folder, so you can copy the whole folder to another drive or PC.
 
-> `README.md` (next to this file) describes what is *in* the library – categories, sources and licences. It is
-> rebuilt automatically whenever the library changes. This file explains how to *set up and use* it.
+> `README.md` (next to this file) is the overview: how the apps fit together, the categories, and how to fill a
+> new library (your own files, links, Wikipedia, starter packs). `LIBRARY.md` is a summary of what is in *your*
+> library, rewritten automatically after every change. This file explains every Library Manager page in detail.
 
 ---
 
@@ -76,8 +77,8 @@ The Home page shows totals, the most recently added items and every category; cl
 |---|---|
 | **Favorites** | Everything you've starred, grouped by section, by category, or newest first |
 | **Recipes** | All recipes: web bookmarks, emails, Facebook saves, recipe cards, videos, cookbooks. Opens on tiles by kind of dish (All Recipes first, then Breads & Baking, Desserts, Breakfast, Soups, Chicken & Turkey, Beef, Pork, Fish, Pasta & Casseroles, Pizza & Sandwiches, Vegetables & Salads, Sauces, Drinks, Canning & Dairy, Air Fryer, Instant Pot, Other) – inside each, buttons by source (Web, Email, Facebook, Recipe cards, Videos, Cookbooks). A recipe can be in more than one tile (e.g. chicken soup) |
-| **Cooking School** | Wardee Harmon's *Traditional Cooking School* course, laid out as its learning schedule |
-| **Local Area** | Kalispell / Flathead County (zone 5b): a page for every tree, fruit variety, shrub, rose, herb, wild plant and weed on your list, plus growing guides, MSU documents and pest pages – see below |
+| **Cooking School** | A video cooking course laid out as its learning schedule (built for the first owner's own course - empty in a new library) |
+| **Local Area** | Your home area: plants, wildlife, growing guides, maps and waypoints (built for the first owner's area - empty in a new library; see below) |
 | **Documents & Books** | PDFs, Word documents and books from every category. Opens on topic tiles (All Documents first, then Gardening & Farming, Food Storage, Cooking & Recipes, Medical, Water & Sanitation, Wilderness/Hunting/Foraging, Emergency & Disaster, Energy, Skills/Tools/Building, Radio, Security, Legal & Financial) – click one to drill in; **◀ All topics** goes back |
 | **Whole Library** | Everything except the Cooking School, which only appears in its own section. Opens on topic tiles (All of the Library first, then Vehicles & Engines, Skills/Tools/Building, Gardening & Farming, Food Storage, Recipes & Cooking, Medical, Water & Sanitation, Energy, Radio, Wilderness/Hunting/Foraging, Emergency & Disaster, Security, Legal & Financial, Local Area) – inside, buttons by category or by kind (Repair guides, Q & A, Wikipedia, PDFs…) |
 | **Offline Archives** | The Kiwix .zim archives (Wikipedia, iFixit, Stack Exchange…) - read-only, see below |
@@ -104,85 +105,36 @@ search cleared, any open item closed, back to the top. The Add pages keep what y
 
 ### Local Area
 
-Everything here is about growing in **Kalispell / Flathead County** and is stored in the library folder
-`local-area` (it works with no internet). It opens on **topic tiles** (each shows how many pages it has):
-Start Here · Fruit Trees · Berries & Small Fruit · Trees · Shrubs & Roses · Herbs · Vegetables · Wild Plants & Weeds · Grasses ·
-Wildlife · Fungi · Insects & Spiders · Nearby (Pacific Northwest) · Food Preservation · Living with Wildlife · Heating with Wood · Livestock & Bees · Maps · Growing Guides & References · Pests & Problems.
+Local Area was built for the first owner's home area (Kalispell / Flathead County, Montana) and is kept in the
+library folder `local-area`. In a new library it is **empty**: the tools that collected it (plant lists, Montana
+wildlife and fungi, topographic maps, a North America road map) were one-off jobs for that area and are not
+included. What the pages can do, once a library has such material:
 
-Click a tile to drill into that topic: a list with search, sort and buttons for the topic's own groups (e.g. Fruit
-Trees → Apples & crabapples · Pears · Plums & apricots · Cherries; Wildlife → Mammals · Birds · Fish · Reptiles &
-amphibians; Wild Plants & Weeds → Wildflowers & wild foods · Poisonous plants · Noxious weeds · Common weeds; Insects &
-Spiders → Butterflies · Big moths · Dragonflies & damselflies · Bees & wasps · Helpful insects · Garden & orchard pests ·
-Forest & tree pests · House & pantry pests · Biting & stinging · Spiders, ticks & mites · Fly-fishing hatches · Other
-insects & bugs). **◀ All topics** goes back to the tiles; clicking **Local Area** in the left menu also starts again
-there. Start Here is a single page, so its tile opens it straight away.
+- **Topic tiles** (each shows how many pages it has) - click one to drill in, with search, sort and buttons for the
+  topic's own groups; **◀ All topics** goes back. Plant, wildlife and fungi pages offer **Change type…** to move
+  them to another tile.
+- **Maps** - topographic GeoPDF maps open on the **Pages** tab; moving the mouse shows the position under it.
+  **Search by position**: type or paste a position into a Local Area search box (`48.1958, -114.3129`,
+  `48°11'45"N 114°18'46"W`, `N48 11.748 W114 18.774` or a Google Maps link) to find the map it is on.
+- **📍 Waypoints** (menu, under Local Area) are your own named places - home, springs, trailheads. **+ Add a
+  waypoint** takes a name, a position in any of the forms above, and notes; or click **📍 Add waypoint** on an
+  open map and click the spot (or right-click it). Each waypoint opens the map it is on, zoomed in on a red pin;
+  **Edit…**, **Copy position** and **Delete** are in the list. Waypoints are saved in `_work\waypoints.json` and go
+  to the tablet with the next viewer update.
+- **📏 Measure** (on every map): click points - each leg's straight-line distance is drawn and the total is shown
+  (miles and km). **↶ Undo last point**, **Clear**, **Done**.
+- A **🌎 North America map**, when the library has one (`local-area\maps\north-america\`), opens in a window of its
+  own, served from this computer only, with place search and **📍 Where am I?**.
 
-The wildlife, fungi and grass pages come from the Montana Field Guide (every Montana mammal, bird, fish, reptile and
-amphibian, the Field Guide's named fungi (mushrooms, brackets, rusts and cankers), all 262 Montana grasses, and about 800 insects, spiders and ticks - butterflies, dragonflies, bees, pests, helpful
-insects, biting bugs and fly-fishing hatches): Montana status and conservation rank, habitat, range,
-migration and food, photos, the full Field Guide account, range maps, the Field Guide's PDF report and the Wikipedia
-article. **Fungi pages: never eat a wild mushroom identified from a description or photo.**
-
-**Vegetables** has one page per home-garden crop (43) plus the **Kalispell Vegetable Planting Calendar**. Each crop page starts with Kalispell planting and indoor-start dates worked out from MSU's planting schedule and our frost dates (last freeze about May 20, first about September 20), whether it will ripen here, what to do with it in your unheated greenhouse, short-season variety lists (MSU, University of Idaho and others) and links to its pests in Insects & Spiders.
-
-**Kalispell topic guides** (added 2026-10-12): **Food Preservation** (canning pressures and times for Kalispell's 2,984 ft - dial gauge 12 lb, weighted gauge 15 lb - plus freezing, drying and root cellars, linking the MSU guides in Food Storage & Preservation), **Living with Wildlife** (Montana FWP: securing garbage, gardens, coops and hives from bears, the FWP electric-fence guide, deer fencing, 20 FWP pages on smaller animals), **Heating with Wood** (Flathead National Forest firewood permits, heat value of local woods, EPA safe-burning tips), **Livestock & Bees** (Montana apiary registration, backyard poultry testing and health, goats) and **Maps** (16 USGS 1:24,000 topographic maps of the Flathead Valley, GeoPDFs that GPS apps can use offline, with an index page laid out north to south). In each topic, open the Kalispell guide page (type "Kalispell guide") first - it sums up the source documents listed beside it.
-
-**📍 Waypoints** (menu, under Local Area; added 2026-10-13) are your own named places - home, hunting spots,
-trailheads, springs. Each one opens the topographic map it is on, **zoomed in and centred on a red pin**:
-- **Add one** with **+ Add a waypoint**: a name, the position and notes. The position can be typed or pasted in most forms -
-  `48.1958, -114.3129`, `48°11'45"N 114°18'46"W`, `N48 11.748 W114 18.774`, or a Google Maps link. A longitude without a
-  minus or W is taken as West. As you type, the window shows which map it falls on.
-- **Or drop one on a map**: open any Local Area map (Pages tab), click **📍 Add waypoint**, then click the spot - or
-  right-click the spot (*Add a waypoint here* / *Copy position*). Moving the mouse over a map shows the position under it.
-- In the list: double-click (or **Open detailed map**) for the 1:24,000 map, **Open regional map** for the 1:100,000 one;
-  **Edit…**, **Copy position**, **Delete**. On an open map, **Same spot on the regional / detailed map** switches scale,
-  every saved waypoint is drawn as a pin (click a pin to edit it), and you can drag a zoomed-in map to move around it.
-- **📏 Measure** (on every map, and on the North America map): click points - each leg's straight-line distance is
-  drawn on the map and the strip above shows the total (miles and km; feet/metres for short legs). **↶ Undo last point**,
-  **Clear**, **Done**. Distances are along the earth's surface (great circle).
-- The Maps topic bar also has a **📍 My waypoints** button, and the Waypoints page has **🗺 All maps**.
-- **Search by position:** in Local Area › Maps, type or paste a position into the search box (any of the forms above, or
-  a Google Maps link). The list shows the detailed and regional map that position is on. Opening one zooms in on the spot
-  and marks it with a blue target. Right-click the spot to save it as a waypoint. This works from the search box of any
-  Local Area topic, and from **Find** on the Waypoints page (which also offers **+ Save as waypoint**).
-- Waypoints are saved in `_work\waypoints.json`. The pins are placed from each map's own GeoPDF georeferencing, so they
-  land within a few metres on the 2024 maps; the 1979–87 regional maps use the older NAD27 datum, about 80 m (under 1 mm on
-  the sheet) from a GPS position.
-- They go to the tablet with the next viewer update (see the tablet guide), where they are read-only, and the tablet can
-  also show **where you are** from its GPS.
-
-**🌎 North America map** (added 2026-10-13) is an offline road map of all of the US, Canada and Mexico - the fallback
-for anywhere outside the topo maps. Open it with **🌎 North America map** on the Waypoints page or in Local Area › Maps,
-from the map's own page in Maps, or from **Find** on the Waypoints page when a position isn't on a topo map. It opens in a
-**window of its own** ("North America Map" - Chrome or Edge with no tabs or address bar, using its own small profile in
-`_work\na_map_window`, separate from your normal browsing). Library Manager serves the map from this computer only
-(127.0.0.1, port 8777); nothing goes on the internet. Keep Library Manager open while you use it.
-- OpenStreetMap roads, towns, rivers, lakes and parks to zoom 13 everywhere, and full street-and-trail detail (zoom 15)
-  in NW Montana; shaded terrain and county lines; the topo sheets as green boxes; your waypoints as red pins.
-- Search a town (311,868 places - add ", Montana" to narrow it) or a position in any form. Click a spot for its
-  position, the nearest town and which topo map it is on, with **Open topo map** / **Regional map** (they open here in
-  Library Manager, zoomed in), **+ Save as waypoint** and **Copy position**.
-- **📍 Where am I?** uses Windows location on the PC (needs Wi-Fi/internet) or the GPS on the tablet (no internet needed).
-- Files: `local-area\maps\north-america\` (about 8.7 GB, almost all of it `data\north-america-z13.pmtiles`).
-
-**Nearby (Pacific Northwest)** holds plants, fungi, insects, reptiles & amphibians and mammals that live close to Montana (Idaho, Washington, Oregon, Wyoming, British Columbia, Alberta) but are not recorded here. Each page starts with a 📍 note saying where it has been seen. (These came from the old Field Guides section, which was retired on 2026-10-12: every Montana species is in Local Area, and general articles went to Foraging & Wild Food / Wilderness Survival.)
-
-Every plant page starts with **Key facts for Kalispell**: whether it grows in zone 5b, bloom / pollination time,
-whether it needs a pollinator and **which trees on your own list pollinate it**, harvest time and keeping, size and
-spacing, sun and soil, edibility (or a ⚠ poison / noxious-weed warning) and disease resistance. Below that: photos,
-description, Montana Field Guide data and range maps, what the Montana (MSU / Flathead County) documents say about it,
-links to its growing guide, documents and pest pages, videos, and the Wikipedia article. **Start Here – Growing in
-Kalispell** has the zone, the Flathead Valley frost-free-days chart and a list of every plant by type.
-
-The plant list itself lives in `_scripts\local_area_specs.py`; to add a plant, add a line there and run
-`_scripts\69_build_local_area.py "<plant title>"`.
+**Fungi pages: never eat a wild mushroom identified from a description or photo.**
 
 ### Offline Archives
 
-**Offline Archives** (in Browse) reads the Kiwix archives in `_sources\zim` directly: the full Wikipedia (21.7 million
-articles, with pictures), iFixit, Wikibooks, WikEM, MedlinePlus, NHS medicines, Appropedia, energypedia, 15 Stack Exchange
-Q&A sites and 5 document libraries (food preparation, knots, medicine, water, post-disaster). It is read-only: nothing
-from the archives is copied into the library.
+**Offline Archives** (in Browse) reads the Kiwix archives (`.zim` files) in `_sources\zim` directly - whatever you
+downloaded with **Get Archives.bat** or put there yourself: Wikipedia, iFixit, Wikibooks, WikEM, MedlinePlus, NHS
+medicines, Appropedia, energypedia, Stack Exchange Q&A sites, Project Gutenberg books and more (all free from
+https://library.kiwix.org). It is read-only: nothing from the archives is copied into the library. With no archives
+the page is empty.
 
 - With the search box empty you see a card for every archive. Click one to open its front page.
 - Archives tagged **🔍 Search-first** (WikEM, Wikipedia, MedlinePlus and the Stack Exchange Q&A sites) have little to
@@ -230,8 +182,10 @@ On long pages (whole books, long articles, lists) **▲ Top / ▼ Bottom** butto
 
 ### The Cooking School
 
-- The left side is the course outline: **Modules 1–12** in order, then the **Extras**
-  (Cultures for Health eBooks, Roundtables & eBooklets, Menu Plans). The number shows how many lessons each has.
+Built for the first owner's own video cooking course; it is empty in a new library. With a course in it:
+
+- The left side is the course outline: the modules in order, then the extras. The number shows how many lessons
+  each has.
 - Each module shows, top to bottom: **Course materials** (eBooks and handouts), **Start here**, the numbered
   **Lessons** (all parts of a lesson together), then **More videos**, **Q&A and bonus videos** and **Audio**.
 - **Start this module** opens the first item. In the reader, **‹ Previous / Next ›** walk through the course in
@@ -305,7 +259,10 @@ The original file is kept beside a searchable text copy.
 2. Double-click rows to tick or untick them, fix titles or categories in the *Selected* line, then click
    **Add ticked files**. *Open an earlier review…* reloads a previous review.
 
-After anything is added or deleted, the catalog (`CATALOG.csv` / `.json`) and `README.md` update themselves.
+After anything is added or deleted, the catalog (`CATALOG.csv` / `.json`) and `LIBRARY.md` update themselves.
+
+Web pages, PDFs from links, Wikipedia articles and the starter packs are added from outside the window - see
+`README.md` (*Filling your library*).
 
 ---
 
@@ -313,17 +270,18 @@ After anything is added or deleted, the catalog (`CATALOG.csv` / `.json`) and `R
 
 | Location | What |
 |---|---|
-| Category folders (`recipes\`, `water\`, `field-guide-plants\`, …) | The library itself: one `.md` page per item, with its PDF/original, `<name>_images\` pictures and videos beside it |
-| `recipes\personal-recipe-collection\` | Your own recipes: `bookmarks\` (web), `email-recipes\`, `facebook-saved\`, `recipe-cards\`, `videos\`, `documents\` |
-| `recipes\wardee-traditional-cooking-school\` | The Cooking School course, one folder per module |
+| Category folders (`recipes\`, `water\`, `medical-first-aid\`, …) | The library itself: one `.md` page per item, with its PDF/original, `<name>_images\` pictures and videos beside it |
+| `recipes\personal-recipe-collection\` | Recipes you add: `bookmarks\` (Recipe from Link), `email-recipes\` (Recipe from Email) |
 | `CATALOG.csv` / `CATALOG.json` | The list of every item (open the CSV in Excel) |
+| `LIBRARY.md` | A summary of your library (counts per category and source) |
 | `_work\favorites.json` | Your favorites |
 | `_work\course_progress.json` | Where you left off in the Cooking School |
 | `<item name>.txt` beside an item | Your note for that item |
 | `_work\viewer_settings.json` | Remembered choices such as the sort order |
 | `_work\thumbs\` | Picture previews; safe to delete, they are remade as needed |
 | `_scripts\` | The app and tools (`library_manager.pyw`, `library_viewer.py`, numbered scripts), `requirements.txt`, the Python environment `.venv` |
-| `_sources\` | Original downloaded archives and PDFs the library was built from |
+| `_sources\zim\` | Downloaded Kiwix archives (Offline Archives, starter packs, the AI apps' 🗃️ search) |
+| `starter\` | The starter pack lists |
 
 ---
 
@@ -353,7 +311,20 @@ library's Python: `_scripts\.venv\Scripts\python _scripts\<script>`.
 | Recipe from Email | `64_add_email_recipe.py "<subject words>" [--force] [--check]` |
 | Add a Document | `65_add_document.py "<file>" [--check] [--category <folder>] [--title "<title>"] [--force]` |
 | Bulk Add Folder | `50_ingest_folder.py "<folder>"`, then `50_ingest_folder.py --apply <review.csv>` |
-| (after changes) | `20_catalog.py` then `21_readme.py` |
+| (after changes) | `20_catalog.py` then `21_readme.py` (writes `LIBRARY.md`) |
 
-The build scripts that created the library are listed in `README.md`. If you add a script that needs a new Python
-package, add it to `_scripts\requirements.txt` so Setup installs it on other PCs.
+Tools without a page of their own:
+
+| Tool | Script |
+|---|---|
+| Web pages from links | `68_add_web_page.py [--check] --category <CODE> <url> …` or `--file list.txt` |
+| PDFs from links | `69_add_pdf_link.py --category <CODE> <url> …` or `--file list.txt` |
+| Wikipedia articles | `67_add_wiki_articles.py [--check] "Title:CODE" …` or `--file list.txt` |
+| Get Archives.bat | `get_archives.py [--list] [<archive> … \| all]` |
+| Build Starter Library.bat | `build_starter.py [--list] [<pack> … \| all]` |
+| Archive builders used by the packs | `15_build_zim_docs.py <source>`, `18_stackexchange.py build <site>` |
+| Share your own choices as packs | `make_starter_packs.py` - rewrites `starter\` from what is in your library |
+| Recipes from a browser bookmarks export (one folder or several) | `58_fetch_bookmarks.py <bookmarks.html> "<folder name>" …`, then `20_catalog.py` and `21_readme.py` |
+
+If you add a script that needs a new Python package, add it to `_scripts\requirements.txt` so Setup installs it on
+other PCs.
