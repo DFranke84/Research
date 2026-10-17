@@ -94,7 +94,7 @@ material helps you **do**. The library comes with these 24, ready to use:
 | Security & Defense | `security-defense` | `SD` | Self-defense, home and personal security, firearms, scams and online security |
 | Weather | `weather` | `WX` | Forecasting, reading the sky, seasons, weather hazards |
 | Legal & Financial | `legal-financial` | `LF` | Important documents, insurance, fraud and scams, disaster assistance, money matters |
-| Local Area | `local-area` | - | Your own area: local plants, wildlife, growing guides and maps (built for the first owner's area - see below) |
+| Local Area | `local-area` | `-` | Your own area: weather, plants, wildlife and maps - built by `Build Local Area.bat` (see below), plus local documents you add |
 
 **How it is used.** When you add something, Library Manager reads it and suggests the best-fitting category
 (you can always pick another). The codes are what the command-line tools below expect, e.g. `--category W`. The
@@ -188,14 +188,37 @@ The tablet viewer (LibraryViewer) is built from the same folder - see its own RE
 
 ---
 
+## Your Local Area (optional)
+
+**`Build Local Area.bat`** makes the Local Area section for where **you** live. It asks for a town or address
+(or a position such as `35.59, -82.55`), how far around it to look (50 km is a good start), and how many species
+to take per group (100 is the default - the most often seen first). Then it builds:
+
+| Part | What you get | Where it comes from |
+|---|---|---|
+| **Start Here** | Average last spring and first fall frost (and how late or early they can be), length of the growing season, hardiness zone, average highs, lows and rain for every month | 30 years of weather records for your spot ([Open-Meteo](https://open-meteo.com)); the official USDA zone too in the US |
+| **Plants** | Flowering plants (including broadleaf trees and shrubs), conifers, grasses and sedges, ferns and mosses | Species people have actually recorded near you on [iNaturalist](https://www.inaturalist.org) (research-grade sightings), each with photos, the months it is seen there and its Wikipedia article |
+| **Wildlife** | Birds, mammals, fish, reptiles and amphibians | the same |
+| **Insects & Spiders** | Insects; spiders, ticks and mites | the same |
+| **Fungi & Lichens** | Mushrooms, brackets and lichens (with a warning never to eat one identified from a photo) | the same |
+| **Maps** (US only) | USGS 1:24,000 topographic maps - the maps **📍 Waypoints** puts your own named places on | [USGS The National Map](https://apps.nationalmap.gov) |
+| **AIPortable map** | A "My area" region in AIPortable's offline map list (Tools/Settings → Maps → Download maps) | if AIPortable sits next to the library |
+
+Library Manager then shows Local Area (and Waypoints, when there are maps) with tiles for these topics.
+About 1,000 species pages take an hour or so; you can stop and run it again - finished pages are skipped. Running
+it for a different place replaces the old section (the old pages go to the Recycle Bin). Add your own local
+documents - extension guides, planting calendars, local regulations - with **Add a Document**, category
+**Local Area**; they show under **Your Documents**.
+
+Works anywhere in the world, except the topographic maps (US only) and the official zone (US only - elsewhere the
+zone is estimated from the weather records).
+
+---
+
 ## Parts built for one person's setup
 
-Library Manager grew around its first owner's needs. These sections are there for everyone but start empty,
-and filling them takes your own material:
-
-- **Local Area**: built for Kalispell / Flathead County, Montana (plants for that growing zone, Montana
-  wildlife, topographic maps) together with the **Waypoints** page (your own named places on those maps). The
-  tools that built it are not included; for a new library these stay empty.
+- The first owner's own Local Area (Kalispell / Flathead County, Montana) was put together by hand from local
+  sources and is not part of the download; `Build Local Area.bat` makes a new one for your own area.
 - **Recipe from Email** needs Microsoft Outlook.
 
 ---
