@@ -57,9 +57,9 @@ def main():
     rows.append((bool(aw), False, "antiword", "reading old Word .doc files (comes with Git for Windows)"))
     ol = outlook()
     rows.append((ol, False, "Microsoft Outlook", "Recipe from Email (reads the Email > Recipes folder)"))
-    lib = os.path.exists(os.path.join(ROOT, "CATALOG.json"))
-    need_ok &= lib
-    rows.append((lib, True, f"Library catalog in {ROOT}", "the list of everything in the library"))
+    lib = os.path.exists(os.path.join(ROOT, "CATALOG.json"))   # a new, empty library has none until the first item is added
+    rows.append((lib, False, f"Library catalog in {ROOT}" if lib else "Library catalog (empty library)",
+                 "the list of everything in the library" if lib else "made automatically when you add your first item"))
     if not has_br:
         missing.append("browser")
     if not aw:
@@ -73,7 +73,7 @@ def main():
         print(f"{mark} {name:42} {why}")
     print()
     if need_ok:
-        print("Everything needed is installed." + ("" if not missing and ol else "  (Items marked - are optional.)"))
+        print("Everything needed is installed." + ("" if not missing and ol and lib else "  (Items marked - are optional.)"))
     else:
         print("Some needed parts are missing (marked NEED). Run Setup again, or ask for help with the message above.")
     return 0 if need_ok else 1
