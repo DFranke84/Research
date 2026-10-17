@@ -1,0 +1,5460 @@
+{
+"pack": "wikem",
+"kind": "zim",
+"title": "WikEM (emergency medicine)",
+"about": "Emergency-medicine reference: diagnosis and treatment of injuries and illnesses.",
+"archive": "wikem",
+"made": "2026-10-17",
+"items": [
+{
+"key": "Acute_radiation_syndrome",
+"title": "Acute radiation syndrome (WikEM)",
+"slug": "wikem Acute radiation syndrome",
+"category": "cbrn-hazmat",
+"paths": [
+"Acute_radiation_syndrome"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_radiation_syndrome"
+},
+{
+"key": "Anthrax",
+"title": "Anthrax (WikEM)",
+"slug": "wikem Anthrax",
+"category": "cbrn-hazmat",
+"paths": [
+"Anthrax"
+],
+"source_url": "https://www.wikem.org/wiki/Anthrax"
+},
+{
+"key": "Arsine_gas_exposure",
+"title": "Arsine gas exposure (WikEM)",
+"slug": "wikem Arsine gas exposure",
+"category": "cbrn-hazmat",
+"paths": [
+"Arsine_gas_exposure"
+],
+"source_url": "https://www.wikem.org/wiki/Arsine_gas_exposure"
+},
+{
+"key": "Bioterrorism",
+"title": "Bioterrorism (WikEM)",
+"slug": "wikem Bioterrorism",
+"category": "cbrn-hazmat",
+"paths": [
+"Bioterrorism"
+],
+"source_url": "https://www.wikem.org/wiki/Bioterrorism"
+},
+{
+"key": "Bioterrorism_antibiotics",
+"title": "Bioterrorism antibiotics (WikEM)",
+"slug": "wikem Bioterrorism antibiotics",
+"category": "cbrn-hazmat",
+"paths": [
+"Bioterrorism_antibiotics"
+],
+"source_url": "https://www.wikem.org/wiki/Bioterrorism_antibiotics"
+},
+{
+"key": "Blast_injury",
+"title": "Blast injury (WikEM)",
+"slug": "wikem Blast injury",
+"category": "cbrn-hazmat",
+"paths": [
+"Blast_injury"
+],
+"source_url": "https://www.wikem.org/wiki/Blast_injury"
+},
+{
+"key": "Blister_chemical_agents",
+"title": "Blister chemical agents (WikEM)",
+"slug": "wikem Blister chemical agents",
+"category": "cbrn-hazmat",
+"paths": [
+"Blister_chemical_agents"
+],
+"source_url": "https://www.wikem.org/wiki/Blister_chemical_agents"
+},
+{
+"key": "Chloramine",
+"title": "Chloramine (WikEM)",
+"slug": "wikem Chloramine",
+"category": "cbrn-hazmat",
+"paths": [
+"Chloramine"
+],
+"source_url": "https://www.wikem.org/wiki/Chloramine"
+},
+{
+"key": "Chlorine_gas",
+"title": "Chlorine gas (WikEM)",
+"slug": "wikem Chlorine gas",
+"category": "cbrn-hazmat",
+"paths": [
+"Chlorine_gas"
+],
+"source_url": "https://www.wikem.org/wiki/Chlorine_gas"
+},
+{
+"key": "Dirty_bomb",
+"title": "Dirty bomb (WikEM)",
+"slug": "wikem Dirty bomb",
+"category": "cbrn-hazmat",
+"paths": [
+"Dirty_bomb"
+],
+"source_url": "https://www.wikem.org/wiki/Dirty_bomb"
+},
+{
+"key": "Explosions",
+"title": "Explosions (WikEM)",
+"slug": "wikem Explosions",
+"category": "cbrn-hazmat",
+"paths": [
+"Explosions"
+],
+"source_url": "https://www.wikem.org/wiki/Explosions"
+},
+{
+"key": "Explosive_incident_response",
+"title": "Explosive incident response (WikEM)",
+"slug": "wikem Explosive incident response",
+"category": "cbrn-hazmat",
+"paths": [
+"Explosive_incident_response"
+],
+"source_url": "https://www.wikem.org/wiki/Explosive_incident_response"
+},
+{
+"key": "Hazmat_exposure",
+"title": "Hazmat exposure (WikEM)",
+"slug": "wikem Hazmat exposure",
+"category": "cbrn-hazmat",
+"paths": [
+"Hazmat_exposure"
+],
+"source_url": "https://www.wikem.org/wiki/Hazmat_exposure"
+},
+{
+"key": "Pepper_spray",
+"title": "Pepper spray (WikEM)",
+"slug": "wikem Pepper spray",
+"category": "cbrn-hazmat",
+"paths": [
+"Pepper_spray"
+],
+"source_url": "https://www.wikem.org/wiki/Pepper_spray"
+},
+{
+"key": "Phosgene",
+"title": "Phosgene (WikEM)",
+"slug": "wikem Phosgene",
+"category": "cbrn-hazmat",
+"paths": [
+"Phosgene"
+],
+"source_url": "https://www.wikem.org/wiki/Phosgene"
+},
+{
+"key": "Plague",
+"title": "Plague (WikEM)",
+"slug": "wikem Plague",
+"category": "cbrn-hazmat",
+"paths": [
+"Plague"
+],
+"source_url": "https://www.wikem.org/wiki/Plague"
+},
+{
+"key": "Pulmonary_chemical_agents",
+"title": "Pulmonary chemical agents (WikEM)",
+"slug": "wikem Pulmonary chemical agents",
+"category": "cbrn-hazmat",
+"paths": [
+"Pulmonary_chemical_agents"
+],
+"source_url": "https://www.wikem.org/wiki/Pulmonary_chemical_agents"
+},
+{
+"key": "Radiation_exposure_(disaster)",
+"title": "Radiation exposure (disaster) (WikEM)",
+"slug": "wikem Radiation exposure (disaster)",
+"category": "cbrn-hazmat",
+"paths": [
+"Radiation_exposure_(disaster)"
+],
+"source_url": "https://www.wikem.org/wiki/Radiation_exposure_(disaster)"
+},
+{
+"key": "Ricin",
+"title": "Ricin (WikEM)",
+"slug": "wikem Ricin",
+"category": "cbrn-hazmat",
+"paths": [
+"Ricin"
+],
+"source_url": "https://www.wikem.org/wiki/Ricin"
+},
+{
+"key": "Smallpox",
+"title": "Smallpox (WikEM)",
+"slug": "wikem Smallpox",
+"category": "cbrn-hazmat",
+"paths": [
+"Smallpox"
+],
+"source_url": "https://www.wikem.org/wiki/Smallpox"
+},
+{
+"key": "Smoke_inhalation_injury",
+"title": "Smoke inhalation injury (WikEM)",
+"slug": "wikem Smoke inhalation injury",
+"category": "cbrn-hazmat",
+"paths": [
+"Smoke_inhalation_injury"
+],
+"source_url": "https://www.wikem.org/wiki/Smoke_inhalation_injury"
+},
+{
+"key": "Sulfur_mustard_toxicity",
+"title": "Sulfur mustard toxicity (WikEM)",
+"slug": "wikem Sulfur mustard toxicity",
+"category": "cbrn-hazmat",
+"paths": [
+"Sulfur_mustard_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Sulfur_mustard_toxicity"
+},
+{
+"key": "Toxic_inhalation",
+"title": "Toxic inhalation (WikEM)",
+"slug": "wikem Toxic inhalation",
+"category": "cbrn-hazmat",
+"paths": [
+"Toxic_inhalation"
+],
+"source_url": "https://www.wikem.org/wiki/Toxic_inhalation"
+},
+{
+"key": "Weapon_of_mass_destruction",
+"title": "Weapon of mass destruction (WikEM)",
+"slug": "wikem Weapon of mass destruction",
+"category": "cbrn-hazmat",
+"paths": [
+"Weapon_of_mass_destruction"
+],
+"source_url": "https://www.wikem.org/wiki/Weapon_of_mass_destruction"
+},
+{
+"key": "White_phosphorus_toxicity",
+"title": "White phosphorus toxicity (WikEM)",
+"slug": "wikem White phosphorus toxicity",
+"category": "cbrn-hazmat",
+"paths": [
+"White_phosphorus_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/White_phosphorus_toxicity"
+},
+{
+"key": "Combat_stress_reaction",
+"title": "Combat stress reaction (WikEM)",
+"slug": "wikem Combat stress reaction",
+"category": "emergency-preparedness",
+"paths": [
+"Combat_stress_reaction"
+],
+"source_url": "https://www.wikem.org/wiki/Combat_stress_reaction"
+},
+{
+"key": "Field_trauma_triage",
+"title": "Field trauma triage (WikEM)",
+"slug": "wikem Field trauma triage",
+"category": "emergency-preparedness",
+"paths": [
+"Field_trauma_triage"
+],
+"source_url": "https://www.wikem.org/wiki/Field_trauma_triage"
+},
+{
+"key": "First_responder",
+"title": "First responder (WikEM)",
+"slug": "wikem First responder",
+"category": "emergency-preparedness",
+"paths": [
+"First_responder"
+],
+"source_url": "https://www.wikem.org/wiki/First_responder"
+},
+{
+"key": "Isolation_precautions",
+"title": "Isolation precautions (WikEM)",
+"slug": "wikem Isolation precautions",
+"category": "emergency-preparedness",
+"paths": [
+"Isolation_precautions"
+],
+"source_url": "https://www.wikem.org/wiki/Isolation_precautions"
+},
+{
+"key": "Mass_casualty_incident",
+"title": "Mass casualty incident (WikEM)",
+"slug": "wikem Mass casualty incident",
+"category": "emergency-preparedness",
+"paths": [
+"Mass_casualty_incident"
+],
+"source_url": "https://www.wikem.org/wiki/Mass_casualty_incident"
+},
+{
+"key": "Mass_casualty_incident_triage",
+"title": "Mass casualty incident triage (WikEM)",
+"slug": "wikem Mass casualty incident triage",
+"category": "emergency-preparedness",
+"paths": [
+"Mass_casualty_incident_triage"
+],
+"source_url": "https://www.wikem.org/wiki/Mass_casualty_incident_triage"
+},
+{
+"key": "Nine_line_CASEVAC",
+"title": "Nine line CASEVAC (WikEM)",
+"slug": "wikem Nine line CASEVAC",
+"category": "emergency-preparedness",
+"paths": [
+"Nine_line_CASEVAC"
+],
+"source_url": "https://www.wikem.org/wiki/Nine_line_CASEVAC"
+},
+{
+"key": "Pandemic",
+"title": "Pandemic (WikEM)",
+"slug": "wikem Pandemic",
+"category": "emergency-preparedness",
+"paths": [
+"Pandemic"
+],
+"source_url": "https://www.wikem.org/wiki/Pandemic"
+},
+{
+"key": "Prisoners_of_war",
+"title": "Prisoners of war (WikEM)",
+"slug": "wikem Prisoners of war",
+"category": "emergency-preparedness",
+"paths": [
+"Prisoners_of_war"
+],
+"source_url": "https://www.wikem.org/wiki/Prisoners_of_war"
+},
+{
+"key": "Achilles_tendon_rupture",
+"title": "Achilles tendon rupture (WikEM)",
+"slug": "wikem Achilles tendon rupture",
+"category": "medical-conditions",
+"paths": [
+"Achilles_tendon_rupture"
+],
+"source_url": "https://www.wikem.org/wiki/Achilles_tendon_rupture"
+},
+{
+"key": "Acute_allergic_reaction",
+"title": "Acute allergic reaction (WikEM)",
+"slug": "wikem Acute allergic reaction",
+"category": "medical-conditions",
+"paths": [
+"Acute_allergic_reaction"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_allergic_reaction"
+},
+{
+"key": "Acute_alveolar_osteitis",
+"title": "Acute alveolar osteitis (WikEM)",
+"slug": "wikem Acute alveolar osteitis",
+"category": "medical-conditions",
+"paths": [
+"Acute_alveolar_osteitis"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_alveolar_osteitis"
+},
+{
+"key": "Acute_asthma_exacerbation",
+"title": "Acute asthma exacerbation (WikEM)",
+"slug": "wikem Acute asthma exacerbation",
+"category": "medical-conditions",
+"paths": [
+"Acute_asthma_exacerbation"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_asthma_exacerbation"
+},
+{
+"key": "Acute_bronchitis",
+"title": "Acute bronchitis (WikEM)",
+"slug": "wikem Acute bronchitis",
+"category": "medical-conditions",
+"paths": [
+"Acute_bronchitis"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_bronchitis"
+},
+{
+"key": "Acute_diarrhea",
+"title": "Acute diarrhea (WikEM)",
+"slug": "wikem Acute diarrhea",
+"category": "medical-conditions",
+"paths": [
+"Acute_diarrhea"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_diarrhea"
+},
+{
+"key": "Acute_fever",
+"title": "Acute fever (WikEM)",
+"slug": "wikem Acute fever",
+"category": "medical-conditions",
+"paths": [
+"Acute_fever"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_fever"
+},
+{
+"key": "Acute_gastroenteritis_(peds)",
+"title": "Acute gastroenteritis (peds) (WikEM)",
+"slug": "wikem Acute gastroenteritis (peds)",
+"category": "medical-conditions",
+"paths": [
+"Acute_gastroenteritis_(peds)"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_gastroenteritis_(peds)"
+},
+{
+"key": "Acute_gastroenteritis",
+"title": "Acute gastroenteritis (WikEM)",
+"slug": "wikem Acute gastroenteritis",
+"category": "medical-conditions",
+"paths": [
+"Acute_gastroenteritis"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_gastroenteritis"
+},
+{
+"key": "Acute_herpes_zoster",
+"title": "Acute herpes zoster (WikEM)",
+"slug": "wikem Acute herpes zoster",
+"category": "medical-conditions",
+"paths": [
+"Acute_herpes_zoster"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_herpes_zoster"
+},
+{
+"key": "Acute_necrotizing_ulcerative_gingivitis",
+"title": "Acute necrotizing ulcerative gingivitis (WikEM)",
+"slug": "wikem Acute necrotizing ulcerative gingivitis",
+"category": "medical-conditions",
+"paths": [
+"Acute_necrotizing_ulcerative_gingivitis"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_necrotizing_ulcerative_gingivitis"
+},
+{
+"key": "Acute_otitis_media",
+"title": "Acute otitis media (WikEM)",
+"slug": "wikem Acute otitis media",
+"category": "medical-conditions",
+"paths": [
+"Acute_otitis_media"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_otitis_media"
+},
+{
+"key": "Acute_pain_management",
+"title": "Acute pain management (WikEM)",
+"slug": "wikem Acute pain management",
+"category": "medical-conditions",
+"paths": [
+"Acute_pain_management"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_pain_management"
+},
+{
+"key": "Acute_tetanus",
+"title": "Acute tetanus (WikEM)",
+"slug": "wikem Acute tetanus",
+"category": "medical-conditions",
+"paths": [
+"Acute_tetanus"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_tetanus"
+},
+{
+"key": "Acute_urinary_retention",
+"title": "Acute urinary retention (WikEM)",
+"slug": "wikem Acute urinary retention",
+"category": "medical-conditions",
+"paths": [
+"Acute_urinary_retention"
+],
+"source_url": "https://www.wikem.org/wiki/Acute_urinary_retention"
+},
+{
+"key": "African_trypanosomiasis",
+"title": "African trypanosomiasis (WikEM)",
+"slug": "wikem African trypanosomiasis",
+"category": "medical-conditions",
+"paths": [
+"African_trypanosomiasis"
+],
+"source_url": "https://www.wikem.org/wiki/African_trypanosomiasis"
+},
+{
+"key": "Amebiasis",
+"title": "Amebiasis (WikEM)",
+"slug": "wikem Amebiasis",
+"category": "medical-conditions",
+"paths": [
+"Amebiasis"
+],
+"source_url": "https://www.wikem.org/wiki/Amebiasis"
+},
+{
+"key": "Anabolic_steroid_complications",
+"title": "Anabolic steroid complications (WikEM)",
+"slug": "wikem Anabolic steroid complications",
+"category": "medical-conditions",
+"paths": [
+"Anabolic_steroid_complications"
+],
+"source_url": "https://www.wikem.org/wiki/Anabolic_steroid_complications"
+},
+{
+"key": "Anemia",
+"title": "Anemia (WikEM)",
+"slug": "wikem Anemia",
+"category": "medical-conditions",
+"paths": [
+"Anemia"
+],
+"source_url": "https://www.wikem.org/wiki/Anemia"
+},
+{
+"key": "Angioedema",
+"title": "Angioedema (WikEM)",
+"slug": "wikem Angioedema",
+"category": "medical-conditions",
+"paths": [
+"Angioedema"
+],
+"source_url": "https://www.wikem.org/wiki/Angioedema"
+},
+{
+"key": "Anisakis",
+"title": "Anisakis (WikEM)",
+"slug": "wikem Anisakis",
+"category": "medical-conditions",
+"paths": [
+"Anisakis"
+],
+"source_url": "https://www.wikem.org/wiki/Anisakis"
+},
+{
+"key": "Aphthous_stomatitis",
+"title": "Aphthous stomatitis (WikEM)",
+"slug": "wikem Aphthous stomatitis",
+"category": "medical-conditions",
+"paths": [
+"Aphthous_stomatitis"
+],
+"source_url": "https://www.wikem.org/wiki/Aphthous_stomatitis"
+},
+{
+"key": "Arterial_gas_embolism",
+"title": "Arterial gas embolism (WikEM)",
+"slug": "wikem Arterial gas embolism",
+"category": "medical-conditions",
+"paths": [
+"Arterial_gas_embolism"
+],
+"source_url": "https://www.wikem.org/wiki/Arterial_gas_embolism"
+},
+{
+"key": "Arthrocentesis",
+"title": "Arthrocentesis (WikEM)",
+"slug": "wikem Arthrocentesis",
+"category": "medical-conditions",
+"paths": [
+"Arthrocentesis"
+],
+"source_url": "https://www.wikem.org/wiki/Arthrocentesis"
+},
+{
+"key": "Ascaris_lumbricoides",
+"title": "Ascaris lumbricoides (WikEM)",
+"slug": "wikem Ascaris lumbricoides",
+"category": "medical-conditions",
+"paths": [
+"Ascaris_lumbricoides"
+],
+"source_url": "https://www.wikem.org/wiki/Ascaris_lumbricoides"
+},
+{
+"key": "Aspiration_pneumonia_and_pneumonitis",
+"title": "Aspiration pneumonia and pneumonitis (WikEM)",
+"slug": "wikem Aspiration pneumonia and pneumonitis",
+"category": "medical-conditions",
+"paths": [
+"Aspiration_pneumonia_and_pneumonitis"
+],
+"source_url": "https://www.wikem.org/wiki/Aspiration_pneumonia_and_pneumonitis"
+},
+{
+"key": "Auricular_hematoma",
+"title": "Auricular hematoma (WikEM)",
+"slug": "wikem Auricular hematoma",
+"category": "medical-conditions",
+"paths": [
+"Auricular_hematoma"
+],
+"source_url": "https://www.wikem.org/wiki/Auricular_hematoma"
+},
+{
+"key": "Austere_peritoneal_dialysis",
+"title": "Austere peritoneal dialysis (WikEM)",
+"slug": "wikem Austere peritoneal dialysis",
+"category": "medical-conditions",
+"paths": [
+"Austere_peritoneal_dialysis"
+],
+"source_url": "https://www.wikem.org/wiki/Austere_peritoneal_dialysis"
+},
+{
+"key": "Babesiosis",
+"title": "Babesiosis (WikEM)",
+"slug": "wikem Babesiosis",
+"category": "medical-conditions",
+"paths": [
+"Babesiosis"
+],
+"source_url": "https://www.wikem.org/wiki/Babesiosis"
+},
+{
+"key": "Bacillus_cereus",
+"title": "Bacillus cereus (WikEM)",
+"slug": "wikem Bacillus cereus",
+"category": "medical-conditions",
+"paths": [
+"Bacillus_cereus"
+],
+"source_url": "https://www.wikem.org/wiki/Bacillus_cereus"
+},
+{
+"key": "Bacterial_gastroenteritis",
+"title": "Bacterial gastroenteritis (WikEM)",
+"slug": "wikem Bacterial gastroenteritis",
+"category": "medical-conditions",
+"paths": [
+"Bacterial_gastroenteritis"
+],
+"source_url": "https://www.wikem.org/wiki/Bacterial_gastroenteritis"
+},
+{
+"key": "Bed_bugs",
+"title": "Bed bugs (WikEM)",
+"slug": "wikem Bed bugs",
+"category": "medical-conditions",
+"paths": [
+"Bed_bugs"
+],
+"source_url": "https://www.wikem.org/wiki/Bed_bugs"
+},
+{
+"key": "Beriberi",
+"title": "Beriberi (WikEM)",
+"slug": "wikem Beriberi",
+"category": "medical-conditions",
+"paths": [
+"Beriberi"
+],
+"source_url": "https://www.wikem.org/wiki/Beriberi"
+},
+{
+"key": "Body_packing",
+"title": "Body packing (WikEM)",
+"slug": "wikem Body packing",
+"category": "medical-conditions",
+"paths": [
+"Body_packing"
+],
+"source_url": "https://www.wikem.org/wiki/Body_packing"
+},
+{
+"key": "Botulism",
+"title": "Botulism (WikEM)",
+"slug": "wikem Botulism",
+"category": "medical-conditions",
+"paths": [
+"Botulism"
+],
+"source_url": "https://www.wikem.org/wiki/Botulism"
+},
+{
+"key": "Bronchiolitis_(peds)",
+"title": "Bronchiolitis (peds) (WikEM)",
+"slug": "wikem Bronchiolitis (peds)",
+"category": "medical-conditions",
+"paths": [
+"Bronchiolitis_(peds)"
+],
+"source_url": "https://www.wikem.org/wiki/Bronchiolitis_(peds)"
+},
+{
+"key": "Brucella",
+"title": "Brucella (WikEM)",
+"slug": "wikem Brucella",
+"category": "medical-conditions",
+"paths": [
+"Brucella"
+],
+"source_url": "https://www.wikem.org/wiki/Brucella"
+},
+{
+"key": "Burr_hole",
+"title": "Burr hole (WikEM)",
+"slug": "wikem Burr hole",
+"category": "medical-conditions",
+"paths": [
+"Burr_hole"
+],
+"source_url": "https://www.wikem.org/wiki/Burr_hole"
+},
+{
+"key": "Calcium",
+"title": "Calcium (WikEM)",
+"slug": "wikem Calcium",
+"category": "medical-conditions",
+"paths": [
+"Calcium"
+],
+"source_url": "https://www.wikem.org/wiki/Calcium"
+},
+{
+"key": "Campylobacter_jejuni",
+"title": "Campylobacter jejuni (WikEM)",
+"slug": "wikem Campylobacter jejuni",
+"category": "medical-conditions",
+"paths": [
+"Campylobacter_jejuni"
+],
+"source_url": "https://www.wikem.org/wiki/Campylobacter_jejuni"
+},
+{
+"key": "Candida_dermatitis",
+"title": "Candida dermatitis (WikEM)",
+"slug": "wikem Candida dermatitis",
+"category": "medical-conditions",
+"paths": [
+"Candida_dermatitis"
+],
+"source_url": "https://www.wikem.org/wiki/Candida_dermatitis"
+},
+{
+"key": "Candidiasis",
+"title": "Candidiasis (WikEM)",
+"slug": "wikem Candidiasis",
+"category": "medical-conditions",
+"paths": [
+"Candidiasis"
+],
+"source_url": "https://www.wikem.org/wiki/Candidiasis"
+},
+{
+"key": "Canthotomy",
+"title": "Canthotomy (WikEM)",
+"slug": "wikem Canthotomy",
+"category": "medical-conditions",
+"paths": [
+"Canthotomy"
+],
+"source_url": "https://www.wikem.org/wiki/Canthotomy"
+},
+{
+"key": "Cardiac_contusion",
+"title": "Cardiac contusion (WikEM)",
+"slug": "wikem Cardiac contusion",
+"category": "medical-conditions",
+"paths": [
+"Cardiac_contusion"
+],
+"source_url": "https://www.wikem.org/wiki/Cardiac_contusion"
+},
+{
+"key": "Cat-scratch_disease",
+"title": "Cat-scratch disease (WikEM)",
+"slug": "wikem Cat-scratch disease",
+"category": "medical-conditions",
+"paths": [
+"Cat-scratch_disease"
+],
+"source_url": "https://www.wikem.org/wiki/Cat-scratch_disease"
+},
+{
+"key": "Cefditoren",
+"title": "Cefditoren (WikEM)",
+"slug": "wikem Cefditoren",
+"category": "medical-conditions",
+"paths": [
+"Cefditoren"
+],
+"source_url": "https://www.wikem.org/wiki/Cefditoren"
+},
+{
+"key": "Cellulitis",
+"title": "Cellulitis (WikEM)",
+"slug": "wikem Cellulitis",
+"category": "medical-conditions",
+"paths": [
+"Cellulitis"
+],
+"source_url": "https://www.wikem.org/wiki/Cellulitis"
+},
+{
+"key": "Cercarial_dermatitis",
+"title": "Cercarial dermatitis (WikEM)",
+"slug": "wikem Cercarial dermatitis",
+"category": "medical-conditions",
+"paths": [
+"Cercarial_dermatitis"
+],
+"source_url": "https://www.wikem.org/wiki/Cercarial_dermatitis"
+},
+{
+"key": "Cerumen_removal",
+"title": "Cerumen removal (WikEM)",
+"slug": "wikem Cerumen removal",
+"category": "medical-conditions",
+"paths": [
+"Cerumen_removal"
+],
+"source_url": "https://www.wikem.org/wiki/Cerumen_removal"
+},
+{
+"key": "Chagas_disease",
+"title": "Chagas disease (WikEM)",
+"slug": "wikem Chagas disease",
+"category": "medical-conditions",
+"paths": [
+"Chagas_disease"
+],
+"source_url": "https://www.wikem.org/wiki/Chagas_disease"
+},
+{
+"key": "Chest_tube",
+"title": "Chest tube (WikEM)",
+"slug": "wikem Chest tube",
+"category": "medical-conditions",
+"paths": [
+"Chest_tube"
+],
+"source_url": "https://www.wikem.org/wiki/Chest_tube"
+},
+{
+"key": "Chikungunya",
+"title": "Chikungunya (WikEM)",
+"slug": "wikem Chikungunya",
+"category": "medical-conditions",
+"paths": [
+"Chikungunya"
+],
+"source_url": "https://www.wikem.org/wiki/Chikungunya"
+},
+{
+"key": "Cholera",
+"title": "Cholera (WikEM)",
+"slug": "wikem Cholera",
+"category": "medical-conditions",
+"paths": [
+"Cholera"
+],
+"source_url": "https://www.wikem.org/wiki/Cholera"
+},
+{
+"key": "Cholinergic_crisis",
+"title": "Cholinergic crisis (WikEM)",
+"slug": "wikem Cholinergic crisis",
+"category": "medical-conditions",
+"paths": [
+"Cholinergic_crisis"
+],
+"source_url": "https://www.wikem.org/wiki/Cholinergic_crisis"
+},
+{
+"key": "Chronic_mountain_sickness",
+"title": "Chronic mountain sickness (WikEM)",
+"slug": "wikem Chronic mountain sickness",
+"category": "medical-conditions",
+"paths": [
+"Chronic_mountain_sickness"
+],
+"source_url": "https://www.wikem.org/wiki/Chronic_mountain_sickness"
+},
+{
+"key": "Closed_fist_infection",
+"title": "Closed fist infection (WikEM)",
+"slug": "wikem Closed fist infection",
+"category": "medical-conditions",
+"paths": [
+"Closed_fist_infection"
+],
+"source_url": "https://www.wikem.org/wiki/Closed_fist_infection"
+},
+{
+"key": "Clostridium_perfringens",
+"title": "Clostridium perfringens (WikEM)",
+"slug": "wikem Clostridium perfringens",
+"category": "medical-conditions",
+"paths": [
+"Clostridium_perfringens"
+],
+"source_url": "https://www.wikem.org/wiki/Clostridium_perfringens"
+},
+{
+"key": "Conducted_energy_device",
+"title": "Conducted energy device (WikEM)",
+"slug": "wikem Conducted energy device",
+"category": "medical-conditions",
+"paths": [
+"Conducted_energy_device"
+],
+"source_url": "https://www.wikem.org/wiki/Conducted_energy_device"
+},
+{
+"key": "Conducted_energy_device_dart_removal",
+"title": "Conducted energy device dart removal (WikEM)",
+"slug": "wikem Conducted energy device dart removal",
+"category": "medical-conditions",
+"paths": [
+"Conducted_energy_device_dart_removal"
+],
+"source_url": "https://www.wikem.org/wiki/Conducted_energy_device_dart_removal"
+},
+{
+"key": "Conjunctival_abrasion",
+"title": "Conjunctival abrasion (WikEM)",
+"slug": "wikem Conjunctival abrasion",
+"category": "medical-conditions",
+"paths": [
+"Conjunctival_abrasion"
+],
+"source_url": "https://www.wikem.org/wiki/Conjunctival_abrasion"
+},
+{
+"key": "Conjunctivitis",
+"title": "Conjunctivitis (WikEM)",
+"slug": "wikem Conjunctivitis",
+"category": "medical-conditions",
+"paths": [
+"Conjunctivitis"
+],
+"source_url": "https://www.wikem.org/wiki/Conjunctivitis"
+},
+{
+"key": "Constipation",
+"title": "Constipation (WikEM)",
+"slug": "wikem Constipation",
+"category": "medical-conditions",
+"paths": [
+"Constipation"
+],
+"source_url": "https://www.wikem.org/wiki/Constipation"
+},
+{
+"key": "Contact_dermatitis",
+"title": "Contact dermatitis (WikEM)",
+"slug": "wikem Contact dermatitis",
+"category": "medical-conditions",
+"paths": [
+"Contact_dermatitis"
+],
+"source_url": "https://www.wikem.org/wiki/Contact_dermatitis"
+},
+{
+"key": "COPD_exacerbation",
+"title": "COPD exacerbation (WikEM)",
+"slug": "wikem COPD exacerbation",
+"category": "medical-conditions",
+"paths": [
+"COPD_exacerbation"
+],
+"source_url": "https://www.wikem.org/wiki/COPD_exacerbation"
+},
+{
+"key": "Corneal_ulcer",
+"title": "Corneal ulcer (WikEM)",
+"slug": "wikem Corneal ulcer",
+"category": "medical-conditions",
+"paths": [
+"Corneal_ulcer"
+],
+"source_url": "https://www.wikem.org/wiki/Corneal_ulcer"
+},
+{
+"key": "Cough",
+"title": "Cough (WikEM)",
+"slug": "wikem Cough",
+"category": "medical-conditions",
+"paths": [
+"Cough"
+],
+"source_url": "https://www.wikem.org/wiki/Cough"
+},
+{
+"key": "COVID-19",
+"title": "COVID-19 (WikEM)",
+"slug": "wikem COVID-19",
+"category": "medical-conditions",
+"paths": [
+"COVID-19"
+],
+"source_url": "https://www.wikem.org/wiki/COVID-19"
+},
+{
+"key": "Coxsackie_virus",
+"title": "Coxsackie virus (WikEM)",
+"slug": "wikem Coxsackie virus",
+"category": "medical-conditions",
+"paths": [
+"Coxsackie_virus"
+],
+"source_url": "https://www.wikem.org/wiki/Coxsackie_virus"
+},
+{
+"key": "Crimean-Congo_hemorrhagic_fever",
+"title": "Crimean-Congo hemorrhagic fever (WikEM)",
+"slug": "wikem Crimean-Congo hemorrhagic fever",
+"category": "medical-conditions",
+"paths": [
+"Crimean-Congo_hemorrhagic_fever"
+],
+"source_url": "https://www.wikem.org/wiki/Crimean-Congo_hemorrhagic_fever"
+},
+{
+"key": "Crying_infant",
+"title": "Crying infant (WikEM)",
+"slug": "wikem Crying infant",
+"category": "medical-conditions",
+"paths": [
+"Crying_infant"
+],
+"source_url": "https://www.wikem.org/wiki/Crying_infant"
+},
+{
+"key": "Cryptosporidium",
+"title": "Cryptosporidium (WikEM)",
+"slug": "wikem Cryptosporidium",
+"category": "medical-conditions",
+"paths": [
+"Cryptosporidium"
+],
+"source_url": "https://www.wikem.org/wiki/Cryptosporidium"
+},
+{
+"key": "Cutaneous_larva_migrans",
+"title": "Cutaneous larva migrans (WikEM)",
+"slug": "wikem Cutaneous larva migrans",
+"category": "medical-conditions",
+"paths": [
+"Cutaneous_larva_migrans"
+],
+"source_url": "https://www.wikem.org/wiki/Cutaneous_larva_migrans"
+},
+{
+"key": "Cyclospora",
+"title": "Cyclospora (WikEM)",
+"slug": "wikem Cyclospora",
+"category": "medical-conditions",
+"paths": [
+"Cyclospora"
+],
+"source_url": "https://www.wikem.org/wiki/Cyclospora"
+},
+{
+"key": "Cysticercosis",
+"title": "Cysticercosis (WikEM)",
+"slug": "wikem Cysticercosis",
+"category": "medical-conditions",
+"paths": [
+"Cysticercosis"
+],
+"source_url": "https://www.wikem.org/wiki/Cysticercosis"
+},
+{
+"key": "Dengue",
+"title": "Dengue (WikEM)",
+"slug": "wikem Dengue",
+"category": "medical-conditions",
+"paths": [
+"Dengue"
+],
+"source_url": "https://www.wikem.org/wiki/Dengue"
+},
+{
+"key": "Diabetic_foot_infection",
+"title": "Diabetic foot infection (WikEM)",
+"slug": "wikem Diabetic foot infection",
+"category": "medical-conditions",
+"paths": [
+"Diabetic_foot_infection"
+],
+"source_url": "https://www.wikem.org/wiki/Diabetic_foot_infection"
+},
+{
+"key": "Diabetic_foot_ulcer",
+"title": "Diabetic foot ulcer (WikEM)",
+"slug": "wikem Diabetic foot ulcer",
+"category": "medical-conditions",
+"paths": [
+"Diabetic_foot_ulcer"
+],
+"source_url": "https://www.wikem.org/wiki/Diabetic_foot_ulcer"
+},
+{
+"key": "Diagnosis_of_death",
+"title": "Diagnosis of death (WikEM)",
+"slug": "wikem Diagnosis of death",
+"category": "medical-conditions",
+"paths": [
+"Diagnosis_of_death"
+],
+"source_url": "https://www.wikem.org/wiki/Diagnosis_of_death"
+},
+{
+"key": "Diaper_dermatitis",
+"title": "Diaper dermatitis (WikEM)",
+"slug": "wikem Diaper dermatitis",
+"category": "medical-conditions",
+"paths": [
+"Diaper_dermatitis"
+],
+"source_url": "https://www.wikem.org/wiki/Diaper_dermatitis"
+},
+{
+"key": "Diarrhea_(peds)",
+"title": "Diarrhea (peds) (WikEM)",
+"slug": "wikem Diarrhea (peds)",
+"category": "medical-conditions",
+"paths": [
+"Diarrhea_(peds)"
+],
+"source_url": "https://www.wikem.org/wiki/Diarrhea_(peds)"
+},
+{
+"key": "Diphtheria",
+"title": "Diphtheria (WikEM)",
+"slug": "wikem Diphtheria",
+"category": "medical-conditions",
+"paths": [
+"Diphtheria"
+],
+"source_url": "https://www.wikem.org/wiki/Diphtheria"
+},
+{
+"key": "Dracunculiasis",
+"title": "Dracunculiasis (WikEM)",
+"slug": "wikem Dracunculiasis",
+"category": "medical-conditions",
+"paths": [
+"Dracunculiasis"
+],
+"source_url": "https://www.wikem.org/wiki/Dracunculiasis"
+},
+{
+"key": "Dry_gangrene",
+"title": "Dry gangrene (WikEM)",
+"slug": "wikem Dry gangrene",
+"category": "medical-conditions",
+"paths": [
+"Dry_gangrene"
+],
+"source_url": "https://www.wikem.org/wiki/Dry_gangrene"
+},
+{
+"key": "Dystonic_reaction",
+"title": "Dystonic reaction (WikEM)",
+"slug": "wikem Dystonic reaction",
+"category": "medical-conditions",
+"paths": [
+"Dystonic_reaction"
+],
+"source_url": "https://www.wikem.org/wiki/Dystonic_reaction"
+},
+{
+"key": "Ebola_virus_disease",
+"title": "Ebola virus disease (WikEM)",
+"slug": "wikem Ebola virus disease",
+"category": "medical-conditions",
+"paths": [
+"Ebola_virus_disease"
+],
+"source_url": "https://www.wikem.org/wiki/Ebola_virus_disease"
+},
+{
+"key": "Echinococcosis",
+"title": "Echinococcosis (WikEM)",
+"slug": "wikem Echinococcosis",
+"category": "medical-conditions",
+"paths": [
+"Echinococcosis"
+],
+"source_url": "https://www.wikem.org/wiki/Echinococcosis"
+},
+{
+"key": "Eclampsia",
+"title": "Eclampsia (WikEM)",
+"slug": "wikem Eclampsia",
+"category": "medical-conditions",
+"paths": [
+"Eclampsia"
+],
+"source_url": "https://www.wikem.org/wiki/Eclampsia"
+},
+{
+"key": "Ectoparasites",
+"title": "Ectoparasites (WikEM)",
+"slug": "wikem Ectoparasites",
+"category": "medical-conditions",
+"paths": [
+"Ectoparasites"
+],
+"source_url": "https://www.wikem.org/wiki/Ectoparasites"
+},
+{
+"key": "Ectopic_pregnancy",
+"title": "Ectopic pregnancy (WikEM)",
+"slug": "wikem Ectopic pregnancy",
+"category": "medical-conditions",
+"paths": [
+"Ectopic_pregnancy"
+],
+"source_url": "https://www.wikem.org/wiki/Ectopic_pregnancy"
+},
+{
+"key": "Ehrlichiosis",
+"title": "Ehrlichiosis (WikEM)",
+"slug": "wikem Ehrlichiosis",
+"category": "medical-conditions",
+"paths": [
+"Ehrlichiosis"
+],
+"source_url": "https://www.wikem.org/wiki/Ehrlichiosis"
+},
+{
+"key": "Encephalitis",
+"title": "Encephalitis (WikEM)",
+"slug": "wikem Encephalitis",
+"category": "medical-conditions",
+"paths": [
+"Encephalitis"
+],
+"source_url": "https://www.wikem.org/wiki/Encephalitis"
+},
+{
+"key": "Epidemic_keratoconjunctivitis",
+"title": "Epidemic keratoconjunctivitis (WikEM)",
+"slug": "wikem Epidemic keratoconjunctivitis",
+"category": "medical-conditions",
+"paths": [
+"Epidemic_keratoconjunctivitis"
+],
+"source_url": "https://www.wikem.org/wiki/Epidemic_keratoconjunctivitis"
+},
+{
+"key": "Epidemic_typhus",
+"title": "Epidemic typhus (WikEM)",
+"slug": "wikem Epidemic typhus",
+"category": "medical-conditions",
+"paths": [
+"Epidemic_typhus"
+],
+"source_url": "https://www.wikem.org/wiki/Epidemic_typhus"
+},
+{
+"key": "Epiglottitis",
+"title": "Epiglottitis (WikEM)",
+"slug": "wikem Epiglottitis",
+"category": "medical-conditions",
+"paths": [
+"Epiglottitis"
+],
+"source_url": "https://www.wikem.org/wiki/Epiglottitis"
+},
+{
+"key": "Ergotism",
+"title": "Ergotism (WikEM)",
+"slug": "wikem Ergotism",
+"category": "medical-conditions",
+"paths": [
+"Ergotism"
+],
+"source_url": "https://www.wikem.org/wiki/Ergotism"
+},
+{
+"key": "Erysipelas",
+"title": "Erysipelas (WikEM)",
+"slug": "wikem Erysipelas",
+"category": "medical-conditions",
+"paths": [
+"Erysipelas"
+],
+"source_url": "https://www.wikem.org/wiki/Erysipelas"
+},
+{
+"key": "Facial_cellulitis",
+"title": "Facial cellulitis (WikEM)",
+"slug": "wikem Facial cellulitis",
+"category": "medical-conditions",
+"paths": [
+"Facial_cellulitis"
+],
+"source_url": "https://www.wikem.org/wiki/Facial_cellulitis"
+},
+{
+"key": "Febrile_seizure",
+"title": "Febrile seizure (WikEM)",
+"slug": "wikem Febrile seizure",
+"category": "medical-conditions",
+"paths": [
+"Febrile_seizure"
+],
+"source_url": "https://www.wikem.org/wiki/Febrile_seizure"
+},
+{
+"key": "Fecal_impaction",
+"title": "Fecal impaction (WikEM)",
+"slug": "wikem Fecal impaction",
+"category": "medical-conditions",
+"paths": [
+"Fecal_impaction"
+],
+"source_url": "https://www.wikem.org/wiki/Fecal_impaction"
+},
+{
+"key": "Fleas",
+"title": "Fleas (WikEM)",
+"slug": "wikem Fleas",
+"category": "medical-conditions",
+"paths": [
+"Fleas"
+],
+"source_url": "https://www.wikem.org/wiki/Fleas"
+},
+{
+"key": "Flexor_tenosynovitis",
+"title": "Flexor tenosynovitis (WikEM)",
+"slug": "wikem Flexor tenosynovitis",
+"category": "medical-conditions",
+"paths": [
+"Flexor_tenosynovitis"
+],
+"source_url": "https://www.wikem.org/wiki/Flexor_tenosynovitis"
+},
+{
+"key": "Foot_infection",
+"title": "Foot infection (WikEM)",
+"slug": "wikem Foot infection",
+"category": "medical-conditions",
+"paths": [
+"Foot_infection"
+],
+"source_url": "https://www.wikem.org/wiki/Foot_infection"
+},
+{
+"key": "Francisella_tularensis",
+"title": "Francisella tularensis (WikEM)",
+"slug": "wikem Francisella tularensis",
+"category": "medical-conditions",
+"paths": [
+"Francisella_tularensis"
+],
+"source_url": "https://www.wikem.org/wiki/Francisella_tularensis"
+},
+{
+"key": "Gas_gangrene",
+"title": "Gas gangrene (WikEM)",
+"slug": "wikem Gas gangrene",
+"category": "medical-conditions",
+"paths": [
+"Gas_gangrene"
+],
+"source_url": "https://www.wikem.org/wiki/Gas_gangrene"
+},
+{
+"key": "Giardia_lamblia",
+"title": "Giardia lamblia (WikEM)",
+"slug": "wikem Giardia lamblia",
+"category": "medical-conditions",
+"paths": [
+"Giardia_lamblia"
+],
+"source_url": "https://www.wikem.org/wiki/Giardia_lamblia"
+},
+{
+"key": "Hand_and_finger_infections",
+"title": "Hand and finger infections (WikEM)",
+"slug": "wikem Hand and finger infections",
+"category": "medical-conditions",
+"paths": [
+"Hand_and_finger_infections"
+],
+"source_url": "https://www.wikem.org/wiki/Hand_and_finger_infections"
+},
+{
+"key": "Hand_cellulitis",
+"title": "Hand cellulitis (WikEM)",
+"slug": "wikem Hand cellulitis",
+"category": "medical-conditions",
+"paths": [
+"Hand_cellulitis"
+],
+"source_url": "https://www.wikem.org/wiki/Hand_cellulitis"
+},
+{
+"key": "Hand-foot-and-mouth_disease",
+"title": "Hand-foot-and-mouth disease (WikEM)",
+"slug": "wikem Hand-foot-and-mouth disease",
+"category": "medical-conditions",
+"paths": [
+"Hand-foot-and-mouth_disease"
+],
+"source_url": "https://www.wikem.org/wiki/Hand-foot-and-mouth_disease"
+},
+{
+"key": "Hantavirus",
+"title": "Hantavirus (WikEM)",
+"slug": "wikem Hantavirus",
+"category": "medical-conditions",
+"paths": [
+"Hantavirus"
+],
+"source_url": "https://www.wikem.org/wiki/Hantavirus"
+},
+{
+"key": "Healthcare_occupational_exposure_to_blood_or_other_body_fluids",
+"title": "Healthcare occupational exposure to blood or other body fluids (WikEM)",
+"slug": "wikem Healthcare occupational exposure to blood or other body fluids",
+"category": "medical-conditions",
+"paths": [
+"Healthcare_occupational_exposure_to_blood_or_other_body_fluids"
+],
+"source_url": "https://www.wikem.org/wiki/Healthcare_occupational_exposure_to_blood_or_other_body_fluids"
+},
+{
+"key": "Helminth_infections",
+"title": "Helminth infections (WikEM)",
+"slug": "wikem Helminth infections",
+"category": "medical-conditions",
+"paths": [
+"Helminth_infections"
+],
+"source_url": "https://www.wikem.org/wiki/Helminth_infections"
+},
+{
+"key": "Hemoptysis",
+"title": "Hemoptysis (WikEM)",
+"slug": "wikem Hemoptysis",
+"category": "medical-conditions",
+"paths": [
+"Hemoptysis"
+],
+"source_url": "https://www.wikem.org/wiki/Hemoptysis"
+},
+{
+"key": "Hepatitis_A",
+"title": "Hepatitis A (WikEM)",
+"slug": "wikem Hepatitis A",
+"category": "medical-conditions",
+"paths": [
+"Hepatitis_A"
+],
+"source_url": "https://www.wikem.org/wiki/Hepatitis_A"
+},
+{
+"key": "Hepatitis_E",
+"title": "Hepatitis E (WikEM)",
+"slug": "wikem Hepatitis E",
+"category": "medical-conditions",
+"paths": [
+"Hepatitis_E"
+],
+"source_url": "https://www.wikem.org/wiki/Hepatitis_E"
+},
+{
+"key": "Herpetic_whitlow",
+"title": "Herpetic whitlow (WikEM)",
+"slug": "wikem Herpetic whitlow",
+"category": "medical-conditions",
+"paths": [
+"Herpetic_whitlow"
+],
+"source_url": "https://www.wikem.org/wiki/Herpetic_whitlow"
+},
+{
+"key": "Hookworm",
+"title": "Hookworm (WikEM)",
+"slug": "wikem Hookworm",
+"category": "medical-conditions",
+"paths": [
+"Hookworm"
+],
+"source_url": "https://www.wikem.org/wiki/Hookworm"
+},
+{
+"key": "Human_african_trypansomiasis_(sleeping_sickness)",
+"title": "Human african trypansomiasis (sleeping sickness) (WikEM)",
+"slug": "wikem Human african trypansomiasis (sleeping sickness)",
+"category": "medical-conditions",
+"paths": [
+"Human_african_trypansomiasis_(sleeping_sickness)"
+],
+"source_url": "https://www.wikem.org/wiki/Human_african_trypansomiasis_(sleeping_sickness)"
+},
+{
+"key": "Impetigo",
+"title": "Impetigo (WikEM)",
+"slug": "wikem Impetigo",
+"category": "medical-conditions",
+"paths": [
+"Impetigo"
+],
+"source_url": "https://www.wikem.org/wiki/Impetigo"
+},
+{
+"key": "Infectious_mononucleosis",
+"title": "Infectious mononucleosis (WikEM)",
+"slug": "wikem Infectious mononucleosis",
+"category": "medical-conditions",
+"paths": [
+"Infectious_mononucleosis"
+],
+"source_url": "https://www.wikem.org/wiki/Infectious_mononucleosis"
+},
+{
+"key": "Influenza",
+"title": "Influenza (WikEM)",
+"slug": "wikem Influenza",
+"category": "medical-conditions",
+"paths": [
+"Influenza"
+],
+"source_url": "https://www.wikem.org/wiki/Influenza"
+},
+{
+"key": "Intravenous_drug_use",
+"title": "Intravenous drug use (WikEM)",
+"slug": "wikem Intravenous drug use",
+"category": "medical-conditions",
+"paths": [
+"Intravenous_drug_use"
+],
+"source_url": "https://www.wikem.org/wiki/Intravenous_drug_use"
+},
+{
+"key": "Jammed_finger",
+"title": "Jammed finger (WikEM)",
+"slug": "wikem Jammed finger",
+"category": "medical-conditions",
+"paths": [
+"Jammed_finger"
+],
+"source_url": "https://www.wikem.org/wiki/Jammed_finger"
+},
+{
+"key": "Japanese_encephalitis",
+"title": "Japanese encephalitis (WikEM)",
+"slug": "wikem Japanese encephalitis",
+"category": "medical-conditions",
+"paths": [
+"Japanese_encephalitis"
+],
+"source_url": "https://www.wikem.org/wiki/Japanese_encephalitis"
+},
+{
+"key": "Laryngospasm",
+"title": "Laryngospasm (WikEM)",
+"slug": "wikem Laryngospasm",
+"category": "medical-conditions",
+"paths": [
+"Laryngospasm"
+],
+"source_url": "https://www.wikem.org/wiki/Laryngospasm"
+},
+{
+"key": "Lassa_fever",
+"title": "Lassa fever (WikEM)",
+"slug": "wikem Lassa fever",
+"category": "medical-conditions",
+"paths": [
+"Lassa_fever"
+],
+"source_url": "https://www.wikem.org/wiki/Lassa_fever"
+},
+{
+"key": "Leishmaniasis",
+"title": "Leishmaniasis (WikEM)",
+"slug": "wikem Leishmaniasis",
+"category": "medical-conditions",
+"paths": [
+"Leishmaniasis"
+],
+"source_url": "https://www.wikem.org/wiki/Leishmaniasis"
+},
+{
+"key": "Leprosy",
+"title": "Leprosy (WikEM)",
+"slug": "wikem Leprosy",
+"category": "medical-conditions",
+"paths": [
+"Leprosy"
+],
+"source_url": "https://www.wikem.org/wiki/Leprosy"
+},
+{
+"key": "Leptospirosis",
+"title": "Leptospirosis (WikEM)",
+"slug": "wikem Leptospirosis",
+"category": "medical-conditions",
+"paths": [
+"Leptospirosis"
+],
+"source_url": "https://www.wikem.org/wiki/Leptospirosis"
+},
+{
+"key": "Loa_loa",
+"title": "Loa loa (WikEM)",
+"slug": "wikem Loa loa",
+"category": "medical-conditions",
+"paths": [
+"Loa_loa"
+],
+"source_url": "https://www.wikem.org/wiki/Loa_loa"
+},
+{
+"key": "Ludwig's_angina",
+"title": "Ludwig's angina (WikEM)",
+"slug": "wikem Ludwig's angina",
+"category": "medical-conditions",
+"paths": [
+"Ludwig's_angina"
+],
+"source_url": "https://www.wikem.org/wiki/Ludwig's_angina"
+},
+{
+"key": "Lyme_disease",
+"title": "Lyme disease (WikEM)",
+"slug": "wikem Lyme disease",
+"category": "medical-conditions",
+"paths": [
+"Lyme_disease"
+],
+"source_url": "https://www.wikem.org/wiki/Lyme_disease"
+},
+{
+"key": "Lymphadenitis",
+"title": "Lymphadenitis (WikEM)",
+"slug": "wikem Lymphadenitis",
+"category": "medical-conditions",
+"paths": [
+"Lymphadenitis"
+],
+"source_url": "https://www.wikem.org/wiki/Lymphadenitis"
+},
+{
+"key": "Lymphangitis",
+"title": "Lymphangitis (WikEM)",
+"slug": "wikem Lymphangitis",
+"category": "medical-conditions",
+"paths": [
+"Lymphangitis"
+],
+"source_url": "https://www.wikem.org/wiki/Lymphangitis"
+},
+{
+"key": "Lymphatic_filariasis",
+"title": "Lymphatic filariasis (WikEM)",
+"slug": "wikem Lymphatic filariasis",
+"category": "medical-conditions",
+"paths": [
+"Lymphatic_filariasis"
+],
+"source_url": "https://www.wikem.org/wiki/Lymphatic_filariasis"
+},
+{
+"key": "Malaria",
+"title": "Malaria (WikEM)",
+"slug": "wikem Malaria",
+"category": "medical-conditions",
+"paths": [
+"Malaria"
+],
+"source_url": "https://www.wikem.org/wiki/Malaria"
+},
+{
+"key": "Marburg_virus_disease",
+"title": "Marburg virus disease (WikEM)",
+"slug": "wikem Marburg virus disease",
+"category": "medical-conditions",
+"paths": [
+"Marburg_virus_disease"
+],
+"source_url": "https://www.wikem.org/wiki/Marburg_virus_disease"
+},
+{
+"key": "Mastitis",
+"title": "Mastitis (WikEM)",
+"slug": "wikem Mastitis",
+"category": "medical-conditions",
+"paths": [
+"Mastitis"
+],
+"source_url": "https://www.wikem.org/wiki/Mastitis"
+},
+{
+"key": "Mastoiditis",
+"title": "Mastoiditis (WikEM)",
+"slug": "wikem Mastoiditis",
+"category": "medical-conditions",
+"paths": [
+"Mastoiditis"
+],
+"source_url": "https://www.wikem.org/wiki/Mastoiditis"
+},
+{
+"key": "Measles",
+"title": "Measles (WikEM)",
+"slug": "wikem Measles",
+"category": "medical-conditions",
+"paths": [
+"Measles"
+],
+"source_url": "https://www.wikem.org/wiki/Measles"
+},
+{
+"key": "Meningitis",
+"title": "Meningitis (WikEM)",
+"slug": "wikem Meningitis",
+"category": "medical-conditions",
+"paths": [
+"Meningitis"
+],
+"source_url": "https://www.wikem.org/wiki/Meningitis"
+},
+{
+"key": "Military_emergency_medicine",
+"title": "Military emergency medicine (WikEM)",
+"slug": "wikem Military emergency medicine",
+"category": "medical-conditions",
+"paths": [
+"Military_emergency_medicine"
+],
+"source_url": "https://www.wikem.org/wiki/Military_emergency_medicine"
+},
+{
+"key": "Monkeypox",
+"title": "Monkeypox (WikEM)",
+"slug": "wikem Monkeypox",
+"category": "medical-conditions",
+"paths": [
+"Monkeypox"
+],
+"source_url": "https://www.wikem.org/wiki/Monkeypox"
+},
+{
+"key": "Motion_sickness",
+"title": "Motion sickness (WikEM)",
+"slug": "wikem Motion sickness",
+"category": "medical-conditions",
+"paths": [
+"Motion_sickness"
+],
+"source_url": "https://www.wikem.org/wiki/Motion_sickness"
+},
+{
+"key": "Mumps",
+"title": "Mumps (WikEM)",
+"slug": "wikem Mumps",
+"category": "medical-conditions",
+"paths": [
+"Mumps"
+],
+"source_url": "https://www.wikem.org/wiki/Mumps"
+},
+{
+"key": "Mycobacterium_marinum",
+"title": "Mycobacterium marinum (WikEM)",
+"slug": "wikem Mycobacterium marinum",
+"category": "medical-conditions",
+"paths": [
+"Mycobacterium_marinum"
+],
+"source_url": "https://www.wikem.org/wiki/Mycobacterium_marinum"
+},
+{
+"key": "Myiasis",
+"title": "Myiasis (WikEM)",
+"slug": "wikem Myiasis",
+"category": "medical-conditions",
+"paths": [
+"Myiasis"
+],
+"source_url": "https://www.wikem.org/wiki/Myiasis"
+},
+{
+"key": "Nausea_and_vomiting_(peds)",
+"title": "Nausea and vomiting (peds) (WikEM)",
+"slug": "wikem Nausea and vomiting (peds)",
+"category": "medical-conditions",
+"paths": [
+"Nausea_and_vomiting_(peds)"
+],
+"source_url": "https://www.wikem.org/wiki/Nausea_and_vomiting_(peds)"
+},
+{
+"key": "Nausea_and_vomiting",
+"title": "Nausea and vomiting (WikEM)",
+"slug": "wikem Nausea and vomiting",
+"category": "medical-conditions",
+"paths": [
+"Nausea_and_vomiting"
+],
+"source_url": "https://www.wikem.org/wiki/Nausea_and_vomiting"
+},
+{
+"key": "Necrotizing_cellulitis",
+"title": "Necrotizing cellulitis (WikEM)",
+"slug": "wikem Necrotizing cellulitis",
+"category": "medical-conditions",
+"paths": [
+"Necrotizing_cellulitis"
+],
+"source_url": "https://www.wikem.org/wiki/Necrotizing_cellulitis"
+},
+{
+"key": "Necrotizing_fasciitis",
+"title": "Necrotizing fasciitis (WikEM)",
+"slug": "wikem Necrotizing fasciitis",
+"category": "medical-conditions",
+"paths": [
+"Necrotizing_fasciitis"
+],
+"source_url": "https://www.wikem.org/wiki/Necrotizing_fasciitis"
+},
+{
+"key": "Neonatal_abstinence_syndrome",
+"title": "Neonatal abstinence syndrome (WikEM)",
+"slug": "wikem Neonatal abstinence syndrome",
+"category": "medical-conditions",
+"paths": [
+"Neonatal_abstinence_syndrome"
+],
+"source_url": "https://www.wikem.org/wiki/Neonatal_abstinence_syndrome"
+},
+{
+"key": "Neonatal_jaundice",
+"title": "Neonatal jaundice (WikEM)",
+"slug": "wikem Neonatal jaundice",
+"category": "medical-conditions",
+"paths": [
+"Neonatal_jaundice"
+],
+"source_url": "https://www.wikem.org/wiki/Neonatal_jaundice"
+},
+{
+"key": "Norovirus",
+"title": "Norovirus (WikEM)",
+"slug": "wikem Norovirus",
+"category": "medical-conditions",
+"paths": [
+"Norovirus"
+],
+"source_url": "https://www.wikem.org/wiki/Norovirus"
+},
+{
+"key": "Nutritional_needs",
+"title": "Nutritional needs (WikEM)",
+"slug": "wikem Nutritional needs",
+"category": "medical-conditions",
+"paths": [
+"Nutritional_needs"
+],
+"source_url": "https://www.wikem.org/wiki/Nutritional_needs"
+},
+{
+"key": "Onchocerciasis",
+"title": "Onchocerciasis (WikEM)",
+"slug": "wikem Onchocerciasis",
+"category": "medical-conditions",
+"paths": [
+"Onchocerciasis"
+],
+"source_url": "https://www.wikem.org/wiki/Onchocerciasis"
+},
+{
+"key": "Otitis_externa",
+"title": "Otitis externa (WikEM)",
+"slug": "wikem Otitis externa",
+"category": "medical-conditions",
+"paths": [
+"Otitis_externa"
+],
+"source_url": "https://www.wikem.org/wiki/Otitis_externa"
+},
+{
+"key": "Ottawa_ankle_rules",
+"title": "Ottawa ankle rules (WikEM)",
+"slug": "wikem Ottawa ankle rules",
+"category": "medical-conditions",
+"paths": [
+"Ottawa_ankle_rules"
+],
+"source_url": "https://www.wikem.org/wiki/Ottawa_ankle_rules"
+},
+{
+"key": "Ottawa_knee_rules",
+"title": "Ottawa knee rules (WikEM)",
+"slug": "wikem Ottawa knee rules",
+"category": "medical-conditions",
+"paths": [
+"Ottawa_knee_rules"
+],
+"source_url": "https://www.wikem.org/wiki/Ottawa_knee_rules"
+},
+{
+"key": "Oxygen_therapy",
+"title": "Oxygen therapy (WikEM)",
+"slug": "wikem Oxygen therapy",
+"category": "medical-conditions",
+"paths": [
+"Oxygen_therapy"
+],
+"source_url": "https://www.wikem.org/wiki/Oxygen_therapy"
+},
+{
+"key": "Paraphimosis_reduction",
+"title": "Paraphimosis reduction (WikEM)",
+"slug": "wikem Paraphimosis reduction",
+"category": "medical-conditions",
+"paths": [
+"Paraphimosis_reduction"
+],
+"source_url": "https://www.wikem.org/wiki/Paraphimosis_reduction"
+},
+{
+"key": "Parasitic_diseases",
+"title": "Parasitic diseases (WikEM)",
+"slug": "wikem Parasitic diseases",
+"category": "medical-conditions",
+"paths": [
+"Parasitic_diseases"
+],
+"source_url": "https://www.wikem.org/wiki/Parasitic_diseases"
+},
+{
+"key": "Pediculosis",
+"title": "Pediculosis (WikEM)",
+"slug": "wikem Pediculosis",
+"category": "medical-conditions",
+"paths": [
+"Pediculosis"
+],
+"source_url": "https://www.wikem.org/wiki/Pediculosis"
+},
+{
+"key": "Pellagra",
+"title": "Pellagra (WikEM)",
+"slug": "wikem Pellagra",
+"category": "medical-conditions",
+"paths": [
+"Pellagra"
+],
+"source_url": "https://www.wikem.org/wiki/Pellagra"
+},
+{
+"key": "Pericoronitis",
+"title": "Pericoronitis (WikEM)",
+"slug": "wikem Pericoronitis",
+"category": "medical-conditions",
+"paths": [
+"Pericoronitis"
+],
+"source_url": "https://www.wikem.org/wiki/Pericoronitis"
+},
+{
+"key": "Pertussis",
+"title": "Pertussis (WikEM)",
+"slug": "wikem Pertussis",
+"category": "medical-conditions",
+"paths": [
+"Pertussis"
+],
+"source_url": "https://www.wikem.org/wiki/Pertussis"
+},
+{
+"key": "Pharyngitis",
+"title": "Pharyngitis (WikEM)",
+"slug": "wikem Pharyngitis",
+"category": "medical-conditions",
+"paths": [
+"Pharyngitis"
+],
+"source_url": "https://www.wikem.org/wiki/Pharyngitis"
+},
+{
+"key": "Phytophotodermatitis",
+"title": "Phytophotodermatitis (WikEM)",
+"slug": "wikem Phytophotodermatitis",
+"category": "medical-conditions",
+"paths": [
+"Phytophotodermatitis"
+],
+"source_url": "https://www.wikem.org/wiki/Phytophotodermatitis"
+},
+{
+"key": "Poliomyelitis",
+"title": "Poliomyelitis (WikEM)",
+"slug": "wikem Poliomyelitis",
+"category": "medical-conditions",
+"paths": [
+"Poliomyelitis"
+],
+"source_url": "https://www.wikem.org/wiki/Poliomyelitis"
+},
+{
+"key": "Pressure_ulcer",
+"title": "Pressure ulcer (WikEM)",
+"slug": "wikem Pressure ulcer",
+"category": "medical-conditions",
+"paths": [
+"Pressure_ulcer"
+],
+"source_url": "https://www.wikem.org/wiki/Pressure_ulcer"
+},
+{
+"key": "Q_fever",
+"title": "Q fever (WikEM)",
+"slug": "wikem Q fever",
+"category": "medical-conditions",
+"paths": [
+"Q_fever"
+],
+"source_url": "https://www.wikem.org/wiki/Q_fever"
+},
+{
+"key": "Radial_head_subluxation",
+"title": "Radial head subluxation (WikEM)",
+"slug": "wikem Radial head subluxation",
+"category": "medical-conditions",
+"paths": [
+"Radial_head_subluxation"
+],
+"source_url": "https://www.wikem.org/wiki/Radial_head_subluxation"
+},
+{
+"key": "Refeeding_syndrome",
+"title": "Refeeding syndrome (WikEM)",
+"slug": "wikem Refeeding syndrome",
+"category": "medical-conditions",
+"paths": [
+"Refeeding_syndrome"
+],
+"source_url": "https://www.wikem.org/wiki/Refeeding_syndrome"
+},
+{
+"key": "Rocky_mountain_spotted_fever",
+"title": "Rocky mountain spotted fever (WikEM)",
+"slug": "wikem Rocky mountain spotted fever",
+"category": "medical-conditions",
+"paths": [
+"Rocky_mountain_spotted_fever"
+],
+"source_url": "https://www.wikem.org/wiki/Rocky_mountain_spotted_fever"
+},
+{
+"key": "Salmonella",
+"title": "Salmonella (WikEM)",
+"slug": "wikem Salmonella",
+"category": "medical-conditions",
+"paths": [
+"Salmonella"
+],
+"source_url": "https://www.wikem.org/wiki/Salmonella"
+},
+{
+"key": "Scabies",
+"title": "Scabies (WikEM)",
+"slug": "wikem Scabies",
+"category": "medical-conditions",
+"paths": [
+"Scabies"
+],
+"source_url": "https://www.wikem.org/wiki/Scabies"
+},
+{
+"key": "Schistosomiasis",
+"title": "Schistosomiasis (WikEM)",
+"slug": "wikem Schistosomiasis",
+"category": "medical-conditions",
+"paths": [
+"Schistosomiasis"
+],
+"source_url": "https://www.wikem.org/wiki/Schistosomiasis"
+},
+{
+"key": "Scurvy",
+"title": "Scurvy (WikEM)",
+"slug": "wikem Scurvy",
+"category": "medical-conditions",
+"paths": [
+"Scurvy"
+],
+"source_url": "https://www.wikem.org/wiki/Scurvy"
+},
+{
+"key": "Seabather's_eruption",
+"title": "Seabather's eruption (WikEM)",
+"slug": "wikem Seabather's eruption",
+"category": "medical-conditions",
+"paths": [
+"Seabather's_eruption"
+],
+"source_url": "https://www.wikem.org/wiki/Seabather's_eruption"
+},
+{
+"key": "Septic_arthritis",
+"title": "Septic arthritis (WikEM)",
+"slug": "wikem Septic arthritis",
+"category": "medical-conditions",
+"paths": [
+"Septic_arthritis"
+],
+"source_url": "https://www.wikem.org/wiki/Septic_arthritis"
+},
+{
+"key": "Sexual_assault",
+"title": "Sexual assault (WikEM)",
+"slug": "wikem Sexual assault",
+"category": "medical-conditions",
+"paths": [
+"Sexual_assault"
+],
+"source_url": "https://www.wikem.org/wiki/Sexual_assault"
+},
+{
+"key": "Shigella",
+"title": "Shigella (WikEM)",
+"slug": "wikem Shigella",
+"category": "medical-conditions",
+"paths": [
+"Shigella"
+],
+"source_url": "https://www.wikem.org/wiki/Shigella"
+},
+{
+"key": "Sinusitis",
+"title": "Sinusitis (WikEM)",
+"slug": "wikem Sinusitis",
+"category": "medical-conditions",
+"paths": [
+"Sinusitis"
+],
+"source_url": "https://www.wikem.org/wiki/Sinusitis"
+},
+{
+"key": "Skin_and_soft_tissue_infections",
+"title": "Skin and soft tissue infections (WikEM)",
+"slug": "wikem Skin and soft tissue infections",
+"category": "medical-conditions",
+"paths": [
+"Skin_and_soft_tissue_infections"
+],
+"source_url": "https://www.wikem.org/wiki/Skin_and_soft_tissue_infections"
+},
+{
+"key": "Sore_throat",
+"title": "Sore throat (WikEM)",
+"slug": "wikem Sore throat",
+"category": "medical-conditions",
+"paths": [
+"Sore_throat"
+],
+"source_url": "https://www.wikem.org/wiki/Sore_throat"
+},
+{
+"key": "Sporotrichosis",
+"title": "Sporotrichosis (WikEM)",
+"slug": "wikem Sporotrichosis",
+"category": "medical-conditions",
+"paths": [
+"Sporotrichosis"
+],
+"source_url": "https://www.wikem.org/wiki/Sporotrichosis"
+},
+{
+"key": "Starvation_ketoacidosis",
+"title": "Starvation ketoacidosis (WikEM)",
+"slug": "wikem Starvation ketoacidosis",
+"category": "medical-conditions",
+"paths": [
+"Starvation_ketoacidosis"
+],
+"source_url": "https://www.wikem.org/wiki/Starvation_ketoacidosis"
+},
+{
+"key": "Status_epilepticus",
+"title": "Status epilepticus (WikEM)",
+"slug": "wikem Status epilepticus",
+"category": "medical-conditions",
+"paths": [
+"Status_epilepticus"
+],
+"source_url": "https://www.wikem.org/wiki/Status_epilepticus"
+},
+{
+"key": "Streptococcal_pharyngitis",
+"title": "Streptococcal pharyngitis (WikEM)",
+"slug": "wikem Streptococcal pharyngitis",
+"category": "medical-conditions",
+"paths": [
+"Streptococcal_pharyngitis"
+],
+"source_url": "https://www.wikem.org/wiki/Streptococcal_pharyngitis"
+},
+{
+"key": "Stye_(hordeolum)",
+"title": "Stye (hordeolum) (WikEM)",
+"slug": "wikem Stye (hordeolum)",
+"category": "medical-conditions",
+"paths": [
+"Stye_(hordeolum)"
+],
+"source_url": "https://www.wikem.org/wiki/Stye_(hordeolum)"
+},
+{
+"key": "Summa",
+"title": "Summa (WikEM)",
+"slug": "wikem Summa",
+"category": "medical-conditions",
+"paths": [
+"Summa"
+],
+"source_url": "https://www.wikem.org/wiki/Summa"
+},
+{
+"key": "Tetanus_prophylaxis",
+"title": "Tetanus prophylaxis (WikEM)",
+"slug": "wikem Tetanus prophylaxis",
+"category": "medical-conditions",
+"paths": [
+"Tetanus_prophylaxis"
+],
+"source_url": "https://www.wikem.org/wiki/Tetanus_prophylaxis"
+},
+{
+"key": "Thiamine_deficiency",
+"title": "Thiamine deficiency (WikEM)",
+"slug": "wikem Thiamine deficiency",
+"category": "medical-conditions",
+"paths": [
+"Thiamine_deficiency"
+],
+"source_url": "https://www.wikem.org/wiki/Thiamine_deficiency"
+},
+{
+"key": "Tinea",
+"title": "Tinea (WikEM)",
+"slug": "wikem Tinea",
+"category": "medical-conditions",
+"paths": [
+"Tinea"
+],
+"source_url": "https://www.wikem.org/wiki/Tinea"
+},
+{
+"key": "Trachoma",
+"title": "Trachoma (WikEM)",
+"slug": "wikem Trachoma",
+"category": "medical-conditions",
+"paths": [
+"Trachoma"
+],
+"source_url": "https://www.wikem.org/wiki/Trachoma"
+},
+{
+"key": "Trichinosis",
+"title": "Trichinosis (WikEM)",
+"slug": "wikem Trichinosis",
+"category": "medical-conditions",
+"paths": [
+"Trichinosis"
+],
+"source_url": "https://www.wikem.org/wiki/Trichinosis"
+},
+{
+"key": "Tuberculosis",
+"title": "Tuberculosis (WikEM)",
+"slug": "wikem Tuberculosis",
+"category": "medical-conditions",
+"paths": [
+"Tuberculosis"
+],
+"source_url": "https://www.wikem.org/wiki/Tuberculosis"
+},
+{
+"key": "Tularemia",
+"title": "Tularemia (WikEM)",
+"slug": "wikem Tularemia",
+"category": "medical-conditions",
+"paths": [
+"Tularemia"
+],
+"source_url": "https://www.wikem.org/wiki/Tularemia"
+},
+{
+"key": "Tungiasis",
+"title": "Tungiasis (WikEM)",
+"slug": "wikem Tungiasis",
+"category": "medical-conditions",
+"paths": [
+"Tungiasis"
+],
+"source_url": "https://www.wikem.org/wiki/Tungiasis"
+},
+{
+"key": "Tympanic_membrane_rupture",
+"title": "Tympanic membrane rupture (WikEM)",
+"slug": "wikem Tympanic membrane rupture",
+"category": "medical-conditions",
+"paths": [
+"Tympanic_membrane_rupture"
+],
+"source_url": "https://www.wikem.org/wiki/Tympanic_membrane_rupture"
+},
+{
+"key": "Typhoid_fever",
+"title": "Typhoid fever (WikEM)",
+"slug": "wikem Typhoid fever",
+"category": "medical-conditions",
+"paths": [
+"Typhoid_fever"
+],
+"source_url": "https://www.wikem.org/wiki/Typhoid_fever"
+},
+{
+"key": "Typhus",
+"title": "Typhus (WikEM)",
+"slug": "wikem Typhus",
+"category": "medical-conditions",
+"paths": [
+"Typhus"
+],
+"source_url": "https://www.wikem.org/wiki/Typhus"
+},
+{
+"key": "Varicella",
+"title": "Varicella (WikEM)",
+"slug": "wikem Varicella",
+"category": "medical-conditions",
+"paths": [
+"Varicella"
+],
+"source_url": "https://www.wikem.org/wiki/Varicella"
+},
+{
+"key": "Vertigo",
+"title": "Vertigo (WikEM)",
+"slug": "wikem Vertigo",
+"category": "medical-conditions",
+"paths": [
+"Vertigo"
+],
+"source_url": "https://www.wikem.org/wiki/Vertigo"
+},
+{
+"key": "Vibrio_vulnificus",
+"title": "Vibrio vulnificus (WikEM)",
+"slug": "wikem Vibrio vulnificus",
+"category": "medical-conditions",
+"paths": [
+"Vibrio_vulnificus"
+],
+"source_url": "https://www.wikem.org/wiki/Vibrio_vulnificus"
+},
+{
+"key": "Viral_gastroenteritis",
+"title": "Viral gastroenteritis (WikEM)",
+"slug": "wikem Viral gastroenteritis",
+"category": "medical-conditions",
+"paths": [
+"Viral_gastroenteritis"
+],
+"source_url": "https://www.wikem.org/wiki/Viral_gastroenteritis"
+},
+{
+"key": "Viral_hemorrhagic_fevers",
+"title": "Viral hemorrhagic fevers (WikEM)",
+"slug": "wikem Viral hemorrhagic fevers",
+"category": "medical-conditions",
+"paths": [
+"Viral_hemorrhagic_fevers"
+],
+"source_url": "https://www.wikem.org/wiki/Viral_hemorrhagic_fevers"
+},
+{
+"key": "Vitamin_A_deficiency",
+"title": "Vitamin A deficiency (WikEM)",
+"slug": "wikem Vitamin A deficiency",
+"category": "medical-conditions",
+"paths": [
+"Vitamin_A_deficiency"
+],
+"source_url": "https://www.wikem.org/wiki/Vitamin_A_deficiency"
+},
+{
+"key": "Vitamin_B12_deficiency",
+"title": "Vitamin B12 deficiency (WikEM)",
+"slug": "wikem Vitamin B12 deficiency",
+"category": "medical-conditions",
+"paths": [
+"Vitamin_B12_deficiency"
+],
+"source_url": "https://www.wikem.org/wiki/Vitamin_B12_deficiency"
+},
+{
+"key": "Vitamin_D_deficiency",
+"title": "Vitamin D deficiency (WikEM)",
+"slug": "wikem Vitamin D deficiency",
+"category": "medical-conditions",
+"paths": [
+"Vitamin_D_deficiency"
+],
+"source_url": "https://www.wikem.org/wiki/Vitamin_D_deficiency"
+},
+{
+"key": "Vitamin_deficiencies",
+"title": "Vitamin deficiencies (WikEM)",
+"slug": "wikem Vitamin deficiencies",
+"category": "medical-conditions",
+"paths": [
+"Vitamin_deficiencies"
+],
+"source_url": "https://www.wikem.org/wiki/Vitamin_deficiencies"
+},
+{
+"key": "Wernicke-Korsakoff_syndrome",
+"title": "Wernicke-Korsakoff syndrome (WikEM)",
+"slug": "wikem Wernicke-Korsakoff syndrome",
+"category": "medical-conditions",
+"paths": [
+"Wernicke-Korsakoff_syndrome"
+],
+"source_url": "https://www.wikem.org/wiki/Wernicke-Korsakoff_syndrome"
+},
+{
+"key": "West_Nile_virus",
+"title": "West Nile virus (WikEM)",
+"slug": "wikem West Nile virus",
+"category": "medical-conditions",
+"paths": [
+"West_Nile_virus"
+],
+"source_url": "https://www.wikem.org/wiki/West_Nile_virus"
+},
+{
+"key": "Yellow_fever",
+"title": "Yellow fever (WikEM)",
+"slug": "wikem Yellow fever",
+"category": "medical-conditions",
+"paths": [
+"Yellow_fever"
+],
+"source_url": "https://www.wikem.org/wiki/Yellow_fever"
+},
+{
+"key": "Zika_virus",
+"title": "Zika virus (WikEM)",
+"slug": "wikem Zika virus",
+"category": "medical-conditions",
+"paths": [
+"Zika_virus"
+],
+"source_url": "https://www.wikem.org/wiki/Zika_virus"
+},
+{
+"key": "Abdominal_trauma",
+"title": "Abdominal trauma (WikEM)",
+"slug": "wikem Abdominal trauma",
+"category": "medical-first-aid",
+"paths": [
+"Abdominal_trauma"
+],
+"source_url": "https://www.wikem.org/wiki/Abdominal_trauma"
+},
+{
+"key": "Absinthe_toxicity",
+"title": "Absinthe toxicity (WikEM)",
+"slug": "wikem Absinthe toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Absinthe_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Absinthe_toxicity"
+},
+{
+"key": "Accidental_hypothermia",
+"title": "Accidental hypothermia (WikEM)",
+"slug": "wikem Accidental hypothermia",
+"category": "medical-first-aid",
+"paths": [
+"Accidental_hypothermia"
+],
+"source_url": "https://www.wikem.org/wiki/Accidental_hypothermia"
+},
+{
+"key": "Acetabular_pelvic_fractures",
+"title": "Acetabular pelvic fractures (WikEM)",
+"slug": "wikem Acetabular pelvic fractures",
+"category": "medical-first-aid",
+"paths": [
+"Acetabular_pelvic_fractures"
+],
+"source_url": "https://www.wikem.org/wiki/Acetabular_pelvic_fractures"
+},
+{
+"key": "Acetaminophen_toxicity",
+"title": "Acetaminophen toxicity (WikEM)",
+"slug": "wikem Acetaminophen toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Acetaminophen_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Acetaminophen_toxicity"
+},
+{
+"key": "Acid_ingestion",
+"title": "Acid ingestion (WikEM)",
+"slug": "wikem Acid ingestion",
+"category": "medical-first-aid",
+"paths": [
+"Acid_ingestion"
+],
+"source_url": "https://www.wikem.org/wiki/Acid_ingestion"
+},
+{
+"key": "Aconitum_toxicity",
+"title": "Aconitum toxicity (WikEM)",
+"slug": "wikem Aconitum toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Aconitum_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Aconitum_toxicity"
+},
+{
+"key": "Acromioclavicular_joint_injury",
+"title": "Acromioclavicular joint injury (WikEM)",
+"slug": "wikem Acromioclavicular joint injury",
+"category": "medical-first-aid",
+"paths": [
+"Acromioclavicular_joint_injury"
+],
+"source_url": "https://www.wikem.org/wiki/Acromioclavicular_joint_injury"
+},
+{
+"key": "Activated_charcoal",
+"title": "Activated charcoal (WikEM)",
+"slug": "wikem Activated charcoal",
+"category": "medical-first-aid",
+"paths": [
+"Activated_charcoal"
+],
+"source_url": "https://www.wikem.org/wiki/Activated_charcoal"
+},
+{
+"key": "Agitated_or_combative_patient",
+"title": "Agitated or combative patient (WikEM)",
+"slug": "wikem Agitated or combative patient",
+"category": "medical-first-aid",
+"paths": [
+"Agitated_or_combative_patient"
+],
+"source_url": "https://www.wikem.org/wiki/Agitated_or_combative_patient"
+},
+{
+"key": "Airbag_injuries",
+"title": "Airbag injuries (WikEM)",
+"slug": "wikem Airbag injuries",
+"category": "medical-first-aid",
+"paths": [
+"Airbag_injuries"
+],
+"source_url": "https://www.wikem.org/wiki/Airbag_injuries"
+},
+{
+"key": "Alkali_ingestion",
+"title": "Alkali ingestion (WikEM)",
+"slug": "wikem Alkali ingestion",
+"category": "medical-first-aid",
+"paths": [
+"Alkali_ingestion"
+],
+"source_url": "https://www.wikem.org/wiki/Alkali_ingestion"
+},
+{
+"key": "Alligator_and_crocodile_attacks",
+"title": "Alligator and crocodile attacks (WikEM)",
+"slug": "wikem Alligator and crocodile attacks",
+"category": "medical-first-aid",
+"paths": [
+"Alligator_and_crocodile_attacks"
+],
+"source_url": "https://www.wikem.org/wiki/Alligator_and_crocodile_attacks"
+},
+{
+"key": "Aluminum_phosphide_poisoning",
+"title": "Aluminum phosphide poisoning (WikEM)",
+"slug": "wikem Aluminum phosphide poisoning",
+"category": "medical-first-aid",
+"paths": [
+"Aluminum_phosphide_poisoning"
+],
+"source_url": "https://www.wikem.org/wiki/Aluminum_phosphide_poisoning"
+},
+{
+"key": "Amanita_mushrooms",
+"title": "Amanita mushrooms (WikEM)",
+"slug": "wikem Amanita mushrooms",
+"category": "medical-first-aid",
+"paths": [
+"Amanita_mushrooms"
+],
+"source_url": "https://www.wikem.org/wiki/Amanita_mushrooms"
+},
+{
+"key": "Ammonia_toxicity",
+"title": "Ammonia toxicity (WikEM)",
+"slug": "wikem Ammonia toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Ammonia_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Ammonia_toxicity"
+},
+{
+"key": "Ankle_dislocation",
+"title": "Ankle dislocation (WikEM)",
+"slug": "wikem Ankle dislocation",
+"category": "medical-first-aid",
+"paths": [
+"Ankle_dislocation"
+],
+"source_url": "https://www.wikem.org/wiki/Ankle_dislocation"
+},
+{
+"key": "Ankle_fracture",
+"title": "Ankle fracture (WikEM)",
+"slug": "wikem Ankle fracture",
+"category": "medical-first-aid",
+"paths": [
+"Ankle_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Ankle_fracture"
+},
+{
+"key": "Ankle_sprain",
+"title": "Ankle sprain (WikEM)",
+"slug": "wikem Ankle sprain",
+"category": "medical-first-aid",
+"paths": [
+"Ankle_sprain"
+],
+"source_url": "https://www.wikem.org/wiki/Ankle_sprain"
+},
+{
+"key": "Ankle_stirrup_splint",
+"title": "Ankle stirrup splint (WikEM)",
+"slug": "wikem Ankle stirrup splint",
+"category": "medical-first-aid",
+"paths": [
+"Ankle_stirrup_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Ankle_stirrup_splint"
+},
+{
+"key": "Anorectal_abscess",
+"title": "Anorectal abscess (WikEM)",
+"slug": "wikem Anorectal abscess",
+"category": "medical-first-aid",
+"paths": [
+"Anorectal_abscess"
+],
+"source_url": "https://www.wikem.org/wiki/Anorectal_abscess"
+},
+{
+"key": "Anterior_shoulder_dislocation",
+"title": "Anterior shoulder dislocation (WikEM)",
+"slug": "wikem Anterior shoulder dislocation",
+"category": "medical-first-aid",
+"paths": [
+"Anterior_shoulder_dislocation"
+],
+"source_url": "https://www.wikem.org/wiki/Anterior_shoulder_dislocation"
+},
+{
+"key": "Anticholinergic_toxicity",
+"title": "Anticholinergic toxicity (WikEM)",
+"slug": "wikem Anticholinergic toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Anticholinergic_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Anticholinergic_toxicity"
+},
+{
+"key": "Antidotes",
+"title": "Antidotes (WikEM)",
+"slug": "wikem Antidotes",
+"category": "medical-first-aid",
+"paths": [
+"Antidotes"
+],
+"source_url": "https://www.wikem.org/wiki/Antidotes"
+},
+{
+"key": "Antivenin",
+"title": "Antivenin (WikEM)",
+"slug": "wikem Antivenin",
+"category": "medical-first-aid",
+"paths": [
+"Antivenin"
+],
+"source_url": "https://www.wikem.org/wiki/Antivenin"
+},
+{
+"key": "Armed_spider_bite",
+"title": "Armed spider bite (WikEM)",
+"slug": "wikem Armed spider bite",
+"category": "medical-first-aid",
+"paths": [
+"Armed_spider_bite"
+],
+"source_url": "https://www.wikem.org/wiki/Armed_spider_bite"
+},
+{
+"key": "Arsenic_toxicity",
+"title": "Arsenic toxicity (WikEM)",
+"slug": "wikem Arsenic toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Arsenic_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Arsenic_toxicity"
+},
+{
+"key": "Aspirated_foreign_body",
+"title": "Aspirated foreign body (WikEM)",
+"slug": "wikem Aspirated foreign body",
+"category": "medical-first-aid",
+"paths": [
+"Aspirated_foreign_body"
+],
+"source_url": "https://www.wikem.org/wiki/Aspirated_foreign_body"
+},
+{
+"key": "Bag_valve_mask_ventilation",
+"title": "Bag valve mask ventilation (WikEM)",
+"slug": "wikem Bag valve mask ventilation",
+"category": "medical-first-aid",
+"paths": [
+"Bag_valve_mask_ventilation"
+],
+"source_url": "https://www.wikem.org/wiki/Bag_valve_mask_ventilation"
+},
+{
+"key": "Barotrauma",
+"title": "Barotrauma (WikEM)",
+"slug": "wikem Barotrauma",
+"category": "medical-first-aid",
+"paths": [
+"Barotrauma"
+],
+"source_url": "https://www.wikem.org/wiki/Barotrauma"
+},
+{
+"key": "Bartholin_gland_abscess",
+"title": "Bartholin gland abscess (WikEM)",
+"slug": "wikem Bartholin gland abscess",
+"category": "medical-first-aid",
+"paths": [
+"Bartholin_gland_abscess"
+],
+"source_url": "https://www.wikem.org/wiki/Bartholin_gland_abscess"
+},
+{
+"key": "Basilar_skull_fracture",
+"title": "Basilar skull fracture (WikEM)",
+"slug": "wikem Basilar skull fracture",
+"category": "medical-first-aid",
+"paths": [
+"Basilar_skull_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Basilar_skull_fracture"
+},
+{
+"key": "Bath_salts_toxicity",
+"title": "Bath salts toxicity (WikEM)",
+"slug": "wikem Bath salts toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Bath_salts_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Bath_salts_toxicity"
+},
+{
+"key": "Bleeding_dental_socket",
+"title": "Bleeding dental socket (WikEM)",
+"slug": "wikem Bleeding dental socket",
+"category": "medical-first-aid",
+"paths": [
+"Bleeding_dental_socket"
+],
+"source_url": "https://www.wikem.org/wiki/Bleeding_dental_socket"
+},
+{
+"key": "BLS_(Main)",
+"title": "BLS (Main) (WikEM)",
+"slug": "wikem BLS (Main)",
+"category": "medical-first-aid",
+"paths": [
+"BLS_(Main)"
+],
+"source_url": "https://www.wikem.org/wiki/BLS_(Main)"
+},
+{
+"key": "Box_jellyfish_envenomation",
+"title": "Box jellyfish envenomation (WikEM)",
+"slug": "wikem Box jellyfish envenomation",
+"category": "medical-first-aid",
+"paths": [
+"Box_jellyfish_envenomation"
+],
+"source_url": "https://www.wikem.org/wiki/Box_jellyfish_envenomation"
+},
+{
+"key": "Boxer's_fracture",
+"title": "Boxer's fracture (WikEM)",
+"slug": "wikem Boxer's fracture",
+"category": "medical-first-aid",
+"paths": [
+"Boxer's_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Boxer's_fracture"
+},
+{
+"key": "Breast_abscess",
+"title": "Breast abscess (WikEM)",
+"slug": "wikem Breast abscess",
+"category": "medical-first-aid",
+"paths": [
+"Breast_abscess"
+],
+"source_url": "https://www.wikem.org/wiki/Breast_abscess"
+},
+{
+"key": "Breech_delivery",
+"title": "Breech delivery (WikEM)",
+"slug": "wikem Breech delivery",
+"category": "medical-first-aid",
+"paths": [
+"Breech_delivery"
+],
+"source_url": "https://www.wikem.org/wiki/Breech_delivery"
+},
+{
+"key": "Buddy_tape_splint",
+"title": "Buddy tape splint (WikEM)",
+"slug": "wikem Buddy tape splint",
+"category": "medical-first-aid",
+"paths": [
+"Buddy_tape_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Buddy_tape_splint"
+},
+{
+"key": "Burn_dressings",
+"title": "Burn dressings (WikEM)",
+"slug": "wikem Burn dressings",
+"category": "medical-first-aid",
+"paths": [
+"Burn_dressings"
+],
+"source_url": "https://www.wikem.org/wiki/Burn_dressings"
+},
+{
+"key": "Button_battery_ingestion",
+"title": "Button battery ingestion (WikEM)",
+"slug": "wikem Button battery ingestion",
+"category": "medical-first-aid",
+"paths": [
+"Button_battery_ingestion"
+],
+"source_url": "https://www.wikem.org/wiki/Button_battery_ingestion"
+},
+{
+"key": "Calcaneus_fracture",
+"title": "Calcaneus fracture (WikEM)",
+"slug": "wikem Calcaneus fracture",
+"category": "medical-first-aid",
+"paths": [
+"Calcaneus_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Calcaneus_fracture"
+},
+{
+"key": "Camphor_toxicity",
+"title": "Camphor toxicity (WikEM)",
+"slug": "wikem Camphor toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Camphor_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Camphor_toxicity"
+},
+{
+"key": "Carbamate_poisoning",
+"title": "Carbamate poisoning (WikEM)",
+"slug": "wikem Carbamate poisoning",
+"category": "medical-first-aid",
+"paths": [
+"Carbamate_poisoning"
+],
+"source_url": "https://www.wikem.org/wiki/Carbamate_poisoning"
+},
+{
+"key": "Carbamate_toxicity",
+"title": "Carbamate toxicity (WikEM)",
+"slug": "wikem Carbamate toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Carbamate_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Carbamate_toxicity"
+},
+{
+"key": "Carbon_monoxide_toxicity",
+"title": "Carbon monoxide toxicity (WikEM)",
+"slug": "wikem Carbon monoxide toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Carbon_monoxide_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Carbon_monoxide_toxicity"
+},
+{
+"key": "Care_under_fire",
+"title": "Care under fire (WikEM)",
+"slug": "wikem Care under fire",
+"category": "medical-first-aid",
+"paths": [
+"Care_under_fire"
+],
+"source_url": "https://www.wikem.org/wiki/Care_under_fire"
+},
+{
+"key": "Caustic_burn",
+"title": "Caustic burn (WikEM)",
+"slug": "wikem Caustic burn",
+"category": "medical-first-aid",
+"paths": [
+"Caustic_burn"
+],
+"source_url": "https://www.wikem.org/wiki/Caustic_burn"
+},
+{
+"key": "Caustic_ingestion",
+"title": "Caustic ingestion (WikEM)",
+"slug": "wikem Caustic ingestion",
+"category": "medical-first-aid",
+"paths": [
+"Caustic_ingestion"
+],
+"source_url": "https://www.wikem.org/wiki/Caustic_ingestion"
+},
+{
+"key": "Caustic_keratoconjunctivitis",
+"title": "Caustic keratoconjunctivitis (WikEM)",
+"slug": "wikem Caustic keratoconjunctivitis",
+"category": "medical-first-aid",
+"paths": [
+"Caustic_keratoconjunctivitis"
+],
+"source_url": "https://www.wikem.org/wiki/Caustic_keratoconjunctivitis"
+},
+{
+"key": "Cement_burn",
+"title": "Cement burn (WikEM)",
+"slug": "wikem Cement burn",
+"category": "medical-first-aid",
+"paths": [
+"Cement_burn"
+],
+"source_url": "https://www.wikem.org/wiki/Cement_burn"
+},
+{
+"key": "Cervical_fractures_and_dislocations",
+"title": "Cervical fractures and dislocations (WikEM)",
+"slug": "wikem Cervical fractures and dislocations",
+"category": "medical-first-aid",
+"paths": [
+"Cervical_fractures_and_dislocations"
+],
+"source_url": "https://www.wikem.org/wiki/Cervical_fractures_and_dislocations"
+},
+{
+"key": "Chilblains",
+"title": "Chilblains (WikEM)",
+"slug": "wikem Chilblains",
+"category": "medical-first-aid",
+"paths": [
+"Chilblains"
+],
+"source_url": "https://www.wikem.org/wiki/Chilblains"
+},
+{
+"key": "Ciguatera",
+"title": "Ciguatera (WikEM)",
+"slug": "wikem Ciguatera",
+"category": "medical-first-aid",
+"paths": [
+"Ciguatera"
+],
+"source_url": "https://www.wikem.org/wiki/Ciguatera"
+},
+{
+"key": "Clavicle_fracture",
+"title": "Clavicle fracture (WikEM)",
+"slug": "wikem Clavicle fracture",
+"category": "medical-first-aid",
+"paths": [
+"Clavicle_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Clavicle_fracture"
+},
+{
+"key": "Clitocybe",
+"title": "Clitocybe (WikEM)",
+"slug": "wikem Clitocybe",
+"category": "medical-first-aid",
+"paths": [
+"Clitocybe"
+],
+"source_url": "https://www.wikem.org/wiki/Clitocybe"
+},
+{
+"key": "Coaptation_splint",
+"title": "Coaptation splint (WikEM)",
+"slug": "wikem Coaptation splint",
+"category": "medical-first-aid",
+"paths": [
+"Coaptation_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Coaptation_splint"
+},
+{
+"key": "Coin_ingestion",
+"title": "Coin ingestion (WikEM)",
+"slug": "wikem Coin ingestion",
+"category": "medical-first-aid",
+"paths": [
+"Coin_ingestion"
+],
+"source_url": "https://www.wikem.org/wiki/Coin_ingestion"
+},
+{
+"key": "Cold_injuries",
+"title": "Cold injuries (WikEM)",
+"slug": "wikem Cold injuries",
+"category": "medical-first-aid",
+"paths": [
+"Cold_injuries"
+],
+"source_url": "https://www.wikem.org/wiki/Cold_injuries"
+},
+{
+"key": "Cold_panniculitis",
+"title": "Cold panniculitis (WikEM)",
+"slug": "wikem Cold panniculitis",
+"category": "medical-first-aid",
+"paths": [
+"Cold_panniculitis"
+],
+"source_url": "https://www.wikem.org/wiki/Cold_panniculitis"
+},
+{
+"key": "Combat_triage",
+"title": "Combat triage (WikEM)",
+"slug": "wikem Combat triage",
+"category": "medical-first-aid",
+"paths": [
+"Combat_triage"
+],
+"source_url": "https://www.wikem.org/wiki/Combat_triage"
+},
+{
+"key": "Compartment_syndrome",
+"title": "Compartment syndrome (WikEM)",
+"slug": "wikem Compartment syndrome",
+"category": "medical-first-aid",
+"paths": [
+"Compartment_syndrome"
+],
+"source_url": "https://www.wikem.org/wiki/Compartment_syndrome"
+},
+{
+"key": "Cone_shell_envenomation",
+"title": "Cone shell envenomation (WikEM)",
+"slug": "wikem Cone shell envenomation",
+"category": "medical-first-aid",
+"paths": [
+"Cone_shell_envenomation"
+],
+"source_url": "https://www.wikem.org/wiki/Cone_shell_envenomation"
+},
+{
+"key": "Conjunctival_laceration",
+"title": "Conjunctival laceration (WikEM)",
+"slug": "wikem Conjunctival laceration",
+"category": "medical-first-aid",
+"paths": [
+"Conjunctival_laceration"
+],
+"source_url": "https://www.wikem.org/wiki/Conjunctival_laceration"
+},
+{
+"key": "Copper_sulfate_toxicity",
+"title": "Copper sulfate toxicity (WikEM)",
+"slug": "wikem Copper sulfate toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Copper_sulfate_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Copper_sulfate_toxicity"
+},
+{
+"key": "Corneal_laceration",
+"title": "Corneal laceration (WikEM)",
+"slug": "wikem Corneal laceration",
+"category": "medical-first-aid",
+"paths": [
+"Corneal_laceration"
+],
+"source_url": "https://www.wikem.org/wiki/Corneal_laceration"
+},
+{
+"key": "Crotaline_envenomation",
+"title": "Crotaline envenomation (WikEM)",
+"slug": "wikem Crotaline envenomation",
+"category": "medical-first-aid",
+"paths": [
+"Crotaline_envenomation"
+],
+"source_url": "https://www.wikem.org/wiki/Crotaline_envenomation"
+},
+{
+"key": "Crotinarius_mushrooms",
+"title": "Crotinarius mushrooms (WikEM)",
+"slug": "wikem Crotinarius mushrooms",
+"category": "medical-first-aid",
+"paths": [
+"Crotinarius_mushrooms"
+],
+"source_url": "https://www.wikem.org/wiki/Crotinarius_mushrooms"
+},
+{
+"key": "Crown-of-Thorns_starfish_envenomation",
+"title": "Crown-of-Thorns starfish envenomation (WikEM)",
+"slug": "wikem Crown-of-Thorns starfish envenomation",
+"category": "medical-first-aid",
+"paths": [
+"Crown-of-Thorns_starfish_envenomation"
+],
+"source_url": "https://www.wikem.org/wiki/Crown-of-Thorns_starfish_envenomation"
+},
+{
+"key": "Crush_syndrome",
+"title": "Crush syndrome (WikEM)",
+"slug": "wikem Crush syndrome",
+"category": "medical-first-aid",
+"paths": [
+"Crush_syndrome"
+],
+"source_url": "https://www.wikem.org/wiki/Crush_syndrome"
+},
+{
+"key": "Cyanide_toxicity",
+"title": "Cyanide toxicity (WikEM)",
+"slug": "wikem Cyanide toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Cyanide_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Cyanide_toxicity"
+},
+{
+"key": "Decompression_sickness",
+"title": "Decompression sickness (WikEM)",
+"slug": "wikem Decompression sickness",
+"category": "medical-first-aid",
+"paths": [
+"Decompression_sickness"
+],
+"source_url": "https://www.wikem.org/wiki/Decompression_sickness"
+},
+{
+"key": "Degloving_injury",
+"title": "Degloving injury (WikEM)",
+"slug": "wikem Degloving injury",
+"category": "medical-first-aid",
+"paths": [
+"Degloving_injury"
+],
+"source_url": "https://www.wikem.org/wiki/Degloving_injury"
+},
+{
+"key": "Dehydration_(peds)",
+"title": "Dehydration (peds) (WikEM)",
+"slug": "wikem Dehydration (peds)",
+"category": "medical-first-aid",
+"paths": [
+"Dehydration_(peds)"
+],
+"source_url": "https://www.wikem.org/wiki/Dehydration_(peds)"
+},
+{
+"key": "Delirium_tremens",
+"title": "Delirium tremens (WikEM)",
+"slug": "wikem Delirium tremens",
+"category": "medical-first-aid",
+"paths": [
+"Delirium_tremens"
+],
+"source_url": "https://www.wikem.org/wiki/Delirium_tremens"
+},
+{
+"key": "Dental_abscess",
+"title": "Dental abscess (WikEM)",
+"slug": "wikem Dental abscess",
+"category": "medical-first-aid",
+"paths": [
+"Dental_abscess"
+],
+"source_url": "https://www.wikem.org/wiki/Dental_abscess"
+},
+{
+"key": "Dental_avulsion",
+"title": "Dental avulsion (WikEM)",
+"slug": "wikem Dental avulsion",
+"category": "medical-first-aid",
+"paths": [
+"Dental_avulsion"
+],
+"source_url": "https://www.wikem.org/wiki/Dental_avulsion"
+},
+{
+"key": "Dental_fracture",
+"title": "Dental fracture (WikEM)",
+"slug": "wikem Dental fracture",
+"category": "medical-first-aid",
+"paths": [
+"Dental_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Dental_fracture"
+},
+{
+"key": "Dental_problems",
+"title": "Dental problems (WikEM)",
+"slug": "wikem Dental problems",
+"category": "medical-first-aid",
+"paths": [
+"Dental_problems"
+],
+"source_url": "https://www.wikem.org/wiki/Dental_problems"
+},
+{
+"key": "Dental_subluxation",
+"title": "Dental subluxation (WikEM)",
+"slug": "wikem Dental subluxation",
+"category": "medical-first-aid",
+"paths": [
+"Dental_subluxation"
+],
+"source_url": "https://www.wikem.org/wiki/Dental_subluxation"
+},
+{
+"key": "Dislocations_(main)",
+"title": "Dislocations (main) (WikEM)",
+"slug": "wikem Dislocations (main)",
+"category": "medical-first-aid",
+"paths": [
+"Dislocations_(main)"
+],
+"source_url": "https://www.wikem.org/wiki/Dislocations_(main)"
+},
+{
+"key": "Distal_interphalangeal_dislocation_(finger)",
+"title": "Distal interphalangeal dislocation (finger) (WikEM)",
+"slug": "wikem Distal interphalangeal dislocation (finger)",
+"category": "medical-first-aid",
+"paths": [
+"Distal_interphalangeal_dislocation_(finger)"
+],
+"source_url": "https://www.wikem.org/wiki/Distal_interphalangeal_dislocation_(finger)"
+},
+{
+"key": "Distal_phalanx_(finger)_fracture",
+"title": "Distal phalanx (finger) fracture (WikEM)",
+"slug": "wikem Distal phalanx (finger) fracture",
+"category": "medical-first-aid",
+"paths": [
+"Distal_phalanx_(finger)_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Distal_phalanx_(finger)_fracture"
+},
+{
+"key": "Distal_radius_fractures",
+"title": "Distal radius fractures (WikEM)",
+"slug": "wikem Distal radius fractures",
+"category": "medical-first-aid",
+"paths": [
+"Distal_radius_fractures"
+],
+"source_url": "https://www.wikem.org/wiki/Distal_radius_fractures"
+},
+{
+"key": "Diving_medicine",
+"title": "Diving medicine (WikEM)",
+"slug": "wikem Diving medicine",
+"category": "medical-first-aid",
+"paths": [
+"Diving_medicine"
+],
+"source_url": "https://www.wikem.org/wiki/Diving_medicine"
+},
+{
+"key": "Double_sugar_tong_splint",
+"title": "Double sugar tong splint (WikEM)",
+"slug": "wikem Double sugar tong splint",
+"category": "medical-first-aid",
+"paths": [
+"Double_sugar_tong_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Double_sugar_tong_splint"
+},
+{
+"key": "Ear_foreign_body",
+"title": "Ear foreign body (WikEM)",
+"slug": "wikem Ear foreign body",
+"category": "medical-first-aid",
+"paths": [
+"Ear_foreign_body"
+],
+"source_url": "https://www.wikem.org/wiki/Ear_foreign_body"
+},
+{
+"key": "Ear_laceration",
+"title": "Ear laceration (WikEM)",
+"slug": "wikem Ear laceration",
+"category": "medical-first-aid",
+"paths": [
+"Ear_laceration"
+],
+"source_url": "https://www.wikem.org/wiki/Ear_laceration"
+},
+{
+"key": "Elapidae_(Coral_Snakes)",
+"title": "Elapidae (Coral Snakes) (WikEM)",
+"slug": "wikem Elapidae (Coral Snakes)",
+"category": "medical-first-aid",
+"paths": [
+"Elapidae_(Coral_Snakes)"
+],
+"source_url": "https://www.wikem.org/wiki/Elapidae_(Coral_Snakes)"
+},
+{
+"key": "Elbow_dislocation",
+"title": "Elbow dislocation (WikEM)",
+"slug": "wikem Elbow dislocation",
+"category": "medical-first-aid",
+"paths": [
+"Elbow_dislocation"
+],
+"source_url": "https://www.wikem.org/wiki/Elbow_dislocation"
+},
+{
+"key": "Electrical_injuries",
+"title": "Electrical injuries (WikEM)",
+"slug": "wikem Electrical injuries",
+"category": "medical-first-aid",
+"paths": [
+"Electrical_injuries"
+],
+"source_url": "https://www.wikem.org/wiki/Electrical_injuries"
+},
+{
+"key": "Emergent_delivery",
+"title": "Emergent delivery (WikEM)",
+"slug": "wikem Emergent delivery",
+"category": "medical-first-aid",
+"paths": [
+"Emergent_delivery"
+],
+"source_url": "https://www.wikem.org/wiki/Emergent_delivery"
+},
+{
+"key": "Envenomations,_bites_and_stings",
+"title": "Envenomations, bites and stings (WikEM)",
+"slug": "wikem Envenomations, bites and stings",
+"category": "medical-first-aid",
+"paths": [
+"Envenomations,_bites_and_stings"
+],
+"source_url": "https://www.wikem.org/wiki/Envenomations,_bites_and_stings"
+},
+{
+"key": "Environmental_heat_diagnoses",
+"title": "Environmental heat diagnoses (WikEM)",
+"slug": "wikem Environmental heat diagnoses",
+"category": "medical-first-aid",
+"paths": [
+"Environmental_heat_diagnoses"
+],
+"source_url": "https://www.wikem.org/wiki/Environmental_heat_diagnoses"
+},
+{
+"key": "Episiotomy",
+"title": "Episiotomy (WikEM)",
+"slug": "wikem Episiotomy",
+"category": "medical-first-aid",
+"paths": [
+"Episiotomy"
+],
+"source_url": "https://www.wikem.org/wiki/Episiotomy"
+},
+{
+"key": "Epistaxis",
+"title": "Epistaxis (WikEM)",
+"slug": "wikem Epistaxis",
+"category": "medical-first-aid",
+"paths": [
+"Epistaxis"
+],
+"source_url": "https://www.wikem.org/wiki/Epistaxis"
+},
+{
+"key": "Escharotomy",
+"title": "Escharotomy (WikEM)",
+"slug": "wikem Escharotomy",
+"category": "medical-first-aid",
+"paths": [
+"Escharotomy"
+],
+"source_url": "https://www.wikem.org/wiki/Escharotomy"
+},
+{
+"key": "Ethylene_glycol_toxicity",
+"title": "Ethylene glycol toxicity (WikEM)",
+"slug": "wikem Ethylene glycol toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Ethylene_glycol_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Ethylene_glycol_toxicity"
+},
+{
+"key": "Extremity_trauma",
+"title": "Extremity trauma (WikEM)",
+"slug": "wikem Extremity trauma",
+"category": "medical-first-aid",
+"paths": [
+"Extremity_trauma"
+],
+"source_url": "https://www.wikem.org/wiki/Extremity_trauma"
+},
+{
+"key": "Eyelid_laceration",
+"title": "Eyelid laceration (WikEM)",
+"slug": "wikem Eyelid laceration",
+"category": "medical-first-aid",
+"paths": [
+"Eyelid_laceration"
+],
+"source_url": "https://www.wikem.org/wiki/Eyelid_laceration"
+},
+{
+"key": "Felon",
+"title": "Felon (WikEM)",
+"slug": "wikem Felon",
+"category": "medical-first-aid",
+"paths": [
+"Felon"
+],
+"source_url": "https://www.wikem.org/wiki/Felon"
+},
+{
+"key": "Femur_fracture",
+"title": "Femur fracture (WikEM)",
+"slug": "wikem Femur fracture",
+"category": "medical-first-aid",
+"paths": [
+"Femur_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Femur_fracture"
+},
+{
+"key": "Finger_(phalanx)_fracture",
+"title": "Finger (phalanx) fracture (WikEM)",
+"slug": "wikem Finger (phalanx) fracture",
+"category": "medical-first-aid",
+"paths": [
+"Finger_(phalanx)_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Finger_(phalanx)_fracture"
+},
+{
+"key": "Finger_amputation",
+"title": "Finger amputation (WikEM)",
+"slug": "wikem Finger amputation",
+"category": "medical-first-aid",
+"paths": [
+"Finger_amputation"
+],
+"source_url": "https://www.wikem.org/wiki/Finger_amputation"
+},
+{
+"key": "Finger_splint",
+"title": "Finger splint (WikEM)",
+"slug": "wikem Finger splint",
+"category": "medical-first-aid",
+"paths": [
+"Finger_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Finger_splint"
+},
+{
+"key": "Fingertip_avulsion",
+"title": "Fingertip avulsion (WikEM)",
+"slug": "wikem Fingertip avulsion",
+"category": "medical-first-aid",
+"paths": [
+"Fingertip_avulsion"
+],
+"source_url": "https://www.wikem.org/wiki/Fingertip_avulsion"
+},
+{
+"key": "Fire_coral_envenomation",
+"title": "Fire coral envenomation (WikEM)",
+"slug": "wikem Fire coral envenomation",
+"category": "medical-first-aid",
+"paths": [
+"Fire_coral_envenomation"
+],
+"source_url": "https://www.wikem.org/wiki/Fire_coral_envenomation"
+},
+{
+"key": "Fishhook_injury",
+"title": "Fishhook injury (WikEM)",
+"slug": "wikem Fishhook injury",
+"category": "medical-first-aid",
+"paths": [
+"Fishhook_injury"
+],
+"source_url": "https://www.wikem.org/wiki/Fishhook_injury"
+},
+{
+"key": "Flail_chest",
+"title": "Flail chest (WikEM)",
+"slug": "wikem Flail chest",
+"category": "medical-first-aid",
+"paths": [
+"Flail_chest"
+],
+"source_url": "https://www.wikem.org/wiki/Flail_chest"
+},
+{
+"key": "Foot_and_toe_fractures",
+"title": "Foot and toe fractures (WikEM)",
+"slug": "wikem Foot and toe fractures",
+"category": "medical-first-aid",
+"paths": [
+"Foot_and_toe_fractures"
+],
+"source_url": "https://www.wikem.org/wiki/Foot_and_toe_fractures"
+},
+{
+"key": "Forearm_fracture",
+"title": "Forearm fracture (WikEM)",
+"slug": "wikem Forearm fracture",
+"category": "medical-first-aid",
+"paths": [
+"Forearm_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Forearm_fracture"
+},
+{
+"key": "Forearm_volar_splint",
+"title": "Forearm volar splint (WikEM)",
+"slug": "wikem Forearm volar splint",
+"category": "medical-first-aid",
+"paths": [
+"Forearm_volar_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Forearm_volar_splint"
+},
+{
+"key": "Funnel-web_spider_bite",
+"title": "Funnel-web spider bite (WikEM)",
+"slug": "wikem Funnel-web spider bite",
+"category": "medical-first-aid",
+"paths": [
+"Funnel-web_spider_bite"
+],
+"source_url": "https://www.wikem.org/wiki/Funnel-web_spider_bite"
+},
+{
+"key": "Globe_rupture",
+"title": "Globe rupture (WikEM)",
+"slug": "wikem Globe rupture",
+"category": "medical-first-aid",
+"paths": [
+"Globe_rupture"
+],
+"source_url": "https://www.wikem.org/wiki/Globe_rupture"
+},
+{
+"key": "Gun_shot_wounds",
+"title": "Gun shot wounds (WikEM)",
+"slug": "wikem Gun shot wounds",
+"category": "medical-first-aid",
+"paths": [
+"Gun_shot_wounds"
+],
+"source_url": "https://www.wikem.org/wiki/Gun_shot_wounds"
+},
+{
+"key": "Gyromitra_mushrooms",
+"title": "Gyromitra mushrooms (WikEM)",
+"slug": "wikem Gyromitra mushrooms",
+"category": "medical-first-aid",
+"paths": [
+"Gyromitra_mushrooms"
+],
+"source_url": "https://www.wikem.org/wiki/Gyromitra_mushrooms"
+},
+{
+"key": "Hair_tourniquet",
+"title": "Hair tourniquet (WikEM)",
+"slug": "wikem Hair tourniquet",
+"category": "medical-first-aid",
+"paths": [
+"Hair_tourniquet"
+],
+"source_url": "https://www.wikem.org/wiki/Hair_tourniquet"
+},
+{
+"key": "Hand_and_finger_injuries",
+"title": "Hand and finger injuries (WikEM)",
+"slug": "wikem Hand and finger injuries",
+"category": "medical-first-aid",
+"paths": [
+"Hand_and_finger_injuries"
+],
+"source_url": "https://www.wikem.org/wiki/Hand_and_finger_injuries"
+},
+{
+"key": "Head_trauma_(main)",
+"title": "Head trauma (main) (WikEM)",
+"slug": "wikem Head trauma (main)",
+"category": "medical-first-aid",
+"paths": [
+"Head_trauma_(main)"
+],
+"source_url": "https://www.wikem.org/wiki/Head_trauma_(main)"
+},
+{
+"key": "Head_trauma_(peds)",
+"title": "Head trauma (peds) (WikEM)",
+"slug": "wikem Head trauma (peds)",
+"category": "medical-first-aid",
+"paths": [
+"Head_trauma_(peds)"
+],
+"source_url": "https://www.wikem.org/wiki/Head_trauma_(peds)"
+},
+{
+"key": "Heat_cramps",
+"title": "Heat cramps (WikEM)",
+"slug": "wikem Heat cramps",
+"category": "medical-first-aid",
+"paths": [
+"Heat_cramps"
+],
+"source_url": "https://www.wikem.org/wiki/Heat_cramps"
+},
+{
+"key": "Heat_edema",
+"title": "Heat edema (WikEM)",
+"slug": "wikem Heat edema",
+"category": "medical-first-aid",
+"paths": [
+"Heat_edema"
+],
+"source_url": "https://www.wikem.org/wiki/Heat_edema"
+},
+{
+"key": "Heat_syncope",
+"title": "Heat syncope (WikEM)",
+"slug": "wikem Heat syncope",
+"category": "medical-first-aid",
+"paths": [
+"Heat_syncope"
+],
+"source_url": "https://www.wikem.org/wiki/Heat_syncope"
+},
+{
+"key": "Heat_tetany",
+"title": "Heat tetany (WikEM)",
+"slug": "wikem Heat tetany",
+"category": "medical-first-aid",
+"paths": [
+"Heat_tetany"
+],
+"source_url": "https://www.wikem.org/wiki/Heat_tetany"
+},
+{
+"key": "Heat_wave",
+"title": "Heat wave (WikEM)",
+"slug": "wikem Heat wave",
+"category": "medical-first-aid",
+"paths": [
+"Heat_wave"
+],
+"source_url": "https://www.wikem.org/wiki/Heat_wave"
+},
+{
+"key": "Heavy_metal_toxicity",
+"title": "Heavy metal toxicity (WikEM)",
+"slug": "wikem Heavy metal toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Heavy_metal_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Heavy_metal_toxicity"
+},
+{
+"key": "Hematoma_block",
+"title": "Hematoma block (WikEM)",
+"slug": "wikem Hematoma block",
+"category": "medical-first-aid",
+"paths": [
+"Hematoma_block"
+],
+"source_url": "https://www.wikem.org/wiki/Hematoma_block"
+},
+{
+"key": "Hemothorax",
+"title": "Hemothorax (WikEM)",
+"slug": "wikem Hemothorax",
+"category": "medical-first-aid",
+"paths": [
+"Hemothorax"
+],
+"source_url": "https://www.wikem.org/wiki/Hemothorax"
+},
+{
+"key": "High_altitude_cerebral_edema",
+"title": "High altitude cerebral edema (WikEM)",
+"slug": "wikem High altitude cerebral edema",
+"category": "medical-first-aid",
+"paths": [
+"High_altitude_cerebral_edema"
+],
+"source_url": "https://www.wikem.org/wiki/High_altitude_cerebral_edema"
+},
+{
+"key": "High_altitude_medicine",
+"title": "High altitude medicine (WikEM)",
+"slug": "wikem High altitude medicine",
+"category": "medical-first-aid",
+"paths": [
+"High_altitude_medicine"
+],
+"source_url": "https://www.wikem.org/wiki/High_altitude_medicine"
+},
+{
+"key": "High_altitude_peripheral_edema",
+"title": "High altitude peripheral edema (WikEM)",
+"slug": "wikem High altitude peripheral edema",
+"category": "medical-first-aid",
+"paths": [
+"High_altitude_peripheral_edema"
+],
+"source_url": "https://www.wikem.org/wiki/High_altitude_peripheral_edema"
+},
+{
+"key": "High_altitude_pulmonary_edema",
+"title": "High altitude pulmonary edema (WikEM)",
+"slug": "wikem High altitude pulmonary edema",
+"category": "medical-first-aid",
+"paths": [
+"High_altitude_pulmonary_edema"
+],
+"source_url": "https://www.wikem.org/wiki/High_altitude_pulmonary_edema"
+},
+{
+"key": "High-pressure_injection_injury",
+"title": "High-pressure injection injury (WikEM)",
+"slug": "wikem High-pressure injection injury",
+"category": "medical-first-aid",
+"paths": [
+"High-pressure_injection_injury"
+],
+"source_url": "https://www.wikem.org/wiki/High-pressure_injection_injury"
+},
+{
+"key": "Hip_dislocation",
+"title": "Hip dislocation (WikEM)",
+"slug": "wikem Hip dislocation",
+"category": "medical-first-aid",
+"paths": [
+"Hip_dislocation"
+],
+"source_url": "https://www.wikem.org/wiki/Hip_dislocation"
+},
+{
+"key": "Humerus_fracture",
+"title": "Humerus fracture (WikEM)",
+"slug": "wikem Humerus fracture",
+"category": "medical-first-aid",
+"paths": [
+"Humerus_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Humerus_fracture"
+},
+{
+"key": "Hydrocarbon_toxicity",
+"title": "Hydrocarbon toxicity (WikEM)",
+"slug": "wikem Hydrocarbon toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Hydrocarbon_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Hydrocarbon_toxicity"
+},
+{
+"key": "Hydrofluoric_acid",
+"title": "Hydrofluoric acid (WikEM)",
+"slug": "wikem Hydrofluoric acid",
+"category": "medical-first-aid",
+"paths": [
+"Hydrofluoric_acid"
+],
+"source_url": "https://www.wikem.org/wiki/Hydrofluoric_acid"
+},
+{
+"key": "Hydrogen_sulfide_toxicity",
+"title": "Hydrogen sulfide toxicity (WikEM)",
+"slug": "wikem Hydrogen sulfide toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Hydrogen_sulfide_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Hydrogen_sulfide_toxicity"
+},
+{
+"key": "Hymenoptera_stings",
+"title": "Hymenoptera stings (WikEM)",
+"slug": "wikem Hymenoptera stings",
+"category": "medical-first-aid",
+"paths": [
+"Hymenoptera_stings"
+],
+"source_url": "https://www.wikem.org/wiki/Hymenoptera_stings"
+},
+{
+"key": "Hyperthermia",
+"title": "Hyperthermia (WikEM)",
+"slug": "wikem Hyperthermia",
+"category": "medical-first-aid",
+"paths": [
+"Hyperthermia"
+],
+"source_url": "https://www.wikem.org/wiki/Hyperthermia"
+},
+{
+"key": "Improvised_wound_management",
+"title": "Improvised wound management (WikEM)",
+"slug": "wikem Improvised wound management",
+"category": "medical-first-aid",
+"paths": [
+"Improvised_wound_management"
+],
+"source_url": "https://www.wikem.org/wiki/Improvised_wound_management"
+},
+{
+"key": "Incision_and_drainage",
+"title": "Incision and drainage (WikEM)",
+"slug": "wikem Incision and drainage",
+"category": "medical-first-aid",
+"paths": [
+"Incision_and_drainage"
+],
+"source_url": "https://www.wikem.org/wiki/Incision_and_drainage"
+},
+{
+"key": "Ingested_foreign_body",
+"title": "Ingested foreign body (WikEM)",
+"slug": "wikem Ingested foreign body",
+"category": "medical-first-aid",
+"paths": [
+"Ingested_foreign_body"
+],
+"source_url": "https://www.wikem.org/wiki/Ingested_foreign_body"
+},
+{
+"key": "Ingrown_toenail",
+"title": "Ingrown toenail (WikEM)",
+"slug": "wikem Ingrown toenail",
+"category": "medical-first-aid",
+"paths": [
+"Ingrown_toenail"
+],
+"source_url": "https://www.wikem.org/wiki/Ingrown_toenail"
+},
+{
+"key": "Ingrown_toenail_removal",
+"title": "Ingrown toenail removal (WikEM)",
+"slug": "wikem Ingrown toenail removal",
+"category": "medical-first-aid",
+"paths": [
+"Ingrown_toenail_removal"
+],
+"source_url": "https://www.wikem.org/wiki/Ingrown_toenail_removal"
+},
+{
+"key": "Inhalation_injury",
+"title": "Inhalation injury (WikEM)",
+"slug": "wikem Inhalation injury",
+"category": "medical-first-aid",
+"paths": [
+"Inhalation_injury"
+],
+"source_url": "https://www.wikem.org/wiki/Inhalation_injury"
+},
+{
+"key": "Intraosseous_access",
+"title": "Intraosseous access (WikEM)",
+"slug": "wikem Intraosseous access",
+"category": "medical-first-aid",
+"paths": [
+"Intraosseous_access"
+],
+"source_url": "https://www.wikem.org/wiki/Intraosseous_access"
+},
+{
+"key": "Iron_toxicity",
+"title": "Iron toxicity (WikEM)",
+"slug": "wikem Iron toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Iron_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Iron_toxicity"
+},
+{
+"key": "Irukandji_syndrome",
+"title": "Irukandji syndrome (WikEM)",
+"slug": "wikem Irukandji syndrome",
+"category": "medical-first-aid",
+"paths": [
+"Irukandji_syndrome"
+],
+"source_url": "https://www.wikem.org/wiki/Irukandji_syndrome"
+},
+{
+"key": "Isopropyl_alcohol_toxicity",
+"title": "Isopropyl alcohol toxicity (WikEM)",
+"slug": "wikem Isopropyl alcohol toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Isopropyl_alcohol_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Isopropyl_alcohol_toxicity"
+},
+{
+"key": "Jimson_weed",
+"title": "Jimson weed (WikEM)",
+"slug": "wikem Jimson weed",
+"category": "medical-first-aid",
+"paths": [
+"Jimson_weed"
+],
+"source_url": "https://www.wikem.org/wiki/Jimson_weed"
+},
+{
+"key": "Joint_dislocations_(main)",
+"title": "Joint dislocations (main) (WikEM)",
+"slug": "wikem Joint dislocations (main)",
+"category": "medical-first-aid",
+"paths": [
+"Joint_dislocations_(main)"
+],
+"source_url": "https://www.wikem.org/wiki/Joint_dislocations_(main)"
+},
+{
+"key": "Knee_dislocation",
+"title": "Knee dislocation (WikEM)",
+"slug": "wikem Knee dislocation",
+"category": "medical-first-aid",
+"paths": [
+"Knee_dislocation"
+],
+"source_url": "https://www.wikem.org/wiki/Knee_dislocation"
+},
+{
+"key": "Laceration_repair",
+"title": "Laceration repair (WikEM)",
+"slug": "wikem Laceration repair",
+"category": "medical-first-aid",
+"paths": [
+"Laceration_repair"
+],
+"source_url": "https://www.wikem.org/wiki/Laceration_repair"
+},
+{
+"key": "Lead_toxicity",
+"title": "Lead toxicity (WikEM)",
+"slug": "wikem Lead toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Lead_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Lead_toxicity"
+},
+{
+"key": "Lightning_injuries",
+"title": "Lightning injuries (WikEM)",
+"slug": "wikem Lightning injuries",
+"category": "medical-first-aid",
+"paths": [
+"Lightning_injuries"
+],
+"source_url": "https://www.wikem.org/wiki/Lightning_injuries"
+},
+{
+"key": "Lionfish_envenomation",
+"title": "Lionfish envenomation (WikEM)",
+"slug": "wikem Lionfish envenomation",
+"category": "medical-first-aid",
+"paths": [
+"Lionfish_envenomation"
+],
+"source_url": "https://www.wikem.org/wiki/Lionfish_envenomation"
+},
+{
+"key": "Lip_laceration",
+"title": "Lip laceration (WikEM)",
+"slug": "wikem Lip laceration",
+"category": "medical-first-aid",
+"paths": [
+"Lip_laceration"
+],
+"source_url": "https://www.wikem.org/wiki/Lip_laceration"
+},
+{
+"key": "Lisfranc_injury",
+"title": "Lisfranc injury (WikEM)",
+"slug": "wikem Lisfranc injury",
+"category": "medical-first-aid",
+"paths": [
+"Lisfranc_injury"
+],
+"source_url": "https://www.wikem.org/wiki/Lisfranc_injury"
+},
+{
+"key": "Lizard_bites",
+"title": "Lizard bites (WikEM)",
+"slug": "wikem Lizard bites",
+"category": "medical-first-aid",
+"paths": [
+"Lizard_bites"
+],
+"source_url": "https://www.wikem.org/wiki/Lizard_bites"
+},
+{
+"key": "Long_arm_posterior_splint",
+"title": "Long arm posterior splint (WikEM)",
+"slug": "wikem Long arm posterior splint",
+"category": "medical-first-aid",
+"paths": [
+"Long_arm_posterior_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Long_arm_posterior_splint"
+},
+{
+"key": "Long_leg_posterior_splint",
+"title": "Long leg posterior splint (WikEM)",
+"slug": "wikem Long leg posterior splint",
+"category": "medical-first-aid",
+"paths": [
+"Long_leg_posterior_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Long_leg_posterior_splint"
+},
+{
+"key": "Maisonneuve_fracture",
+"title": "Maisonneuve fracture (WikEM)",
+"slug": "wikem Maisonneuve fracture",
+"category": "medical-first-aid",
+"paths": [
+"Maisonneuve_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Maisonneuve_fracture"
+},
+{
+"key": "Mallet_finger",
+"title": "Mallet finger (WikEM)",
+"slug": "wikem Mallet finger",
+"category": "medical-first-aid",
+"paths": [
+"Mallet_finger"
+],
+"source_url": "https://www.wikem.org/wiki/Mallet_finger"
+},
+{
+"key": "Mammalian_bites",
+"title": "Mammalian bites (WikEM)",
+"slug": "wikem Mammalian bites",
+"category": "medical-first-aid",
+"paths": [
+"Mammalian_bites"
+],
+"source_url": "https://www.wikem.org/wiki/Mammalian_bites"
+},
+{
+"key": "Mandible_dislocation",
+"title": "Mandible dislocation (WikEM)",
+"slug": "wikem Mandible dislocation",
+"category": "medical-first-aid",
+"paths": [
+"Mandible_dislocation"
+],
+"source_url": "https://www.wikem.org/wiki/Mandible_dislocation"
+},
+{
+"key": "Mandible_fracture",
+"title": "Mandible fracture (WikEM)",
+"slug": "wikem Mandible fracture",
+"category": "medical-first-aid",
+"paths": [
+"Mandible_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Mandible_fracture"
+},
+{
+"key": "Marine_toxins,_envenomations,_and_bites",
+"title": "Marine toxins, envenomations, and bites (WikEM)",
+"slug": "wikem Marine toxins, envenomations, and bites",
+"category": "medical-first-aid",
+"paths": [
+"Marine_toxins,_envenomations,_and_bites"
+],
+"source_url": "https://www.wikem.org/wiki/Marine_toxins,_envenomations,_and_bites"
+},
+{
+"key": "Mask_squeeze",
+"title": "Mask squeeze (WikEM)",
+"slug": "wikem Mask squeeze",
+"category": "medical-first-aid",
+"paths": [
+"Mask_squeeze"
+],
+"source_url": "https://www.wikem.org/wiki/Mask_squeeze"
+},
+{
+"key": "Maxillofacial_trauma",
+"title": "Maxillofacial trauma (WikEM)",
+"slug": "wikem Maxillofacial trauma",
+"category": "medical-first-aid",
+"paths": [
+"Maxillofacial_trauma"
+],
+"source_url": "https://www.wikem.org/wiki/Maxillofacial_trauma"
+},
+{
+"key": "Metacarpophalangeal_dislocation_(finger)",
+"title": "Metacarpophalangeal dislocation (finger) (WikEM)",
+"slug": "wikem Metacarpophalangeal dislocation (finger)",
+"category": "medical-first-aid",
+"paths": [
+"Metacarpophalangeal_dislocation_(finger)"
+],
+"source_url": "https://www.wikem.org/wiki/Metacarpophalangeal_dislocation_(finger)"
+},
+{
+"key": "Metal_fume_fever",
+"title": "Metal fume fever (WikEM)",
+"slug": "wikem Metal fume fever",
+"category": "medical-first-aid",
+"paths": [
+"Metal_fume_fever"
+],
+"source_url": "https://www.wikem.org/wiki/Metal_fume_fever"
+},
+{
+"key": "Methanol_toxicity",
+"title": "Methanol toxicity (WikEM)",
+"slug": "wikem Methanol toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Methanol_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Methanol_toxicity"
+},
+{
+"key": "Methemoglobinemia",
+"title": "Methemoglobinemia (WikEM)",
+"slug": "wikem Methemoglobinemia",
+"category": "medical-first-aid",
+"paths": [
+"Methemoglobinemia"
+],
+"source_url": "https://www.wikem.org/wiki/Methemoglobinemia"
+},
+{
+"key": "Mold_toxicity",
+"title": "Mold toxicity (WikEM)",
+"slug": "wikem Mold toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Mold_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Mold_toxicity"
+},
+{
+"key": "Mushroom_poisoning",
+"title": "Mushroom poisoning (WikEM)",
+"slug": "wikem Mushroom poisoning",
+"category": "medical-first-aid",
+"paths": [
+"Mushroom_poisoning"
+],
+"source_url": "https://www.wikem.org/wiki/Mushroom_poisoning"
+},
+{
+"key": "Mushroom_toxicity",
+"title": "Mushroom toxicity (WikEM)",
+"slug": "wikem Mushroom toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Mushroom_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Mushroom_toxicity"
+},
+{
+"key": "Nail_avulsion",
+"title": "Nail avulsion (WikEM)",
+"slug": "wikem Nail avulsion",
+"category": "medical-first-aid",
+"paths": [
+"Nail_avulsion"
+],
+"source_url": "https://www.wikem.org/wiki/Nail_avulsion"
+},
+{
+"key": "Nailbed_laceration",
+"title": "Nailbed laceration (WikEM)",
+"slug": "wikem Nailbed laceration",
+"category": "medical-first-aid",
+"paths": [
+"Nailbed_laceration"
+],
+"source_url": "https://www.wikem.org/wiki/Nailbed_laceration"
+},
+{
+"key": "Nasal_foreign_body",
+"title": "Nasal foreign body (WikEM)",
+"slug": "wikem Nasal foreign body",
+"category": "medical-first-aid",
+"paths": [
+"Nasal_foreign_body"
+],
+"source_url": "https://www.wikem.org/wiki/Nasal_foreign_body"
+},
+{
+"key": "Nasal_fracture",
+"title": "Nasal fracture (WikEM)",
+"slug": "wikem Nasal fracture",
+"category": "medical-first-aid",
+"paths": [
+"Nasal_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Nasal_fracture"
+},
+{
+"key": "Nasal_septal_hematoma",
+"title": "Nasal septal hematoma (WikEM)",
+"slug": "wikem Nasal septal hematoma",
+"category": "medical-first-aid",
+"paths": [
+"Nasal_septal_hematoma"
+],
+"source_url": "https://www.wikem.org/wiki/Nasal_septal_hematoma"
+},
+{
+"key": "Nasopharyngeal_airway",
+"title": "Nasopharyngeal airway (WikEM)",
+"slug": "wikem Nasopharyngeal airway",
+"category": "medical-first-aid",
+"paths": [
+"Nasopharyngeal_airway"
+],
+"source_url": "https://www.wikem.org/wiki/Nasopharyngeal_airway"
+},
+{
+"key": "Needle_cricothyrotomy",
+"title": "Needle cricothyrotomy (WikEM)",
+"slug": "wikem Needle cricothyrotomy",
+"category": "medical-first-aid",
+"paths": [
+"Needle_cricothyrotomy"
+],
+"source_url": "https://www.wikem.org/wiki/Needle_cricothyrotomy"
+},
+{
+"key": "Needle_thoracostomy",
+"title": "Needle thoracostomy (WikEM)",
+"slug": "wikem Needle thoracostomy",
+"category": "medical-first-aid",
+"paths": [
+"Needle_thoracostomy"
+],
+"source_url": "https://www.wikem.org/wiki/Needle_thoracostomy"
+},
+{
+"key": "Nematocysts",
+"title": "Nematocysts (WikEM)",
+"slug": "wikem Nematocysts",
+"category": "medical-first-aid",
+"paths": [
+"Nematocysts"
+],
+"source_url": "https://www.wikem.org/wiki/Nematocysts"
+},
+{
+"key": "Neonatal_resuscitation",
+"title": "Neonatal resuscitation (WikEM)",
+"slug": "wikem Neonatal resuscitation",
+"category": "medical-first-aid",
+"paths": [
+"Neonatal_resuscitation"
+],
+"source_url": "https://www.wikem.org/wiki/Neonatal_resuscitation"
+},
+{
+"key": "Neurotoxic_shellfish_poisoning",
+"title": "Neurotoxic shellfish poisoning (WikEM)",
+"slug": "wikem Neurotoxic shellfish poisoning",
+"category": "medical-first-aid",
+"paths": [
+"Neurotoxic_shellfish_poisoning"
+],
+"source_url": "https://www.wikem.org/wiki/Neurotoxic_shellfish_poisoning"
+},
+{
+"key": "Newborn_resuscitation",
+"title": "Newborn resuscitation (WikEM)",
+"slug": "wikem Newborn resuscitation",
+"category": "medical-first-aid",
+"paths": [
+"Newborn_resuscitation"
+],
+"source_url": "https://www.wikem.org/wiki/Newborn_resuscitation"
+},
+{
+"key": "Nicotine_toxicity",
+"title": "Nicotine toxicity (WikEM)",
+"slug": "wikem Nicotine toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Nicotine_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Nicotine_toxicity"
+},
+{
+"key": "NSAID_toxicity",
+"title": "NSAID toxicity (WikEM)",
+"slug": "wikem NSAID toxicity",
+"category": "medical-first-aid",
+"paths": [
+"NSAID_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/NSAID_toxicity"
+},
+{
+"key": "Octopus_bite",
+"title": "Octopus bite (WikEM)",
+"slug": "wikem Octopus bite",
+"category": "medical-first-aid",
+"paths": [
+"Octopus_bite"
+],
+"source_url": "https://www.wikem.org/wiki/Octopus_bite"
+},
+{
+"key": "Ocular_foreign_body",
+"title": "Ocular foreign body (WikEM)",
+"slug": "wikem Ocular foreign body",
+"category": "medical-first-aid",
+"paths": [
+"Ocular_foreign_body"
+],
+"source_url": "https://www.wikem.org/wiki/Ocular_foreign_body"
+},
+{
+"key": "Olecranon_fracture",
+"title": "Olecranon fracture (WikEM)",
+"slug": "wikem Olecranon fracture",
+"category": "medical-first-aid",
+"paths": [
+"Olecranon_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Olecranon_fracture"
+},
+{
+"key": "Open_joint_injury",
+"title": "Open joint injury (WikEM)",
+"slug": "wikem Open joint injury",
+"category": "medical-first-aid",
+"paths": [
+"Open_joint_injury"
+],
+"source_url": "https://www.wikem.org/wiki/Open_joint_injury"
+},
+{
+"key": "Opioid_toxicity",
+"title": "Opioid toxicity (WikEM)",
+"slug": "wikem Opioid toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Opioid_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Opioid_toxicity"
+},
+{
+"key": "Opioid_withdrawal",
+"title": "Opioid withdrawal (WikEM)",
+"slug": "wikem Opioid withdrawal",
+"category": "medical-first-aid",
+"paths": [
+"Opioid_withdrawal"
+],
+"source_url": "https://www.wikem.org/wiki/Opioid_withdrawal"
+},
+{
+"key": "Organophosphate_toxicity",
+"title": "Organophosphate toxicity (WikEM)",
+"slug": "wikem Organophosphate toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Organophosphate_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Organophosphate_toxicity"
+},
+{
+"key": "Oropharyngeal_airway",
+"title": "Oropharyngeal airway (WikEM)",
+"slug": "wikem Oropharyngeal airway",
+"category": "medical-first-aid",
+"paths": [
+"Oropharyngeal_airway"
+],
+"source_url": "https://www.wikem.org/wiki/Oropharyngeal_airway"
+},
+{
+"key": "Oxalic_acid_toxicity",
+"title": "Oxalic acid toxicity (WikEM)",
+"slug": "wikem Oxalic acid toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Oxalic_acid_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Oxalic_acid_toxicity"
+},
+{
+"key": "Paralytic_shellfish_poisoning",
+"title": "Paralytic shellfish poisoning (WikEM)",
+"slug": "wikem Paralytic shellfish poisoning",
+"category": "medical-first-aid",
+"paths": [
+"Paralytic_shellfish_poisoning"
+],
+"source_url": "https://www.wikem.org/wiki/Paralytic_shellfish_poisoning"
+},
+{
+"key": "Paraquat_toxicity",
+"title": "Paraquat toxicity (WikEM)",
+"slug": "wikem Paraquat toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Paraquat_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Paraquat_toxicity"
+},
+{
+"key": "Paronychia",
+"title": "Paronychia (WikEM)",
+"slug": "wikem Paronychia",
+"category": "medical-first-aid",
+"paths": [
+"Paronychia"
+],
+"source_url": "https://www.wikem.org/wiki/Paronychia"
+},
+{
+"key": "Patella_dislocation",
+"title": "Patella dislocation (WikEM)",
+"slug": "wikem Patella dislocation",
+"category": "medical-first-aid",
+"paths": [
+"Patella_dislocation"
+],
+"source_url": "https://www.wikem.org/wiki/Patella_dislocation"
+},
+{
+"key": "100kg_(large_adult)",
+"title": "Pediatric dosing weight: 100kg (large adult) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 100kg (large adult)",
+"category": "medical-first-aid",
+"paths": [
+"100kg_(large_adult)"
+],
+"source_url": "https://www.wikem.org/wiki/100kg_(large_adult)"
+},
+{
+"key": "10kg_(1yr)",
+"title": "Pediatric dosing weight: 10kg (1yr) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 10kg (1yr)",
+"category": "medical-first-aid",
+"paths": [
+"10kg_(1yr)"
+],
+"source_url": "https://www.wikem.org/wiki/10kg_(1yr)"
+},
+{
+"key": "12kg_(2yr)",
+"title": "Pediatric dosing weight: 12kg (2yr) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 12kg (2yr)",
+"category": "medical-first-aid",
+"paths": [
+"12kg_(2yr)"
+],
+"source_url": "https://www.wikem.org/wiki/12kg_(2yr)"
+},
+{
+"key": "15kg_(4yr)",
+"title": "Pediatric dosing weight: 15kg (4yr) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 15kg (4yr)",
+"category": "medical-first-aid",
+"paths": [
+"15kg_(4yr)"
+],
+"source_url": "https://www.wikem.org/wiki/15kg_(4yr)"
+},
+{
+"key": "20kg_(6yr)",
+"title": "Pediatric dosing weight: 20kg (6yr) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 20kg (6yr)",
+"category": "medical-first-aid",
+"paths": [
+"20kg_(6yr)"
+],
+"source_url": "https://www.wikem.org/wiki/20kg_(6yr)"
+},
+{
+"key": "25kg_(8yr)",
+"title": "Pediatric dosing weight: 25kg (8yr) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 25kg (8yr)",
+"category": "medical-first-aid",
+"paths": [
+"25kg_(8yr)"
+],
+"source_url": "https://www.wikem.org/wiki/25kg_(8yr)"
+},
+{
+"key": "2kg_(preemie)",
+"title": "Pediatric dosing weight: 2kg (preemie) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 2kg (preemie)",
+"category": "medical-first-aid",
+"paths": [
+"2kg_(preemie)"
+],
+"source_url": "https://www.wikem.org/wiki/2kg_(preemie)"
+},
+{
+"key": "3.5kg_(newborn)",
+"title": "Pediatric dosing weight: 3.5kg (newborn) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 3.5kg (newborn)",
+"category": "medical-first-aid",
+"paths": [
+"3.5kg_(newborn)"
+],
+"source_url": "https://www.wikem.org/wiki/3.5kg_(newborn)"
+},
+{
+"key": "35kg_(10yr)",
+"title": "Pediatric dosing weight: 35kg (10yr) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 35kg (10yr)",
+"category": "medical-first-aid",
+"paths": [
+"35kg_(10yr)"
+],
+"source_url": "https://www.wikem.org/wiki/35kg_(10yr)"
+},
+{
+"key": "50kg_(small_adult)",
+"title": "Pediatric dosing weight: 50kg (small adult) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 50kg (small adult)",
+"category": "medical-first-aid",
+"paths": [
+"50kg_(small_adult)"
+],
+"source_url": "https://www.wikem.org/wiki/50kg_(small_adult)"
+},
+{
+"key": "5kg_(2mo)",
+"title": "Pediatric dosing weight: 5kg (2mo) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 5kg (2mo)",
+"category": "medical-first-aid",
+"paths": [
+"5kg_(2mo)"
+],
+"source_url": "https://www.wikem.org/wiki/5kg_(2mo)"
+},
+{
+"key": "6kg_(4mo)",
+"title": "Pediatric dosing weight: 6kg (4mo) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 6kg (4mo)",
+"category": "medical-first-aid",
+"paths": [
+"6kg_(4mo)"
+],
+"source_url": "https://www.wikem.org/wiki/6kg_(4mo)"
+},
+{
+"key": "70kg_(adult)",
+"title": "Pediatric dosing weight: 70kg (adult) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 70kg (adult)",
+"category": "medical-first-aid",
+"paths": [
+"70kg_(adult)"
+],
+"source_url": "https://www.wikem.org/wiki/70kg_(adult)"
+},
+{
+"key": "8kg_(6mo)",
+"title": "Pediatric dosing weight: 8kg (6mo) (WikEM)",
+"slug": "wikem Pediatric dosing weight: 8kg (6mo)",
+"category": "medical-first-aid",
+"paths": [
+"8kg_(6mo)"
+],
+"source_url": "https://www.wikem.org/wiki/8kg_(6mo)"
+},
+{
+"key": "Pelvic_fractures",
+"title": "Pelvic fractures (WikEM)",
+"slug": "wikem Pelvic fractures",
+"category": "medical-first-aid",
+"paths": [
+"Pelvic_fractures"
+],
+"source_url": "https://www.wikem.org/wiki/Pelvic_fractures"
+},
+{
+"key": "Peritonsillar_abscess",
+"title": "Peritonsillar abscess (WikEM)",
+"slug": "wikem Peritonsillar abscess",
+"category": "medical-first-aid",
+"paths": [
+"Peritonsillar_abscess"
+],
+"source_url": "https://www.wikem.org/wiki/Peritonsillar_abscess"
+},
+{
+"key": "Poison_oak,_ivy,_sumac_dermatitis",
+"title": "Poison oak, ivy, sumac dermatitis (WikEM)",
+"slug": "wikem Poison oak, ivy, sumac dermatitis",
+"category": "medical-first-aid",
+"paths": [
+"Poison_oak,_ivy,_sumac_dermatitis"
+],
+"source_url": "https://www.wikem.org/wiki/Poison_oak,_ivy,_sumac_dermatitis"
+},
+{
+"key": "Posterior_ankle_splint",
+"title": "Posterior ankle splint (WikEM)",
+"slug": "wikem Posterior ankle splint",
+"category": "medical-first-aid",
+"paths": [
+"Posterior_ankle_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Posterior_ankle_splint"
+},
+{
+"key": "Postpartum_emergencies",
+"title": "Postpartum emergencies (WikEM)",
+"slug": "wikem Postpartum emergencies",
+"category": "medical-first-aid",
+"paths": [
+"Postpartum_emergencies"
+],
+"source_url": "https://www.wikem.org/wiki/Postpartum_emergencies"
+},
+{
+"key": "Postpartum_hemorrhage",
+"title": "Postpartum hemorrhage (WikEM)",
+"slug": "wikem Postpartum hemorrhage",
+"category": "medical-first-aid",
+"paths": [
+"Postpartum_hemorrhage"
+],
+"source_url": "https://www.wikem.org/wiki/Postpartum_hemorrhage"
+},
+{
+"key": "Pressure_immobilization_dressing",
+"title": "Pressure immobilization dressing (WikEM)",
+"slug": "wikem Pressure immobilization dressing",
+"category": "medical-first-aid",
+"paths": [
+"Pressure_immobilization_dressing"
+],
+"source_url": "https://www.wikem.org/wiki/Pressure_immobilization_dressing"
+},
+{
+"key": "Preterm_labor",
+"title": "Preterm labor (WikEM)",
+"slug": "wikem Preterm labor",
+"category": "medical-first-aid",
+"paths": [
+"Preterm_labor"
+],
+"source_url": "https://www.wikem.org/wiki/Preterm_labor"
+},
+{
+"key": "Psilocybin_toxicity",
+"title": "Psilocybin toxicity (WikEM)",
+"slug": "wikem Psilocybin toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Psilocybin_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Psilocybin_toxicity"
+},
+{
+"key": "Puncture_wound",
+"title": "Puncture wound (WikEM)",
+"slug": "wikem Puncture wound",
+"category": "medical-first-aid",
+"paths": [
+"Puncture_wound"
+],
+"source_url": "https://www.wikem.org/wiki/Puncture_wound"
+},
+{
+"key": "Radial_gutter_splint",
+"title": "Radial gutter splint (WikEM)",
+"slug": "wikem Radial gutter splint",
+"category": "medical-first-aid",
+"paths": [
+"Radial_gutter_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Radial_gutter_splint"
+},
+{
+"key": "Rat_bite_fever",
+"title": "Rat bite fever (WikEM)",
+"slug": "wikem Rat bite fever",
+"category": "medical-first-aid",
+"paths": [
+"Rat_bite_fever"
+],
+"source_url": "https://www.wikem.org/wiki/Rat_bite_fever"
+},
+{
+"key": "Reduced-osmolarity_oral_rehydration_solution",
+"title": "Reduced-osmolarity oral rehydration solution (WikEM)",
+"slug": "wikem Reduced-osmolarity oral rehydration solution",
+"category": "medical-first-aid",
+"paths": [
+"Reduced-osmolarity_oral_rehydration_solution"
+],
+"source_url": "https://www.wikem.org/wiki/Reduced-osmolarity_oral_rehydration_solution"
+},
+{
+"key": "Retropharyngeal_abscess",
+"title": "Retropharyngeal abscess (WikEM)",
+"slug": "wikem Retropharyngeal abscess",
+"category": "medical-first-aid",
+"paths": [
+"Retropharyngeal_abscess"
+],
+"source_url": "https://www.wikem.org/wiki/Retropharyngeal_abscess"
+},
+{
+"key": "Rhabdomyolysis",
+"title": "Rhabdomyolysis (WikEM)",
+"slug": "wikem Rhabdomyolysis",
+"category": "medical-first-aid",
+"paths": [
+"Rhabdomyolysis"
+],
+"source_url": "https://www.wikem.org/wiki/Rhabdomyolysis"
+},
+{
+"key": "Rib_fracture",
+"title": "Rib fracture (WikEM)",
+"slug": "wikem Rib fracture",
+"category": "medical-first-aid",
+"paths": [
+"Rib_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Rib_fracture"
+},
+{
+"key": "Ring_avulsion_injury",
+"title": "Ring avulsion injury (WikEM)",
+"slug": "wikem Ring avulsion injury",
+"category": "medical-first-aid",
+"paths": [
+"Ring_avulsion_injury"
+],
+"source_url": "https://www.wikem.org/wiki/Ring_avulsion_injury"
+},
+{
+"key": "Ring_removal",
+"title": "Ring removal (WikEM)",
+"slug": "wikem Ring removal",
+"category": "medical-first-aid",
+"paths": [
+"Ring_removal"
+],
+"source_url": "https://www.wikem.org/wiki/Ring_removal"
+},
+{
+"key": "Salicylate_toxicity",
+"title": "Salicylate toxicity (WikEM)",
+"slug": "wikem Salicylate toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Salicylate_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Salicylate_toxicity"
+},
+{
+"key": "Scalp_laceration",
+"title": "Scalp laceration (WikEM)",
+"slug": "wikem Scalp laceration",
+"category": "medical-first-aid",
+"paths": [
+"Scalp_laceration"
+],
+"source_url": "https://www.wikem.org/wiki/Scalp_laceration"
+},
+{
+"key": "Scarlet_fever",
+"title": "Scarlet fever (WikEM)",
+"slug": "wikem Scarlet fever",
+"category": "medical-first-aid",
+"paths": [
+"Scarlet_fever"
+],
+"source_url": "https://www.wikem.org/wiki/Scarlet_fever"
+},
+{
+"key": "Scombroid",
+"title": "Scombroid (WikEM)",
+"slug": "wikem Scombroid",
+"category": "medical-first-aid",
+"paths": [
+"Scombroid"
+],
+"source_url": "https://www.wikem.org/wiki/Scombroid"
+},
+{
+"key": "Scuba_diving_emergencies",
+"title": "Scuba diving emergencies (WikEM)",
+"slug": "wikem Scuba diving emergencies",
+"category": "medical-first-aid",
+"paths": [
+"Scuba_diving_emergencies"
+],
+"source_url": "https://www.wikem.org/wiki/Scuba_diving_emergencies"
+},
+{
+"key": "Sea_anemone_envenomation",
+"title": "Sea anemone envenomation (WikEM)",
+"slug": "wikem Sea anemone envenomation",
+"category": "medical-first-aid",
+"paths": [
+"Sea_anemone_envenomation"
+],
+"source_url": "https://www.wikem.org/wiki/Sea_anemone_envenomation"
+},
+{
+"key": "Sea_urchins",
+"title": "Sea urchins (WikEM)",
+"slug": "wikem Sea urchins",
+"category": "medical-first-aid",
+"paths": [
+"Sea_urchins"
+],
+"source_url": "https://www.wikem.org/wiki/Sea_urchins"
+},
+{
+"key": "Sea_wasp_sting",
+"title": "Sea wasp sting (WikEM)",
+"slug": "wikem Sea wasp sting",
+"category": "medical-first-aid",
+"paths": [
+"Sea_wasp_sting"
+],
+"source_url": "https://www.wikem.org/wiki/Sea_wasp_sting"
+},
+{
+"key": "Shark_bite",
+"title": "Shark bite (WikEM)",
+"slug": "wikem Shark bite",
+"category": "medical-first-aid",
+"paths": [
+"Shark_bite"
+],
+"source_url": "https://www.wikem.org/wiki/Shark_bite"
+},
+{
+"key": "Sinus_barotrauma",
+"title": "Sinus barotrauma (WikEM)",
+"slug": "wikem Sinus barotrauma",
+"category": "medical-first-aid",
+"paths": [
+"Sinus_barotrauma"
+],
+"source_url": "https://www.wikem.org/wiki/Sinus_barotrauma"
+},
+{
+"key": "Skin_abscess",
+"title": "Skin abscess (WikEM)",
+"slug": "wikem Skin abscess",
+"category": "medical-first-aid",
+"paths": [
+"Skin_abscess"
+],
+"source_url": "https://www.wikem.org/wiki/Skin_abscess"
+},
+{
+"key": "Skull_fracture",
+"title": "Skull fracture (WikEM)",
+"slug": "wikem Skull fracture",
+"category": "medical-first-aid",
+"paths": [
+"Skull_fracture"
+],
+"source_url": "https://www.wikem.org/wiki/Skull_fracture"
+},
+{
+"key": "Sling_and_swathe_splint",
+"title": "Sling and swathe splint (WikEM)",
+"slug": "wikem Sling and swathe splint",
+"category": "medical-first-aid",
+"paths": [
+"Sling_and_swathe_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Sling_and_swathe_splint"
+},
+{
+"key": "Snake_bites",
+"title": "Snake bites (WikEM)",
+"slug": "wikem Snake bites",
+"category": "medical-first-aid",
+"paths": [
+"Snake_bites"
+],
+"source_url": "https://www.wikem.org/wiki/Snake_bites"
+},
+{
+"key": "Soft_tissue_foreign_body",
+"title": "Soft tissue foreign body (WikEM)",
+"slug": "wikem Soft tissue foreign body",
+"category": "medical-first-aid",
+"paths": [
+"Soft_tissue_foreign_body"
+],
+"source_url": "https://www.wikem.org/wiki/Soft_tissue_foreign_body"
+},
+{
+"key": "Southern_tick-associated_rash_illness",
+"title": "Southern tick-associated rash illness (WikEM)",
+"slug": "wikem Southern tick-associated rash illness",
+"category": "medical-first-aid",
+"paths": [
+"Southern_tick-associated_rash_illness"
+],
+"source_url": "https://www.wikem.org/wiki/Southern_tick-associated_rash_illness"
+},
+{
+"key": "Spider_bites",
+"title": "Spider bites (WikEM)",
+"slug": "wikem Spider bites",
+"category": "medical-first-aid",
+"paths": [
+"Spider_bites"
+],
+"source_url": "https://www.wikem.org/wiki/Spider_bites"
+},
+{
+"key": "Spinal_cord_injury",
+"title": "Spinal cord injury (WikEM)",
+"slug": "wikem Spinal cord injury",
+"category": "medical-first-aid",
+"paths": [
+"Spinal_cord_injury"
+],
+"source_url": "https://www.wikem.org/wiki/Spinal_cord_injury"
+},
+{
+"key": "Starfruit_toxicity",
+"title": "Starfruit toxicity (WikEM)",
+"slug": "wikem Starfruit toxicity",
+"category": "medical-first-aid",
+"paths": [
+"Starfruit_toxicity"
+],
+"source_url": "https://www.wikem.org/wiki/Starfruit_toxicity"
+},
+{
+"key": "Stingray_injury",
+"title": "Stingray injury (WikEM)",
+"slug": "wikem Stingray injury",
+"category": "medical-first-aid",
+"paths": [
+"Stingray_injury"
+],
+"source_url": "https://www.wikem.org/wiki/Stingray_injury"
+},
+{
+"key": "Stonefish_envenomation",
+"title": "Stonefish envenomation (WikEM)",
+"slug": "wikem Stonefish envenomation",
+"category": "medical-first-aid",
+"paths": [
+"Stonefish_envenomation"
+],
+"source_url": "https://www.wikem.org/wiki/Stonefish_envenomation"
+},
+{
+"key": "Strangulation",
+"title": "Strangulation (WikEM)",
+"slug": "wikem Strangulation",
+"category": "medical-first-aid",
+"paths": [
+"Strangulation"
+],
+"source_url": "https://www.wikem.org/wiki/Strangulation"
+},
+{
+"key": "Strongyloides_stercoralis",
+"title": "Strongyloides stercoralis (WikEM)",
+"slug": "wikem Strongyloides stercoralis",
+"category": "medical-first-aid",
+"paths": [
+"Strongyloides_stercoralis"
+],
+"source_url": "https://www.wikem.org/wiki/Strongyloides_stercoralis"
+},
+{
+"key": "Strychnine",
+"title": "Strychnine (WikEM)",
+"slug": "wikem Strychnine",
+"category": "medical-first-aid",
+"paths": [
+"Strychnine"
+],
+"source_url": "https://www.wikem.org/wiki/Strychnine"
+},
+{
+"key": "Submersion_injury",
+"title": "Submersion injury (WikEM)",
+"slug": "wikem Submersion injury",
+"category": "medical-first-aid",
+"paths": [
+"Submersion_injury"
+],
+"source_url": "https://www.wikem.org/wiki/Submersion_injury"
+},
+{
+"key": "Subungual_hematoma",
+"title": "Subungual hematoma (WikEM)",
+"slug": "wikem Subungual hematoma",
+"category": "medical-first-aid",
+"paths": [
+"Subungual_hematoma"
+],
+"source_url": "https://www.wikem.org/wiki/Subungual_hematoma"
+},
+{
+"key": "Sugar_tong_splint",
+"title": "Sugar tong splint (WikEM)",
+"slug": "wikem Sugar tong splint",
+"category": "medical-first-aid",
+"paths": [
+"Sugar_tong_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Sugar_tong_splint"
+},
+{
+"key": "Tactical_combat_casualty_care",
+"title": "Tactical combat casualty care (WikEM)",
+"slug": "wikem Tactical combat casualty care",
+"category": "medical-first-aid",
+"paths": [
+"Tactical_combat_casualty_care"
+],
+"source_url": "https://www.wikem.org/wiki/Tactical_combat_casualty_care"
+},
+{
+"key": "Tactical_evacuation_care",
+"title": "Tactical evacuation care (WikEM)",
+"slug": "wikem Tactical evacuation care",
+"category": "medical-first-aid",
+"paths": [
+"Tactical_evacuation_care"
+],
+"source_url": "https://www.wikem.org/wiki/Tactical_evacuation_care"
+},
+{
+"key": "Tactical_field_care",
+"title": "Tactical field care (WikEM)",
+"slug": "wikem Tactical field care",
+"category": "medical-first-aid",
+"paths": [
+"Tactical_field_care"
+],
+"source_url": "https://www.wikem.org/wiki/Tactical_field_care"
+},
+{
+"key": "Tar_burn",
+"title": "Tar burn (WikEM)",
+"slug": "wikem Tar burn",
+"category": "medical-first-aid",
+"paths": [
+"Tar_burn"
+],
+"source_url": "https://www.wikem.org/wiki/Tar_burn"
+},
+{
+"key": "Tarantula_spider_bite",
+"title": "Tarantula spider bite (WikEM)",
+"slug": "wikem Tarantula spider bite",
+"category": "medical-first-aid",
+"paths": [
+"Tarantula_spider_bite"
+],
+"source_url": "https://www.wikem.org/wiki/Tarantula_spider_bite"
+},
+{
+"key": "Tetrodotoxin",
+"title": "Tetrodotoxin (WikEM)",
+"slug": "wikem Tetrodotoxin",
+"category": "medical-first-aid",
+"paths": [
+"Tetrodotoxin"
+],
+"source_url": "https://www.wikem.org/wiki/Tetrodotoxin"
+},
+{
+"key": "Thoracic_and_lumbar_compression_fractures",
+"title": "Thoracic and lumbar compression fractures (WikEM)",
+"slug": "wikem Thoracic and lumbar compression fractures",
+"category": "medical-first-aid",
+"paths": [
+"Thoracic_and_lumbar_compression_fractures"
+],
+"source_url": "https://www.wikem.org/wiki/Thoracic_and_lumbar_compression_fractures"
+},
+{
+"key": "Thoracic_trauma",
+"title": "Thoracic trauma (WikEM)",
+"slug": "wikem Thoracic trauma",
+"category": "medical-first-aid",
+"paths": [
+"Thoracic_trauma"
+],
+"source_url": "https://www.wikem.org/wiki/Thoracic_trauma"
+},
+{
+"key": "Thumb_spica_splint",
+"title": "Thumb spica splint (WikEM)",
+"slug": "wikem Thumb spica splint",
+"category": "medical-first-aid",
+"paths": [
+"Thumb_spica_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Thumb_spica_splint"
+},
+{
+"key": "Tick_paralysis",
+"title": "Tick paralysis (WikEM)",
+"slug": "wikem Tick paralysis",
+"category": "medical-first-aid",
+"paths": [
+"Tick_paralysis"
+],
+"source_url": "https://www.wikem.org/wiki/Tick_paralysis"
+},
+{
+"key": "Tick_removal",
+"title": "Tick removal (WikEM)",
+"slug": "wikem Tick removal",
+"category": "medical-first-aid",
+"paths": [
+"Tick_removal"
+],
+"source_url": "https://www.wikem.org/wiki/Tick_removal"
+},
+{
+"key": "Tongue_laceration",
+"title": "Tongue laceration (WikEM)",
+"slug": "wikem Tongue laceration",
+"category": "medical-first-aid",
+"paths": [
+"Tongue_laceration"
+],
+"source_url": "https://www.wikem.org/wiki/Tongue_laceration"
+},
+{
+"key": "Tourniquet_(extremity)",
+"title": "Tourniquet (extremity) (WikEM)",
+"slug": "wikem Tourniquet (extremity)",
+"category": "medical-first-aid",
+"paths": [
+"Tourniquet_(extremity)"
+],
+"source_url": "https://www.wikem.org/wiki/Tourniquet_(extremity)"
+},
+{
+"key": "Tourniquet_(junctional)",
+"title": "Tourniquet (junctional) (WikEM)",
+"slug": "wikem Tourniquet (junctional)",
+"category": "medical-first-aid",
+"paths": [
+"Tourniquet_(junctional)"
+],
+"source_url": "https://www.wikem.org/wiki/Tourniquet_(junctional)"
+},
+{
+"key": "Toxic_alcohols",
+"title": "Toxic alcohols (WikEM)",
+"slug": "wikem Toxic alcohols",
+"category": "medical-first-aid",
+"paths": [
+"Toxic_alcohols"
+],
+"source_url": "https://www.wikem.org/wiki/Toxic_alcohols"
+},
+{
+"key": "Toxicology_(main)",
+"title": "Toxicology (main) (WikEM)",
+"slug": "wikem Toxicology (main)",
+"category": "medical-first-aid",
+"paths": [
+"Toxicology_(main)"
+],
+"source_url": "https://www.wikem.org/wiki/Toxicology_(main)"
+},
+{
+"key": "Toxidromes",
+"title": "Toxidromes (WikEM)",
+"slug": "wikem Toxidromes",
+"category": "medical-first-aid",
+"paths": [
+"Toxidromes"
+],
+"source_url": "https://www.wikem.org/wiki/Toxidromes"
+},
+{
+"key": "Traumatic_cardiac_arrest",
+"title": "Traumatic cardiac arrest (WikEM)",
+"slug": "wikem Traumatic cardiac arrest",
+"category": "medical-first-aid",
+"paths": [
+"Traumatic_cardiac_arrest"
+],
+"source_url": "https://www.wikem.org/wiki/Traumatic_cardiac_arrest"
+},
+{
+"key": "Traumatic_hyphema",
+"title": "Traumatic hyphema (WikEM)",
+"slug": "wikem Traumatic hyphema",
+"category": "medical-first-aid",
+"paths": [
+"Traumatic_hyphema"
+],
+"source_url": "https://www.wikem.org/wiki/Traumatic_hyphema"
+},
+{
+"key": "Traumatic_pneumothorax",
+"title": "Traumatic pneumothorax (WikEM)",
+"slug": "wikem Traumatic pneumothorax",
+"category": "medical-first-aid",
+"paths": [
+"Traumatic_pneumothorax"
+],
+"source_url": "https://www.wikem.org/wiki/Traumatic_pneumothorax"
+},
+{
+"key": "Trench_foot",
+"title": "Trench foot (WikEM)",
+"slug": "wikem Trench foot",
+"category": "medical-first-aid",
+"paths": [
+"Trench_foot"
+],
+"source_url": "https://www.wikem.org/wiki/Trench_foot"
+},
+{
+"key": "Ulnar_gutter_splint",
+"title": "Ulnar gutter splint (WikEM)",
+"slug": "wikem Ulnar gutter splint",
+"category": "medical-first-aid",
+"paths": [
+"Ulnar_gutter_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Ulnar_gutter_splint"
+},
+{
+"key": "Ultraviolet_keratitis",
+"title": "Ultraviolet keratitis (WikEM)",
+"slug": "wikem Ultraviolet keratitis",
+"category": "medical-first-aid",
+"paths": [
+"Ultraviolet_keratitis"
+],
+"source_url": "https://www.wikem.org/wiki/Ultraviolet_keratitis"
+},
+{
+"key": "Umbilical_cord_prolapse",
+"title": "Umbilical cord prolapse (WikEM)",
+"slug": "wikem Umbilical cord prolapse",
+"category": "medical-first-aid",
+"paths": [
+"Umbilical_cord_prolapse"
+],
+"source_url": "https://www.wikem.org/wiki/Umbilical_cord_prolapse"
+},
+{
+"key": "Vacuum_splint",
+"title": "Vacuum splint (WikEM)",
+"slug": "wikem Vacuum splint",
+"category": "medical-first-aid",
+"paths": [
+"Vacuum_splint"
+],
+"source_url": "https://www.wikem.org/wiki/Vacuum_splint"
+},
+{
+"key": "Wound_ballistics",
+"title": "Wound ballistics (WikEM)",
+"slug": "wikem Wound ballistics",
+"category": "medical-first-aid",
+"paths": [
+"Wound_ballistics"
+],
+"source_url": "https://www.wikem.org/wiki/Wound_ballistics"
+},
+{
+"key": "Zinc_phosphide_poisoning",
+"title": "Zinc phosphide poisoning (WikEM)",
+"slug": "wikem Zinc phosphide poisoning",
+"category": "medical-first-aid",
+"paths": [
+"Zinc_phosphide_poisoning"
+],
+"source_url": "https://www.wikem.org/wiki/Zinc_phosphide_poisoning"
+},
+{
+"key": "Water_purification",
+"title": "Water purification (WikEM)",
+"slug": "wikem Water purification",
+"category": "water",
+"paths": [
+"Water_purification"
+],
+"source_url": "https://www.wikem.org/wiki/Water_purification"
+},
+{
+"key": "Fever_in_traveler",
+"title": "Fever in traveler (WikEM)",
+"slug": "wikem Fever in traveler",
+"category": "wilderness-survival",
+"paths": [
+"Fever_in_traveler"
+],
+"source_url": "https://www.wikem.org/wiki/Fever_in_traveler"
+},
+{
+"key": "Rucksack_paralysis",
+"title": "Rucksack paralysis (WikEM)",
+"slug": "wikem Rucksack paralysis",
+"category": "wilderness-survival",
+"paths": [
+"Rucksack_paralysis"
+],
+"source_url": "https://www.wikem.org/wiki/Rucksack_paralysis"
+},
+{
+"key": "Safety_at_sea",
+"title": "Safety at sea (WikEM)",
+"slug": "wikem Safety at sea",
+"category": "wilderness-survival",
+"paths": [
+"Safety_at_sea"
+],
+"source_url": "https://www.wikem.org/wiki/Safety_at_sea"
+},
+{
+"key": "Traveler's_diarrhea",
+"title": "Traveler's diarrhea (WikEM)",
+"slug": "wikem Traveler's diarrhea",
+"category": "wilderness-survival",
+"paths": [
+"Traveler's_diarrhea"
+],
+"source_url": "https://www.wikem.org/wiki/Traveler's_diarrhea"
+},
+{
+"key": "Wilderness_preparedness",
+"title": "Wilderness preparedness (WikEM)",
+"slug": "wikem Wilderness preparedness",
+"category": "wilderness-survival",
+"paths": [
+"Wilderness_preparedness"
+],
+"source_url": "https://www.wikem.org/wiki/Wilderness_preparedness"
+}
+]
+}

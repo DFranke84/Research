@@ -1,0 +1,1010 @@
+{
+"pack": "se-sustainability",
+"kind": "stackexchange",
+"title": "Stack Exchange - sustainability",
+"about": "Top-voted questions with their best answers from sustainability.stackexchange.com.",
+"archive": "se-sustainability",
+"made": "2026-10-17",
+"items": [
+{
+"path": "questions/7009/is-burning-wood-the-same-as-letting-it-biodegrade-from-a-co2-emissions-perspec",
+"title": "Is burning wood the same as letting it biodegrade from a CO2 emissions perspective?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/815/shall-i-boil-water-with-a-water-boiler-cooker-or-with-a-pot",
+"title": "Shall I boil water with a water boiler (cooker) or with a pot?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/267/what-are-the-key-principles-for-designing-a-rocket-stove",
+"title": "What are the key principles for designing a rocket stove?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2888/what-is-the-most-environmentally-friendly-fuel-source-e-g-wood-coal-oils-alcoh",
+"title": "What is the most environmentally-friendly fuel source (e.g. wood, coal, oils, alcohols) for campfire cooking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2642/aerogel-as-home-insulation",
+"title": "Aerogel as home insulation?",
+"category": "energy-power"
+},
+{
+"path": "questions/208/alternative-for-electrical-washing-machine",
+"title": "Alternative for electrical washing machine",
+"category": "energy-power"
+},
+{
+"path": "questions/105/any-use-for-norfolk-island-pine-leaves",
+"title": "Any use for Norfolk Island Pine leaves?",
+"category": "energy-power"
+},
+{
+"path": "questions/5173/are-plastic-cups-more-environmental-friendly-than-ceramic-mugs",
+"title": "Are plastic cups more environmental friendly than ceramic mugs?",
+"category": "energy-power"
+},
+{
+"path": "questions/3017/are-rechargeable-batteries-better-for-the-environment-than-disposables-even-if",
+"title": "Are rechargeable batteries better for the environment than disposables even if the batteries are recycled?",
+"category": "energy-power"
+},
+{
+"path": "questions/1024/are-tracking-mounts-cost-effective-for-home-photovoltaic-systems",
+"title": "Are tracking mounts cost-effective for home photovoltaic systems?",
+"category": "energy-power"
+},
+{
+"path": "questions/152/can-solar-panels-be-recycled",
+"title": "Can solar panels be recycled?",
+"category": "energy-power"
+},
+{
+"path": "questions/1190/cost-effective-alternative-to-rechargeable-batteries",
+"title": "Cost-effective alternative to rechargeable batteries?",
+"category": "energy-power"
+},
+{
+"path": "questions/120/do-small-portable-solar-chargers-generate-more-energy-than-it-costs-to-produce",
+"title": "Do small portable solar chargers generate more energy than it costs to produce them?",
+"category": "energy-power"
+},
+{
+"path": "questions/3101/do-switchable-sockets-left-on-use-electricity-if-there-s-nothing-plugged-in",
+"title": "Do switchable sockets left \"on\" use electricity if there's nothing plugged in?",
+"category": "energy-power"
+},
+{
+"path": "questions/4888/do-usb-outlets-waste-energy-just-like-conventional-wall-warts",
+"title": "Do USB outlets waste energy just like conventional wall warts?",
+"category": "energy-power"
+},
+{
+"path": "questions/2814/does-it-matter-where-i-charge-my-device",
+"title": "Does it matter where I charge my device?",
+"category": "energy-power"
+},
+{
+"path": "questions/6035/domestic-flywheel-energy-storage-how-close-are-we",
+"title": "Domestic flywheel energy storage: how close are we?",
+"category": "energy-power"
+},
+{
+"path": "questions/155/estimating-the-cost-of-solar-panels-and-return-time",
+"title": "Estimating the cost of solar panels and return time?",
+"category": "energy-power"
+},
+{
+"path": "questions/238/filtering-indoor-air-with-plants",
+"title": "Filtering indoor air with plants?",
+"category": "energy-power"
+},
+{
+"path": "questions/349/forcing-water-circulation-in-solar-hot-water-installation",
+"title": "Forcing water circulation in solar hot water installation",
+"category": "energy-power"
+},
+{
+"path": "questions/73/how-can-i-add-thermal-mass-to-a-woodstove-without-a-lot-of-weight",
+"title": "How can I add thermal mass to a woodstove, without a lot of weight?",
+"category": "energy-power"
+},
+{
+"path": "questions/319/how-can-i-decarbonise-my-domestic-heating-given-severe-physical-constraints",
+"title": "How can I decarbonise my domestic heating, given severe physical constraints?",
+"category": "energy-power"
+},
+{
+"path": "questions/358/how-can-i-determine-the-u-value-or-r-value-of-my-existing-double-glazing-syste",
+"title": "How can I determine the U-value (or R-value) of my existing double glazing system?",
+"category": "energy-power"
+},
+{
+"path": "questions/43/how-can-i-determine-whether-roof-top-wind-turbines-would-be-beneficial-in-my-a",
+"title": "How can I determine whether roof top wind turbines would be beneficial in my area?",
+"category": "energy-power"
+},
+{
+"path": "questions/6120/how-can-i-extend-the-life-of-mobile-phones-that-can-t-be-used-in-my-country-an",
+"title": "How can I extend the life of mobile phones that can't be used in my country anymore?",
+"category": "energy-power"
+},
+{
+"path": "questions/306/how-can-i-get-my-landlord-to-install-better-insulation",
+"title": "How can I get my landlord to install better insulation?",
+"category": "energy-power"
+},
+{
+"path": "questions/2683/how-do-i-recycle-batteries-in-argentina",
+"title": "How do I recycle batteries in Argentina?",
+"category": "energy-power"
+},
+{
+"path": "questions/5216/how-do-i-set-myself-up-to-not-have-to-mow-the-lawn",
+"title": "How do I set myself up to not have to mow the lawn?",
+"category": "energy-power"
+},
+{
+"path": "questions/4394/how-do-white-roofs-cause-global-warming",
+"title": "How do white roofs cause global warming?",
+"category": "energy-power"
+},
+{
+"path": "questions/10418/how-exactly-do-the-impacts-of-lithium-mining-compare-to-oil-extraction-over-a-",
+"title": "How exactly do the impacts of lithium mining compare to oil extraction over a vehicle's lifetime?",
+"category": "energy-power"
+},
+{
+"path": "questions/5840/how-many-times-do-you-need-to-use-a-cheap-re-usable-bag-to-offset-its-impact",
+"title": "How many times do you need to use a cheap re-usable bag to offset its impact?",
+"category": "energy-power"
+},
+{
+"path": "questions/883/how-much-energy-does-it-take-to-create-a-single-light-bulb",
+"title": "How much energy does it take to create a single light bulb?",
+"category": "energy-power"
+},
+{
+"path": "questions/4391/how-much-power-can-a-bicycle-generator-produce",
+"title": "How much power can a bicycle generator produce?",
+"category": "energy-power"
+},
+{
+"path": "questions/616/how-to-choose-the-most-sustainable-battery-for-small-portable-devices",
+"title": "How to choose the most sustainable battery for small portable devices?",
+"category": "energy-power"
+},
+{
+"path": "questions/34/how-to-keep-warm-with-limited-use-of-fire",
+"title": "How to keep warm with limited use of fire?",
+"category": "energy-power"
+},
+{
+"path": "questions/1077/how-to-measure-the-energy-output-of-a-thermal-solar-hot-water-system",
+"title": "How to measure the energy output of a thermal solar hot water system?",
+"category": "energy-power"
+},
+{
+"path": "questions/1137/how-to-store-plastic-bags-for-easy-access",
+"title": "How to store plastic bags for easy access?",
+"category": "energy-power"
+},
+{
+"path": "questions/2445/if-i-can-create-enough-electricty-from-solar-should-i-store-and-use-it-rather-",
+"title": "If I can create enough electricty from solar should I store and use it rather than feed back to the grid?",
+"category": "energy-power"
+},
+{
+"path": "questions/4904/is-an-electric-shaver-more-sustainable-than-water-based-shaving-and-how-to-det",
+"title": "Is an electric shaver more sustainable than water-based shaving ? And how to determine so for one's context?",
+"category": "energy-power"
+},
+{
+"path": "questions/1213/is-it-practical-to-use-an-infrared-space-heater-along-with-a-heat-pump-system",
+"title": "Is it practical to use an infrared space heater along with a heat pump system?",
+"category": "energy-power"
+},
+{
+"path": "questions/876/is-it-true-that-if-you-have-a-thermostat-then-there-is-no-such-thing-as-waste-",
+"title": "Is it true that if you have a thermostat, then there is no such thing as 'waste heat'",
+"category": "energy-power"
+},
+{
+"path": "questions/592/large-scale-reuse-of-glass-bottles",
+"title": "Large-scale reuse of glass bottles",
+"category": "energy-power"
+},
+{
+"path": "questions/657/leaving-the-oven-door-open-for-heat-bad-idea",
+"title": "Leaving the oven door open for heat - bad idea?",
+"category": "energy-power"
+},
+{
+"path": "questions/2874/lowering-the-heating-thermostat-at-night-is-it-really-worth-it",
+"title": "Lowering the heating thermostat at night: is it really worth it?",
+"category": "energy-power"
+},
+{
+"path": "questions/2355/options-to-suggest-to-landlord-for-cost-savings-via-renewable-energy",
+"title": "Options to suggest to landlord for cost savings via renewable energy?",
+"category": "energy-power"
+},
+{
+"path": "questions/4335/prevent-concrete-roof-from-absorbing-too-much-heat-during-summer",
+"title": "Prevent concrete roof from absorbing too much heat during summer",
+"category": "energy-power"
+},
+{
+"path": "questions/26/producing-my-own-energy-options-in-urban-area-with-windows-but-no-roof-access",
+"title": "Producing my own energy options in urban area with windows but no roof access?",
+"category": "energy-power"
+},
+{
+"path": "questions/568/propane-vs-electric-vs-heat-pump",
+"title": "Propane vs. Electric vs. Heat Pump",
+"category": "energy-power"
+},
+{
+"path": "questions/6791/reuse-or-dollar-vote",
+"title": "Reuse or \"dollar vote\"?",
+"category": "energy-power"
+},
+{
+"path": "questions/2463/should-i-keep-laptop-and-cellphone-batteries-fully-charged-let-them-die-before",
+"title": "Should I keep laptop and cellphone batteries fully charged, let them die before charging, or something in between?",
+"category": "energy-power"
+},
+{
+"path": "questions/489/should-i-reuse-or-recycle-ziploc-bags",
+"title": "Should I reuse or recycle Ziploc bags?",
+"category": "energy-power"
+},
+{
+"path": "questions/36/should-i-use-my-wood-fireplace",
+"title": "Should I use my wood fireplace?",
+"category": "energy-power"
+},
+{
+"path": "questions/4890/should-i-worry-about-the-minimum-mark-on-our-kettle",
+"title": "Should I worry about the minimum mark on our kettle?",
+"category": "energy-power"
+},
+{
+"path": "questions/2312/should-solar-panels-be-installed-before-or-after-re-shingling-the-roof",
+"title": "Should solar panels be installed before or after re-shingling the roof?",
+"category": "energy-power"
+},
+{
+"path": "questions/938/sustainability-of-steel-versus-plastic-bottles",
+"title": "Sustainability of steel versus plastic bottles",
+"category": "energy-power"
+},
+{
+"path": "questions/360/sustainable-roofing-materials",
+"title": "Sustainable Roofing Materials",
+"category": "energy-power"
+},
+{
+"path": "questions/6259/to-what-extent-if-any-are-electric-vehicle-batteries-recyclable",
+"title": "To what extent (if any) are electric vehicle batteries recyclable?",
+"category": "energy-power"
+},
+{
+"path": "questions/664/trickle-charging-batteries-for-outdoor-usage-wind-turbine-suggestions",
+"title": "Trickle-charging batteries for outdoor usage/ wind turbine suggestions",
+"category": "energy-power"
+},
+{
+"path": "questions/3180/use-waste-heat-of-electrical-appliances-in-place-of-traditional-heating",
+"title": "Use waste heat of electrical appliances in place of traditional heating?",
+"category": "energy-power"
+},
+{
+"path": "questions/1172/water-heating-electricity-production-by-using-earth-s-warmth",
+"title": "Water heating / electricity production by using earth's warmth?",
+"category": "energy-power"
+},
+{
+"path": "questions/514/what-advantages-any-does-water-heating-via-photovoltaic-system-have-over-solar",
+"title": "What advantages (any?) does water heating via photovoltaic system have over solar thermal?",
+"category": "energy-power"
+},
+{
+"path": "questions/4450/what-alternatives-to-batteries-exist-to-store-solar-energy-at-home",
+"title": "What alternatives to batteries exist to store solar energy at home?",
+"category": "energy-power"
+},
+{
+"path": "questions/2863/what-are-the-sustainability-issues-in-moving-house",
+"title": "What are the sustainability issues in moving house?",
+"category": "energy-power"
+},
+{
+"path": "questions/2522/what-does-reduce-reuse-recycle-actually-mean",
+"title": "What does \"reduce reuse recycle\" actually mean?",
+"category": "energy-power"
+},
+{
+"path": "questions/881/what-form-of-electrical-lighting-has-the-smallest-energy-footprint",
+"title": "What form of electrical lighting has the smallest energy-footprint?",
+"category": "energy-power"
+},
+{
+"path": "questions/175/what-is-an-easy-way-to-cool-off-during-the-summer-without-electricity",
+"title": "What is an easy way to cool off during the summer without electricity?",
+"category": "energy-power"
+},
+{
+"path": "questions/114/what-is-an-energy-efficient-way-to-get-fresh-air-indoors-during-winter",
+"title": "What is an energy efficient way to get fresh air indoors during winter?",
+"category": "energy-power"
+},
+{
+"path": "questions/867/what-is-the-most-sustainable-heating-strategy-for-a-home",
+"title": "What is the most sustainable heating strategy for a home?",
+"category": "energy-power"
+},
+{
+"path": "questions/882/what-is-the-most-sustainable-house-insulation-suitable-for-a-cold-climate",
+"title": "What is the most sustainable house insulation suitable for a cold climate?",
+"category": "energy-power"
+},
+{
+"path": "questions/457/what-is-the-relationship-between-energy-efficiency-and-sustainability",
+"title": "What is the relationship between energy efficiency and sustainability?",
+"category": "energy-power"
+},
+{
+"path": "questions/649/what-sustainable-packaging-can-be-used-for-meat-in-the-freezer",
+"title": "What sustainable packaging can be used for meat in the freezer?",
+"category": "energy-power"
+},
+{
+"path": "questions/456/what-type-of-photovoltaic-cells-are-the-most-environmentally-friendly",
+"title": "What type of photovoltaic cells are the most environmentally friendly?",
+"category": "energy-power"
+},
+{
+"path": "questions/5532/what-s-the-average-efficiency-of-pumped-hydroelectric-energy-storage-facilitie",
+"title": "What's the average efficiency of pumped hydroelectric energy storage facilities?",
+"category": "energy-power"
+},
+{
+"path": "questions/117/what-s-the-typical-energy-usage-of-automatic-light-switches",
+"title": "What's the typical energy usage of automatic light switches?",
+"category": "energy-power"
+},
+{
+"path": "questions/523/when-to-buy-new-when-to-keep-the-old",
+"title": "When to buy new, when to keep the old?",
+"category": "energy-power"
+},
+{
+"path": "questions/203/which-kind-of-paper-should-be-recycled-and-which-should-be-burned",
+"title": "Which kind of paper should be recycled and which should be burned?",
+"category": "energy-power"
+},
+{
+"path": "questions/189/which-plastics-should-i-avoid-and-what-qualities-of-plastics-are-important-to-",
+"title": "Which plastics should I avoid and what qualities of plastics are important to consider?",
+"category": "energy-power"
+},
+{
+"path": "questions/750/which-refrigerant-is-used-in-today-s-refrigerators-and-how-harmful-is-it",
+"title": "Which refrigerant is used in today's refrigerators and how harmful is it?",
+"category": "energy-power"
+},
+{
+"path": "questions/1013/which-solar-power-technology-has-the-highest-energy-return-on-investment-eroi-",
+"title": "Which solar power technology has the highest energy return on investment (EROI aka EROEI)?",
+"category": "energy-power"
+},
+{
+"path": "questions/1306/which-type-of-portable-electric-heater-is-better",
+"title": "Which type of portable electric heater is better?",
+"category": "energy-power"
+},
+{
+"path": "questions/2766/which-types-of-spare-electric-motors-from-common-consumer-appliances-are-suita",
+"title": "Which types of spare electric motors from common consumer appliances are suitable to repurpose as generators?",
+"category": "energy-power"
+},
+{
+"path": "questions/9800/why-am-i-offered-a-5-kw-inverter-with-a-6-6-kw-solar-installation",
+"title": "Why am I offered a 5 kW inverter with a 6.6 kW solar installation?",
+"category": "energy-power"
+},
+{
+"path": "questions/10709/why-don-t-they-make-playgrounds-generate-electricity",
+"title": "Why don't they make playgrounds generate electricity?",
+"category": "energy-power"
+},
+{
+"path": "questions/10444/why-is-there-no-spring-based-energy-storage",
+"title": "Why is there no spring based energy storage?",
+"category": "energy-power"
+},
+{
+"path": "questions/37/would-monocrystalline-or-polycrystalline-solar-panels-perform-best-in-a-uk-cli",
+"title": "Would monocrystalline or polycrystalline solar panels perform best in a UK climate?",
+"category": "energy-power"
+},
+{
+"path": "questions/2413/alternative-to-paper-towels-for-draining-fried-food",
+"title": "Alternative to paper towels for draining fried food?",
+"category": "food-production"
+},
+{
+"path": "questions/635/ants-and-compost",
+"title": "Ants and Compost",
+"category": "food-production"
+},
+{
+"path": "questions/472/are-mouldy-kitchen-scraps-okay-to-compost",
+"title": "Are mouldy kitchen scraps okay to compost?",
+"category": "food-production"
+},
+{
+"path": "questions/16/are-there-any-commercially-available-endophytic-fungi-to-protect-fruit-trees-a",
+"title": "Are there any commercially available endophytic fungi to protect fruit trees against rusts?",
+"category": "food-production"
+},
+{
+"path": "questions/228/can-organic-waste-be-turned-into-fish-food",
+"title": "Can organic waste be turned into fish food?",
+"category": "food-production"
+},
+{
+"path": "questions/1209/complete-composting-novice-with-a-bucket-of-stinky-black-slime-toss-or-keep",
+"title": "Complete composting novice with a bucket of stinky black slime--toss or keep?",
+"category": "food-production"
+},
+{
+"path": "questions/320/compost-in-the-sun-or-shade",
+"title": "Compost in the sun or shade?",
+"category": "food-production"
+},
+{
+"path": "questions/1151/composting-teabags",
+"title": "Composting teabags?",
+"category": "food-production"
+},
+{
+"path": "questions/798/cooked-food-composting",
+"title": "Cooked food composting",
+"category": "food-production"
+},
+{
+"path": "questions/405/dealing-with-bugs-in-compost",
+"title": "Dealing with bugs in compost",
+"category": "food-production"
+},
+{
+"path": "questions/471/dealing-with-seeds-in-a-compost-pile",
+"title": "Dealing with seeds in a compost pile",
+"category": "food-production"
+},
+{
+"path": "questions/15/does-a-compost-pile-for-food-scraps-need-some-kind-of-starter-material",
+"title": "Does a compost pile for food scraps need some kind of starter material?",
+"category": "food-production"
+},
+{
+"path": "questions/1177/getting-rid-of-immature-windfallen-apples",
+"title": "Getting rid of immature windfallen apples",
+"category": "food-production"
+},
+{
+"path": "questions/4937/heating-water-with-compost",
+"title": "Heating water with compost",
+"category": "food-production"
+},
+{
+"path": "questions/11/how-can-an-employer-induce-snack-food-companies-to-package-in-compostable-mate",
+"title": "How can an employer induce snack food companies to package in compostable materials?",
+"category": "food-production"
+},
+{
+"path": "questions/1181/how-can-i-build-an-effective-rotary-composter",
+"title": "How can I build an effective rotary composter?",
+"category": "food-production"
+},
+{
+"path": "questions/210/how-can-i-detect-leachate-from-a-compost-pile",
+"title": "How can I detect leachate from a compost pile?",
+"category": "food-production"
+},
+{
+"path": "questions/1272/how-can-i-manage-a-ton-per-month-worm-composting",
+"title": "How can I manage a ton-per-month worm composting?",
+"category": "food-production"
+},
+{
+"path": "questions/822/how-can-i-manage-my-fridge-s-contents-better",
+"title": "How can I manage my fridge's contents better?",
+"category": "food-production"
+},
+{
+"path": "questions/119/how-can-i-save-seeds-from-a-tomato-for-replanting",
+"title": "How can I save seeds from a tomato for replanting?",
+"category": "food-production"
+},
+{
+"path": "questions/169/how-can-i-seal-a-pond-without-using-a-plastic-pond-liner",
+"title": "How can I seal a pond without using a plastic pond liner?",
+"category": "food-production"
+},
+{
+"path": "questions/265/how-can-i-use-my-balcony-compost-during-winter",
+"title": "How can I use my balcony compost during winter?",
+"category": "food-production"
+},
+{
+"path": "questions/5212/how-difficult-is-it-to-build-your-own-dry-self-composting-toilet",
+"title": "How difficult is it to build your own dry, self-composting toilet?",
+"category": "food-production"
+},
+{
+"path": "questions/4610/how-food-producers-calculate-best-before-date",
+"title": "How food producers calculate \"best before\" date?",
+"category": "food-production"
+},
+{
+"path": "questions/2607/how-is-compostable-plastic-recycled-composted-industrially",
+"title": "How is compostable plastic recycled/composted industrially?",
+"category": "food-production"
+},
+{
+"path": "questions/3/how-much-area-to-feed-the-colony-of-snails",
+"title": "How much area to feed the colony of snails?",
+"category": "food-production"
+},
+{
+"path": "questions/1/how-much-space-do-i-need-for-a-colony-of-grasshoppers",
+"title": "How much space do I need for a colony of grasshoppers?",
+"category": "food-production"
+},
+{
+"path": "questions/1071/how-plants-survive-in-aquaponics",
+"title": "How plants survive in aquaponics?",
+"category": "food-production"
+},
+{
+"path": "questions/322/how-to-aerate-compost-without-turning",
+"title": "How to aerate compost without turning?",
+"category": "food-production"
+},
+{
+"path": "questions/537/how-to-get-rid-of-fruit-fly-infestation-in-worm-composting-bin",
+"title": "How to get rid of fruit fly infestation in worm composting bin?",
+"category": "food-production"
+},
+{
+"path": "questions/23/how-to-get-rid-of-greenfly-in-roses-and-grapes-without-toxic-chemicals",
+"title": "How to get rid of greenfly in roses and grapes without toxic chemicals?",
+"category": "food-production"
+},
+{
+"path": "questions/290/how-to-incorporate-browns-in-apartment-food-scrap-compost",
+"title": "How to incorporate browns in apartment food scrap compost?",
+"category": "food-production"
+},
+{
+"path": "questions/5/how-to-preserve-meat-during-warm-months-without-electricity",
+"title": "How to preserve meat during warm months without electricity?",
+"category": "food-production"
+},
+{
+"path": "questions/2/how-to-utilize-a-boreal-forest-for-animal-husbandry",
+"title": "How to utilize a boreal forest for animal husbandry?",
+"category": "food-production"
+},
+{
+"path": "questions/604/is-drip-irrigation-more-water-efficient-than-conventional-watering",
+"title": "Is drip irrigation more water-efficient than conventional watering?",
+"category": "food-production"
+},
+{
+"path": "questions/3085/is-eating-beef-unsustainable",
+"title": "Is eating beef unsustainable?",
+"category": "food-production"
+},
+{
+"path": "questions/242/is-it-better-to-recycle-or-compost-brown-paper-bags",
+"title": "Is it better to recycle or compost brown paper bags?",
+"category": "food-production"
+},
+{
+"path": "questions/7/is-it-feasible-to-compost-in-an-apartment-in-a-city-like-new-york",
+"title": "Is it feasible to compost in an apartment in a city like New York?",
+"category": "food-production"
+},
+{
+"path": "questions/752/is-it-legal-to-have-chickens-in-nyc",
+"title": "Is it legal to have chickens in NYC?",
+"category": "food-production"
+},
+{
+"path": "questions/328/is-it-normal-to-have-maggots-in-my-compost",
+"title": "Is it normal to have maggots in my compost?",
+"category": "food-production"
+},
+{
+"path": "questions/4940/is-plastic-food-packaging-100-reusable",
+"title": "Is plastic food packaging 100% reusable?",
+"category": "food-production"
+},
+{
+"path": "questions/20/is-there-a-formula-to-calculate-the-amount-rainwater-you-need-to-collect-to-be",
+"title": "Is there a formula to calculate the amount rainwater you need to collect to be fully sufficient in watering your plants?",
+"category": "food-production"
+},
+{
+"path": "questions/92/local-greenhouse-hothouse-vegetables-vs-remote-naturally-grown-vegetables",
+"title": "Local greenhouse/hothouse vegetables vs. remote naturally-grown vegetables",
+"category": "food-production"
+},
+{
+"path": "questions/832/meat-or-fish-which-requires-more-energy-to-produce",
+"title": "Meat or fish, which requires more energy to produce?",
+"category": "food-production"
+},
+{
+"path": "questions/465/planting-trees-for-firewood-how-many",
+"title": "Planting trees for firewood - how many?",
+"category": "food-production"
+},
+{
+"path": "questions/2502/purpose-of-a-bottom-container-beneath-a-worm-farm",
+"title": "Purpose of a bottom container beneath a worm farm",
+"category": "food-production"
+},
+{
+"path": "questions/4665/removing-agricultural-plastic-film-waste-after-10-years-degradation",
+"title": "Removing agricultural plastic film waste after 10+ years degradation",
+"category": "food-production"
+},
+{
+"path": "questions/907/reusable-vs-disposable-diapers-which-is-better",
+"title": "Reusable vs. disposable diapers: which is better?",
+"category": "food-production"
+},
+{
+"path": "questions/555/reusing-buckets-for-flower-pots",
+"title": "Reusing buckets for flower pots?",
+"category": "food-production"
+},
+{
+"path": "questions/574/should-i-raise-my-own-animals-or-support-a-local-farm",
+"title": "Should I raise my own animals, or support a local farm?",
+"category": "food-production"
+},
+{
+"path": "questions/55/what-are-the-downsides-to-so-called-greenware-items",
+"title": "What are the downsides to so called greenware items?",
+"category": "food-production"
+},
+{
+"path": "questions/2432/what-area-is-needed-to-grow-enough-food-to-sustain-a-person-for-a-year",
+"title": "What area is needed to grow enough food to sustain a person for a year?",
+"category": "food-production"
+},
+{
+"path": "questions/5208/what-countries-favour-people-who-want-to-live-a-sustainable-lifestyle",
+"title": "What countries favour people who want to live a sustainable lifestyle?",
+"category": "food-production"
+},
+{
+"path": "questions/27/what-equation-should-be-used-to-determine-fish-load-to-grow-bed-filtration-rat",
+"title": "What equation should be used to determine fish load to grow bed (filtration) ratio",
+"category": "food-production"
+},
+{
+"path": "questions/357/what-is-a-permaculture-solution-for-dealing-with-deer-in-a-suburban-environmen",
+"title": "What is a permaculture solution for dealing with deer in a suburban environment?",
+"category": "food-production"
+},
+{
+"path": "questions/645/what-is-biochar-and-can-i-use-it-to-improve-my-garden",
+"title": "What is BioChar and can I use it to improve my garden?",
+"category": "food-production"
+},
+{
+"path": "questions/673/what-is-the-most-sustainable-way-to-handle-food-waste-throwing-food-scraps-int",
+"title": "What is the most sustainable way to handle food waste...throwing food scraps into garbage or down my sink's garbage disposal?",
+"category": "food-production"
+},
+{
+"path": "questions/725/what-kind-of-nuts-are-eco-friendly",
+"title": "What kind of nuts are eco-friendly?",
+"category": "food-production"
+},
+{
+"path": "questions/355/what-permaculture-solutions-are-there-for-slugs",
+"title": "What Permaculture solutions are there for slugs?",
+"category": "food-production"
+},
+{
+"path": "questions/29/what-produce-in-central-texas-works-in-hanging-towers",
+"title": "What produce in Central Texas works in hanging towers?",
+"category": "food-production"
+},
+{
+"path": "questions/480/what-strategy-to-follow-for-thinning-a-woodlot",
+"title": "What strategy to follow for thinning a woodlot?",
+"category": "food-production"
+},
+{
+"path": "questions/5141/what-to-do-with-expired-food",
+"title": "What to do with expired food?",
+"category": "food-production"
+},
+{
+"path": "questions/372/what-s-a-good-green-ground-cover-that-uses-less-water-than-a-lawn",
+"title": "What's a good green ground cover that uses less water than a lawn?",
+"category": "food-production"
+},
+{
+"path": "questions/2594/which-compostable-plastic-types-can-be-composted-at-home",
+"title": "Which compostable plastic types can be composted at home?",
+"category": "food-production"
+},
+{
+"path": "questions/4880/which-is-more-sustainable-almond-soy-coconut-cashew-or-other-milk",
+"title": "Which is more sustainable: Almond, Soy, Coconut, Cashew or Other Milk?",
+"category": "food-production"
+},
+{
+"path": "questions/5883/why-does-cheese-have-such-a-high-carbon-footprint",
+"title": "Why does cheese have such a high carbon footprint?",
+"category": "food-production"
+},
+{
+"path": "questions/158/why-should-i-compost",
+"title": "Why should I compost?",
+"category": "food-production"
+},
+{
+"path": "questions/38/why-shouldn-t-meat-be-placed-in-my-compost-pile",
+"title": "Why shouldn't meat be placed in my compost pile?",
+"category": "food-production"
+},
+{
+"path": "questions/655/non-compost-uses-for-egg-shells",
+"title": "(Non-compost) uses for egg-shells?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/82/alternative-to-toilet-paper",
+"title": "Alternative to Toilet Paper?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/4907/are-there-any-more-sustainable-alternatives-to-conventional-commercial-toothpa",
+"title": "Are there any more sustainable alternatives to conventional commercial toothpaste?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/871/are-there-any-viable-diy-or-commercial-solutions-to-convert-waste-heat-to-elec",
+"title": "Are there any viable DIY or commercial solutions to convert waste heat to electricity?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/61/biodegradable-cleaners-to-remove-mold",
+"title": "Biodegradable cleaners to remove mold?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/4772/co-firing-fossil-fuels-use-in-waste-incineration",
+"title": "Co-firing fossil fuels use in waste incineration",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/6593/does-transporting-plastic-offset-the-benefits-of-recycling-it",
+"title": "Does transporting plastic offset the benefits of recycling it?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/6874/how-can-ceramics-be-recycled",
+"title": "How can ceramics be recycled?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/1000/how-can-glass-be-recycled-reused-locally-in-rural-communities",
+"title": "How can glass be recycled/reused locally in rural communities?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/2507/how-can-i-tell-biodegradable-plastic-bags-apart-from-non-biodegradable",
+"title": "How can I tell biodegradable plastic bags apart from non-biodegradable?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/1018/how-do-i-keep-my-solar-panels-clean",
+"title": "How do I keep my solar panels clean?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/4366/how-to-properly-dispose-of-bubble-wrap-envelopes",
+"title": "How to properly dispose of bubble wrap envelopes?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/335/how-to-unsubscribe-from-junkmail-and-circulars",
+"title": "How to unsubscribe from junkmail and circulars?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/6928/is-it-better-to-put-something-potentially-unrecyclable-in-the-recycling-bin-or",
+"title": "Is it better to put something potentially unrecyclable in the recycling bin or to put something recyclable in the waste bin?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/246/is-it-sustainable-or-necessary-to-use-potable-water-to-wash-waste-before-recyc",
+"title": "Is it sustainable or necessary to use potable water to wash waste before recycling?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/247/is-there-a-deodorant-with-minimal-packaging-waste",
+"title": "Is there a deodorant with minimal packaging waste?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/237/is-there-a-recipe-for-sustainable-dishwasher-soap-that-brings-out-the-shine",
+"title": "Is there a recipe for sustainable dishwasher soap that brings out the shine?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/6511/is-using-a-menstrual-cup-better-for-the-environment-than-using-pads-or-tampons",
+"title": "Is using a menstrual cup better for the environment than using pads or tampons?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/1208/reusing-recycling-or-disposal-of-used-or-expired-cooking-oil",
+"title": "Reusing, recycling or disposal of used or expired cooking oil",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/3118/should-i-dry-my-hands-with-paper-towels-or-a-dryer",
+"title": "Should I dry my hands with paper towels or a dryer?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/1255/what-can-i-do-to-give-second-life-to-half-drained-batteries",
+"title": "What can I do to give second life to half-drained batteries?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/1249/what-is-the-most-efficient-way-to-deal-with-electronic-waste",
+"title": "What is the most efficient way to deal with electronic waste?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/5085/what-is-the-most-sustainable-way-of-making-coffee",
+"title": "What is the most sustainable way of making coffee?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/33/what-is-the-most-sustainable-way-to-professionally-clean-my-carpets",
+"title": "What is the most sustainable way to professionally clean my carpets?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/8/what-non-toxic-products-can-i-use-to-keep-my-kitchen-counters-clean-and-safe",
+"title": "What non-toxic products can I use to keep my kitchen counters clean and safe?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/47/what-percentage-of-plastic-drinking-bottles-is-recycled-after-use-worldwide",
+"title": "What percentage of plastic drinking bottles is recycled after use, worldwide?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/4468/what-to-do-with-old-unused-incandescent-light-bulbs",
+"title": "What to do with old, unused incandescent light bulbs?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/282/what-to-do-with-wood-ash",
+"title": "What to do with wood ash?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/2995/what-s-the-most-sustainable-way-of-disposing-with-a-used-battery",
+"title": "What's the most sustainable way of disposing with a used battery?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/2918/which-funeral-methods-are-more-sustainable-than-burial-or-cremation",
+"title": "Which funeral methods are more sustainable than burial or cremation?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/6/before-drilling-a-well-how-can-i-determine-any-water-table-impact",
+"title": "Before drilling a well, how can I determine any water table impact?",
+"category": "water"
+},
+{
+"path": "questions/842/does-a-dishwasher-save-water-in-the-long-term",
+"title": "Does a dishwasher save water in the long term?",
+"category": "water"
+},
+{
+"path": "questions/370/how-should-i-collect-and-convert-rain-water-into-drinking-water",
+"title": "How should I collect and convert rain water into drinking water?",
+"category": "water"
+},
+{
+"path": "questions/1223/how-to-build-a-waterfall-powered-electric-generator",
+"title": "How to build a waterfall powered electric generator?",
+"category": "water"
+},
+{
+"path": "questions/630/how-to-recover-water-from-washing-machine-for-toilet",
+"title": "How to recover water from washing machine for toilet",
+"category": "water"
+},
+{
+"path": "questions/281/is-it-economically-sensible-to-install-a-heat-exchanger-on-my-wastewater-pipes",
+"title": "Is it economically sensible to install a heat exchanger on my wastewater pipes?",
+"category": "water"
+},
+{
+"path": "questions/3030/leak-proof-water-bottles",
+"title": "Leak proof water bottles?",
+"category": "water"
+},
+{
+"path": "questions/103/maintaining-or-treating-harvested-water-for-animal-consumption",
+"title": "Maintaining or treating harvested water for animal consumption",
+"category": "water"
+},
+{
+"path": "questions/71/switching-to-toilet-sink-combo",
+"title": "Switching to Toilet/Sink Combo",
+"category": "water"
+},
+{
+"path": "questions/865/tea-in-the-microwave",
+"title": "Tea in the microwave",
+"category": "water"
+},
+{
+"path": "questions/776/what-are-the-cheapest-and-easiest-methods-to-convert-grey-water-to-potable-wat",
+"title": "What are the cheapest and easiest methods to convert grey water to potable water?",
+"category": "water"
+},
+{
+"path": "questions/18/what-is-a-good-way-to-produce-drinking-water",
+"title": "What is a good way to produce drinking water?",
+"category": "water"
+},
+{
+"path": "questions/837/what-is-worse-wasting-water-or-energy",
+"title": "What is worse: Wasting water or energy?",
+"category": "water"
+},
+{
+"path": "questions/75/what-s-an-effective-design-for-sending-sink-water-to-a-toilet-tank",
+"title": "What's an effective design for sending sink water to a toilet tank?",
+"category": "water"
+},
+{
+"path": "questions/172/what-s-the-virtual-water-content-of-a-cell-phone",
+"title": "What's the virtual water content of a cell phone?",
+"category": "water"
+},
+{
+"path": "questions/5455/why-can-t-solar-stills-convert-sea-water-into-fresh-water",
+"title": "Why can't solar stills convert sea water into fresh water?",
+"category": "water"
+},
+{
+"path": "questions/5354/why-don-t-toilets-use-saltwater",
+"title": "Why don't toilets use saltwater?",
+"category": "water"
+}
+]
+}

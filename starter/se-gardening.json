@@ -1,0 +1,2505 @@
+{
+"pack": "se-gardening",
+"kind": "stackexchange",
+"title": "Stack Exchange - gardening",
+"about": "Top-voted questions with their best answers from gardening.stackexchange.com.",
+"archive": "se-gardening",
+"made": "2026-10-17",
+"items": [
+{
+"path": "questions/24342/softening-plants-before-they-go-inside",
+"title": "\"Softening\" plants before they go inside?",
+"category": "food-production"
+},
+{
+"path": "questions/606/8-ft-tall-poison-ivy",
+"title": "8 ft tall Poison Ivy?",
+"category": "food-production"
+},
+{
+"path": "questions/23237/amending-clay-soil-on-a-large-scale",
+"title": "Amending clay soil on a large scale",
+"category": "food-production"
+},
+{
+"path": "questions/1241/ant-colony-in-my-compost-bin-are-they-beneficial",
+"title": "Ant colony in my compost bin: are they beneficial?",
+"category": "food-production"
+},
+{
+"path": "questions/544/ants-in-my-garden-good-or-bad",
+"title": "Ants in my garden: good or bad?",
+"category": "food-production"
+},
+{
+"path": "questions/1260/any-benefit-to-watering-whole-plant-leaves-and-all-instead-of-just-the-soil-ro",
+"title": "Any benefit to watering whole plant (leaves and all) instead of just the soil/roots?",
+"category": "food-production"
+},
+{
+"path": "questions/24421/any-way-to-save-a-large-tree-that-s-starting-to-split-crack-down-the-middle",
+"title": "Any way to save a large tree that's starting to split/crack down the middle?",
+"category": "food-production"
+},
+{
+"path": "questions/650/are-minerals-and-nutrients-the-same-thing",
+"title": "Are \"minerals\" and \"nutrients\" the same thing?",
+"category": "food-production"
+},
+{
+"path": "questions/1696/are-all-kinds-of-earthworms-good-for-the-soil",
+"title": "Are all kinds of earthworms good for the soil?",
+"category": "food-production"
+},
+{
+"path": "questions/1776/are-millipedes-good-or-bad-for-the-garden",
+"title": "Are millipedes  good or bad for the garden?",
+"category": "food-production"
+},
+{
+"path": "questions/2508/are-the-seed-pods-of-giant-sunflowers-normally-empty",
+"title": "Are the seed pods of giant sunflowers normally empty?",
+"category": "food-production"
+},
+{
+"path": "questions/24451/are-there-any-benefits-from-leaving-dead-leaves-in-the-soil-around-a-plant",
+"title": "Are there any benefits from leaving dead leaves in the soil around a plant?",
+"category": "food-production"
+},
+{
+"path": "questions/3512/are-these-tiny-tomato-seedlings-going-to-be-too-crowded",
+"title": "Are these tiny tomato seedlings going to be too crowded?",
+"category": "food-production"
+},
+{
+"path": "questions/110/best-help-for-a-tree-with-stunted-growth",
+"title": "Best help for a tree with stunted growth?",
+"category": "food-production"
+},
+{
+"path": "questions/33906/calorically-dense-crops-that-can-be-grown-in-southern-ontario-canada",
+"title": "Calorically dense crops that can be grown in southern Ontario, Canada?",
+"category": "food-production"
+},
+{
+"path": "questions/1045/can-jalapenos-be-grown-from-pickled-jalapeno-seeds",
+"title": "Can  jalapeños be grown from pickled jalapeño seeds?",
+"category": "food-production"
+},
+{
+"path": "questions/37883/can-a-tomato-plant-break-by-its-own-weight",
+"title": "Can a tomato plant break by its own weight?",
+"category": "food-production"
+},
+{
+"path": "questions/1060/can-cereal-boxes-be-used-for-mulch",
+"title": "Can cereal boxes be used for mulch?",
+"category": "food-production"
+},
+{
+"path": "questions/29421/can-drained-water-from-potted-plants-be-used-again-to-water-another-house-plan",
+"title": "Can drained water from potted plants be used again to water another house plant?",
+"category": "food-production"
+},
+{
+"path": "questions/1294/can-i-cut-off-exposed-tree-roots-without-harming-the-tree",
+"title": "Can I cut off exposed tree roots without harming the tree?",
+"category": "food-production"
+},
+{
+"path": "questions/40/can-i-fix-a-garden-tilled-too-early",
+"title": "Can I fix a garden tilled too early?",
+"category": "food-production"
+},
+{
+"path": "questions/390/can-i-grow-a-fruit-bearing-pistachio-tree",
+"title": "Can I grow a fruit bearing pistachio tree?",
+"category": "food-production"
+},
+{
+"path": "questions/4396/can-i-grow-a-pistachio-tree-from-seed",
+"title": "Can I grow a pistachio tree from seed?",
+"category": "food-production"
+},
+{
+"path": "questions/620/can-i-harvest-beetroot-early-as-micro-beetroots",
+"title": "Can I harvest beetroot early as \"micro beetroots\"?",
+"category": "food-production"
+},
+{
+"path": "questions/1092/can-i-harvest-celery-a-stalk-at-a-time",
+"title": "Can I harvest celery a stalk at a time?",
+"category": "food-production"
+},
+{
+"path": "questions/767/can-i-harvest-vegetable-seeds-and-store-for-the-next-year",
+"title": "Can I harvest vegetable seeds and store for the next year?",
+"category": "food-production"
+},
+{
+"path": "questions/1401/can-i-move-a-self-seeded-oak-tree-into-a-pot-to-keep-it-small",
+"title": "Can I move a self-seeded oak tree into a pot to keep it small?",
+"category": "food-production"
+},
+{
+"path": "questions/3148/can-i-put-coffee-filters-into-my-compost",
+"title": "Can I put coffee filters into my compost?",
+"category": "food-production"
+},
+{
+"path": "questions/1566/can-i-save-my-damaged-aloe-vera-plant",
+"title": "Can I save my damaged Aloe vera plant?",
+"category": "food-production"
+},
+{
+"path": "questions/24690/can-i-use-distilled-water-to-water-plants",
+"title": "Can I use \"distilled\" water to water plants?",
+"category": "food-production"
+},
+{
+"path": "questions/4537/can-i-water-plants-with-spoiled-wine",
+"title": "Can I water plants with spoiled wine?",
+"category": "food-production"
+},
+{
+"path": "questions/1900/can-kitchen-waste-be-used-as-manure",
+"title": "Can kitchen waste be used as manure?",
+"category": "food-production"
+},
+{
+"path": "questions/23905/can-marigold-flowers-keep-animals-away",
+"title": "Can Marigold flowers keep animals away?",
+"category": "food-production"
+},
+{
+"path": "questions/3402/can-plants-have-too-much-light-or-do-they-need-night-rest",
+"title": "Can plants have too much light, or do they need night/rest?",
+"category": "food-production"
+},
+{
+"path": "questions/5216/can-salt-be-used-to-control-weeds-permanently",
+"title": "Can salt be used to control weeds permanently?",
+"category": "food-production"
+},
+{
+"path": "questions/399/can-snail-pellets-be-safely-used-in-a-vegetable-garden-if-not-any-safer-altern",
+"title": "Can snail pellets be safely used in a vegetable garden? If not, any safer alternatives?",
+"category": "food-production"
+},
+{
+"path": "questions/3490/can-these-non-food-items-be-composted",
+"title": "Can these non-food items be composted?",
+"category": "food-production"
+},
+{
+"path": "questions/4493/can-this-peace-lily-be-saved",
+"title": "Can this peace lily be saved?",
+"category": "food-production"
+},
+{
+"path": "questions/504/can-we-take-out-the-whole-root-of-aloe-vera-and-replant-it-during-transplant",
+"title": "Can we take out the whole root of Aloe Vera and replant it during transplant?",
+"category": "food-production"
+},
+{
+"path": "questions/209/can-weeds-be-put-into-compost-or-will-they-grow-again-when-the-compost-is-used",
+"title": "Can weeds be put into compost, or will they grow again when the compost is used?",
+"category": "food-production"
+},
+{
+"path": "questions/1990/cherry-sapling-has-orange-dots-on-its-leaves-and-the-tips-are-wilting-what-cou",
+"title": "Cherry sapling has orange dots on its leaves and the tips are wilting. What could be wrong?",
+"category": "food-production"
+},
+{
+"path": "questions/4427/chlorine-vs-chloramine-both-harmful",
+"title": "Chlorine vs Chloramine: Both harmful?",
+"category": "food-production"
+},
+{
+"path": "questions/31035/chuck-the-plant-am-i-ill",
+"title": "Chuck the plant - am I ill?",
+"category": "food-production"
+},
+{
+"path": "questions/1344/composting-bins-diy-vs-bought",
+"title": "Composting Bins - DIY vs Bought",
+"category": "food-production"
+},
+{
+"path": "questions/295/crop-rotation-theory-v-practice",
+"title": "Crop rotation theory v. practice",
+"category": "food-production"
+},
+{
+"path": "questions/14274/do-any-plants-add-nutrients-back-into-the-soil-as-they-grow",
+"title": "Do any plants add nutrients back into the soil as they grow?",
+"category": "food-production"
+},
+{
+"path": "questions/1210/do-brassicas-like-to-be-transplanted-deeper-than-the-previous-pot",
+"title": "Do brassicas like to be transplanted deeper than the previous pot?",
+"category": "food-production"
+},
+{
+"path": "questions/3677/do-chemicals-leach-from-the-sides-of-raised-beds",
+"title": "Do chemicals leach from the sides of raised beds?",
+"category": "food-production"
+},
+{
+"path": "questions/1866/do-i-need-to-correct-the-ph-of-my-newly-re-potted-citrus-tree",
+"title": "Do I need to correct the pH of my newly re-potted citrus tree?",
+"category": "food-production"
+},
+{
+"path": "questions/1881/do-i-need-to-lay-landscape-fabric-under-ground-cover-plants-to-prevent-weeds-g",
+"title": "Do I need to lay landscape fabric under ground-cover plants to prevent weeds growing?",
+"category": "food-production"
+},
+{
+"path": "questions/1356/do-legumes-provide-nitrogen-to-their-companions",
+"title": "Do legumes provide nitrogen to their companions?",
+"category": "food-production"
+},
+{
+"path": "questions/540/do-peat-pots-slow-down-the-development-of-seedlings",
+"title": "Do peat pots slow down the development of seedlings?",
+"category": "food-production"
+},
+{
+"path": "questions/1642/do-peppers-change-color-when-left-on-the-plant",
+"title": "Do peppers change color when left on the plant?",
+"category": "food-production"
+},
+{
+"path": "questions/57189/do-potatoes-produce-seeds-that-you-can-store-and-or-replant",
+"title": "Do potatoes produce seeds that you can store and/or replant?",
+"category": "food-production"
+},
+{
+"path": "questions/23090/do-seeds-from-fresh-tomatoes-need-to-completely-dry-before-they-will-sprout",
+"title": "Do seeds from fresh tomatoes need to completely dry before they will sprout?",
+"category": "food-production"
+},
+{
+"path": "questions/9227/do-strawberry-runners-start-from-age-zero",
+"title": "Do strawberry runners start from age zero?",
+"category": "food-production"
+},
+{
+"path": "questions/1576/do-techniques-to-repel-slugs-also-work-on-snails",
+"title": "Do techniques to repel slugs also work on snails?",
+"category": "food-production"
+},
+{
+"path": "questions/19742/do-tomatoes-really-need-support-to-grow",
+"title": "Do tomatoes really need support to grow?",
+"category": "food-production"
+},
+{
+"path": "questions/34470/do-vegetable-seeds-have-a-shelf-life",
+"title": "Do vegetable seeds have a shelf life?",
+"category": "food-production"
+},
+{
+"path": "questions/23900/do-s-and-don-t-s-for-a-backyard-compost",
+"title": "Do's and Don't's for a backyard compost?",
+"category": "food-production"
+},
+{
+"path": "questions/13789/does-a-pine-needle-mulch-make-your-soil-acidic",
+"title": "Does a pine needle mulch make your soil acidic?",
+"category": "food-production"
+},
+{
+"path": "questions/3284/does-aspirin-really-help-tomatoes-grow",
+"title": "Does aspirin really help tomatoes grow?",
+"category": "food-production"
+},
+{
+"path": "questions/1171/does-cauliflower-produce-secondary-growth-after-the-main-harvest",
+"title": "Does cauliflower produce secondary growth after the main harvest?",
+"category": "food-production"
+},
+{
+"path": "questions/167/does-eating-fruits-and-vegetables-watered-with-greywater-affect-your-health",
+"title": "Does eating fruits and vegetables watered with greywater affect your health?",
+"category": "food-production"
+},
+{
+"path": "questions/196/does-fruit-on-fruit-trees-need-to-be-thinned",
+"title": "Does fruit on fruit trees need to be thinned?",
+"category": "food-production"
+},
+{
+"path": "questions/1589/does-it-matter-if-my-cabbage-forms-its-heart-some-way-off-the-ground",
+"title": "Does it matter if my cabbage forms its heart some way off the ground?",
+"category": "food-production"
+},
+{
+"path": "questions/7498/does-seed-from-f1-hybrid-tomato-fruits-grow",
+"title": "Does seed from F1 hybrid tomato fruits grow?",
+"category": "food-production"
+},
+{
+"path": "questions/269/does-unused-compost-keep-on-getting-better-and-better",
+"title": "Does unused compost keep on getting better and better?",
+"category": "food-production"
+},
+{
+"path": "questions/1339/does-water-temperature-affect-vegetable-plant-growth",
+"title": "Does water temperature affect vegetable plant growth?",
+"category": "food-production"
+},
+{
+"path": "questions/2926/efficacy-of-willow-water-for-improving-propagation-of-cuttings",
+"title": "Efficacy of \"willow water\" for improving propagation of cuttings",
+"category": "food-production"
+},
+{
+"path": "questions/1471/encouraging-fig-or-similar-into-canopy-what-to-do-with-site-of-severed-limbs",
+"title": "Encouraging fig or similar into canopy: what to do with site of severed limbs?",
+"category": "food-production"
+},
+{
+"path": "questions/1488/french-beans-green-beans-dwarf-v-climbing",
+"title": "French beans (Green beans): Dwarf v. Climbing",
+"category": "food-production"
+},
+{
+"path": "questions/1089/garden-hoses-how-safe-are-they",
+"title": "Garden Hoses: how safe are they?",
+"category": "food-production"
+},
+{
+"path": "questions/346/heeding-use-by-dates-on-seed-packets",
+"title": "Heeding \"use by\" dates on seed packets?",
+"category": "food-production"
+},
+{
+"path": "questions/1739/how-and-for-how-long-can-home-grown-onions-be-stored",
+"title": "How and for how long can home-grown onions be stored?",
+"category": "food-production"
+},
+{
+"path": "questions/1115/how-and-when-to-plant-young-grafted-fruit-tree",
+"title": "How and when to plant young grafted fruit tree?",
+"category": "food-production"
+},
+{
+"path": "questions/292/how-and-when-to-prune-a-montmorency-cherry-tree",
+"title": "How and When to prune a Montmorency Cherry Tree?",
+"category": "food-production"
+},
+{
+"path": "questions/72/how-are-dahlia-tubers-overwintered",
+"title": "How are  dahlia tubers overwintered?",
+"category": "food-production"
+},
+{
+"path": "questions/176/how-are-japanese-maple-trees-cultivated",
+"title": "How are Japanese Maple Trees cultivated?",
+"category": "food-production"
+},
+{
+"path": "questions/113/how-are-weeds-controlled-in-a-butterfly-garden",
+"title": "How are weeds controlled in a butterfly garden?",
+"category": "food-production"
+},
+{
+"path": "questions/146/how-can-i-control-thistle-in-a-lawn",
+"title": "How can I control thistle in a lawn?",
+"category": "food-production"
+},
+{
+"path": "questions/581/how-can-i-control-remove-unwanted-grass-in-flower-beds",
+"title": "How can I control/remove unwanted grass in flower beds?",
+"category": "food-production"
+},
+{
+"path": "questions/476/how-can-i-correct-a-nutrient-excess-in-soil",
+"title": "How can I correct a nutrient excess in soil?",
+"category": "food-production"
+},
+{
+"path": "questions/37/how-can-i-discourage-ragweed-from-growing",
+"title": "How can I discourage ragweed from growing?",
+"category": "food-production"
+},
+{
+"path": "questions/2157/how-can-i-effectively-grow-plants-from-peach-nectarine-or-plum-pits",
+"title": "How can I effectively grow plants from peach, nectarine or plum pits?",
+"category": "food-production"
+},
+{
+"path": "questions/821/how-can-i-effectively-grow-strawberries-in-my-borders-without-weeds-suffocatin",
+"title": "How can I effectively grow strawberries in my borders without weeds suffocating them?",
+"category": "food-production"
+},
+{
+"path": "questions/13327/how-can-i-ensure-a-crop-of-potato-seeds",
+"title": "How can I ensure a crop of potato seeds?",
+"category": "food-production"
+},
+{
+"path": "questions/148/how-can-i-get-rid-of-gophers-in-a-non-lethal-way",
+"title": "How can I get rid of gophers in a non-lethal way?",
+"category": "food-production"
+},
+{
+"path": "questions/4172/how-can-i-get-rid-of-mint",
+"title": "How can I get rid of mint?",
+"category": "food-production"
+},
+{
+"path": "questions/140/how-can-i-get-rid-of-rabbits-in-my-yard",
+"title": "How can I get rid of rabbits in my yard?",
+"category": "food-production"
+},
+{
+"path": "questions/1335/how-can-i-get-rid-of-the-pennywort-that-is-taking-over-my-dwarf-mondo-grass",
+"title": "How can I get rid of the pennywort that is taking over my dwarf mondo grass?",
+"category": "food-production"
+},
+{
+"path": "questions/1857/how-can-i-grow-a-pineapple-plant-from-a-store-bought-pineapple",
+"title": "How can I grow a pineapple plant from a store-bought pineapple?",
+"category": "food-production"
+},
+{
+"path": "questions/2043/how-can-i-grow-my-own-sweet-potato-starts",
+"title": "How can I grow my own sweet potato starts?",
+"category": "food-production"
+},
+{
+"path": "questions/2140/how-can-i-harvest-my-own-grass-seed",
+"title": "How can I harvest my own grass seed?",
+"category": "food-production"
+},
+{
+"path": "questions/1680/how-can-i-identify-an-apple-variety",
+"title": "How can I identify an apple variety?",
+"category": "food-production"
+},
+{
+"path": "questions/137/how-can-i-identify-and-eradicate-poison-ivy-poison-oak-and-poison-sumac-from-m",
+"title": "How can I identify and eradicate poison ivy, poison oak, and poison sumac from my yard?",
+"category": "food-production"
+},
+{
+"path": "questions/477/how-can-i-keep-my-compost-wet",
+"title": "How can I keep my compost wet?",
+"category": "food-production"
+},
+{
+"path": "questions/709/how-can-i-kill-or-remove-insects-from-cut-flowers-that-i-bring-inside",
+"title": "How can I kill or remove insects from cut flowers that I bring inside?",
+"category": "food-production"
+},
+{
+"path": "questions/1782/how-can-i-naturally-encourage-birds-into-my-garden",
+"title": "How can I naturally encourage birds into my garden?",
+"category": "food-production"
+},
+{
+"path": "questions/1187/how-can-i-prevent-squirrels-or-other-small-mammals-from-eating-my-tomatoes",
+"title": "How can I prevent squirrels (or other small mammals) from eating my tomatoes?",
+"category": "food-production"
+},
+{
+"path": "questions/2918/how-can-i-propagate-mint",
+"title": "How can I propagate mint?",
+"category": "food-production"
+},
+{
+"path": "questions/3/how-can-i-revive-a-tree-that-s-been-stripped-of-bark",
+"title": "How can I revive a tree that's been stripped of bark?",
+"category": "food-production"
+},
+{
+"path": "questions/2311/how-can-i-safely-transplant-blueberry-bushes-planted-in-the-spring-before-the-",
+"title": "How can I safely transplant blueberry bushes planted in the spring before the winter hits?",
+"category": "food-production"
+},
+{
+"path": "questions/1869/how-can-i-tell-if-my-apples-are-ready-to-harvest",
+"title": "How can I tell if my apples are ready to harvest?",
+"category": "food-production"
+},
+{
+"path": "questions/24887/how-can-i-tell-if-my-compost-is-ready",
+"title": "How can I tell if my compost is ready",
+"category": "food-production"
+},
+{
+"path": "questions/23022/how-can-i-tell-when-root-vegetables-are-ripe",
+"title": "How can I tell when root vegetables are ripe?",
+"category": "food-production"
+},
+{
+"path": "questions/63362/how-do-cucumbers-happen-what-does-very-poorly-pollinated-cucumber-mean-exactly",
+"title": "How do cucumbers happen? What does \"very poorly pollinated cucumber\" mean exactly? How can pollination be \"uneven\"?",
+"category": "food-production"
+},
+{
+"path": "questions/551/how-do-i-actually-pinch-out-a-pepper-plant",
+"title": "How do I actually \"pinch out\" a pepper plant?",
+"category": "food-production"
+},
+{
+"path": "questions/801/how-do-i-apply-spent-coffee-grounds-as-a-fertilizer",
+"title": "How do I apply spent coffee grounds as a fertilizer?",
+"category": "food-production"
+},
+{
+"path": "questions/1656/how-do-i-bake-weeds-out-of-my-landscaping",
+"title": "How do I bake weeds out of my landscaping?",
+"category": "food-production"
+},
+{
+"path": "questions/2538/how-do-i-care-for-grapefruit-seedlings",
+"title": "How do I care for grapefruit seedlings?",
+"category": "food-production"
+},
+{
+"path": "questions/2573/how-do-i-care-for-potted-apple-seedlings-over-the-winter",
+"title": "How do I care for potted apple seedlings over the winter?",
+"category": "food-production"
+},
+{
+"path": "questions/878/how-do-i-compost-a-large-pile-of-branches-and-heavy-shrub-clippings",
+"title": "How do I compost a large pile of branches and heavy shrub clippings?",
+"category": "food-production"
+},
+{
+"path": "questions/4933/how-do-i-control-weeds-and-moss-on-a-brick-walkway-and-driveway",
+"title": "How do I control weeds and moss on a brick walkway and driveway?",
+"category": "food-production"
+},
+{
+"path": "questions/1750/how-do-i-deal-with-millipedes-eating-my-vegetable-seedlings",
+"title": "How do I deal with millipedes eating my vegetable seedlings?",
+"category": "food-production"
+},
+{
+"path": "questions/13/how-do-i-encourage-lawn-seeds-to-germinate-successfully",
+"title": "How do I encourage lawn seeds to germinate successfully?",
+"category": "food-production"
+},
+{
+"path": "questions/1519/how-do-i-encourage-morning-glories-to-bloom",
+"title": "How do I encourage morning glories to bloom?",
+"category": "food-production"
+},
+{
+"path": "questions/33/how-do-i-encourage-my-florence-fennel-to-produce-fat-bulbs",
+"title": "How do I encourage my Florence fennel to produce fat bulbs?",
+"category": "food-production"
+},
+{
+"path": "questions/1878/how-do-i-encourage-my-plum-tree-to-produce-fruit",
+"title": "How do I encourage my plum tree to produce fruit?",
+"category": "food-production"
+},
+{
+"path": "questions/1790/how-do-i-encourage-pepper-seeds-to-germinate",
+"title": "How do I encourage pepper seeds to germinate?",
+"category": "food-production"
+},
+{
+"path": "questions/3656/how-do-i-get-rid-of-ducks-from-my-backyard",
+"title": "How do I get rid of ducks from my backyard?",
+"category": "food-production"
+},
+{
+"path": "questions/198/how-do-i-get-rid-of-insects-on-fruit-trees",
+"title": "How do I get rid of insects on fruit trees?",
+"category": "food-production"
+},
+{
+"path": "questions/3729/how-do-i-get-rid-of-pill-bugs-in-my-vegetable-garden-or-is-it-even-the-problem",
+"title": "How do I get rid of pill bugs in my vegetable garden (or is it even the problem)?",
+"category": "food-production"
+},
+{
+"path": "questions/1070/how-do-i-get-rid-of-this-white-stuff-on-my-pumpkin-leaves",
+"title": "How do I get rid of this white stuff on my pumpkin leaves?",
+"category": "food-production"
+},
+{
+"path": "questions/761/how-do-i-get-rid-of-white-flies-on-my-basil",
+"title": "How do I get rid of white flies on my basil?",
+"category": "food-production"
+},
+{
+"path": "questions/2378/how-do-i-get-rid-of-wild-blackberry",
+"title": "How do I get rid of wild blackberry?",
+"category": "food-production"
+},
+{
+"path": "questions/3846/how-do-i-get-rid-of-wild-grape-vines",
+"title": "How do I get rid of wild grape vines?",
+"category": "food-production"
+},
+{
+"path": "questions/268/how-do-i-grow-a-usable-vegetable-garden-indoors",
+"title": "How do I grow a usable vegetable garden indoors?",
+"category": "food-production"
+},
+{
+"path": "questions/87/how-do-i-grow-better-tabasco-type-c-frutescens-peppers",
+"title": "How do I grow better Tabasco-type (C.frutescens) peppers?",
+"category": "food-production"
+},
+{
+"path": "questions/32/how-do-i-grow-chilis-in-limited-light",
+"title": "How do I grow chilis in limited light?",
+"category": "food-production"
+},
+{
+"path": "questions/1551/how-do-i-grow-rhubarb-in-hot-weather",
+"title": "How do I grow rhubarb in hot weather",
+"category": "food-production"
+},
+{
+"path": "questions/8/how-do-i-grow-root-vegetables-in-pots-grow-bags",
+"title": "How do I grow root vegetables in pots/grow-bags?",
+"category": "food-production"
+},
+{
+"path": "questions/133/how-do-i-grow-sweet-potatoes-in-a-pot",
+"title": "How do I grow sweet potatoes in a pot?",
+"category": "food-production"
+},
+{
+"path": "questions/453/how-do-i-help-my-kitchen-window-herb-garden-thrive",
+"title": "How do I help my kitchen window herb garden thrive?",
+"category": "food-production"
+},
+{
+"path": "questions/23708/how-do-i-identify-and-control-spider-mites",
+"title": "How do I identify and control spider mites",
+"category": "food-production"
+},
+{
+"path": "questions/1222/how-do-i-identify-and-eradicate-the-pest-that-is-destroying-the-plants-in-my-f",
+"title": "How do I identify and eradicate the pest that is destroying the plants in my flowerbox?",
+"category": "food-production"
+},
+{
+"path": "questions/2632/how-do-i-improve-drainage-vertically-through-clayey-soil",
+"title": "How do I improve drainage vertically through clayey soil?",
+"category": "food-production"
+},
+{
+"path": "questions/20077/how-do-i-keep-cat-grass-alive",
+"title": "How do I keep \"cat grass\" alive?",
+"category": "food-production"
+},
+{
+"path": "questions/28/how-do-i-keep-an-indoor-plant-hydrated-while-i-m-away",
+"title": "How do I keep an indoor plant hydrated while I'm away?",
+"category": "food-production"
+},
+{
+"path": "questions/1039/how-do-i-keep-mosquitos-out-of-my-fountain",
+"title": "How do I keep mosquitos out of my fountain?",
+"category": "food-production"
+},
+{
+"path": "questions/104/how-do-i-keep-red-wiggler-worms-alive-overwinter-in-the-northeastern-usa",
+"title": "How do I keep red wiggler worms alive overwinter in the Northeastern USA?",
+"category": "food-production"
+},
+{
+"path": "questions/2099/how-do-i-kill-mile-a-minute-weed",
+"title": "How do I kill mile-a-minute weed?",
+"category": "food-production"
+},
+{
+"path": "questions/769/how-do-i-know-if-a-fertilizer-treatment-is-burning-my-trees",
+"title": "How do I know if a fertilizer treatment is burning my trees?",
+"category": "food-production"
+},
+{
+"path": "questions/1625/how-do-i-know-when-garlic-is-ready-to-be-harvested",
+"title": "How do I know when garlic is ready to be harvested?",
+"category": "food-production"
+},
+{
+"path": "questions/3207/how-do-i-know-when-to-harvest-my-potatoes",
+"title": "How do I know when to harvest my potatoes?",
+"category": "food-production"
+},
+{
+"path": "questions/1621/how-do-i-maintain-a-raspberry-plant",
+"title": "How do I maintain a Raspberry plant?",
+"category": "food-production"
+},
+{
+"path": "questions/705/how-do-i-manage-different-water-flows-with-a-drip-irrigation-system-in-my-vege",
+"title": "How do I manage different water flows with a drip irrigation system in my vegetable garden?",
+"category": "food-production"
+},
+{
+"path": "questions/26607/how-do-i-plant-potatoes-that-sprouted-in-my-pantry",
+"title": "How do I plant potatoes that sprouted in my pantry?",
+"category": "food-production"
+},
+{
+"path": "questions/55/how-do-i-prevent-critters-from-chewing-my-sprinkler-system",
+"title": "How do I prevent critters from chewing my sprinkler system?",
+"category": "food-production"
+},
+{
+"path": "questions/1704/how-do-i-prevent-my-berry-leaves-from-getting-scorched-in-the-sun",
+"title": "How do I prevent my berry leaves from getting scorched in the sun?",
+"category": "food-production"
+},
+{
+"path": "questions/5312/how-do-i-prevent-parrots-from-snacking-on-my-fruit-trees",
+"title": "How do I prevent parrots from snacking on my fruit trees?",
+"category": "food-production"
+},
+{
+"path": "questions/3122/how-do-i-prevent-raccoons-from-eating-my-corn",
+"title": "How do I prevent raccoons from eating my corn?",
+"category": "food-production"
+},
+{
+"path": "questions/147/how-do-i-prevent-the-seeds-on-my-japanese-maple-from-falling-off",
+"title": "How do I prevent the seeds on my Japanese Maple from falling off?",
+"category": "food-production"
+},
+{
+"path": "questions/1382/how-do-i-quickly-remove-crabgrass-without-too-much-manual-labour",
+"title": "How do I quickly remove crabgrass without too much manual labour?",
+"category": "food-production"
+},
+{
+"path": "questions/1909/how-do-i-remove-dandelions-and-bull-thistle-from-my-lawn",
+"title": "How do I remove dandelions and bull thistle from my lawn?",
+"category": "food-production"
+},
+{
+"path": "questions/1941/how-do-i-remove-dandelions-without-damaging-my-lawn",
+"title": "How do I remove dandelions without damaging my lawn?",
+"category": "food-production"
+},
+{
+"path": "questions/4682/how-do-i-remove-weeds-and-prevent-them-growing-between-the-bricks-in-a-paved-a",
+"title": "How do I remove weeds and prevent them growing between the bricks in a paved area?",
+"category": "food-production"
+},
+{
+"path": "questions/2061/how-do-i-repair-a-soaker-hose",
+"title": "How do I repair a soaker hose?",
+"category": "food-production"
+},
+{
+"path": "questions/13653/how-do-i-select-garlic-which-will-continue-to-produce-large-heads-in-future-re",
+"title": "How do I select garlic which will continue to produce large heads in future replantings?",
+"category": "food-production"
+},
+{
+"path": "questions/558/how-do-i-split-hostas",
+"title": "How do I split hostas?",
+"category": "food-production"
+},
+{
+"path": "questions/183/how-do-i-work-with-soil-that-has-a-high-clay-content",
+"title": "How do I work with soil that has a high clay content?",
+"category": "food-production"
+},
+{
+"path": "questions/20/how-do-you-know-if-you-are-watering-a-plant-too-much-vs-too-little",
+"title": "How do you know if you are watering a plant too much vs. too little?",
+"category": "food-production"
+},
+{
+"path": "questions/43/how-do-you-prune-a-rose-bush",
+"title": "How do you prune a rose bush?",
+"category": "food-production"
+},
+{
+"path": "questions/125/how-do-you-safely-and-effectively-stop-a-cat-from-pooping-in-your-yard",
+"title": "How do you safely and effectively stop a cat from pooping in your yard?",
+"category": "food-production"
+},
+{
+"path": "questions/2154/how-do-you-save-an-aloe-plant-whose-stem-is-weak-and-appears-to-be-rotting",
+"title": "How do you save an aloe plant whose stem is weak and appears to be rotting?",
+"category": "food-production"
+},
+{
+"path": "questions/13609/how-do-you-tell-if-a-tree-is-male-or-female",
+"title": "How do you tell if a tree is male or female?",
+"category": "food-production"
+},
+{
+"path": "questions/3083/how-do-you-water-tiny-seedlings",
+"title": "How do you water tiny seedlings?",
+"category": "food-production"
+},
+{
+"path": "questions/231/how-does-one-determine-when-to-pick-corn",
+"title": "How does one determine when to pick corn?",
+"category": "food-production"
+},
+{
+"path": "questions/1256/how-does-vacuuming-beetles-work",
+"title": "How does vacuuming beetles work?",
+"category": "food-production"
+},
+{
+"path": "questions/1555/how-far-on-average-do-tree-roots-extend-out-from-the-base-of-the-tree",
+"title": "How far (on average) do tree roots extend out from the base of the tree?",
+"category": "food-production"
+},
+{
+"path": "questions/5744/how-far-will-pine-tree-roots-spread",
+"title": "How far will pine tree roots spread?",
+"category": "food-production"
+},
+{
+"path": "questions/1843/how-frequently-should-i-prune-a-tomato-plant",
+"title": "How frequently should I prune a tomato plant?",
+"category": "food-production"
+},
+{
+"path": "questions/339/how-healthy-are-seedlings-sent-by-mail",
+"title": "How healthy are seedlings sent by mail?",
+"category": "food-production"
+},
+{
+"path": "questions/319/how-hot-can-my-compost-get",
+"title": "How hot can my compost get?",
+"category": "food-production"
+},
+{
+"path": "questions/188/how-is-crabgrass-removed-from-lawns",
+"title": "How is  crabgrass removed from lawns?",
+"category": "food-production"
+},
+{
+"path": "questions/739/how-is-an-avocado-plant-started",
+"title": "How is an Avocado plant started?",
+"category": "food-production"
+},
+{
+"path": "questions/1433/how-large-a-cultivation-area-to-feed-one-person",
+"title": "How large a cultivation area to feed one person?",
+"category": "food-production"
+},
+{
+"path": "questions/22/how-long-before-poisons-like-round-up-become-inert",
+"title": "How long before poisons like Round-up become inert?",
+"category": "food-production"
+},
+{
+"path": "questions/14248/how-long-can-a-bell-pepper-plant-thrive-while-maintained-indoors",
+"title": "How long can a bell pepper plant thrive while maintained indoors?",
+"category": "food-production"
+},
+{
+"path": "questions/2979/how-long-do-amaryllis-bulbs-live",
+"title": "How long do amaryllis bulbs live?",
+"category": "food-production"
+},
+{
+"path": "questions/2177/how-long-do-you-water-after-planting-grass",
+"title": "How long do you water after planting grass?",
+"category": "food-production"
+},
+{
+"path": "questions/94/how-long-does-chemically-fertilized-grass-remain-poisonous",
+"title": "How long does chemically fertilized grass remain poisonous?",
+"category": "food-production"
+},
+{
+"path": "questions/3176/how-long-does-it-take-for-the-compost-to-ripen",
+"title": "How long does it take for the compost to ripen?",
+"category": "food-production"
+},
+{
+"path": "questions/3432/how-long-does-it-take-to-start-sweet-potato-slips",
+"title": "How long does it take to start sweet potato slips?",
+"category": "food-production"
+},
+{
+"path": "questions/2249/how-long-will-my-basil-plants-live-inside",
+"title": "How long will my basil plants live inside?",
+"category": "food-production"
+},
+{
+"path": "questions/3201/how-many-coffee-grounds-are-too-many-coffee-grounds-for-composting",
+"title": "How many coffee grounds are too many coffee grounds for composting?",
+"category": "food-production"
+},
+{
+"path": "questions/2899/how-much-human-interference-is-required-to-help-daffodils-spread",
+"title": "How much human interference is required to help daffodils spread?",
+"category": "food-production"
+},
+{
+"path": "questions/5271/how-much-lighting-do-i-need-for-growing-lettuce-using-indoor-hydroponics",
+"title": "How much lighting do I need for growing lettuce using indoor hydroponics?",
+"category": "food-production"
+},
+{
+"path": "questions/185/how-much-mulch-should-i-put-in-my-vegetable-gardens",
+"title": "How much mulch should I put in my vegetable gardens?",
+"category": "food-production"
+},
+{
+"path": "questions/1981/how-much-should-i-mulch-my-cherry-tree",
+"title": "How much should I mulch my cherry tree?",
+"category": "food-production"
+},
+{
+"path": "questions/93/how-often-do-you-need-to-turn-the-compost-heap",
+"title": "How often do you need to turn the compost heap?",
+"category": "food-production"
+},
+{
+"path": "questions/10/how-often-should-i-fertilize-my-lawn",
+"title": "How often should I fertilize my lawn?",
+"category": "food-production"
+},
+{
+"path": "questions/2682/how-often-should-i-fertilize-vegetables",
+"title": "How often should I fertilize vegetables?",
+"category": "food-production"
+},
+{
+"path": "questions/3622/how-often-should-i-harvest-herbs",
+"title": "How often should I harvest herbs?",
+"category": "food-production"
+},
+{
+"path": "questions/420/how-often-should-soft-fruit-plants-be-replaced",
+"title": "How often should soft fruit plants be replaced?",
+"category": "food-production"
+},
+{
+"path": "questions/3324/how-should-a-lemon-tree-with-yellowing-leaves-peeling-bark-and-small-fruit-be-",
+"title": "How should a lemon tree with yellowing leaves, peeling bark, and small fruit be saved?",
+"category": "food-production"
+},
+{
+"path": "questions/819/how-should-a-long-neglected-grape-vine-be-pruned",
+"title": "How should a long neglected grape-vine be pruned?",
+"category": "food-production"
+},
+{
+"path": "questions/3741/how-should-i-build-a-raised-garden-bed",
+"title": "How should I build a raised garden bed?",
+"category": "food-production"
+},
+{
+"path": "questions/1930/how-should-i-choose-which-trees-to-cull",
+"title": "How should I choose which trees to cull?",
+"category": "food-production"
+},
+{
+"path": "questions/1104/how-should-i-improve-my-extremely-clayey-soil",
+"title": "How should I improve my extremely clayey soil?",
+"category": "food-production"
+},
+{
+"path": "questions/70/how-should-i-properly-prepare-a-raised-bed-vegetable-garden",
+"title": "How should I properly prepare a raised bed vegetable garden?",
+"category": "food-production"
+},
+{
+"path": "questions/1345/how-should-i-prune-an-overgrown-peach-tree",
+"title": "How should I prune an overgrown peach tree?",
+"category": "food-production"
+},
+{
+"path": "questions/407/how-should-i-prune-lemon-trees",
+"title": "How should I prune lemon trees?",
+"category": "food-production"
+},
+{
+"path": "questions/331/how-should-i-prune-my-vine-tomatoes",
+"title": "How should I prune my vine tomatoes?",
+"category": "food-production"
+},
+{
+"path": "questions/2301/how-should-i-prune-this-overgrown-pear-tree",
+"title": "How should I prune this overgrown pear tree?",
+"category": "food-production"
+},
+{
+"path": "questions/744/how-should-i-speed-up-the-decomposition-of-sickly-sweet-smelling-giant-compost",
+"title": "How should I speed up the decomposition of sickly sweet smelling giant compost heap?",
+"category": "food-production"
+},
+{
+"path": "questions/1999/how-should-i-store-my-chili-seeds-for-planting-next-year",
+"title": "How should I store my chili seeds for planting next year?",
+"category": "food-production"
+},
+{
+"path": "questions/266/how-should-i-till-topsoil-into-thick-clay-in-small-garden-beds",
+"title": "How should I till topsoil into thick clay in small garden beds?",
+"category": "food-production"
+},
+{
+"path": "questions/219/how-should-i-treat-a-frangipani",
+"title": "How should I treat a frangipani?",
+"category": "food-production"
+},
+{
+"path": "questions/474/how-should-i-use-corrugated-cardboard-for-mulch",
+"title": "How should I use corrugated cardboard for mulch?",
+"category": "food-production"
+},
+{
+"path": "questions/2047/how-should-mustard-seeds-be-collected",
+"title": "How should mustard seeds be collected?",
+"category": "food-production"
+},
+{
+"path": "questions/1221/how-to-correct-uneven-trunk-widths-in-a-cherry-tree",
+"title": "How to \"correct\" uneven trunk widths in a cherry tree?",
+"category": "food-production"
+},
+{
+"path": "questions/463/how-to-deal-with-invasive-ailanthus-tree-of-heaven",
+"title": "How to deal with invasive Ailanthus (Tree of Heaven)",
+"category": "food-production"
+},
+{
+"path": "questions/904/how-to-deal-with-suckers-on-a-bradford-pear-tree",
+"title": "How to deal with suckers on a Bradford Pear Tree?",
+"category": "food-production"
+},
+{
+"path": "questions/5774/how-to-get-rid-of-bindweed-convolvulus-arvensis-once-and-for-all",
+"title": "How to get rid of bindweed (Convolvulus arvensis) once and for all?",
+"category": "food-production"
+},
+{
+"path": "questions/1557/how-to-get-rid-of-insects-on-basil-while-leaving-the-leaves-safe-to-eat",
+"title": "How to get rid of insects on basil while leaving the leaves safe to eat?",
+"category": "food-production"
+},
+{
+"path": "questions/386/how-to-get-rid-of-japanese-knotweed-hogweed",
+"title": "How to get rid of Japanese knotweed (hogweed?)",
+"category": "food-production"
+},
+{
+"path": "questions/1860/how-to-help-a-jade-plant-heal",
+"title": "How to help a Jade plant heal?",
+"category": "food-production"
+},
+{
+"path": "questions/220/how-to-keep-chipmunks-out-of-my-garden",
+"title": "How to keep chipmunks out of my garden?",
+"category": "food-production"
+},
+{
+"path": "questions/3006/how-to-manipulate-a-cactus-with-thick-long-spines",
+"title": "How to manipulate a cactus with thick long spines?",
+"category": "food-production"
+},
+{
+"path": "questions/84/how-to-prevent-avocado-from-drying-out-indoors",
+"title": "How to prevent avocado from drying out indoors?",
+"category": "food-production"
+},
+{
+"path": "questions/1252/how-to-prolong-cauliflower-growing-season-harvest",
+"title": "How to prolong Cauliflower growing season, harvest?",
+"category": "food-production"
+},
+{
+"path": "questions/1407/how-to-stop-my-courgettes-zucchini-rotting",
+"title": "How to stop my courgettes (zucchini) rotting?",
+"category": "food-production"
+},
+{
+"path": "questions/2636/how-to-treat-a-succulent-with-holes-in-its-leaves",
+"title": "How to treat a succulent with holes in its leaves?",
+"category": "food-production"
+},
+{
+"path": "questions/59594/how-true-is-the-idea-that-weeding-your-vegetable-garden-is-necessary",
+"title": "How true is the idea that weeding your vegetable garden is necessary?",
+"category": "food-production"
+},
+{
+"path": "questions/23270/hugely-different-results-storing-apples-from-different-trees",
+"title": "Hugely different results storing apples from different trees?",
+"category": "food-production"
+},
+{
+"path": "questions/4235/i-have-the-flowers-but-how-can-i-get-seeds-from-my-basil",
+"title": "I have the flowers, but how can I get seeds from my basil?",
+"category": "food-production"
+},
+{
+"path": "questions/7095/if-it-s-possible-to-overwater-a-plant-then-how-do-plants-grow-hydroponically",
+"title": "If it's possible to overwater a plant, then how do plants grow hydroponically?",
+"category": "food-production"
+},
+{
+"path": "questions/66233/in-the-martian-mark-keeps-the-largest-potatoes-for-his-food-supply-and-replant",
+"title": "In The Martian, Mark keeps the largest potatoes for his food supply and replants the smaller ones. Doesn't this cultivate smaller potatoes?",
+"category": "food-production"
+},
+{
+"path": "questions/1223/insect-infestation-on-my-pepper-plant-what-do-i-do",
+"title": "Insect infestation on my pepper plant, what do I do?",
+"category": "food-production"
+},
+{
+"path": "questions/1037/is-a-little-watering-still-better-than-no-watering-when-plants-are-thirsty",
+"title": "Is a little watering still better than no watering, when plants are thirsty?",
+"category": "food-production"
+},
+{
+"path": "questions/1314/is-charcoal-good-for-use-as-a-soil-amendment",
+"title": "Is charcoal good for use as a soil amendment?",
+"category": "food-production"
+},
+{
+"path": "questions/50/is-condensation-on-my-seed-tray-an-issue",
+"title": "Is condensation on my seed tray an issue?",
+"category": "food-production"
+},
+{
+"path": "questions/545/is-it-bad-to-water-plants-in-the-evening",
+"title": "Is it bad to water plants in the evening?",
+"category": "food-production"
+},
+{
+"path": "questions/970/is-it-necessary-to-purchase-seed-potatoes",
+"title": "Is it necessary to purchase seed potatoes?",
+"category": "food-production"
+},
+{
+"path": "questions/27463/is-it-ok-to-put-moldy-fruits-and-vegetables-in-the-compost-heap",
+"title": "Is it OK to put moldy fruits and vegetables in the compost heap?",
+"category": "food-production"
+},
+{
+"path": "questions/916/is-it-okay-to-pile-compost-on-to-the-base-of-a-tomato-plant",
+"title": "Is it okay to pile compost on to the base of a tomato plant?",
+"category": "food-production"
+},
+{
+"path": "questions/58/is-it-possible-to-grow-a-mango-plant-in-the-phoenix-climate",
+"title": "Is it possible to grow a mango plant in the Phoenix climate?",
+"category": "food-production"
+},
+{
+"path": "questions/7313/is-it-possible-to-grow-the-corn-kernels-from-commercial-popcorn",
+"title": "Is it possible to grow the corn kernels from commercial popcorn?",
+"category": "food-production"
+},
+{
+"path": "questions/627/is-it-possible-to-indefinitely-limit-the-growth-of-trees-hedges-and-shrubs",
+"title": "Is it possible to indefinitely limit the growth of trees, hedges, and shrubs?",
+"category": "food-production"
+},
+{
+"path": "questions/3437/is-it-possible-to-kill-a-large-area-of-weeds-organically-naturally",
+"title": "Is it possible to kill a large area of weeds organically/naturally?",
+"category": "food-production"
+},
+{
+"path": "questions/2323/is-it-really-important-to-give-blueberry-plants-acidic-soil",
+"title": "Is it really important to give blueberry plants acidic soil?",
+"category": "food-production"
+},
+{
+"path": "questions/1559/is-it-safe-to-eat-fruits-and-vegetables-planted-in-a-pet-cemetery",
+"title": "Is it safe to eat fruits and vegetables planted in a pet cemetery?",
+"category": "food-production"
+},
+{
+"path": "questions/34944/is-it-safe-to-harvest-these-cabbage-leaves",
+"title": "Is it safe to harvest these cabbage leaves?",
+"category": "food-production"
+},
+{
+"path": "questions/2271/is-it-worth-keeping-indoor-pepper-plants-alive-over-the-winter",
+"title": "Is it worth keeping indoor pepper plants alive over the winter?",
+"category": "food-production"
+},
+{
+"path": "questions/555/is-it-worth-spreading-ash-on-the-vegetable-plot",
+"title": "Is it worth spreading ash on the vegetable plot?",
+"category": "food-production"
+},
+{
+"path": "questions/1121/is-july-too-late-to-replant-tomatoes-in-north-georgia-usa",
+"title": "Is July  too late to replant tomatoes in North Georgia, USA?",
+"category": "food-production"
+},
+{
+"path": "questions/19512/is-mike-mcgrath-correct-when-he-says-vegetable-scraps-shouldn-t-be-added-to-co",
+"title": "Is Mike McGrath correct when he says vegetable scraps shouldn't be added to compost?",
+"category": "food-production"
+},
+{
+"path": "questions/1025/is-my-schefflera-arboricola-getting-the-right-amount-of-light-and-water",
+"title": "Is my Schefflera arboricola getting the right amount of light and water?",
+"category": "food-production"
+},
+{
+"path": "questions/700/is-rain-water-better-than-tap-water-for-plants",
+"title": "Is rain water better than tap water for plants?",
+"category": "food-production"
+},
+{
+"path": "questions/9742/is-rust-from-a-steel-rainwater-barrel-harmful-to-edible-plants",
+"title": "Is rust from a steel rainwater barrel harmful to edible plants?",
+"category": "food-production"
+},
+{
+"path": "questions/1275/is-spent-cat-litter-an-appropriate-source-of-nitrogen-for-compost",
+"title": "Is spent cat litter an appropriate source of nitrogen for compost?",
+"category": "food-production"
+},
+{
+"path": "questions/1670/is-staking-young-trees-helpful-or-harmful",
+"title": "Is staking young trees helpful or harmful?",
+"category": "food-production"
+},
+{
+"path": "questions/2932/is-the-fruit-of-passion-vine-edible",
+"title": "Is the fruit of passion vine edible?",
+"category": "food-production"
+},
+{
+"path": "questions/2500/is-there-a-fast-growing-inexpensive-privacy-plant-that-can-be-started-in-winte",
+"title": "Is there a fast-growing, inexpensive privacy plant that can be started in winter?",
+"category": "food-production"
+},
+{
+"path": "questions/2013/is-there-a-simple-rule-of-thumb-for-caring-for-potted-plants-in-an-office",
+"title": "Is there a simple rule of thumb for caring for potted plants in an office?",
+"category": "food-production"
+},
+{
+"path": "questions/1113/is-there-a-traditional-method-style-for-pruning-a-chocolate-silk-tree",
+"title": "Is there a traditional method/style for pruning a Chocolate Silk tree?",
+"category": "food-production"
+},
+{
+"path": "questions/38035/is-there-a-way-to-avoid-the-recurring-cost-of-microbes-when-composting-at-home",
+"title": "Is there a way to avoid the recurring cost of microbes when composting at home?",
+"category": "food-production"
+},
+{
+"path": "questions/1647/is-there-a-way-to-discourage-plum-trees-from-fruiting-so-heavily",
+"title": "Is there a way to discourage plum trees from fruiting so heavily?",
+"category": "food-production"
+},
+{
+"path": "questions/17913/is-there-actually-such-a-thing-as-a-ripe-green-pepper",
+"title": "Is there actually such a thing as a ripe green pepper?",
+"category": "food-production"
+},
+{
+"path": "questions/3111/is-there-an-easier-way-to-aerate-my-compost-besides-turning-it",
+"title": "Is there an easier way to aerate my compost besides turning it?",
+"category": "food-production"
+},
+{
+"path": "questions/1820/is-there-any-reason-not-to-add-commercially-produced-flowers-to-compost",
+"title": "Is there any reason not to add commercially produced flowers to compost?",
+"category": "food-production"
+},
+{
+"path": "questions/150/is-there-any-way-to-prevent-vole-lawn-destruction-during-snow-cover",
+"title": "Is there any way to prevent vole lawn-destruction during snow-cover?",
+"category": "food-production"
+},
+{
+"path": "questions/1124/is-there-anything-special-i-can-do-to-promote-fruiting-in-a-tomato-cutting",
+"title": "Is there anything special I can do to promote fruiting in a tomato cutting?",
+"category": "food-production"
+},
+{
+"path": "questions/16103/is-there-anything-wrong-with-allowing-moss-to-grow-around-herbs",
+"title": "Is there anything wrong with allowing moss to grow around herbs?",
+"category": "food-production"
+},
+{
+"path": "questions/1132/is-this-beetle-on-my-apricot-tree-a-pest",
+"title": "Is this beetle on my apricot tree a pest?",
+"category": "food-production"
+},
+{
+"path": "questions/30267/is-this-caterpillar-like-insect-a-good-guy-or-a-bad-guy",
+"title": "Is this caterpillar-like insect a good guy or a bad guy?",
+"category": "food-production"
+},
+{
+"path": "questions/23535/is-this-heavy-blue-green-growth-on-my-tree-trunk-and-branches-a-form-of-lichen",
+"title": "Is this heavy blue-green growth on my tree trunk and branches a form of lichen?",
+"category": "food-production"
+},
+{
+"path": "questions/24071/is-this-mushroom-going-to-make-my-black-radish-taste-weird-or-be-poisonous",
+"title": "Is this mushroom going to make my black radish taste weird or be poisonous?",
+"category": "food-production"
+},
+{
+"path": "questions/7/is-triple-digging-worth-the-backache-in-temperate-biomes",
+"title": "Is triple digging worth the backache in temperate biomes?",
+"category": "food-production"
+},
+{
+"path": "questions/1337/japanese-box-hedge-failing-to-thrive-what-to-do",
+"title": "Japanese box hedge failing to thrive. What to do?",
+"category": "food-production"
+},
+{
+"path": "questions/1938/managing-weeds-around-fruit-trees",
+"title": "Managing weeds around fruit trees",
+"category": "food-production"
+},
+{
+"path": "questions/276/moving-lemon-and-satsuma-trees",
+"title": "Moving lemon and satsuma trees?",
+"category": "food-production"
+},
+{
+"path": "questions/2942/my-basil-had-a-shock-after-transplanting-what-did-i-do-wrong",
+"title": "My basil had a shock after transplanting. What did I do wrong?",
+"category": "food-production"
+},
+{
+"path": "questions/35230/my-basil-is-rotting-here-s-all-the-clues-i-have-gathered",
+"title": "My basil is \"rotting\", here's all the clues I have gathered",
+"category": "food-production"
+},
+{
+"path": "questions/2008/my-composter-has-developed-a-sour-smell-and-a-lot-of-bugs-what-am-i-doing-wron",
+"title": "My composter has developed a sour smell and a lot of bugs. What am I doing wrong?",
+"category": "food-production"
+},
+{
+"path": "questions/1956/my-garden-soil-is-devoid-of-nutrients-how-should-i-improve-it-this-winter",
+"title": "My garden soil is devoid of nutrients, how should I improve it this winter?",
+"category": "food-production"
+},
+{
+"path": "questions/1562/my-indoor-plant-has-an-orange-mold-like-substance-growing-on-it-and-has-tiny-w",
+"title": "My indoor plant has an orange mold-like substance growing on it and has tiny white bugs. How can I remove it?",
+"category": "food-production"
+},
+{
+"path": "questions/1200/my-lettuce-is-flowering-does-that-mean-it-has-bolted",
+"title": "My lettuce is flowering - does that mean it has bolted?",
+"category": "food-production"
+},
+{
+"path": "questions/536/my-second-year-garlic-has-flowers-is-it-safe-to-eat",
+"title": "My second year garlic has flowers. Is it safe to eat?",
+"category": "food-production"
+},
+{
+"path": "questions/1530/nothing-will-grow-where-tree-was",
+"title": "Nothing will grow where tree was",
+"category": "food-production"
+},
+{
+"path": "questions/365/onion-seeds-v-onion-sets",
+"title": "Onion seeds v. onion sets",
+"category": "food-production"
+},
+{
+"path": "questions/958/paint-dumping-to-kill-tree-stump-will-it-affect-my-nearby-arborvitae-or-raspbe",
+"title": "Paint dumping to kill tree stump, will it affect my nearby arborvitae or raspberries?",
+"category": "food-production"
+},
+{
+"path": "questions/2753/placing-eggshells-on-top-of-potted-plants",
+"title": "Placing eggshells on top of potted plants?",
+"category": "food-production"
+},
+{
+"path": "questions/23477/please-help-me-identify-this-tree-with-irregular-leaves",
+"title": "Please help me identify this tree with irregular leaves",
+"category": "food-production"
+},
+{
+"path": "questions/63560/please-identify-this-green-jello-organism",
+"title": "Please identify this green jello organism",
+"category": "food-production"
+},
+{
+"path": "questions/121/rats-have-transferred-poison-into-my-compost-is-the-compost-usable-on-vegetabl",
+"title": "Rats have transferred poison into my compost. Is the compost usable on vegetables?",
+"category": "food-production"
+},
+{
+"path": "questions/1649/saving-basil-plant-after-it-has-been-sitting-in-trash",
+"title": "Saving basil plant after it has been sitting in trash?",
+"category": "food-production"
+},
+{
+"path": "questions/1678/should-a-root-ball-always-be-loosened-when-transferring-a-potted-plant-tree-in",
+"title": "Should a root-ball always be loosened when transferring a potted plant/tree into the ground?",
+"category": "food-production"
+},
+{
+"path": "questions/1088/should-i-add-water-to-my-compost-heap",
+"title": "Should I add water to my compost heap?",
+"category": "food-production"
+},
+{
+"path": "questions/2199/should-i-earth-up-my-radishes-to-prevent-them-from-being-eaten-or-should-i-pul",
+"title": "Should I earth up my radishes to prevent them from being eaten or should I pull them out?",
+"category": "food-production"
+},
+{
+"path": "questions/325/should-i-insulate-my-compost-heap",
+"title": "Should I insulate my compost heap?",
+"category": "food-production"
+},
+{
+"path": "questions/503/should-i-knock-over-the-tops-of-onions-when-they-get-to-a-certain-height",
+"title": "Should I knock over the tops of onions when they get to a certain height?",
+"category": "food-production"
+},
+{
+"path": "questions/716/should-i-pick-my-peppers-early-or-wait-till-they-mature-ripen-on-the-plant",
+"title": "Should I pick my peppers early or wait till they mature (ripen) on the plant?",
+"category": "food-production"
+},
+{
+"path": "questions/1757/should-i-remove-fruits-afflicted-with-blossom-end-rot",
+"title": "Should I remove fruits afflicted with blossom end rot?",
+"category": "food-production"
+},
+{
+"path": "questions/2050/should-i-remove-the-tree-roots-coming-from-the-neighbouring-garden",
+"title": "Should I remove the tree roots coming from the neighbouring garden?",
+"category": "food-production"
+},
+{
+"path": "questions/3542/should-i-return-dead-houseplant-leaves-to-the-pot",
+"title": "Should I return dead houseplant leaves to the pot?",
+"category": "food-production"
+},
+{
+"path": "questions/2160/should-i-separate-and-transplant-basil-seedlings",
+"title": "Should I separate and transplant basil seedlings?",
+"category": "food-production"
+},
+{
+"path": "questions/4412/should-i-stop-adding-fruit-and-vegetable-seeds-to-my-compost",
+"title": "Should I stop adding fruit and vegetable seeds to my compost",
+"category": "food-production"
+},
+{
+"path": "questions/722/should-i-trim-the-shoots-coming-off-the-root-of-my-grapevines",
+"title": "Should I trim the shoots coming off the root of my grapevines?",
+"category": "food-production"
+},
+{
+"path": "questions/8209/should-i-use-aluminum-sulfate-sulphate-to-acidify-my-soil",
+"title": "Should I use aluminum sulfate (sulphate) to acidify my soil?",
+"category": "food-production"
+},
+{
+"path": "questions/3273/should-peanut-shells-be-composted",
+"title": "Should peanut shells be composted?",
+"category": "food-production"
+},
+{
+"path": "questions/21989/should-trees-be-staked-when-they-are-planted",
+"title": "Should trees be staked when they are planted?",
+"category": "food-production"
+},
+{
+"path": "questions/27078/since-tomatoes-don-t-need-cages-in-the-wild-how-do-they-stay-up",
+"title": "Since tomatoes don't need cages in the wild, how do they stay up?",
+"category": "food-production"
+},
+{
+"path": "questions/53/some-of-my-ferns-have-brown-spots-on-the-tips-of-their-leaves-what-causes-that",
+"title": "Some of my ferns have brown spots on the tips of their leaves. What causes that?",
+"category": "food-production"
+},
+{
+"path": "questions/3571/starting-tomato-from-seed",
+"title": "Starting tomato from seed",
+"category": "food-production"
+},
+{
+"path": "questions/23539/storing-garlic-for-seed",
+"title": "Storing Garlic for Seed",
+"category": "food-production"
+},
+{
+"path": "questions/157/strawberry-plants-brown-brittle-is-it-disease-climate-conditions-or-bugs",
+"title": "Strawberry plants brown & brittle - is it disease, climate conditions, or bugs?",
+"category": "food-production"
+},
+{
+"path": "questions/7909/sudden-outbreak-of-yellow-leaves-on-tomato-and-other-plants",
+"title": "Sudden Outbreak of Yellow Leaves on Tomato (and Other) Plants",
+"category": "food-production"
+},
+{
+"path": "questions/23229/tillandsia-air-plants-turning-black-and-dying-after-watering",
+"title": "Tillandsia (air plants) Turning Black and Dying After Watering",
+"category": "food-production"
+},
+{
+"path": "questions/1499/tips-on-lawn-maintenance-and-weed-control",
+"title": "Tips on lawn maintenance and weed control",
+"category": "food-production"
+},
+{
+"path": "questions/5376/to-be-effective-how-long-does-glyphosate-weed-killer-need-to-be-applied-before",
+"title": "To be effective, how long does Glyphosate weed killer need to be applied before it rains?",
+"category": "food-production"
+},
+{
+"path": "questions/959/tomato-plant-rotting-from-the-inside-what-s-going-on",
+"title": "tomato plant rotting from the inside -- what's going on?",
+"category": "food-production"
+},
+{
+"path": "questions/9524/venus-flytrap-dionaea-muscipula-doesn-t-grow-traps-anymore",
+"title": "Venus flytrap/Dionaea muscipula doesn't grow traps anymore",
+"category": "food-production"
+},
+{
+"path": "questions/141/what-actually-occurs-for-manure-to-become-considered-well-rotted",
+"title": "What actually occurs for manure to become considered \"well-rotted\"?",
+"category": "food-production"
+},
+{
+"path": "questions/2683/what-are-common-places-to-try-for-alternatives-to-commercially-available-seeds",
+"title": "What are common places to try for alternatives to commercially available seeds?",
+"category": "food-production"
+},
+{
+"path": "questions/3313/what-are-good-sources-for-large-quantities-of-greens-for-my-compost",
+"title": "What are good sources for large quantities of \"greens\" for my compost?",
+"category": "food-production"
+},
+{
+"path": "questions/122/what-are-inexpensive-materials-for-homemade-tomato-cages",
+"title": "What are inexpensive materials for homemade tomato cages?",
+"category": "food-production"
+},
+{
+"path": "questions/333/what-are-some-good-companion-veggies-flowers-herbs-to-scare-off-beetles",
+"title": "What are some good companion veggies/flowers/herbs to scare off beetles?",
+"category": "food-production"
+},
+{
+"path": "questions/1243/what-are-some-good-herbs-to-grow-pair-with-tomatoes",
+"title": "What are some good herbs to grow (pair) with tomatoes?",
+"category": "food-production"
+},
+{
+"path": "questions/2020/what-are-some-good-plants-to-put-in-a-guild-built-around-plums-stone-fruit",
+"title": "What are some good plants to put in a guild built around plums/stone fruit?",
+"category": "food-production"
+},
+{
+"path": "questions/568/what-are-some-herbs-and-spices-that-are-easy-to-grow-indoors",
+"title": "What are some herbs and spices that are easy to grow indoors?",
+"category": "food-production"
+},
+{
+"path": "questions/224/what-are-some-natural-ways-of-killing-ground-ivy-creeping-charlie",
+"title": "What are some natural ways of killing ground ivy (creeping charlie)?",
+"category": "food-production"
+},
+{
+"path": "questions/1482/what-are-some-sustainable-alternatives-to-peat-for-potting-compost",
+"title": "What are some sustainable alternatives to peat for potting compost?",
+"category": "food-production"
+},
+{
+"path": "questions/1073/what-are-some-tips-on-planting-large-plants",
+"title": "What are some tips on planting large plants?",
+"category": "food-production"
+},
+{
+"path": "questions/3396/what-are-the-advantages-of-hydroponics",
+"title": "What are the advantages of hydroponics?",
+"category": "food-production"
+},
+{
+"path": "questions/81/what-are-the-best-conditions-for-basil",
+"title": "What are the best conditions for basil?",
+"category": "food-production"
+},
+{
+"path": "questions/22994/what-are-the-best-practices-for-keeping-trees-healthy-in-a-construction-area",
+"title": "What are the best practices for keeping trees healthy in a construction area?",
+"category": "food-production"
+},
+{
+"path": "questions/35691/what-are-the-chances-to-get-an-edible-apple-from-a-tree-grown-from-seed",
+"title": "What are the chances to get an edible apple from a tree grown from seed?",
+"category": "food-production"
+},
+{
+"path": "questions/492/what-are-the-differences-between-above-and-below-ground-irrigation",
+"title": "What are the differences between above and below ground irrigation?",
+"category": "food-production"
+},
+{
+"path": "questions/384/what-are-the-features-that-you-should-look-for-when-buying-a-hydroponic-system",
+"title": "What are the features that you should look for when buying a hydroponic system?",
+"category": "food-production"
+},
+{
+"path": "questions/69/what-are-the-ideal-soil-conditions-for-planting-giant-sequoia-saplings",
+"title": "What are the ideal soil conditions for planting giant sequoia saplings?",
+"category": "food-production"
+},
+{
+"path": "questions/62/what-are-the-primary-nutrients-utilized-by-plants-beyond-npk",
+"title": "What are the primary nutrients utilized by plants beyond NPK?",
+"category": "food-production"
+},
+{
+"path": "questions/1914/what-are-the-teeny-tiny-white-bugs-on-my-tomatoes",
+"title": "What are the teeny tiny white bugs on my tomatoes?",
+"category": "food-production"
+},
+{
+"path": "questions/16070/what-are-these-brown-cap-shaped-mushrooms-on-my-birch-tree",
+"title": "What are these brown, cap-shaped mushrooms on my birch tree?",
+"category": "food-production"
+},
+{
+"path": "questions/935/what-are-these-cracks-on-the-bottom-sides-of-my-tomatoes",
+"title": "What are these cracks on the bottom sides of my tomatoes?",
+"category": "food-production"
+},
+{
+"path": "questions/1761/what-are-these-hard-white-brown-spots-growing-on-my-houseplant",
+"title": "What are these hard white/brown spots growing on my houseplant?",
+"category": "food-production"
+},
+{
+"path": "questions/75/what-are-these-red-cocoons-in-my-trees-leaves",
+"title": "What are these red cocoons in my trees leaves?",
+"category": "food-production"
+},
+{
+"path": "questions/16/what-can-cause-the-leaves-of-a-rose-bush-to-turn-black-and-fall-off",
+"title": "What can cause the leaves of a rose bush to turn black and fall off?",
+"category": "food-production"
+},
+{
+"path": "questions/608/what-can-you-do-with-oak-leaves-within-a-garden-are-they-compostable",
+"title": "What can you do with oak leaves within a garden? Are they compostable?",
+"category": "food-production"
+},
+{
+"path": "questions/1605/what-causes-black-spots-on-my-apples",
+"title": "What causes black spots on my apples?",
+"category": "food-production"
+},
+{
+"path": "questions/13922/what-causes-cucumber-leaves-to-turn-yellow-brown-wilt-die-and-the-plants-to-st",
+"title": "What causes cucumber leaves to turn yellow, brown, wilt, die, and the plants to stop producing?",
+"category": "food-production"
+},
+{
+"path": "questions/2539/what-causes-spruce-branches-to-drop-their-needles",
+"title": "What causes spruce branches to drop their needles?",
+"category": "food-production"
+},
+{
+"path": "questions/9468/what-color-should-a-greenhouse-be",
+"title": "What color should a greenhouse be?",
+"category": "food-production"
+},
+{
+"path": "questions/2600/what-conditions-are-necessary-to-make-a-potted-aloe-vera-bloom",
+"title": "What conditions are necessary to make a potted aloe vera bloom?",
+"category": "food-production"
+},
+{
+"path": "questions/5108/what-did-people-whack-weeds-with-before-weed-whackers",
+"title": "What did people whack weeds with before weed-whackers?",
+"category": "food-production"
+},
+{
+"path": "questions/391/what-difference-does-rooting-hormone-make-when-propagating-plants-from-cutting",
+"title": "What difference does rooting hormone make when propagating plants from cuttings?",
+"category": "food-production"
+},
+{
+"path": "questions/425/what-do-i-do-about-the-whitish-powdery-mold-on-my-peonies",
+"title": "What do I do about the whitish powdery mold on my peonies?",
+"category": "food-production"
+},
+{
+"path": "questions/195/what-do-purple-tomato-leaves-mean",
+"title": "What do purple tomato leaves mean?",
+"category": "food-production"
+},
+{
+"path": "questions/1936/what-do-the-numbers-in-the-names-of-indoor-liquid-fertilizers-mean",
+"title": "What do the numbers in the names of indoor liquid fertilizers mean?",
+"category": "food-production"
+},
+{
+"path": "questions/643/what-does-it-mean-if-my-tomato-leaves-are-curling",
+"title": "What does it mean if my tomato leaves are curling?",
+"category": "food-production"
+},
+{
+"path": "questions/987/what-else-besides-calcium-deficiency-could-be-causing-tomato-blossom-end-rot",
+"title": "What else besides calcium deficiency could be causing tomato blossom end rot?",
+"category": "food-production"
+},
+{
+"path": "questions/52/what-factors-affect-the-spiciness-of-jalapenos",
+"title": "What factors affect the spiciness of jalapeños?",
+"category": "food-production"
+},
+{
+"path": "questions/162/what-food-crops-grow-well-in-a-hot-dry-desert-climate",
+"title": "What food crops grow well in a hot/dry desert climate?",
+"category": "food-production"
+},
+{
+"path": "questions/502/what-happens-if-you-plant-lettuce-in-hot-weather",
+"title": "What happens if you plant lettuce in hot weather?",
+"category": "food-production"
+},
+{
+"path": "questions/745/what-happens-to-a-broccoli-plant-after-it-has-been-decapitated",
+"title": "What happens to a broccoli plant after it has been decapitated?",
+"category": "food-production"
+},
+{
+"path": "questions/2065/what-herbs-vegetables-greens-can-be-grown-in-a-balcony-garden-with-limited-sun",
+"title": "What herbs/vegetables/greens can be grown in a balcony garden with limited sunlight?",
+"category": "food-production"
+},
+{
+"path": "questions/2389/what-household-wastes-can-you-use-to-fertilize-without-composting",
+"title": "What household wastes can you use to fertilize without composting?",
+"category": "food-production"
+},
+{
+"path": "questions/306/what-is-compost-tea-good-for",
+"title": "What is \"Compost Tea\" good for?",
+"category": "food-production"
+},
+{
+"path": "questions/13774/what-is-a-perched-water-table",
+"title": "What is a 'Perched Water Table'?",
+"category": "food-production"
+},
+{
+"path": "questions/6/what-is-a-fast-growing-deciduous-tree-for-shading-house-in-summer-long-island-",
+"title": "What is a fast-growing deciduous tree for shading house in summer? (Long Island, NY)",
+"category": "food-production"
+},
+{
+"path": "questions/2499/what-is-a-general-rule-of-thumb-for-when-to-prune-plants-and-trees",
+"title": "What is a general rule of thumb for when to prune plants and trees?",
+"category": "food-production"
+},
+{
+"path": "questions/3683/what-is-a-good-alternative-to-pressure-treated-wood-for-raised-beds",
+"title": "What is a good alternative to pressure treated wood for raised beds?",
+"category": "food-production"
+},
+{
+"path": "questions/2999/what-is-a-good-choice-for-an-edible-fruit-producing-plant-given-a-space-of-20-",
+"title": "What is a good choice for an edible fruit producing plant given a space of 20 ft x 3 ft (ca. 6×1 m)?",
+"category": "food-production"
+},
+{
+"path": "questions/1396/what-is-a-good-ground-cover-for-street-frontage-instead-of-lawn",
+"title": "What is a good ground cover for street frontage instead of lawn?",
+"category": "food-production"
+},
+{
+"path": "questions/302/what-is-a-good-method-for-extracting-the-earliest-viable-seeds-from-young-pump",
+"title": "What is a good method for  extracting the earliest-viable seeds from young pumpkins?",
+"category": "food-production"
+},
+{
+"path": "questions/2313/what-is-a-good-method-for-transplanting-an-established-gooseberry-bush",
+"title": "What is a good method for transplanting an established gooseberry bush?",
+"category": "food-production"
+},
+{
+"path": "questions/1617/what-is-a-good-watering-routine-for-a-bonsai",
+"title": "What is a good watering routine for a bonsai?",
+"category": "food-production"
+},
+{
+"path": "questions/632/what-is-a-proper-container-to-preserve-seeds",
+"title": "What is a proper container to preserve seeds?",
+"category": "food-production"
+},
+{
+"path": "questions/14906/what-is-a-sucker-and-how-does-it-differ-from-a-water-sprout-or-branch",
+"title": "What is a sucker and how does it differ from a water sprout or branch?",
+"category": "food-production"
+},
+{
+"path": "questions/378/what-is-an-easy-vegetable-to-grow-in-a-hot-dry-summer-cool-wet-winter-climate",
+"title": "What is an easy vegetable to grow in a hot, dry summer / cool, wet winter climate?",
+"category": "food-production"
+},
+{
+"path": "questions/76/what-is-an-effective-organic-pesticide-to-use-against-aphids-or-cabbage-looper",
+"title": "What is an effective organic pesticide to use against aphids or cabbage loopers?",
+"category": "food-production"
+},
+{
+"path": "questions/30405/what-is-brix-and-should-i-care",
+"title": "What is brix, and should I care?",
+"category": "food-production"
+},
+{
+"path": "questions/23346/what-is-causing-this-damage-on-my-apple-tree",
+"title": "What is causing this damage on my apple tree?",
+"category": "food-production"
+},
+{
+"path": "questions/398/what-is-eating-my-vegetable-seedlings",
+"title": "What is eating my vegetable seedlings?",
+"category": "food-production"
+},
+{
+"path": "questions/4171/what-is-happening-to-my-chilli-plant-how-can-i-help-it",
+"title": "What is happening to my chilli plant? How can I help it?",
+"category": "food-production"
+},
+{
+"path": "questions/344/what-is-in-seed-starting-soil-that-justifies-wearing-gloves-while-handling",
+"title": "What is in seed starting soil that justifies wearing gloves while handling?",
+"category": "food-production"
+},
+{
+"path": "questions/1116/what-is-my-citrus-deficiency-based-on-leaf-appearance-and-how-to-treat",
+"title": "What is my citrus deficiency, based on leaf appearance? And how to treat?",
+"category": "food-production"
+},
+{
+"path": "questions/3500/what-is-the-average-lifespan-of-most-maple-trees",
+"title": "What is the average lifespan of most maple trees?",
+"category": "food-production"
+},
+{
+"path": "questions/928/what-is-the-best-organic-way-to-defeat-slugs",
+"title": "What is the best organic way to defeat slugs?",
+"category": "food-production"
+},
+{
+"path": "questions/4242/what-is-the-best-shade-tree-to-shade-the-front-of-my-house",
+"title": "What is the best shade tree to shade the front of my house?",
+"category": "food-production"
+},
+{
+"path": "questions/1375/what-is-the-best-type-of-soil-for-growing-an-indoor-avocado-plant",
+"title": "What is the best type of soil for growing an indoor avocado plant?",
+"category": "food-production"
+},
+{
+"path": "questions/23679/what-is-the-best-way-to-germinating-seeds-in-compost",
+"title": "What is the best way to germinating seeds in compost?",
+"category": "food-production"
+},
+{
+"path": "questions/2150/what-is-the-best-way-to-grow-vegetables-without-using-chemical-insecticide",
+"title": "What is the best way to grow vegetables without using chemical insecticide?",
+"category": "food-production"
+},
+{
+"path": "questions/605/what-is-the-best-way-to-prevent-animals-from-eating-my-garden-without-a-fence",
+"title": "What is the best way to prevent animals from eating my garden without a fence?",
+"category": "food-production"
+},
+{
+"path": "questions/1418/what-is-the-best-way-to-support-a-stake-in-a-potted-tomato-plant",
+"title": "What is the best way to support a stake in a potted tomato plant?",
+"category": "food-production"
+},
+{
+"path": "questions/1716/what-is-the-difference-between-compost-tea-manure-tea-compost-leachate-and-her",
+"title": "What is the difference between compost tea, manure tea, compost leachate and herbal tea?",
+"category": "food-production"
+},
+{
+"path": "questions/3278/what-is-the-fastest-way-to-multiply-snowdrops",
+"title": "What is the fastest way to multiply snowdrops?",
+"category": "food-production"
+},
+{
+"path": "questions/1111/what-is-the-maximum-number-of-trusses-for-a-tomato-plant",
+"title": "What is the maximum number of trusses for a tomato plant?",
+"category": "food-production"
+},
+{
+"path": "questions/142/what-is-the-name-of-this-weed-with-red-green-leaves-and-little-white-flowers",
+"title": "What is the name of this weed with red/green leaves and little white flowers?",
+"category": "food-production"
+},
+{
+"path": "questions/3298/what-is-the-proper-technique-for-using-a-flame-weeder",
+"title": "What is the proper technique for using a flame weeder?",
+"category": "food-production"
+},
+{
+"path": "questions/1837/what-is-the-proper-technique-to-hand-pollinate-an-eggplant",
+"title": "What is the proper technique to hand pollinate an eggplant?",
+"category": "food-production"
+},
+{
+"path": "questions/509/what-is-the-proper-way-to-prune-a-fig-tree",
+"title": "What is the proper way to prune a Fig Tree?",
+"category": "food-production"
+},
+{
+"path": "questions/649/what-is-the-right-watering-schedule-for-the-different-areas-of-my-front-lawn",
+"title": "What is the right watering schedule for the different areas of my front lawn?",
+"category": "food-production"
+},
+{
+"path": "questions/2080/what-is-the-right-way-to-pick-peppers-so-the-plant-keeps-producing",
+"title": "What is the right way to pick peppers so the plant keeps producing?",
+"category": "food-production"
+},
+{
+"path": "questions/1208/what-is-the-risk-of-soil-contamination-via-leaf-mulch-compost",
+"title": "What is the risk of soil contamination via leaf mulch/compost?",
+"category": "food-production"
+},
+{
+"path": "questions/22264/what-is-this-bleeding-mushroom",
+"title": "What is this 'bleeding' mushroom?",
+"category": "food-production"
+},
+{
+"path": "questions/1523/what-is-this-brown-shell-like-thing-growing-on-the-stalk-of-my-avocado-plant",
+"title": "What is this brown, shell-like thing growing on the stalk of my avocado plant?",
+"category": "food-production"
+},
+{
+"path": "questions/22803/what-is-this-bug-on-my-adenium-plant-and-what-should-i-do",
+"title": "What is this bug on my adenium plant and what should I do?",
+"category": "food-production"
+},
+{
+"path": "questions/23473/what-is-this-cone-shaped-tree",
+"title": "What is this cone-shaped tree?",
+"category": "food-production"
+},
+{
+"path": "questions/2609/what-is-this-fast-growing-plant-with-blue-black-berries",
+"title": "What is this fast growing plant with blue/black berries?",
+"category": "food-production"
+},
+{
+"path": "questions/38000/what-is-this-green-ish-thing-inside-the-orange",
+"title": "What is this green-ish thing inside the orange?",
+"category": "food-production"
+},
+{
+"path": "questions/25060/what-is-this-monster-thistle-like-weed",
+"title": "What is this monster thistle-like weed?",
+"category": "food-production"
+},
+{
+"path": "questions/34936/what-is-this-plant-in-my-lawn",
+"title": "What is this plant in my lawn?",
+"category": "food-production"
+},
+{
+"path": "questions/13519/what-is-this-tiny-strawberry-like-fruit-found-in-a-southern-illinois-lawn",
+"title": "What is this tiny strawberry-like fruit found in a Southern Illinois lawn?",
+"category": "food-production"
+},
+{
+"path": "questions/2493/what-is-this-vine-like-weed-and-how-do-i-kill-it",
+"title": "What is this vine-like weed and how do I kill it?",
+"category": "food-production"
+},
+{
+"path": "questions/926/what-is-this-vine-type-plant-growing-on-my-jacaranda-tree",
+"title": "What is this Vine-type plant growing on my Jacaranda tree?",
+"category": "food-production"
+},
+{
+"path": "questions/11091/what-is-this-weed-and-how-can-i-eliminate-it",
+"title": "What is this weed and how can I eliminate it?",
+"category": "food-production"
+},
+{
+"path": "questions/218/what-is-this-white-growth-on-my-cactus",
+"title": "What is this white growth on my cactus?",
+"category": "food-production"
+},
+{
+"path": "questions/3099/what-kind-of-landscaping-plants-do-livestock-avoid-eating-and-need-minimal-att",
+"title": "What kind of landscaping plants do livestock avoid eating and need minimal attention?",
+"category": "food-production"
+},
+{
+"path": "questions/824/what-plants-take-easily-to-clay-soils",
+"title": "What plants take easily to clay soils?",
+"category": "food-production"
+},
+{
+"path": "questions/367/what-plants-will-deter-mosquitoes",
+"title": "What plants will deter mosquitoes?",
+"category": "food-production"
+},
+{
+"path": "questions/580/what-plants-will-keep-ladybugs-happy",
+"title": "What plants will keep ladybugs happy?",
+"category": "food-production"
+},
+{
+"path": "questions/2668/what-procedure-should-i-follow-to-compost-bones-fat-and-rotten-cooked-food",
+"title": "What procedure should I follow to compost bones, fat, and rotten cooked food?",
+"category": "food-production"
+},
+{
+"path": "questions/1184/what-should-i-do-about-standing-water-in-potted-plant",
+"title": "What should I do about standing water in potted plant?",
+"category": "food-production"
+},
+{
+"path": "questions/290/what-should-i-do-to-a-homemade-paper-pot-before-planting-it",
+"title": "What should I do to a homemade paper pot before planting it?",
+"category": "food-production"
+},
+{
+"path": "questions/1430/what-should-i-do-with-my-cherry-trees",
+"title": "What should I do with my Cherry trees?",
+"category": "food-production"
+},
+{
+"path": "questions/1075/what-sort-of-feeding-schedule-should-i-use-for-pepper-plants",
+"title": "What sort of feeding schedule should I use for pepper plants?",
+"category": "food-production"
+},
+{
+"path": "questions/2924/what-techniques-can-be-used-to-manually-sieve-stones-from-the-soil-efficiently",
+"title": "What techniques can be used to manually sieve stones from the soil efficiently?",
+"category": "food-production"
+},
+{
+"path": "questions/1402/what-type-of-potting-soil-is-most-suitable-for-indoor-herbs",
+"title": "What type of potting soil is most suitable for indoor herbs?",
+"category": "food-production"
+},
+{
+"path": "questions/3096/what-type-of-tester-works-best-for-measuring-soil-ph",
+"title": "What type of tester works best for measuring soil pH?",
+"category": "food-production"
+},
+{
+"path": "questions/129/what-vegetables-can-be-grown-effectively-in-a-small-urban-garden",
+"title": "What vegetables can be grown effectively in a small, urban garden?",
+"category": "food-production"
+},
+{
+"path": "questions/1658/what-vegetables-will-grow-well-in-limited-sunlight",
+"title": "What vegetables will grow well in limited sunlight?",
+"category": "food-production"
+},
+{
+"path": "questions/412/what-woods-shouldn-t-be-used-for-hugelkultur",
+"title": "What woods shouldn't be used for hugelkultur?",
+"category": "food-production"
+},
+{
+"path": "questions/1390/what-s-an-organic-way-to-discourage-crabgrass-from-a-large-lawn",
+"title": "What's an organic way to discourage crabgrass from a large \"lawn\"?",
+"category": "food-production"
+},
+{
+"path": "questions/168/what-s-attacking-one-lupin-but-not-its-neighbor",
+"title": "What's attacking one Lupin but not its neighbor?",
+"category": "food-production"
+},
+{
+"path": "questions/730/what-s-causing-my-potatoes-to-wilt",
+"title": "What's causing my potatoes to wilt?",
+"category": "food-production"
+},
+{
+"path": "questions/1512/what-s-growing-on-my-tomatoes",
+"title": "What's growing on my tomatoes?",
+"category": "food-production"
+},
+{
+"path": "questions/355/what-s-the-best-mulch-material-for-a-vegetable-garden",
+"title": "What's the best mulch material for a vegetable garden?",
+"category": "food-production"
+},
+{
+"path": "questions/577/what-s-the-best-way-to-cut-leaf-lettuces",
+"title": "What's the best way to cut leaf lettuces?",
+"category": "food-production"
+},
+{
+"path": "questions/417/what-s-the-best-way-to-increase-the-carbon-content-of-compost-heap-in-a-grassy",
+"title": "What's the best way to increase the carbon content of compost heap in a grassy garden?",
+"category": "food-production"
+},
+{
+"path": "questions/1051/what-s-the-fastest-growing-variety-of-cherry-tree",
+"title": "What's the fastest-growing variety of cherry tree?",
+"category": "food-production"
+},
+{
+"path": "questions/1315/what-s-the-ideal-shape-for-a-cucumber-trellis-cage",
+"title": "What's the ideal shape for a cucumber trellis/cage?",
+"category": "food-production"
+},
+{
+"path": "questions/4/what-s-the-most-effective-way-to-harvest-rhubarb",
+"title": "What's the most effective way to harvest rhubarb?",
+"category": "food-production"
+},
+{
+"path": "questions/3717/when-do-i-need-to-protect-a-fruit-tree-from-cold-and-how-do-i-do-it",
+"title": "When do I need to protect a fruit tree from cold, and how do I do it?",
+"category": "food-production"
+},
+{
+"path": "questions/286/when-should-i-pile-more-dirt-onto-a-growing-potato-plant",
+"title": "When should I pile more dirt onto a growing potato plant?",
+"category": "food-production"
+},
+{
+"path": "questions/1853/when-should-sunflower-seeds-be-harvested",
+"title": "When should sunflower seeds be harvested?",
+"category": "food-production"
+},
+{
+"path": "questions/5452/when-to-harvest-chilis-what-happens-if-i-don-t-how-can-i-store-them",
+"title": "When to harvest chilis? What happens if I don't? How can I store them?",
+"category": "food-production"
+},
+{
+"path": "questions/7416/when-transplanting-seedlings-why-shouldn-t-i-put-them-straight-into-the-ground",
+"title": "When transplanting seedlings, why shouldn't I put them straight into the ground?",
+"category": "food-production"
+},
+{
+"path": "questions/1681/when-will-my-tomatoes-be-ready-to-harvest",
+"title": "When will my tomatoes be ready to harvest?",
+"category": "food-production"
+},
+{
+"path": "questions/740/which-herbs-can-be-grown-as-perennials",
+"title": "Which herbs can be grown as perennials?",
+"category": "food-production"
+},
+{
+"path": "questions/2629/which-leaves-should-i-harvest-in-a-mint-plant",
+"title": "Which leaves should I  harvest in a mint plant?",
+"category": "food-production"
+},
+{
+"path": "questions/347/which-plants-trees-will-benefit-from-using-urine-as-a-fertilizer",
+"title": "Which plants/trees will benefit from using urine as a fertilizer?",
+"category": "food-production"
+},
+{
+"path": "questions/2552/which-techniques-and-tools-should-i-use-to-build-a-raised-vegetable-garden-fro",
+"title": "Which techniques and tools should I use to build a raised vegetable garden from bricks?",
+"category": "food-production"
+},
+{
+"path": "questions/20138/which-tomatoes-grow-the-best-in-high-temperatures",
+"title": "Which tomatoes grow the best in high temperatures?",
+"category": "food-production"
+},
+{
+"path": "questions/2071/why-are-my-apples-rotting-on-the-tree",
+"title": "Why are my apples rotting on the tree?",
+"category": "food-production"
+},
+{
+"path": "questions/1828/why-are-my-peach-leaves-turning-orange",
+"title": "Why are my peach leaves turning orange?",
+"category": "food-production"
+},
+{
+"path": "questions/1307/why-are-my-pumpkins-dying-is-it-the-heat",
+"title": "Why are my pumpkins dying? Is it the heat?",
+"category": "food-production"
+},
+{
+"path": "questions/318/why-are-my-squash-shrivelling",
+"title": "Why are my squash shrivelling?",
+"category": "food-production"
+},
+{
+"path": "questions/3004/why-are-my-squash-s-leaves-drooping",
+"title": "Why are my squash's leaves drooping?",
+"category": "food-production"
+},
+{
+"path": "questions/20535/why-are-my-tomatoes-cracking-and-what-can-i-do",
+"title": "Why are my tomatoes cracking and what can I do?",
+"category": "food-production"
+},
+{
+"path": "questions/1988/why-are-my-tomatoes-tasteless",
+"title": "Why are my tomatoes tasteless?",
+"category": "food-production"
+},
+{
+"path": "questions/13384/why-are-the-blooms-dropping-off-my-zucchini-without-fruiting",
+"title": "Why are the blooms dropping off my zucchini without fruiting?",
+"category": "food-production"
+},
+{
+"path": "questions/2601/why-are-there-kinks-in-my-aloe-vera-leaves",
+"title": "Why are there kinks in my aloe vera leaves?",
+"category": "food-production"
+},
+{
+"path": "questions/123/why-are-we-instructed-not-to-use-manure-before-planting-carrots",
+"title": "Why are we instructed not to use manure before planting carrots?",
+"category": "food-production"
+},
+{
+"path": "questions/1689/why-aren-t-my-fruit-nut-trees-flowering",
+"title": "Why aren't my fruit/nut trees flowering?",
+"category": "food-production"
+},
+{
+"path": "questions/1514/why-did-my-basil-leaves-turn-black",
+"title": "Why did my basil leaves turn black?",
+"category": "food-production"
+},
+{
+"path": "questions/830/why-did-my-carrots-split-in-a-way-that-looks-like-legs",
+"title": "Why did my carrots split in a way that looks like legs?",
+"category": "food-production"
+},
+{
+"path": "questions/1645/why-did-my-jalapenos-turn-black",
+"title": "Why did my jalapeños turn black?",
+"category": "food-production"
+},
+{
+"path": "questions/1720/why-did-my-orange-bell-pepper-smell-of-ammonia",
+"title": "Why did my orange bell pepper smell of ammonia?",
+"category": "food-production"
+},
+{
+"path": "questions/451/why-did-my-pepper-plants-suddenly-shrivel",
+"title": "Why did my pepper plants suddenly shrivel?",
+"category": "food-production"
+},
+{
+"path": "questions/54490/why-did-my-sweet-corn-kernels-grow-into-this",
+"title": "Why did my sweet corn kernels grow into this?",
+"category": "food-production"
+},
+{
+"path": "questions/3029/why-didn-t-my-forsythia-cuttings-root",
+"title": "Why didn't my forsythia cuttings root?",
+"category": "food-production"
+},
+{
+"path": "questions/8387/why-do-my-newly-planted-arborvitae-keep-dying",
+"title": "Why do my newly planted arborvitae keep dying?",
+"category": "food-production"
+},
+{
+"path": "questions/2/why-do-my-upside-down-tomato-plants-curve-up-and-break",
+"title": "Why do my upside-down tomato plants curve up and break?",
+"category": "food-production"
+},
+{
+"path": "questions/4940/why-do-people-paint-some-tree-trunks-white-at-the-bottom",
+"title": "Why do people paint some tree trunks white at the bottom?",
+"category": "food-production"
+},
+{
+"path": "questions/5174/why-do-plants-root-when-placed-in-water-but-die-in-standing-water",
+"title": "Why do plants root when placed in water, but die in standing water",
+"category": "food-production"
+},
+{
+"path": "questions/1383/why-does-my-cilantro-have-thin-leaves-why-is-my-parsley-not-growing-when-will-",
+"title": "Why does my cilantro have thin leaves? Why is my parsley not growing? When will they be ready for harvest?",
+"category": "food-production"
+},
+{
+"path": "questions/852/why-does-my-grass-have-bright-green-patches",
+"title": "Why does my grass have bright green patches?",
+"category": "food-production"
+},
+{
+"path": "questions/2550/why-does-my-lime-tree-drop-its-fruit-early",
+"title": "Why does my lime tree drop its fruit early?",
+"category": "food-production"
+},
+{
+"path": "questions/221/why-does-one-of-my-onion-varieties-red-baron-invariably-bolt",
+"title": "Why does one of my onion varieties (Red Baron) invariably bolt?",
+"category": "food-production"
+},
+{
+"path": "questions/369/why-don-t-my-radishes-swell-up",
+"title": "Why don't my radishes swell up?",
+"category": "food-production"
+},
+{
+"path": "questions/1906/why-has-my-mint-plant-gone-all-woody-sparse-stringy",
+"title": "Why has my mint plant gone all woody/sparse/stringy?",
+"category": "food-production"
+},
+{
+"path": "questions/2937/why-has-our-lucky-bamboo-turned-yellow",
+"title": "Why has our lucky bamboo turned yellow?",
+"category": "food-production"
+},
+{
+"path": "questions/855/why-hasn-t-my-strawberry-plant-produced-any-fruit",
+"title": "Why hasn't my strawberry plant produced any fruit?",
+"category": "food-production"
+},
+{
+"path": "questions/244/why-have-my-tomato-leaves-started-yellowing-at-the-base",
+"title": "Why have my tomato leaves started yellowing at the base?",
+"category": "food-production"
+},
+{
+"path": "questions/1372/why-is-an-indoor-pepper-plant-flowering-but-not-producing-fruit",
+"title": "Why is an indoor pepper plant flowering but not producing fruit?",
+"category": "food-production"
+},
+{
+"path": "questions/428/why-is-it-a-problem-to-use-manure-as-a-fertilizing-amendment-over-the-long-ter",
+"title": "Why is it a problem to use manure as a fertilizing amendment over the long term?",
+"category": "food-production"
+},
+{
+"path": "questions/13321/why-is-my-new-acer-tree-dying",
+"title": "Why is my new Acer tree dying?",
+"category": "food-production"
+},
+{
+"path": "questions/24258/why-is-my-orange-tree-not-bearing-fruit",
+"title": "Why is my Orange tree not bearing fruit",
+"category": "food-production"
+},
+{
+"path": "questions/1341/why-is-my-pepper-plant-dying",
+"title": "Why is my pepper plant dying?",
+"category": "food-production"
+},
+{
+"path": "questions/3043/why-is-there-concrete-buried-across-my-entire-backyard",
+"title": "Why is there concrete buried across my entire backyard?",
+"category": "food-production"
+},
+{
+"path": "questions/2755/why-isn-t-my-lemon-tree-growing",
+"title": "Why isn't my lemon tree growing?",
+"category": "food-production"
+},
+{
+"path": "questions/30560/why-it-is-bad-to-add-sand-to-soil",
+"title": "Why it is bad to add sand to soil?",
+"category": "food-production"
+},
+{
+"path": "questions/30315/why-shouldn-t-i-water-a-blue-spruce-tree-during-and-after-transplanting-it",
+"title": "Why shouldn't I water a Blue Spruce tree during and after transplanting it?",
+"category": "food-production"
+},
+{
+"path": "questions/8782/why-use-potting-mix-instead-of-natural-soil",
+"title": "Why use potting mix instead of natural soil?",
+"category": "food-production"
+},
+{
+"path": "questions/426/why-would-healthy-potatoes-come-out-tasting-dry-and-crumbly",
+"title": "Why would healthy potatoes come out tasting dry and crumbly?",
+"category": "food-production"
+},
+{
+"path": "questions/2122/will-a-cedar-tree-grow-new-limbs",
+"title": "Will a cedar tree grow new limbs?",
+"category": "food-production"
+},
+{
+"path": "questions/29761/will-applying-twenty-year-old-cow-manure-hurt-my-vegetable-garden",
+"title": "Will applying twenty year old cow manure hurt my vegetable garden?",
+"category": "food-production"
+},
+{
+"path": "questions/300/will-dumping-paint-destroy-a-nearby-tree",
+"title": "Will dumping paint destroy a nearby tree?",
+"category": "food-production"
+},
+{
+"path": "questions/19359/will-i-get-lemons-from-a-tree-grown-from-a-lemon-seed",
+"title": "Will I get lemons from a tree grown from a lemon seed?",
+"category": "food-production"
+},
+{
+"path": "questions/124/will-it-kill-my-potted-tree-if-i-use-tree-fertilizer-spikes",
+"title": "Will it kill my potted tree if I use tree fertilizer spikes?",
+"category": "food-production"
+},
+{
+"path": "questions/2546/will-leveling-uneven-lawns-with-extra-sand-kill-future-lawns",
+"title": "Will leveling uneven lawns with extra sand kill future lawns?",
+"category": "food-production"
+},
+{
+"path": "questions/2195/will-my-avocado-tree-produce-fruits-in-my-non-tropical-climate-region",
+"title": "Will my avocado tree produce fruits in my non-tropical climate region?",
+"category": "food-production"
+},
+{
+"path": "questions/1313/will-my-lime-tree-recover-from-cold-shock",
+"title": "Will my lime tree recover from cold shock?",
+"category": "food-production"
+},
+{
+"path": "questions/62532/will-my-mango-seedling-survive-after-being-attacked-by-my-cat",
+"title": "Will my Mango seedling survive after being attacked by my cat?",
+"category": "food-production"
+},
+{
+"path": "questions/1219/will-scallions-grow-after-using-them",
+"title": "Will scallions grow after using them?",
+"category": "food-production"
+},
+{
+"path": "questions/4248/will-the-effectiveness-of-soaker-hoses-degrade-too-much-if-i-connect-multiple-",
+"title": "Will the effectiveness of soaker hoses degrade too much if I connect multiple ones together?",
+"category": "food-production"
+},
+{
+"path": "questions/362/wormery-failure-in-mass-worm-die-off-any-advice",
+"title": "Wormery failure in mass worm die-off ... any advice?",
+"category": "food-production"
+}
+]
+}

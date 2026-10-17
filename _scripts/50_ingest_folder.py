@@ -13,7 +13,7 @@ TWO-STEP WORKFLOW (nothing is added until step 2):
   2) Optionally edit the CSV (change `decision` to add/skip, fix `category` or `title`), then apply:
        _scripts\\.venv\\Scripts\\python _scripts\\50_ingest_folder.py --apply _work\\ingest\\ingest_<date-time>.csv
      Rows marked `add` are written into the library: the original file is copied next to a Markdown
-     sidecar (front-matter + full text). CATALOG.csv/.json and README.md are then regenerated.
+     sidecar (front-matter + full text). CATALOG.csv/.json and LIBRARY.md are then regenerated.
 
 Duplicates are detected three ways: identical file (SHA-256) against the library and within the folder,
 and near-identical text (shared-passage fingerprint, e.g. the same manual in another format or edition).
@@ -356,16 +356,18 @@ def apply(report, ocr):
                 os.chmod(dst, 0o666); os.remove(dst)
             shutil.copy2(path, dst)
             os.chmod(dst, 0o666)   # don't carry a read-only attribute into the library
+        url = (r.get("source_url") or "").strip()   # set when the file was downloaded from a link (69_add_pdf_link.py)
         meta = {"title": title, "category": cat, "source_type": "pdf" if ext == ".pdf" else "document",
                 "file": (slug + ext) if keep_original else None,
-                "publisher": info.get("author") or "User-provided document",
-                "source_url": None, "provenance": f"User-provided file: {path} (added {TODAY})",
-                "license": "Unknown - user-provided document; verify before redistribution",
+                "publisher": (r.get("publisher") or "").strip() or info.get("author") or "User-provided document",
+                "source_url": url or None,
+                "provenance": f"Downloaded {TODAY} from the source URL" if url else f"User-provided file: {path} (added {TODAY})",
+                "license": (r.get("license") or "").strip() or "Unknown - user-provided document; verify before redistribution",
                 "pages": info.get("pages"), "sha256": sha, "words": len(text.split()),
                 "ocr": {"pages_ocrd": info["ocr_pages"], "engine": "RapidOCR"} if info.get("ocr_pages") else None,
                 "compiled": TODAY}
         body = [front_matter(meta), f"# {title}\n",
-                f"**Source:** user-provided file `{os.path.basename(path)}`  ",
+                f"**Source:** {meta['publisher']} - <{url}>  " if url else f"**Source:** user-provided file `{os.path.basename(path)}`  ",
                 f"**License:** {meta['license']}  "]
         if keep_original:
             body.append(f"**Original file:** [{slug + ext}]({slug + ext})")
@@ -376,7 +378,7 @@ def apply(report, ocr):
         if added % 25 == 0:
             reg.save()
     reg.save()
-    print(f"\n{added} files added. Updating catalog and README...", flush=True)
+    print(f"\n{added} files added. Updating the catalog...", flush=True)
     py = sys.executable
     subprocess.run([py, os.path.join(os.path.dirname(__file__), "20_catalog.py")])
     subprocess.run([py, os.path.join(os.path.dirname(__file__), "21_readme.py")])

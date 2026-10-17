@@ -1,0 +1,760 @@
+{
+"pack": "se-pets",
+"kind": "stackexchange",
+"title": "Stack Exchange - pets",
+"about": "Top-voted questions with their best answers from pets.stackexchange.com.",
+"archive": "se-pets",
+"made": "2026-10-17",
+"items": [
+{
+"path": "questions/17928/any-tips-for-how-to-coax-and-teach-a-shy-feral-cat-to-trust",
+"title": "Any tips for how to coax and teach a shy feral cat to trust?",
+"category": "food-production"
+},
+{
+"path": "questions/2057/are-cats-appropriate-pets-if-i-am-not-home-for-most-of-the-day",
+"title": "Are cats appropriate pets if I am not home for most of the day?",
+"category": "food-production"
+},
+{
+"path": "questions/659/are-chicken-bones-dangerous-for-dogs",
+"title": "Are chicken bones dangerous for dogs?",
+"category": "food-production"
+},
+{
+"path": "questions/796/are-onions-dangerous-for-my-cat-or-dog-and-why",
+"title": "Are onions dangerous for my cat or dog and why?",
+"category": "food-production"
+},
+{
+"path": "questions/137/are-there-any-health-or-behavioral-issues-specific-to-tripod-3-legged-dogs",
+"title": "Are there any health or behavioral issues specific to tripod (3-legged) dogs?",
+"category": "food-production"
+},
+{
+"path": "questions/708/are-there-health-risks-to-leaving-a-dead-fish-in-the-aquarium",
+"title": "Are there health risks to leaving a dead fish in the aquarium?",
+"category": "food-production"
+},
+{
+"path": "questions/5959/big-hound-has-eaten-corn-cobs-what-can-i-do-to-help-him-pass-them",
+"title": "Big hound has eaten corn cobs what can I do to help him pass them?",
+"category": "food-production"
+},
+{
+"path": "questions/21884/can-a-cat-who-only-lives-in-a-small-flat-be-happy",
+"title": "Can a cat, who only lives in a (small) flat, be happy?",
+"category": "food-production"
+},
+{
+"path": "questions/681/can-a-dog-contract-a-sexually-transmitted-infection",
+"title": "Can a dog contract a sexually transmitted infection?",
+"category": "food-production"
+},
+{
+"path": "questions/5997/can-a-dog-contract-the-ebola-virus",
+"title": "Can a dog contract the Ebola virus?",
+"category": "food-production"
+},
+{
+"path": "questions/105/can-an-adult-feral-cat-be-socialized-domesticated",
+"title": "Can an adult feral cat be socialized/domesticated?",
+"category": "food-production"
+},
+{
+"path": "questions/14/can-cats-safely-eat-raw-meat",
+"title": "Can cats safely eat raw meat?",
+"category": "food-production"
+},
+{
+"path": "questions/4352/can-cats-survive-solely-on-dry-food",
+"title": "Can cats survive solely on dry food?",
+"category": "food-production"
+},
+{
+"path": "questions/21235/can-dogs-eat-yoghurt",
+"title": "Can dogs eat yoghurt?",
+"category": "food-production"
+},
+{
+"path": "questions/1601/can-i-feed-my-cat-a-vegetarian-or-vegan-diet",
+"title": "Can I feed my cat a vegetarian or vegan diet?",
+"category": "food-production"
+},
+{
+"path": "questions/17927/can-i-feed-my-cat-whenever-she-wants",
+"title": "Can I feed my cat whenever she wants?",
+"category": "food-production"
+},
+{
+"path": "questions/854/can-i-make-a-baby-wild-rabbit-a-pet",
+"title": "Can I make a baby wild rabbit a pet?",
+"category": "food-production"
+},
+{
+"path": "questions/1578/can-i-release-my-pet-rabbit-in-the-wild",
+"title": "Can I release my pet rabbit in the wild?",
+"category": "food-production"
+},
+{
+"path": "questions/400/can-i-use-human-medicine-on-dogs",
+"title": "Can I use human medicine on dogs?",
+"category": "food-production"
+},
+{
+"path": "questions/673/can-my-dog-get-sick-from-my-human-illness",
+"title": "Can my dog get sick from my human illness?",
+"category": "food-production"
+},
+{
+"path": "questions/21448/can-rabies-virus-survive-outside-host-on-grass-or-leaves-under-sunlight",
+"title": "Can rabies virus survive outside host on grass or leaves under sunlight?",
+"category": "food-production"
+},
+{
+"path": "questions/19005/cat-has-bad-tooth-and-won-t-eat-but-vet-won-t-remove-tooth-if-she-isn-t-eating",
+"title": "Cat has bad tooth and won't eat but vet won't remove tooth if she isn't eating",
+"category": "food-production"
+},
+{
+"path": "questions/27336/cat-keeps-drinking-unattended-drinks",
+"title": "Cat Keeps Drinking Unattended Drinks",
+"category": "food-production"
+},
+{
+"path": "questions/376/claw-clipping-for-the-visually-challenged",
+"title": "Claw-clipping for the visually challenged?",
+"category": "food-production"
+},
+{
+"path": "questions/29384/discouraging-cat-from-scratching-couch",
+"title": "Discouraging cat from scratching couch",
+"category": "food-production"
+},
+{
+"path": "questions/617/do-bunnies-eat-their-droppings",
+"title": "Do bunnies eat their droppings?",
+"category": "food-production"
+},
+{
+"path": "questions/37419/do-cats-know-instinctively-which-plants-are-safe-to-eat",
+"title": "Do cats know instinctively which plants are safe to eat?",
+"category": "food-production"
+},
+{
+"path": "questions/1076/do-dogs-commit-suicide",
+"title": "Do dogs commit suicide?",
+"category": "food-production"
+},
+{
+"path": "questions/749/do-invisible-fences-pose-long-term-health-risks-to-dogs",
+"title": "Do invisible fences pose long term health risks to dogs?",
+"category": "food-production"
+},
+{
+"path": "questions/9808/does-leaving-wet-pet-food-at-room-temperature-for-12-hours-pose-a-risk-for-you",
+"title": "Does leaving wet pet food at room temperature for 12+ hours pose a risk for your cat?",
+"category": "food-production"
+},
+{
+"path": "questions/20163/does-my-cat-have-eye-worms",
+"title": "Does my cat have eye worms?",
+"category": "food-production"
+},
+{
+"path": "questions/766/does-neutering-have-any-negative-effect-on-the-health-of-a-dog",
+"title": "Does neutering have any negative effect on the health of a dog?",
+"category": "food-production"
+},
+{
+"path": "questions/38540/end-of-life-infinite-cat-treats",
+"title": "end-of-life infinite cat treats?",
+"category": "food-production"
+},
+{
+"path": "questions/1417/how-can-cat-owners-protect-cats-from-secondary-poisoning-from-rodenticides",
+"title": "How can cat owners protect cats from secondary poisoning from rodenticides?",
+"category": "food-production"
+},
+{
+"path": "questions/438/how-can-i-calm-my-cat-so-i-can-brush-him",
+"title": "How can I calm my cat so I can brush him?",
+"category": "food-production"
+},
+{
+"path": "questions/435/how-can-i-deionize-water-to-prevent-brown-eye-stains-on-my-dog",
+"title": "How can I deionize water to prevent brown eye stains on my dog?",
+"category": "food-production"
+},
+{
+"path": "questions/501/how-can-i-ensure-that-homemade-dog-food-is-healthy-for-my-dog",
+"title": "How can I ensure that homemade dog food is healthy for my dog?",
+"category": "food-production"
+},
+{
+"path": "questions/21575/how-can-i-fix-my-relationship-with-my-7-month-old-cat-after-i-ve-constantly-ab",
+"title": "How can I fix my relationship with my 7 month old cat after I've constantly abused her the past month?",
+"category": "food-production"
+},
+{
+"path": "questions/2190/how-can-i-gauge-a-vet-s-experience-with-reptiles",
+"title": "How can I gauge a vet's experience with reptiles?",
+"category": "food-production"
+},
+{
+"path": "questions/1231/how-can-i-get-my-dog-to-slow-down-when-eating",
+"title": "How can I get my dog to slow down when eating?",
+"category": "food-production"
+},
+{
+"path": "questions/107/how-can-i-get-rid-of-fleas-without-dangerous-chemicals",
+"title": "How can I get rid of fleas without dangerous chemicals?",
+"category": "food-production"
+},
+{
+"path": "questions/522/how-can-i-help-my-adult-rabbit-gain-weight",
+"title": "How can I help my adult rabbit gain weight?",
+"category": "food-production"
+},
+{
+"path": "questions/64/how-can-i-help-my-obese-cat-lose-weight",
+"title": "How can I help my obese cat lose weight?",
+"category": "food-production"
+},
+{
+"path": "questions/1637/how-can-i-know-if-my-cat-is-in-pain",
+"title": "How can I know if my cat is in pain?",
+"category": "food-production"
+},
+{
+"path": "questions/324/how-can-i-make-one-of-my-two-cats-eat-less",
+"title": "How can I make one of my two cats eat less?",
+"category": "food-production"
+},
+{
+"path": "questions/10468/how-can-i-move-houses-with-a-friendly-feral-cat-i-care-for",
+"title": "How can I move houses with a friendly feral cat I care for?",
+"category": "food-production"
+},
+{
+"path": "questions/986/how-can-i-prevent-my-cat-from-chewing-up-the-carpet",
+"title": "How can I prevent my cat from chewing up the carpet?",
+"category": "food-production"
+},
+{
+"path": "questions/5518/how-can-i-prevent-my-cat-from-making-a-mess-when-he-eats",
+"title": "How can I prevent my cat from making a mess when he eats?",
+"category": "food-production"
+},
+{
+"path": "questions/380/how-can-i-stop-my-cat-from-eating-too-fast-and-throwing-up",
+"title": "How can I stop my cat from eating too fast and throwing up?",
+"category": "food-production"
+},
+{
+"path": "questions/549/how-can-i-stop-my-dogs-from-scooting-dragging-their-butts",
+"title": "How can I stop my dogs from scooting / dragging their butts?",
+"category": "food-production"
+},
+{
+"path": "questions/1859/how-can-i-tell-when-my-small-dog-is-too-cold",
+"title": "How can I tell when my small dog is too cold",
+"category": "food-production"
+},
+{
+"path": "questions/2031/how-can-i-tell-whether-my-horse-recognizes-his-name",
+"title": "How can I tell whether my horse recognizes his name?",
+"category": "food-production"
+},
+{
+"path": "questions/258/how-can-we-make-putting-one-of-our-two-dogs-to-sleep-easier-on-the-remaining-d",
+"title": "How can we make putting one of our two dogs to sleep easier on the remaining dog?",
+"category": "food-production"
+},
+{
+"path": "questions/2210/how-deep-should-i-bury-my-pet-should-i-rebury",
+"title": "How deep should I bury my pet (should I rebury)?",
+"category": "food-production"
+},
+{
+"path": "questions/1104/how-do-i-bathe-my-cat",
+"title": "How do I bathe my cat?",
+"category": "food-production"
+},
+{
+"path": "questions/5466/how-do-i-care-for-a-quadriplegic-rabbit",
+"title": "How do I care for a quadriplegic rabbit?",
+"category": "food-production"
+},
+{
+"path": "questions/2966/how-do-i-convince-my-dog-that-a-collar-or-harness-is-not-the-end-of-the-world",
+"title": "How do I convince my dog that a collar or harness is not the end of the world?",
+"category": "food-production"
+},
+{
+"path": "questions/721/how-do-i-give-a-cat-a-pill",
+"title": "How do I give a cat a pill?",
+"category": "food-production"
+},
+{
+"path": "questions/1438/how-do-i-help-my-cat-tolerate-a-bad-tasting-liquid-medicine",
+"title": "How do I help my cat tolerate a bad-tasting liquid medicine?",
+"category": "food-production"
+},
+{
+"path": "questions/1101/how-do-i-keep-my-supply-of-feeder-crickets-from-keeping-me-awake-at-night",
+"title": "How do I keep my supply of feeder crickets from keeping me awake at night?",
+"category": "food-production"
+},
+{
+"path": "questions/591/how-do-i-stop-my-dog-from-eating-things-he-finds-during-our-walks",
+"title": "How do I stop my dog from eating things he finds during our walks?",
+"category": "food-production"
+},
+{
+"path": "questions/4362/how-do-you-clean-poop-out-of-a-long-hair-cat-s-fur",
+"title": "How do you clean poop out of a long hair cat's fur?",
+"category": "food-production"
+},
+{
+"path": "questions/122/how-does-one-stop-a-new-zealand-rabbit-from-leaving-droppings-in-the-house",
+"title": "How does one stop a New Zealand rabbit from leaving droppings in the house?",
+"category": "food-production"
+},
+{
+"path": "questions/27226/how-long-and-often-should-i-walk-my-pig",
+"title": "How long and often should I walk my pig?",
+"category": "food-production"
+},
+{
+"path": "questions/5593/how-long-can-a-healthy-cat-go-without-food",
+"title": "How long can a healthy cat go without food?",
+"category": "food-production"
+},
+{
+"path": "questions/1636/how-long-can-we-hold-off-euthanizing-our-cat",
+"title": "How long can we hold off euthanizing our cat?",
+"category": "food-production"
+},
+{
+"path": "questions/20/how-much-exercise-should-a-young-cat-be-getting",
+"title": "How much exercise should a young cat be getting?",
+"category": "food-production"
+},
+{
+"path": "questions/74/how-much-food-should-i-be-giving-my-dog-to-maintain-his-weight",
+"title": "How much food should I be giving my dog to maintain his weight?",
+"category": "food-production"
+},
+{
+"path": "questions/519/how-much-purring-is-too-much-purring",
+"title": "How much purring is too much purring?",
+"category": "food-production"
+},
+{
+"path": "questions/626/how-often-and-long-should-i-walk-my-puppy",
+"title": "How often and long should I walk my puppy?",
+"category": "food-production"
+},
+{
+"path": "questions/196/how-often-is-too-often-to-bathe-a-dog",
+"title": "How often is too often to bathe a dog?",
+"category": "food-production"
+},
+{
+"path": "questions/728/how-should-i-dispose-of-a-dead-fish-s-body",
+"title": "How should I dispose of a dead fish's body?",
+"category": "food-production"
+},
+{
+"path": "questions/136/how-should-i-trim-the-wings-of-my-bird",
+"title": "How should I trim the wings of my bird?",
+"category": "food-production"
+},
+{
+"path": "questions/330/how-to-determine-if-a-cat-is-generally-at-an-ideal-weight",
+"title": "How to determine if a cat is generally at an ideal weight?",
+"category": "food-production"
+},
+{
+"path": "questions/39086/how-to-get-a-horse-to-release-your-finger",
+"title": "How to get a horse to release your finger?",
+"category": "food-production"
+},
+{
+"path": "questions/677/how-to-leash-train-a-rabbit",
+"title": "How to leash train a rabbit?",
+"category": "food-production"
+},
+{
+"path": "questions/458/how-to-let-an-indoor-cat-have-some-outdoors-time-safely",
+"title": "How to let an indoor cat have some outdoors time safely?",
+"category": "food-production"
+},
+{
+"path": "questions/18810/i-can-t-afford-vet-treatment-what-are-my-options",
+"title": "I can't afford vet treatment, what are my options?",
+"category": "food-production"
+},
+{
+"path": "questions/10/is-corn-based-food-bad-for-my-dog",
+"title": "Is corn based food bad for my dog?",
+"category": "food-production"
+},
+{
+"path": "questions/650/is-dry-food-better-for-pets-teeth",
+"title": "Is dry food better for pets’ teeth?",
+"category": "food-production"
+},
+{
+"path": "questions/166/is-hand-feeding-my-horses-hay-enough-to-supplement-their-feed-if-my-grass-is-n",
+"title": "Is hand feeding my horses hay enough to supplement their feed if my grass is not enough to sustain them?",
+"category": "food-production"
+},
+{
+"path": "questions/879/is-it-a-good-idea-to-allow-my-cats-to-eat-leftovers-table-scraps",
+"title": "Is it a good idea to allow my cats to eat leftovers / table scraps?",
+"category": "food-production"
+},
+{
+"path": "questions/666/is-it-harmful-for-my-cat-to-eat-bugs",
+"title": "Is it harmful for my cat to eat bugs?",
+"category": "food-production"
+},
+{
+"path": "questions/34/is-it-healthy-for-a-cat-to-regularly-eat-cheese",
+"title": "Is it healthy for a cat to regularly eat cheese?",
+"category": "food-production"
+},
+{
+"path": "questions/1003/is-it-ok-to-pick-my-adult-cat-up-by-the-scruff-of-the-neck",
+"title": "Is it ok to pick my adult cat up by the scruff of the neck?",
+"category": "food-production"
+},
+{
+"path": "questions/1730/is-it-okay-for-an-elderly-cat-to-be-sleeping-in-the-litterbox",
+"title": "Is it okay for an elderly cat to be sleeping in the litterbox?",
+"category": "food-production"
+},
+{
+"path": "questions/2590/is-it-okay-to-feed-my-cats-canned-tuna",
+"title": "Is it okay to feed my cats canned tuna?",
+"category": "food-production"
+},
+{
+"path": "questions/1925/is-it-possible-to-have-a-pet-cat-even-with-cat-allergies",
+"title": "Is it possible to have a pet cat even with cat allergies?",
+"category": "food-production"
+},
+{
+"path": "questions/31275/is-it-safe-for-a-cat-to-be-with-a-covid-patient",
+"title": "Is it safe for a cat to be with a Covid patient?",
+"category": "food-production"
+},
+{
+"path": "questions/81/is-it-safe-for-a-dog-to-drink-water-from-a-stream",
+"title": "Is it safe for a dog to drink water from a stream?",
+"category": "food-production"
+},
+{
+"path": "questions/1218/is-it-true-that-goldfish-growth-is-limited-by-container-size",
+"title": "Is it true that goldfish growth is limited by container size?",
+"category": "food-production"
+},
+{
+"path": "questions/631/is-there-anything-beyond-preference-that-dictates-whether-dry-food-should-be-w",
+"title": "Is there anything beyond preference that dictates whether dry food should be wet down?",
+"category": "food-production"
+},
+{
+"path": "questions/1885/is-there-benefit-to-feeding-my-cats-cat-food-that-incorporates-fruits-and-vege",
+"title": "Is there benefit to feeding my cats cat food that incorporates fruits and vegetables?",
+"category": "food-production"
+},
+{
+"path": "questions/427/is-there-truth-to-the-idea-that-changing-food-too-often-make-your-dog-sick",
+"title": "Is there truth to the idea that changing food too often make your dog sick?",
+"category": "food-production"
+},
+{
+"path": "questions/611/make-life-easier-for-motion-sick-dog-when-traveling",
+"title": "Make life easier for motion sick dog when traveling?",
+"category": "food-production"
+},
+{
+"path": "questions/23611/my-cat-has-uncontrollable-twitching-on-her-back-near-her-tail",
+"title": "My cat has uncontrollable twitching on her back near her tail",
+"category": "food-production"
+},
+{
+"path": "questions/22105/my-cat-is-not-eating-or-drinking-anything-after-the-death-of-the-fellow-cat",
+"title": "My cat is not eating or drinking anything after the death of the fellow cat",
+"category": "food-production"
+},
+{
+"path": "questions/20522/my-cat-loves-coconut-oil-is-it-safe-to-give-him-some",
+"title": "My cat loves coconut oil. Is it safe to give him some?",
+"category": "food-production"
+},
+{
+"path": "questions/18208/my-cat-seems-to-dislike-the-idea-of-a-morning-walk-should-i-continue",
+"title": "My cat seems to dislike the idea of a morning walk. Should I continue?",
+"category": "food-production"
+},
+{
+"path": "questions/21159/my-cat-vomited-a-big-piece-of-plastic",
+"title": "My cat vomited a big piece of plastic",
+"category": "food-production"
+},
+{
+"path": "questions/17/my-friend-is-allergic-to-only-some-of-my-cats-why-is-that-and-how-do-i-mitigat",
+"title": "My friend is allergic to only some of my cats; why is that (and how do I mitigate for future cats)?",
+"category": "food-production"
+},
+{
+"path": "questions/28722/my-old-cat-died-and-i-don-t-know-how-to-deal-with-it",
+"title": "My old cat died and I don't know how to deal with it",
+"category": "food-production"
+},
+{
+"path": "questions/197/my-pet-snake-seems-to-have-some-sort-of-bugs-crawling-on-its-face-do-i-need-to",
+"title": "My pet snake seems to have some sort of bugs crawling on its face; do I need to worry?",
+"category": "food-production"
+},
+{
+"path": "questions/29900/one-month-old-puppy-pacing-in-circles-and-crying",
+"title": "One month old puppy pacing in circles and crying",
+"category": "food-production"
+},
+{
+"path": "questions/19081/overly-friendly-stray-cat-wants-to-come-in-our-house",
+"title": "Overly friendly stray cat wants to come in our house",
+"category": "food-production"
+},
+{
+"path": "questions/27744/should-cats-eat-huge-animals",
+"title": "Should cats eat \"huge\" animals?",
+"category": "food-production"
+},
+{
+"path": "questions/1966/should-i-regularly-feed-my-cat-catnip",
+"title": "Should I regularly feed my cat catnip?",
+"category": "food-production"
+},
+{
+"path": "questions/984/should-i-worry-if-my-cat-accidentally-ate-some-chocolate",
+"title": "Should I worry if my cat accidentally ate some chocolate?",
+"category": "food-production"
+},
+{
+"path": "questions/2506/should-my-cat-be-allowed-some-wet-food-every-day",
+"title": "Should my cat be allowed some wet food every day?",
+"category": "food-production"
+},
+{
+"path": "questions/42/should-my-cat-follow-daylight-savings",
+"title": "Should my cat follow daylight savings?",
+"category": "food-production"
+},
+{
+"path": "questions/28260/stepped-on-my-kitten-s-paw",
+"title": "Stepped on my kitten's paw",
+"category": "food-production"
+},
+{
+"path": "questions/792/what-are-some-safe-healthy-treats-for-my-turtle",
+"title": "What are some safe, healthy treats for my turtle?",
+"category": "food-production"
+},
+{
+"path": "questions/27487/what-are-the-signs-of-an-old-cat-dying",
+"title": "What are the signs of an old cat dying?",
+"category": "food-production"
+},
+{
+"path": "questions/464/what-can-i-do-about-the-black-dots-on-my-cat-s-chin",
+"title": "What can I do about the black dots on my cat's chin?",
+"category": "food-production"
+},
+{
+"path": "questions/257/what-can-i-do-for-a-dog-with-really-dry-skin",
+"title": "What can I do for a dog with really dry skin",
+"category": "food-production"
+},
+{
+"path": "questions/214/what-causes-fur-clumps-on-my-cat-s-back-and-how-can-i-prevent-them",
+"title": "What causes fur clumps on my cat's back, and how can I prevent them?",
+"category": "food-production"
+},
+{
+"path": "questions/1254/what-do-i-need-to-know-before-adopting-an-fiv-positive-cat",
+"title": "What do I need to know before adopting an FIV-positive cat?",
+"category": "food-production"
+},
+{
+"path": "questions/2841/what-happens-if-cats-drink-coffee",
+"title": "What happens if cats drink coffee?",
+"category": "food-production"
+},
+{
+"path": "questions/3/what-is-required-to-house-break-a-rabbit",
+"title": "What is required to house break a rabbit?",
+"category": "food-production"
+},
+{
+"path": "questions/946/what-is-the-best-way-to-keep-a-cat-in-a-multi-cat-home-from-eating-all-the-foo",
+"title": "What is the best way to keep a cat in a multi-cat home from eating all the food?",
+"category": "food-production"
+},
+{
+"path": "questions/18822/what-is-this-street-cat-asking-for-with-continuous-meowing",
+"title": "What is this street cat asking for, with continuous meowing?",
+"category": "food-production"
+},
+{
+"path": "questions/260/what-kind-of-brush-should-be-used-with-a-cavalier-king-charles-spaniel",
+"title": "What kind of brush should be used with a Cavalier King Charles Spaniel?",
+"category": "food-production"
+},
+{
+"path": "questions/1814/what-kind-of-paint-is-safe-to-use-on-a-bird-cage",
+"title": "What kind of paint is safe to use on a bird cage?",
+"category": "food-production"
+},
+{
+"path": "questions/2002/what-quality-of-life-will-my-cat-have-after-edentation",
+"title": "What quality of life will my cat have after edentation?",
+"category": "food-production"
+},
+{
+"path": "questions/22/what-should-i-consider-when-deciding-to-purchase-pet-insurance",
+"title": "What should I consider when deciding to purchase pet insurance?",
+"category": "food-production"
+},
+{
+"path": "questions/2529/what-should-i-do-if-my-cat-stops-eating-and-starts-hiding-more",
+"title": "What should I do if my cat stops eating and starts hiding more?",
+"category": "food-production"
+},
+{
+"path": "questions/2219/what-should-we-look-for-in-a-kitty-companion-for-our-rabbit",
+"title": "What should we look for in a kitty companion for our rabbit?",
+"category": "food-production"
+},
+{
+"path": "questions/20361/what-to-feed-kittens-that-are-only-a-few-weeks-old-their-mother-died",
+"title": "What to feed kittens that are only a few weeks old? (Their mother died)",
+"category": "food-production"
+},
+{
+"path": "questions/1081/what-will-help-an-aging-dog-with-arthritis",
+"title": "What will help an aging dog with arthritis?",
+"category": "food-production"
+},
+{
+"path": "questions/1922/what-exactly-is-ich",
+"title": "What, exactly, is \"ich\"?",
+"category": "food-production"
+},
+{
+"path": "questions/485/when-is-declawing-a-viable-option-for-cats",
+"title": "When is declawing a viable option for cats?",
+"category": "food-production"
+},
+{
+"path": "questions/627/when-is-it-safe-to-take-my-dog-out-to-the-park",
+"title": "When is it safe to take my dog out to the park?",
+"category": "food-production"
+},
+{
+"path": "questions/90/whether-and-how-to-minimise-physical-activity-of-female-dog-immediately-follow",
+"title": "Whether and how to minimise physical activity of female dog immediately following desexing operation?",
+"category": "food-production"
+},
+{
+"path": "questions/1699/why-are-cats-released-as-part-of-spay-and-release-programs",
+"title": "Why are cats released as part of \"spay and release\" programs?",
+"category": "food-production"
+},
+{
+"path": "questions/23/why-do-cats-lick-plastic-bags-and-is-there-any-harm-in-it",
+"title": "Why do cats lick plastic bags, and is there any harm in it?",
+"category": "food-production"
+},
+{
+"path": "questions/316/why-do-dogs-eat-grass",
+"title": "Why do dogs eat grass?",
+"category": "food-production"
+},
+{
+"path": "questions/28622/why-do-groomers-tell-you-not-to-shear-a-long-haired-dog-in-warm-weather",
+"title": "Why do groomers tell you not to shear a long-haired dog in warm weather?",
+"category": "food-production"
+},
+{
+"path": "questions/358/why-do-rabbits-chew-electrical-wires",
+"title": "Why do rabbits chew electrical wires?",
+"category": "food-production"
+},
+{
+"path": "questions/914/why-does-my-cat-almost-constantly-purr-while-he-s-awake",
+"title": "Why does my cat (almost) constantly purr while he's awake?",
+"category": "food-production"
+},
+{
+"path": "questions/936/why-does-my-dog-get-stuck-to-the-female-after-mating",
+"title": "Why does my dog get stuck to the female after mating?",
+"category": "food-production"
+},
+{
+"path": "questions/27893/why-don-t-fish-grow-to-their-full-size-in-a-small-tank",
+"title": "Why don't fish grow to their full size in a small tank?",
+"category": "food-production"
+},
+{
+"path": "questions/551/why-is-adding-hay-to-a-rabbit-s-diet-important",
+"title": "Why is adding hay to a rabbit's diet important?",
+"category": "food-production"
+},
+{
+"path": "questions/1457/why-is-iceberg-lettuce-bad-for-rabbits",
+"title": "Why is iceberg lettuce bad for rabbits?",
+"category": "food-production"
+},
+{
+"path": "questions/274/why-is-my-dog-eating-dirt",
+"title": "Why is my dog eating dirt?",
+"category": "food-production"
+},
+{
+"path": "questions/470/why-is-my-dog-eating-poop",
+"title": "Why is my dog eating poop?",
+"category": "food-production"
+},
+{
+"path": "questions/219/why-won-t-my-dog-eat-on-her-own",
+"title": "Why won't my dog eat on her own?",
+"category": "food-production"
+},
+{
+"path": "questions/7568/will-dogs-overeat",
+"title": "Will dogs overeat?",
+"category": "food-production"
+},
+{
+"path": "questions/6545/will-kittens-of-a-feral-mom-suddenly-become-feral-if-they-are-allowed-outside",
+"title": "Will kittens of a feral mom \"suddenly become feral\" if they are allowed outside?",
+"category": "food-production"
+},
+{
+"path": "questions/1394/will-my-pet-get-sick-drinking-from-the-toilet",
+"title": "Will my pet get sick drinking from the toilet?",
+"category": "food-production"
+},
+{
+"path": "questions/269/would-an-indoor-cat-need-flea-treatments",
+"title": "Would an indoor cat need flea treatments?",
+"category": "food-production"
+}
+]
+}

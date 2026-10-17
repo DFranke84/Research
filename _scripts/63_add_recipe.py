@@ -79,6 +79,8 @@ def refresh_pages(log, folders):
         bm.folder_page(folder_name(fslug), fslug, links, log)
     # the collection page's "N of M saved offline" line for each folder
     coll = os.path.join(RESEARCH, "recipes", "personal-recipe-collection.md")
+    if not os.path.exists(coll):   # only libraries built with 56_build_recipe_collection.py have this overview page
+        return
     txt = open(coll, encoding="utf-8").read()
     for fslug in folders:
         n_ok = sum(1 for e in log.values() if e.get("folder") == fslug and e.get("status") == "ok")
@@ -91,6 +93,7 @@ def refresh_pages(log, folders):
 def move(entry, src, dst):
     """Move a saved recipe's files (md, pdf, photo, video) into another folder."""
     slug = os.path.splitext(entry["md"])[0]
+    os.makedirs(os.path.join(bm.OUT, dst), exist_ok=True)
     for f in os.listdir(os.path.join(bm.OUT, src)):
         if f.startswith(slug + ".") or f.startswith(slug + "-video."):
             os.replace(os.path.join(bm.OUT, src, f), os.path.join(bm.OUT, dst, f))
@@ -172,6 +175,7 @@ def main():
             slug = new
         text = text.replace('bookmark_folder: null', f'bookmark_folder: "{name}"', 1)
         open(os.path.join(stage, rec["md"]), "w", encoding="utf-8").write(text)
+        os.makedirs(os.path.join(bm.OUT, dest), exist_ok=True)   # a new library has no recipe folders yet
         if old.get("folder") and old["folder"] != dest:   # re-fetch landing in a different folder: clear the old copy
             for f in os.listdir(os.path.join(bm.OUT, old["folder"])):
                 if f == slug + ".txt":   # your note moves with the recipe

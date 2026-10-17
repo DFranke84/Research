@@ -11,14 +11,15 @@ from libzim.reader import Archive
 from markdownify import markdownify
 sys.path.insert(0, os.path.dirname(__file__))
 from common import RESEARCH, TODAY, cat_dir, front_matter, slugify, SlugRegistry
+from archives import need
 
 W = os.path.join(RESEARCH, "_work")
-DATES = {"cooking": "2026-07", "crafts": "2026-07"}
 LICENSE = "CC BY-SA 4.0 (Stack Exchange contributors; see each post's author credit)"
 
 
 def archive(site):
-    return Archive(os.path.join(RESEARCH, "_sources", "zim", f"{site}.stackexchange.com_en_all_{DATES.get(site, '2026-08')}.zim"))
+    """The newest copy of the site's archive in _sources\\zim."""
+    return Archive(need("se-" + site))
 
 
 def index(site):
@@ -69,9 +70,12 @@ def author(el):
     return "a deleted/anonymous user"
 
 
-def build(site):
+def build(site, sel=None):
+    """sel: the questions to build (default: _work/se_<site>_select.json) - Build Starter Library passes a pack's items."""
     z = archive(site)
-    sel = json.load(open(os.path.join(W, f"se_{site}_select.json"), encoding="utf-8"))
+    if sel is None:
+        sel = json.load(open(os.path.join(W, f"se_{site}_select.json"), encoding="utf-8"))
+    os.makedirs(W, exist_ok=True)
     bf = os.path.join(W, f"built_se_{site}.json")
     built = json.load(open(bf, encoding="utf-8")) if os.path.exists(bf) else []
     done = {b["key"] for b in built}
@@ -103,7 +107,7 @@ def build(site):
         slug = reg.claim(slugify(f"{site} {title}")[:100], f"se-{site}:{p}")
         meta = {"title": f"{title} ({site}.stackexchange)", "category": cat, "source_type": "q-and-a",
                 "publisher": f"Stack Exchange - {site}.stackexchange.com", "source_url": url,
-                "retrieved_from": f"Kiwix ZIM {site}.stackexchange.com_en_all_{DATES.get(site, '2026-08')}.zim",
+                "retrieved_from": f"Kiwix ZIM {os.path.basename(z.filename)}",
                 "license": LICENSE, "tags": tags, "answers_included": len(keep), "words": len(text.split()), "compiled": TODAY}
         head = f"# {title}\n\n**Source:** {site}.stackexchange.com - <{url}>  \n**License:** {LICENSE}\n\n"
         open(os.path.join(cat_dir(cat), slug + ".md"), "w", encoding="utf-8").write(front_matter(meta) + head + text + "\n")

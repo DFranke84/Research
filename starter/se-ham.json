@@ -1,0 +1,1500 @@
+{
+"pack": "se-ham",
+"kind": "stackexchange",
+"title": "Stack Exchange - ham",
+"about": "Top-voted questions with their best answers from ham.stackexchange.com.",
+"archive": "se-ham",
+"made": "2026-10-17",
+"items": [
+{
+"path": "questions/111/50-ohm-coaxial-cable-vs-450-ohm-or-600-ohm-ladder-or-window-line",
+"title": "50 Ohm coaxial cable vs 450 Ohm or 600 Ohm ladder or window line?",
+"category": "communications-radio"
+},
+{
+"path": "questions/9451/aluminum-vs-copper-antenna-element-lengths",
+"title": "Aluminum vs copper antenna element lengths",
+"category": "communications-radio"
+},
+{
+"path": "questions/17891/am-i-really-receiving-ft8-signals-from-12000-km-away-on-144-mhz",
+"title": "Am I really receiving FT8 signals from 12,000 km away on 144 MHz?",
+"category": "communications-radio"
+},
+{
+"path": "questions/690/amateur-radio-in-an-eoc",
+"title": "Amateur radio in an EOC?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1567/antenna-rx-vs-tx",
+"title": "Antenna RX vs. TX",
+"category": "communications-radio"
+},
+{
+"path": "questions/4994/antenna-size-for-wideband",
+"title": "Antenna size for wideband",
+"category": "communications-radio"
+},
+{
+"path": "questions/5061/are-amateur-radio-call-signs-unique-among-all-radio-call-signs",
+"title": "Are amateur radio call signs unique among all radio call signs?",
+"category": "communications-radio"
+},
+{
+"path": "questions/3502/are-antennas-circuits",
+"title": "Are antennas circuits?",
+"category": "communications-radio"
+},
+{
+"path": "questions/16626/are-baofeng-radios-illegal-in-the-u-s",
+"title": "Are Baofeng radios illegal in the U.S?",
+"category": "communications-radio"
+},
+{
+"path": "questions/5259/are-hashes-such-as-md5-legal-in-the-us",
+"title": "Are hashes (such as md5) legal in the US",
+"category": "communications-radio"
+},
+{
+"path": "questions/1695/are-there-any-real-advantages-to-an-aftermarket-na-701-over-the-baofeng-stock-",
+"title": "Are there any real advantages to an aftermarket NA-701 over the Baofeng stock antenna?",
+"category": "communications-radio"
+},
+{
+"path": "questions/22/are-there-federal-laws-us-protecting-antenna-installation",
+"title": "Are there federal laws (US) protecting antenna installation?",
+"category": "communications-radio"
+},
+{
+"path": "questions/11873/are-there-formulae-to-calculate-capacitance-and-inductance-of-an-antenna",
+"title": "Are there formulae to calculate capacitance and inductance of an antenna?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1134/are-there-ways-for-people-with-receivers-to-participate-in-contests",
+"title": "Are there ways for people with receivers to participate in contests?",
+"category": "communications-radio"
+},
+{
+"path": "questions/32/are-there-well-known-methods-that-can-help-improve-my-cw-copying-speed",
+"title": "Are there well-known methods that can help improve my CW copying speed?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1216/audio-frequency-used-for-morse-code-in-licensing-exams",
+"title": "Audio frequency used for Morse code in licensing exams?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1412/bandwidth-of-a-cw-signal",
+"title": "Bandwidth of a CW signal?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12866/better-explanation-for-beyond-line-of-sight-vhf-signal-reach-than-lower-curvat",
+"title": "Better explanation for beyond-line-of-sight VHF signal reach than \"lower curvature to radio waves\"",
+"category": "communications-radio"
+},
+{
+"path": "questions/787/buddipole-model-comparison",
+"title": "Buddipole model comparison",
+"category": "communications-radio"
+},
+{
+"path": "questions/3668/building-a-portable-event-repeater",
+"title": "Building a portable event repeater",
+"category": "communications-radio"
+},
+{
+"path": "questions/283/calculating-antenna-length-on-the-fcc-exam-vs-in-reality",
+"title": "Calculating Antenna Length on the FCC Exam vs. in Reality",
+"category": "communications-radio"
+},
+{
+"path": "questions/16137/can-a-1-1-transformer-be-used-as-a-protection-from-static-electricity",
+"title": "Can a 1:1 transformer be used as a protection from static electricity?",
+"category": "communications-radio"
+},
+{
+"path": "questions/7501/can-a-baofeng-uv-5r-display-both-name-and-frequency-simultaneously",
+"title": "Can a Baofeng UV-5R Display Both Name and Frequency Simultaneously?",
+"category": "communications-radio"
+},
+{
+"path": "questions/16566/can-a-ham-license-be-used-for-a-job",
+"title": "Can a ham license be used for a job?",
+"category": "communications-radio"
+},
+{
+"path": "questions/117/can-a-licensed-ham-use-or-modify-cb-equipment-to-work-the-10-meter-amateur-ban",
+"title": "Can a licensed ham use or modify CB equipment to work the 10 Meter Amateur bands?",
+"category": "communications-radio"
+},
+{
+"path": "questions/814/can-an-amateur-use-cellular-technologies-with-sdr",
+"title": "Can an amateur use cellular technologies with SDR?",
+"category": "communications-radio"
+},
+{
+"path": "questions/5880/can-every-antenna-be-used-both-for-transmit-and-receive",
+"title": "Can every antenna be used both for transmit and receive?",
+"category": "communications-radio"
+},
+{
+"path": "questions/11668/can-i-build-a-radio-telescope-out-of-a-parabolic-tv-satellite-dish",
+"title": "Can I build a radio telescope out of a parabolic TV satellite dish?",
+"category": "communications-radio"
+},
+{
+"path": "questions/299/can-i-have-multiple-inverted-vee-antenna-fed-by-a-single-coax",
+"title": "Can I have multiple inverted-vee antenna fed by a single coax?",
+"category": "communications-radio"
+},
+{
+"path": "questions/119/can-i-operate-in-the-united-kingdom-with-a-us-license",
+"title": "Can I operate in the United Kingdom with a US license?",
+"category": "communications-radio"
+},
+{
+"path": "questions/606/can-i-reduce-rfi-noise-at-the-antenna",
+"title": "Can I reduce RFI/noise at the antenna?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1052/can-i-transmit-anything-inside-a-faraday-cage",
+"title": "Can I transmit anything inside a Faraday cage?",
+"category": "communications-radio"
+},
+{
+"path": "questions/6887/can-my-neighbor-s-ham-radio-antenna-be-interfering-with-my-internet-signal-or-",
+"title": "Can my neighbor's ham radio antenna be interfering with my internet signal or is my internet provider just throwing blame elsewhere?",
+"category": "communications-radio"
+},
+{
+"path": "questions/16594/can-you-use-a-satellite-dish-for-a-ham-radio-antenna",
+"title": "Can you use a satellite dish for a ham radio antenna?",
+"category": "communications-radio"
+},
+{
+"path": "questions/11918/capacitive-hats-on-wire-dipoles",
+"title": "Capacitive hats on wire dipoles?",
+"category": "communications-radio"
+},
+{
+"path": "questions/6014/conductive-boom-vs-non-conductive-boom-what-s-the-difference-on-a-yagi",
+"title": "Conductive boom vs non conductive boom: what's the difference on a Yagi?",
+"category": "communications-radio"
+},
+{
+"path": "questions/4905/connect-two-receiving-antennas-to-the-same-radio",
+"title": "Connect two receiving antennas to the same radio",
+"category": "communications-radio"
+},
+{
+"path": "questions/7008/could-a-weather-balloon-make-a-good-antenna",
+"title": "Could a weather balloon make a good antenna?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1293/cw-on-phone-band",
+"title": "CW on phone band",
+"category": "communications-radio"
+},
+{
+"path": "questions/412/direction-finding-how-to-find-a-stuck-fm-transmitter-on-70cm",
+"title": "Direction finding: How to find a stuck FM transmitter on 70cm?",
+"category": "communications-radio"
+},
+{
+"path": "questions/10556/do-fcc-regulations-limit-digital-data-rate",
+"title": "Do FCC regulations limit digital data rate?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12554/do-volunteer-exam-coordinators-provide-accommodations-for-applicants-with-visu",
+"title": "Do volunteer exam coordinators provide accommodations for applicants with visual impairments?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1589/does-a-fcc-amateur-license-cost-money",
+"title": "Does a FCC amateur license cost money?",
+"category": "communications-radio"
+},
+{
+"path": "questions/10/does-an-amateur-radio-licence-work-worldwide",
+"title": "Does an amateur radio licence work worldwide?",
+"category": "communications-radio"
+},
+{
+"path": "questions/9722/does-coax-limit-the-maximum-swr-a-transmitter-sees",
+"title": "Does Coax Limit the Maximum SWR a Transmitter 'Sees'?",
+"category": "communications-radio"
+},
+{
+"path": "questions/425/does-iron-ore-in-the-ground-affect-my-signal",
+"title": "Does iron ore in the ground affect my signal?",
+"category": "communications-radio"
+},
+{
+"path": "questions/763/does-modulation-affect-propagation",
+"title": "Does modulation affect propagation?",
+"category": "communications-radio"
+},
+{
+"path": "questions/14679/dominant-speeds-of-morse-communications",
+"title": "Dominant speeds of Morse Communications",
+"category": "communications-radio"
+},
+{
+"path": "questions/1388/effect-of-different-metals-for-antenna-elements",
+"title": "Effect of different metals for antenna elements",
+"category": "communications-radio"
+},
+{
+"path": "questions/1821/fastest-speed-allowed-for-cw-fm-repeater-id-in-usa",
+"title": "Fastest Speed allowed for CW FM repeater ID in USA",
+"category": "communications-radio"
+},
+{
+"path": "questions/18453/fcc-sends-notice-of-dismissal-with-quite-threatening-language-just-for-denial-",
+"title": "FCC sends \"Notice of Dismissal\" with quite threatening language just for denial of a vanity callsign?",
+"category": "communications-radio"
+},
+{
+"path": "questions/6471/fcc-tracking-of-unlicensed-frs-gmrs-transmissions",
+"title": "FCC tracking of unlicensed FRS/GMRS transmissions",
+"category": "communications-radio"
+},
+{
+"path": "questions/10519/full-uk-license-visiting-us-can-i-use-frequencies-in-us-but-not-uk-license",
+"title": "Full UK license visiting US: Can I use frequencies in US but not UK license?",
+"category": "communications-radio"
+},
+{
+"path": "questions/10112/getting-permission-from-the-master-of-the-vessel",
+"title": "Getting permission from the master of the vessel",
+"category": "communications-radio"
+},
+{
+"path": "questions/2449/getting-started-with-digital-modes-on-vhf-on-linux",
+"title": "Getting Started with Digital Modes on VHF on Linux",
+"category": "communications-radio"
+},
+{
+"path": "questions/140/good-wire-for-wire-antenna",
+"title": "Good wire for wire antenna?",
+"category": "communications-radio"
+},
+{
+"path": "questions/3523/grounding-a-second-story-shack-with-an-outdoor-antenna",
+"title": "Grounding a second-story shack with an outdoor antenna",
+"category": "communications-radio"
+},
+{
+"path": "questions/1535/grounding-vhf-base-station-antenna",
+"title": "Grounding VHF base station antenna",
+"category": "communications-radio"
+},
+{
+"path": "questions/10201/ham-technician-exam-material",
+"title": "Ham Technician Exam Material",
+"category": "communications-radio"
+},
+{
+"path": "questions/644/handheld-dipoles",
+"title": "Handheld Dipoles",
+"category": "communications-radio"
+},
+{
+"path": "questions/20417/hanging-a-dipole-from-a-tree-not-code-compliant",
+"title": "Hanging a dipole from a tree not code compliant?",
+"category": "communications-radio"
+},
+{
+"path": "questions/443/has-a-vehicle-magnetic-antenna-mount-ever-caused-a-road-accident",
+"title": "Has a vehicle magnetic antenna mount ever caused a road accident?",
+"category": "communications-radio"
+},
+{
+"path": "questions/20404/hearing-morse-code-after-end-of-session",
+"title": "Hearing Morse code after end of session?",
+"category": "communications-radio"
+},
+{
+"path": "questions/11617/high-40m-noise-floor-during-the-evening-but-quiet-in-the-afternoon",
+"title": "High 40m noise floor during the evening but quiet in the afternoon",
+"category": "communications-radio"
+},
+{
+"path": "questions/22768/how-are-secret-encodings-not-a-violation-of-amateur-radio-regulations",
+"title": "How are secret encodings not a violation of amateur radio regulations?",
+"category": "communications-radio"
+},
+{
+"path": "questions/4938/how-can-i-avoid-accidentally-transmitting-with-a-baofeng-uv-5r",
+"title": "How can I avoid accidentally transmitting with a Baofeng UV-5R?",
+"category": "communications-radio"
+},
+{
+"path": "questions/9832/how-can-i-calculate-the-effects-of-an-lna-antenna-gain-etc-on-noise-performanc",
+"title": "How can I calculate the effects of an LNA, antenna gain, etc. on noise performance?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1637/how-can-i-calibrate-a-swr-meter",
+"title": "How can I calibrate a SWR meter?",
+"category": "communications-radio"
+},
+{
+"path": "questions/9555/how-can-i-do-direct-digital-synthesis-of-a-630m-wspr-signal",
+"title": "How can I do direct digital synthesis of a 630m WSPR signal?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12463/how-can-i-get-rid-of-rfi-coming-from-my-house-solar-panel-inverter",
+"title": "How can I get rid of RFI coming from my house solar panel inverter?",
+"category": "communications-radio"
+},
+{
+"path": "questions/51/how-can-i-protect-equipment-against-a-lightning-strike",
+"title": "How can I protect equipment against a lightning strike?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1174/how-can-i-reduce-the-noise-coming-in-from-an-rtl-sdr-dongle",
+"title": "How can I reduce the noise coming in from an RTL-SDR dongle?",
+"category": "communications-radio"
+},
+{
+"path": "questions/615/how-can-i-safely-transmit-without-an-antenna-tuner-or-swr-meter",
+"title": "How can I safely transmit without an antenna tuner or SWR meter?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1352/how-can-i-tell-if-a-call-sign-is-valid",
+"title": "How can I tell if a call sign is valid?",
+"category": "communications-radio"
+},
+{
+"path": "questions/10472/how-could-superheterodyne-receiver-ever-work",
+"title": "How Could Superheterodyne Receiver Ever Work?",
+"category": "communications-radio"
+},
+{
+"path": "questions/11708/how-did-hams-manage-to-tune-their-antennas-before-vswr-meters",
+"title": "How did hams manage to tune their antennas before VSWR meters?",
+"category": "communications-radio"
+},
+{
+"path": "questions/635/how-do-emergency-nets-work",
+"title": "How do emergency nets work?",
+"category": "communications-radio"
+},
+{
+"path": "questions/495/how-do-handheld-antennas-work-without-ground",
+"title": "How do Handheld antennas work without ground?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1586/how-do-i-change-my-registered-address-with-the-fcc",
+"title": "How do I change my registered address with the FCC?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1304/how-do-i-design-a-round-or-square-coaxial-transmission-line-to-have-a-specific",
+"title": "How do I design a round or square coaxial transmission line to have a specific impedance?",
+"category": "communications-radio"
+},
+{
+"path": "questions/315/how-do-i-discover-aprs-coverage",
+"title": "How do I discover APRS coverage?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1075/how-do-i-find-a-frequency-to-call-cq-on-during-a-contest",
+"title": "How do I find a frequency to call CQ on during a contest?",
+"category": "communications-radio"
+},
+{
+"path": "questions/2001/how-do-i-find-out-what-bands-are-open",
+"title": "How do I find out what bands are open?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1037/how-do-i-increase-my-phone-intelligibility",
+"title": "How do I increase my phone intelligibility?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1921/how-do-i-make-a-rf-propagation-map-for-a-repeater",
+"title": "How do I make a RF propagation map for a repeater?",
+"category": "communications-radio"
+},
+{
+"path": "questions/63/how-do-i-prevent-radio-signals-from-tripping-a-gfci",
+"title": "How do I prevent radio signals from tripping a GFCI?",
+"category": "communications-radio"
+},
+{
+"path": "questions/759/how-do-i-renew-my-fcc-amateur-license",
+"title": "How do I renew my FCC amateur license?",
+"category": "communications-radio"
+},
+{
+"path": "questions/59/how-do-i-report-an-emergency-using-ham-radio",
+"title": "How do I report an emergency using ham radio?",
+"category": "communications-radio"
+},
+{
+"path": "questions/2127/how-do-i-troubleshoot-a-baofeng-uv-5r-that-won-t-receive",
+"title": "How do I troubleshoot a Baofeng UV-5R that won't receive?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1700/how-does-a-chip-antenna-work",
+"title": "How does a \"chip antenna\" work?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1918/how-does-a-dual-band-handheld-antenna-work",
+"title": "How does a Dual Band Handheld Antenna work?",
+"category": "communications-radio"
+},
+{
+"path": "questions/919/how-does-a-folded-dipole-work",
+"title": "How does a folded dipole work?",
+"category": "communications-radio"
+},
+{
+"path": "questions/754/how-does-a-mag-mount-antenna-achieve-a-ground-plane",
+"title": "How does a mag mount antenna achieve a ground plane?",
+"category": "communications-radio"
+},
+{
+"path": "questions/3606/how-does-an-antenna-transform-impedances-along-its-length",
+"title": "How does an antenna transform impedances along its length?",
+"category": "communications-radio"
+},
+{
+"path": "questions/9778/how-does-an-swr-meter-really-work",
+"title": "How does an SWR meter really work?",
+"category": "communications-radio"
+},
+{
+"path": "questions/95/how-does-moving-a-feedpoint-off-center-in-a-dipole-affect-the-resonant-frequen",
+"title": "How does moving a feedpoint off-center in a dipole affect the resonant frequency and resistive load?",
+"category": "communications-radio"
+},
+{
+"path": "questions/3711/how-does-selecting-the-opposite-sideband-when-receiving-cw-on-hf-reduce-interf",
+"title": "How does selecting the opposite sideband when receiving CW on HF reduce interference?",
+"category": "communications-radio"
+},
+{
+"path": "questions/3771/how-does-the-baofeng-radio-eliminate-squelch-tail",
+"title": "How does the baofeng radio eliminate squelch tail?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12198/how-does-the-signal-know-where-the-cable-ends-and-the-antenna-starts",
+"title": "How does the signal know where the cable ends and the antenna starts?",
+"category": "communications-radio"
+},
+{
+"path": "questions/7265/how-does-vhf-uhf-propagate-beyond-the-expected-radio-horizon",
+"title": "How does VHF/UHF propagate beyond the expected (radio) horizon?",
+"category": "communications-radio"
+},
+{
+"path": "questions/17661/how-effectively-do-modern-transmitters-protect-against-high-swr",
+"title": "How effectively do modern transmitters protect against high SWR?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1467/how-is-clarifier-control-helpful",
+"title": "How is \"clarifier\" control helpful?",
+"category": "communications-radio"
+},
+{
+"path": "questions/5563/how-is-a-1-1-current-balun-different-from-a-choke",
+"title": "How is a 1:1 current balun different from a choke?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1282/how-many-new-amateur-operators-can-currently-use-cw",
+"title": "How many new amateur operators can currently use CW?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1145/how-might-one-realize-a-first-order-two-dimensional-rf-field-antenna-for-hf",
+"title": "How might one realize a first order, two dimensional RF field antenna for HF?",
+"category": "communications-radio"
+},
+{
+"path": "questions/14619/how-much-current-can-baofeng-uv-5r-provide-on-v-pin",
+"title": "How much current can Baofeng UV-5R provide on +V pin?",
+"category": "communications-radio"
+},
+{
+"path": "questions/522/how-much-rf-energy-do-trees-and-branches-absorb",
+"title": "How much RF energy do trees and branches absorb?",
+"category": "communications-radio"
+},
+{
+"path": "questions/10220/how-terminate-rg8-coaxial-cable-using-pl259-uhf-screw-gasket-solder-type",
+"title": "How terminate RG8 coaxial cable using PL259 (UHF) - screw - gasket - solder type?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12440/how-to-clean-up-profanity-on-airwaves",
+"title": "How to clean up profanity on airwaves",
+"category": "communications-radio"
+},
+{
+"path": "questions/1764/how-to-combine-two-50-o-antennas-such-that-they-appear-as-one-50-o-load",
+"title": "How to combine two 50 Ω antennas such that they appear as one 50 Ω load?",
+"category": "communications-radio"
+},
+{
+"path": "questions/3577/how-to-design-a-rubber-ducky-antenna",
+"title": "How to design a rubber ducky antenna",
+"category": "communications-radio"
+},
+{
+"path": "questions/1271/how-to-detect-common-mode-currents-or-rf-in-the-shack",
+"title": "How to detect common-mode currents or “RF in the shack”?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1975/how-to-determine-if-my-antenna-is-an-effective-radiator",
+"title": "How to determine if my antenna is an effective radiator?",
+"category": "communications-radio"
+},
+{
+"path": "questions/6645/how-to-do-aprs-in-real-wilderness",
+"title": "How to do APRS in real wilderness?",
+"category": "communications-radio"
+},
+{
+"path": "questions/197/how-to-evaluate-antenna-data",
+"title": "How to Evaluate Antenna Data",
+"category": "communications-radio"
+},
+{
+"path": "questions/6404/how-to-join-packet-radio-bbs",
+"title": "How To Join Packet Radio BBS",
+"category": "communications-radio"
+},
+{
+"path": "questions/6874/how-to-operate-on-hf-if-an-am-transmitter-is-only-540-feet-away",
+"title": "How to operate on HF if an AM transmitter is only 540 feet away?",
+"category": "communications-radio"
+},
+{
+"path": "questions/601/how-to-reduce-rf-in-the-shack-when-using-vertical-hf-antenna-no-radials",
+"title": "How to reduce RF in the shack when using vertical HF antenna (no radials)",
+"category": "communications-radio"
+},
+{
+"path": "questions/1610/how-would-a-time-difference-of-arrival-receiver-with-two-antennas-know-which-s",
+"title": "How would a time-difference-of-arrival receiver with two antennas know which side the signal is from?",
+"category": "communications-radio"
+},
+{
+"path": "questions/16155/i-can-copy-15wpm-how-to-to-continue",
+"title": "I can copy 15wpm how to to continue?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1132/i-hate-contests-how-can-i-avoid-them",
+"title": "I hate contests. How can I avoid them?",
+"category": "communications-radio"
+},
+{
+"path": "questions/876/if-i-hear-a-distress-call-what-is-the-correct-procedure-for-helping-the-person",
+"title": "If I hear a distress call, what is the correct procedure for helping the person?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1524/if-i-install-a-g5rv-in-my-attic-how-could-i-be-certain-there-are-not-harmful-l",
+"title": "If I install a G5RV in my attic how could I be certain there are not harmful levels of RF in the shack, or my kids bedroom?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12999/if-i-receive-an-sos-signal-what-is-the-proper-response",
+"title": "If I receive an SOS signal, what is the proper response?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12406/if-someone-transmits-on-151-88-mhz-and-i-listen-on-151-18-mhz-how-likely-would",
+"title": "If someone transmits on 151.88 MHz and I listen on 151.18 MHz, how likely would I hear their transmission?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1243/if-two-antennas-of-50-o-and-377-o-have-vswr-1-1-then-which-one-is-more-efficie",
+"title": "If two antennas of 50 Ω and 377 Ω have VSWR=1:1, then which one is more efficient?",
+"category": "communications-radio"
+},
+{
+"path": "questions/10246/iq-imbalance-after-quadrature-mixing",
+"title": "IQ imbalance after quadrature mixing",
+"category": "communications-radio"
+},
+{
+"path": "questions/1646/is-just-listening-on-echolink-considered-bad-etiquette",
+"title": "Is \"just listening\" on EchoLink considered bad etiquette?",
+"category": "communications-radio"
+},
+{
+"path": "questions/16240/is-low-loss-cable-required-for-hf",
+"title": "Is \"low loss\" cable required for HF?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1139/is-a-multiple-wavelengths-antenna-possible-in-uhf-and-up",
+"title": "Is a multiple-wavelengths antenna possible in UHF and up?",
+"category": "communications-radio"
+},
+{
+"path": "questions/849/is-a-vertical-noisier-than-a-dipole-and-if-so-why",
+"title": "Is a vertical noisier than a dipole, and if so, why?",
+"category": "communications-radio"
+},
+{
+"path": "questions/2477/is-an-antenna-analyzer-necessary-for-building-antennas",
+"title": "Is an antenna analyzer necessary for building antennas?",
+"category": "communications-radio"
+},
+{
+"path": "questions/2180/is-calling-the-palmer-station-antarctica-via-irlp-without-prior-arrangements-a",
+"title": "Is calling the Palmer Station (Antarctica) via IRLP without prior arrangements acceptable practice?",
+"category": "communications-radio"
+},
+{
+"path": "questions/9096/is-fm-modulation-still-more-resistant-to-noise-when-given-the-same-bandwidth-a",
+"title": "Is FM modulation still more resistant to noise when given the same bandwidth as an AM signal?",
+"category": "communications-radio"
+},
+{
+"path": "questions/3692/is-free-space-path-loss-dependent-on-frequency",
+"title": "Is free space path loss dependent on frequency?",
+"category": "communications-radio"
+},
+{
+"path": "questions/809/is-is-possible-to-operate-d-star-from-a-software-defined-radio",
+"title": "Is is possible to operate D-Star from a software-defined radio?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1/is-it-a-good-idea-to-build-your-own-radio-transceiver-today",
+"title": "Is it a good idea to build your own radio transceiver today?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1845/is-it-illegal-to-key-up-and-not-identify",
+"title": "Is it illegal to key up and not identify?",
+"category": "communications-radio"
+},
+{
+"path": "questions/16189/is-it-legal-for-a-non-profit-to-use-ham-radios-for-emergency-purposes",
+"title": "Is it legal for a non-profit to use ham radios for emergency purposes?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12046/is-it-legal-to-transmit-with-hackrf-one",
+"title": "Is it legal to transmit with HackRF one?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12142/is-morse-code-a-digital-binary-mode",
+"title": "Is Morse code a digital, binary mode?",
+"category": "communications-radio"
+},
+{
+"path": "questions/6545/is-packet-radio-possible-on-baofeng-uv-5r-and-similar-hts",
+"title": "Is packet radio possible on Baofeng UV-5R and similar HTs?",
+"category": "communications-radio"
+},
+{
+"path": "questions/5059/is-there-a-convention-for-ssb-frequency-selection",
+"title": "Is there a convention for SSB frequency selection?",
+"category": "communications-radio"
+},
+{
+"path": "questions/10334/is-there-a-different-ham-radio-phonetic-alphabet",
+"title": "Is there a different ham radio phonetic alphabet?",
+"category": "communications-radio"
+},
+{
+"path": "questions/835/is-there-a-disadvantage-to-using-a-cheap-ht-for-aprs",
+"title": "Is there a disadvantage to using a cheap HT for APRS?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1058/is-there-a-simple-diy-antenna-suitable-for-hf-receive-only",
+"title": "Is there a simple, DIY, antenna suitable for HF receive only?",
+"category": "communications-radio"
+},
+{
+"path": "questions/9297/is-there-a-special-name-and-if-so-what-is-it-for-this-flush-style-sma-variant",
+"title": "Is there a special name (and if so what is it) for this flush-style SMA variant?",
+"category": "communications-radio"
+},
+{
+"path": "questions/332/is-there-a-way-to-listen-to-live-hf-communications-using-the-internet",
+"title": "Is there a way to listen to live HF communications using the internet?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1628/is-there-an-optimum-antenna-feedline-length-for-mobile-installations",
+"title": "Is there an optimum Antenna Feedline Length for mobile installations?",
+"category": "communications-radio"
+},
+{
+"path": "questions/21461/is-there-any-legal-recourse-against-unauthorized-usage-of-a-private-repeater-i",
+"title": "Is there any legal recourse against unauthorized usage of a private repeater in the USA?",
+"category": "communications-radio"
+},
+{
+"path": "questions/5973/is-using-pmr446-on-a-baofeng-gt3-mk3-ham-radio-legal-if-on-low-power",
+"title": "Is Using PMR446 On A Baofeng GT3-MK3 HAM Radio Legal (If on low power)?",
+"category": "communications-radio"
+},
+{
+"path": "questions/9436/key-cw-on-zero-crossings-zero-bandwidth",
+"title": "Key CW on zero crossings - zero bandwidth?",
+"category": "communications-radio"
+},
+{
+"path": "questions/7154/moon-earth-433mhz-link-achievable-digital-bandwidth",
+"title": "Moon->Earth 433MHz link achievable digital bandwidth",
+"category": "communications-radio"
+},
+{
+"path": "questions/1034/my-neighbor-is-complaining-about-my-transmissions-what-can-i-do",
+"title": "My neighbor is complaining about my transmissions, what can I do?",
+"category": "communications-radio"
+},
+{
+"path": "questions/16905/non-traceable-radio-emitters",
+"title": "Non-traceable radio emitters",
+"category": "communications-radio"
+},
+{
+"path": "questions/213/ok-to-use-any-repeater",
+"title": "OK to use any repeater?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1415/operating-proceedures-testing-an-ht-against-a-repeater",
+"title": "Operating proceedures: testing an HT against a repeater?",
+"category": "communications-radio"
+},
+{
+"path": "questions/256/phasing-harness-for-antenna-array",
+"title": "Phasing harness for antenna array",
+"category": "communications-radio"
+},
+{
+"path": "questions/15335/practical-limits-to-maintaining-coherence-in-an-hf-channel",
+"title": "Practical limits to maintaining coherence in an HF channel",
+"category": "communications-radio"
+},
+{
+"path": "questions/2276/protect-rig-from-static-charge-on-antenna",
+"title": "Protect rig from static charge on antenna",
+"category": "communications-radio"
+},
+{
+"path": "questions/13242/real-world-performance-of-magnetic-loop-antennas",
+"title": "Real world performance of magnetic loop antennas?",
+"category": "communications-radio"
+},
+{
+"path": "questions/9184/resort-fm-radio-station",
+"title": "Resort FM radio station",
+"category": "communications-radio"
+},
+{
+"path": "questions/10376/rolling-qrm-from-3000-10000-khz-what-is-it",
+"title": "Rolling QRM from 3000-10000 kHz - What Is It?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1501/scoring-quality-of-morse-code-fist",
+"title": "Scoring quality of Morse Code \"fist\"?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1685/share-antenna-between-receiver-and-transceiver",
+"title": "Share antenna between receiver and transceiver?",
+"category": "communications-radio"
+},
+{
+"path": "questions/146/should-i-chose-a-vertical-or-a-horizontal-hf-antenna",
+"title": "Should I chose a vertical or a horizontal HF antenna?",
+"category": "communications-radio"
+},
+{
+"path": "questions/4951/should-i-ground-my-radio-to-the-chassis-or-battery-for-a-mobile-install",
+"title": "Should I ground my radio to the chassis or battery for a mobile install?",
+"category": "communications-radio"
+},
+{
+"path": "questions/6742/single-or-dual-paddle-key",
+"title": "Single or Dual Paddle Key?",
+"category": "communications-radio"
+},
+{
+"path": "questions/7664/stealth-hf-station-setup-advice",
+"title": "Stealth HF station setup advice",
+"category": "communications-radio"
+},
+{
+"path": "questions/14521/testing-blind-license-applicants",
+"title": "Testing blind license applicants",
+"category": "communications-radio"
+},
+{
+"path": "questions/7828/tuning-a-wire-antenna-by-folding",
+"title": "Tuning a wire antenna by folding",
+"category": "communications-radio"
+},
+{
+"path": "questions/1291/understanding-coax-impedance",
+"title": "Understanding coax impedance",
+"category": "communications-radio"
+},
+{
+"path": "questions/538/using-a-balun-with-a-resonant-dipole",
+"title": "Using a balun with a resonant dipole",
+"category": "communications-radio"
+},
+{
+"path": "questions/1256/using-a-morse-code-key-with-a-computer",
+"title": "Using a Morse code key with a computer?",
+"category": "communications-radio"
+},
+{
+"path": "questions/2165/using-ham-radio-bands-for-telemetry",
+"title": "Using ham radio bands for telemetry",
+"category": "communications-radio"
+},
+{
+"path": "questions/774/using-mimo-in-amateur-radio",
+"title": "Using MIMO in Amateur Radio?",
+"category": "communications-radio"
+},
+{
+"path": "questions/623/using-my-baofeng-uv-5r-to-talk-to-walkie-talkies",
+"title": "Using my Baofeng UV-5R to talk to walkie talkies",
+"category": "communications-radio"
+},
+{
+"path": "questions/11750/were-there-any-6m-handhelds-produced-ever",
+"title": "Were there any 6m handhelds produced ever?",
+"category": "communications-radio"
+},
+{
+"path": "questions/6967/what-test-transmissions-are-allowed-above-51mhz",
+"title": "What \"test transmissions\" are allowed above 51MHz?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1469/what-antenna-on-a-baofeng-uv-5r-pro-will-give-me-better-reception",
+"title": "What antenna on a BaoFeng UV-5R Pro will give me better reception?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1227/what-are-some-ways-to-ground-a-transmitter-antenna-in-an-enclosed-attic",
+"title": "What are some ways to ground a transmitter+antenna in an enclosed attic?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1016/what-are-the-us-rules-about-unlicensed-low-power-transmissions",
+"title": "What are the (US) rules about unlicensed low-power transmissions?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1225/what-are-the-general-effects-of-a-geomagnetic-storm-on-propagation",
+"title": "What are the general effects of a geomagnetic storm on propagation?",
+"category": "communications-radio"
+},
+{
+"path": "questions/5084/what-are-the-relative-bandwidths-of-the-amateur-bands",
+"title": "What are the relative bandwidths of the amateur bands?",
+"category": "communications-radio"
+},
+{
+"path": "questions/574/what-bands-and-modes-will-give-me-voice-at-3000-miles",
+"title": "What bands and modes will give me voice at 3,000 miles?",
+"category": "communications-radio"
+},
+{
+"path": "questions/10324/what-changes-are-being-made-to-the-technician-question-pool-in-2018",
+"title": "What changes are being made to the Technician question pool in 2018?",
+"category": "communications-radio"
+},
+{
+"path": "questions/356/what-defines-music-per-amateur-radio-regulations",
+"title": "What defines music, per amateur radio regulations?",
+"category": "communications-radio"
+},
+{
+"path": "questions/724/what-determines-power-handling-capacity-of-an-antenna",
+"title": "What determines power handling capacity of an antenna?",
+"category": "communications-radio"
+},
+{
+"path": "questions/183/what-do-qrm-and-qsb-refer-to",
+"title": "What do \"QRM\" and \"QSB\" refer to?",
+"category": "communications-radio"
+},
+{
+"path": "questions/369/what-do-the-three-letter-modulation-codes-emission-designators-stand-for",
+"title": "What do the three-letter modulation codes (emission designators) stand for?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1465/what-does-a-lightning-bolt-symbol-next-to-an-antenna-connector-mean",
+"title": "What does a lightning bolt symbol next to an antenna connector mean?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1124/what-does-a-noise-blanker-really-do-and-what-are-the-side-effects",
+"title": "What does a noise blanker really do, and what are the side effects?",
+"category": "communications-radio"
+},
+{
+"path": "questions/954/what-does-a-ssb-frequency-actually-indicate",
+"title": "What does a SSB frequency actually indicate?",
+"category": "communications-radio"
+},
+{
+"path": "questions/302/what-does-ham-mean",
+"title": "What does Ham mean?",
+"category": "communications-radio"
+},
+{
+"path": "questions/899/what-does-the-addition-of-a-shield-to-a-small-loop-accomplish",
+"title": "What does the addition of a shield to a small loop accomplish?",
+"category": "communications-radio"
+},
+{
+"path": "questions/6274/what-is-a-calling-frequency",
+"title": "What is a \"calling frequency\"?",
+"category": "communications-radio"
+},
+{
+"path": "questions/718/what-is-a-random-wire-antenna",
+"title": "What is a \"random wire antenna\"?",
+"category": "communications-radio"
+},
+{
+"path": "questions/19932/what-is-a-roofing-filter",
+"title": "What is a \"roofing filter\"?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1761/what-is-a-cq-contest-and-what-is-the-proper-way-to-respond-to-a-cq-contest-cal",
+"title": "What is a CQ contest and what is the proper way to respond to a CQ contest call?",
+"category": "communications-radio"
+},
+{
+"path": "questions/2051/what-is-a-fixed-digital-message-forwarding-system",
+"title": "What is a fixed digital message forwarding system?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1804/what-is-a-gamma-match-in-the-context-of-the-driven-element-of-a-yagi-antenna",
+"title": "What is a Gamma match in the context of the driven element of a Yagi antenna?",
+"category": "communications-radio"
+},
+{
+"path": "questions/352/what-is-a-link-budget-and-how-do-i-make-one",
+"title": "What is a link budget, and how do I make one?",
+"category": "communications-radio"
+},
+{
+"path": "questions/889/what-is-a-waterfall-display",
+"title": "What is a waterfall display?",
+"category": "communications-radio"
+},
+{
+"path": "questions/9044/what-is-an-antenna-tuner-why-bother-with-resonant-antennas-in-the-first-place",
+"title": "What is an antenna tuner? Why bother with resonant antennas in the first place?",
+"category": "communications-radio"
+},
+{
+"path": "questions/856/what-is-body-blocking-and-does-it-work-with-a-stock-ht-on-a-foxhunt",
+"title": "What is body blocking, and does it work with a stock HT on a foxhunt?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1440/what-is-dbm-and-why-is-it-used-rather-than-watts",
+"title": "What is dBm and why is it used rather than watts?",
+"category": "communications-radio"
+},
+{
+"path": "questions/428/what-is-generally-considered-too-much-power-for-jt-65-on-hf",
+"title": "What is generally considered \"too much\" power for JT-65 on HF?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12189/what-is-inside-a-50-ohm-termination",
+"title": "What is inside a 50 ohm termination?",
+"category": "communications-radio"
+},
+{
+"path": "questions/116/what-is-jamboree-on-the-air-jota",
+"title": "What is Jamboree on the Air (JOTA)?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1504/what-is-meant-by-poles-when-discussing-filters",
+"title": "What is meant by \"poles\" when discussing filters?",
+"category": "communications-radio"
+},
+{
+"path": "questions/7333/what-is-the-actual-loss-in-a-feed-line-with-high-swr",
+"title": "What is the actual loss in a feed line with high SWR?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12508/what-is-the-advantage-of-making-an-antenna-resonant",
+"title": "What is the advantage of making an antenna resonant?",
+"category": "communications-radio"
+},
+{
+"path": "questions/18019/what-is-the-appropriate-length-of-an-antenna-for-a-handheld-on-2-meters",
+"title": "What is the appropriate length of an antenna for a handheld on 2 meters?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1019/what-is-the-best-practice-when-tuning-an-antenna-on-air",
+"title": "What is the best practice when tuning an antenna on air?",
+"category": "communications-radio"
+},
+{
+"path": "questions/2/what-is-the-best-time-of-day-band-to-make-a-contact-with-hawaii-from-the-east-",
+"title": "What is the best time of day/Band to make a contact with Hawaii from the East Coast?",
+"category": "communications-radio"
+},
+{
+"path": "questions/822/what-is-the-body-of-knowledge-the-u-s-written-exams-test",
+"title": "What is the body of knowledge the U.S. written exams test?",
+"category": "communications-radio"
+},
+{
+"path": "questions/8940/what-is-the-cause-of-this-unusually-long-period-of-terrible-hf-band-conditions",
+"title": "What is the cause of this unusually long period of terrible HF band conditions?",
+"category": "communications-radio"
+},
+{
+"path": "questions/15230/what-is-the-decimal-in-morse-code",
+"title": "What is the decimal in Morse Code?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1273/what-is-the-definition-of-dx",
+"title": "What is the definition of DX?",
+"category": "communications-radio"
+},
+{
+"path": "questions/5547/what-is-the-difference-between-channel-frequency-band-in-rf",
+"title": "What is the difference between channel & frequency & band in RF?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1488/what-is-the-difference-between-fcc-station-and-operator-licenses",
+"title": "What is the difference between FCC station and operator licenses?",
+"category": "communications-radio"
+},
+{
+"path": "questions/3675/what-is-the-effect-of-using-different-number-of-radials-with-ground-plane-ante",
+"title": "What is the effect of using different number of radials with ground plane antenna",
+"category": "communications-radio"
+},
+{
+"path": "questions/1593/what-is-the-expected-microphone-input-voltage-level-of-a-handheld-transceiver",
+"title": "What is the expected microphone input voltage level of a handheld transceiver?",
+"category": "communications-radio"
+},
+{
+"path": "questions/5905/what-is-the-highest-us-amateur-license-i-can-get-in-one-sitting",
+"title": "What is the highest US amateur license I can get in one sitting?",
+"category": "communications-radio"
+},
+{
+"path": "questions/7081/what-is-the-impedance-of-an-end-fed-half-wave-antenna",
+"title": "What is the impedance of an end-fed half-wave antenna?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1459/what-is-the-most-common-amateur-identification-practice-for-mobile-us-amateurs",
+"title": "What is the most common amateur identification practice for mobile US amateurs operating in Canada?",
+"category": "communications-radio"
+},
+{
+"path": "questions/5752/what-is-the-origin-history-behind-ben-s-best-bent-wire",
+"title": "What is the origin, history behind \"Ben's Best Bent Wire\"?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1410/what-is-the-peak-voltage-at-the-tips-of-a-dipole-antenna",
+"title": "What is the peak voltage at the tips of a dipole antenna?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1234/what-is-the-permissible-frequency-error-for-us-amateur-radio-transmissions",
+"title": "What is the permissible frequency error for US amateur radio transmissions?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1001/what-is-the-process-of-making-a-voice-contact",
+"title": "What is the process of making a voice contact?",
+"category": "communications-radio"
+},
+{
+"path": "questions/13/what-is-the-purpose-of-a-balun-and-a-unun-in-a-feed-line",
+"title": "What is the purpose of a balun and a unun in a feed line?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12299/what-is-the-purpose-of-the-german-cw-exam-if-it-is-not-required-to-use-cw",
+"title": "What is the purpose of the German CW exam if it is not required to use CW?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1281/what-is-the-record-for-the-highest-non-automated-over-the-air-cw-wpm-speed",
+"title": "What is the record for the highest non-automated over-the-air CW WPM speed?",
+"category": "communications-radio"
+},
+{
+"path": "questions/382/what-is-the-relationship-between-swr-and-receive-performance",
+"title": "What is the relationship between SWR and receive performance?",
+"category": "communications-radio"
+},
+{
+"path": "questions/798/what-is-the-role-of-digital-data-modes-in-emergency-communications",
+"title": "What is the role of digital data modes in emergency communications?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1706/what-kind-of-antenna-has-a-spiral-connected-to-a-reflector-like-this-picture",
+"title": "What kind of antenna has a spiral connected to a reflector like this picture?",
+"category": "communications-radio"
+},
+{
+"path": "questions/6825/what-kind-of-antenna-is-that-one",
+"title": "What kind of antenna is that one?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1142/what-makes-a-5-8-wavelength-vertical-desirable",
+"title": "What makes a 5/8 wavelength vertical desirable?",
+"category": "communications-radio"
+},
+{
+"path": "questions/955/what-makes-cellphone-transmissions-so-energy-cheap",
+"title": "What makes cellphone transmissions so energy cheap?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1491/what-part-97-rule-allows-unattended-automated-transmissions-such-as-aprs-weath",
+"title": "What Part 97 rule allows unattended, automated transmissions, such as APRS weather stations and beacons?",
+"category": "communications-radio"
+},
+{
+"path": "questions/16/what-should-i-consider-when-choosing-a-coaxial-cable",
+"title": "What should I consider when choosing a coaxial cable?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1270/what-should-i-do-if-my-call-is-being-used-by-someone-else",
+"title": "What should I do if my call is being used by someone else?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12007/what-should-i-put-on-a-qsl-card-for-a-repeater-contact",
+"title": "What should I put on a QSL card for a repeater contact?",
+"category": "communications-radio"
+},
+{
+"path": "questions/891/what-sources-of-power-are-useful-in-emergency-situations",
+"title": "What sources of power are useful in emergency situations?",
+"category": "communications-radio"
+},
+{
+"path": "questions/5240/what-transfer-rates-are-actually-achievable-using-known-digital-modes",
+"title": "What transfer rates are actually achievable using known digital modes?",
+"category": "communications-radio"
+},
+{
+"path": "questions/9598/what-was-the-origin-of-the-morse-code-abbreviations-hi-and-es",
+"title": "What was the origin of the Morse code abbreviations \"hi\" and \"es\"?",
+"category": "communications-radio"
+},
+{
+"path": "questions/421/what-would-propagation-look-like-on-mars",
+"title": "What would propagation look like on Mars?",
+"category": "communications-radio"
+},
+{
+"path": "questions/23/what-s-a-cost-effective-way-to-boost-the-range-of-my-cheap-2m-70cm-handheld",
+"title": "What's a cost-effective way to boost the range of my cheap 2m/70cm handheld?",
+"category": "communications-radio"
+},
+{
+"path": "questions/6463/what-s-the-difference-between-maximum-usable-and-critical-frequencies",
+"title": "What's the difference between \"maximum usable\" and \"critical\" frequencies?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1437/what-s-the-difference-between-national-calling-frequency-and-national-simplex-",
+"title": "What's the difference between national calling frequency and national simplex calling frequency in the 2m and 70cm band plans published by ARRL?",
+"category": "communications-radio"
+},
+{
+"path": "questions/2257/what-s-the-difference-between-saying-cq-or-qrz-in-a-contest",
+"title": "What's the difference between saying “CQ” or “QRZ” in a contest?",
+"category": "communications-radio"
+},
+{
+"path": "questions/986/what-s-wrong-with-220mhz",
+"title": "What's wrong with 220MHz?",
+"category": "communications-radio"
+},
+{
+"path": "questions/2318/when-is-aprs-use-considered-commercial",
+"title": "When is APRS use considered commercial?",
+"category": "communications-radio"
+},
+{
+"path": "questions/34/when-is-rf-grounding-necessary-and-when-is-it-not",
+"title": "When is RF grounding necessary, and when is it not?",
+"category": "communications-radio"
+},
+{
+"path": "questions/340/when-may-a-ham-operate-beyond-the-privileges-of-their-licence-class",
+"title": "When may a ham operate beyond the privileges of their licence class?",
+"category": "communications-radio"
+},
+{
+"path": "questions/7225/where-are-the-baluns-for-vhf-and-higher-how-can-one-be-made",
+"title": "Where are the baluns for VHF and higher? How can one be made?",
+"category": "communications-radio"
+},
+{
+"path": "questions/2034/where-can-one-find-recordings-of-morse-code-generated-by-humans-and-not-machin",
+"title": "Where can one find recordings of Morse code, generated by humans and not machines?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1755/which-hf-bands-are-best-during-the-day-and-which-are-better-at-night",
+"title": "Which HF bands are best during the day and which are better at night?",
+"category": "communications-radio"
+},
+{
+"path": "questions/4867/while-backpacking-is-it-worth-mounting-the-antenna-to-the-backpack-frame-above",
+"title": "While backpacking, is it worth mounting the antenna to the backpack frame (above my head)?",
+"category": "communications-radio"
+},
+{
+"path": "questions/2230/why-are-commercial-sdrs-so-limited-in-operating-frequency",
+"title": "Why are commercial SDRs so limited in operating frequency?",
+"category": "communications-radio"
+},
+{
+"path": "questions/11811/why-are-radio-frequency-ranges-aligned-on-multiples-of-3",
+"title": "Why are radio frequency ranges aligned on multiples of 3?",
+"category": "communications-radio"
+},
+{
+"path": "questions/6140/why-are-some-1-1-current-baluns-twice-as-complicated-as-others",
+"title": "Why are some 1:1 current baluns twice as complicated as others?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12670/why-are-there-differences-in-antennas-that-depend-on-electrical-component-and-",
+"title": "Why are there differences in antennas that depend on electrical component and magnetic component of a radio wave?",
+"category": "communications-radio"
+},
+{
+"path": "questions/14765/why-are-there-so-many-coaxial-cable-impedances",
+"title": "Why are there so many coaxial cable impedances?",
+"category": "communications-radio"
+},
+{
+"path": "questions/6864/why-are-wullenweber-cdaas-obsolete",
+"title": "Why are Wullenweber CDAAs obsolete?",
+"category": "communications-radio"
+},
+{
+"path": "questions/10211/why-can-t-i-hear-myself-from-a-second-radio-when-bouncing-off-a-repeater",
+"title": "Why can't I hear myself from a second radio when bouncing off a repeater?",
+"category": "communications-radio"
+},
+{
+"path": "questions/15747/why-do-amateur-radio-operators-call-an-rf-choke-a-balun",
+"title": "Why do amateur radio operators call an RF choke a balun?",
+"category": "communications-radio"
+},
+{
+"path": "questions/337/why-do-concurrent-fm-signals-not-mix-together",
+"title": "Why do concurrent FM signals not mix together?",
+"category": "communications-radio"
+},
+{
+"path": "questions/830/why-do-folded-dipoles-have-greater-bandwidth-than-ordinary-resonant-dipoles",
+"title": "Why do folded dipoles have greater bandwidth than ordinary resonant dipoles?",
+"category": "communications-radio"
+},
+{
+"path": "questions/345/why-do-hams-often-conclude-messages-with-73",
+"title": "Why do hams often conclude messages with \"73\"?",
+"category": "communications-radio"
+},
+{
+"path": "questions/55/why-do-i-need-to-tune-an-antenna",
+"title": "Why do I need to tune an antenna?",
+"category": "communications-radio"
+},
+{
+"path": "questions/18825/why-do-operators-mention-the-band-when-calling-cq-on-phone",
+"title": "Why do operators mention the band when calling CQ on phone?",
+"category": "communications-radio"
+},
+{
+"path": "questions/18431/why-do-people-say-get-a-nickel-on-repeaters",
+"title": "Why do people say, \"get a nickel,\" on repeaters?",
+"category": "communications-radio"
+},
+{
+"path": "questions/971/why-do-repeaters-use-cavity-filters",
+"title": "Why do repeaters use cavity filters?",
+"category": "communications-radio"
+},
+{
+"path": "questions/946/why-do-satellites-receive-and-transmit-on-different-bands",
+"title": "Why do satellites receive and transmit on different bands?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1104/why-do-some-dx-listen-on-a-different-frequency-than-they-transmit-on",
+"title": "Why do some DX listen on a different frequency than they transmit on?",
+"category": "communications-radio"
+},
+{
+"path": "questions/11797/why-do-the-ham-radio-bands-get-broader-with-increasing-frequency",
+"title": "Why do the ham radio bands get broader with increasing frequency?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12113/why-do-we-not-use-am-and-fm-at-the-same-time-to-transmit-more-information",
+"title": "Why do we not use AM and FM at the same time to transmit more information?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1336/why-do-we-use-lsb-below-10-mhz-and-usb-above-10-mhz-when-operating-ssb-hf",
+"title": "Why do we use LSB below 10 MHz and USB above 10 MHz when operating SSB HF?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12539/why-does-ethics-and-operating-procedures-suggest-tuning-on-a-dummy-load",
+"title": "Why does \"Ethics and Operating Procedures\" suggest tuning on a dummy load?",
+"category": "communications-radio"
+},
+{
+"path": "questions/5197/why-does-am-have-sidebands",
+"title": "Why does AM have sidebands?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12319/why-does-arrl-license-examination-procedure-preclude-students-from-discovering",
+"title": "Why does ARRL license examination procedure preclude students from discovering what questions they got wrong on licensing tests",
+"category": "communications-radio"
+},
+{
+"path": "questions/1702/why-does-ice-on-a-wire-dipole-affect-the-swr",
+"title": "Why does ice on a wire dipole affect the SWR?",
+"category": "communications-radio"
+},
+{
+"path": "questions/355/why-does-ssb-have-the-hollow-voice-sound",
+"title": "Why does SSB have the hollow voice sound?",
+"category": "communications-radio"
+},
+{
+"path": "questions/17205/why-does-the-audio-on-my-fm-transceiver-cut-out-every-5-5-seconds",
+"title": "Why does the audio on my FM transceiver cut out every 5.5 seconds?",
+"category": "communications-radio"
+},
+{
+"path": "questions/7045/why-does-the-fcc-put-restrictions-on-symbol-rates",
+"title": "Why does the FCC put restrictions on symbol rates?",
+"category": "communications-radio"
+},
+{
+"path": "questions/10193/why-don-t-monolithic-hf-transceiver-ics-exist",
+"title": "Why don't monolithic HF transceiver ICs exist?",
+"category": "communications-radio"
+},
+{
+"path": "questions/1530/why-is-antenna-aperture-a-function-of-wavelength",
+"title": "Why is antenna aperture a function of wavelength?",
+"category": "communications-radio"
+},
+{
+"path": "questions/135/why-is-morse-code-still-in-use",
+"title": "Why is Morse code still in use?",
+"category": "communications-radio"
+},
+{
+"path": "questions/16622/why-is-my-diplexer-such-a-spectacular-failure",
+"title": "Why is my diplexer such a spectacular failure?",
+"category": "communications-radio"
+},
+{
+"path": "questions/9376/why-is-this-requirement-in-60m-in-the-us",
+"title": "Why is this requirement in 60m in the US?",
+"category": "communications-radio"
+},
+{
+"path": "questions/6445/why-isn-t-twisted-pair-used-for-feedlines",
+"title": "Why isn't twisted pair used for feedlines?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12247/why-say-break-and-over-on-walkie-talkies-instead-of-an-automatic-chirp",
+"title": "Why say \"break\" and \"over\" on walkie-talkies instead of an automatic chirp?",
+"category": "communications-radio"
+},
+{
+"path": "questions/12822/why-would-you-need-a-signal-generator-to-receive-early-satellite-transmissions",
+"title": "Why would you need a signal generator to receive early satellite transmissions?",
+"category": "communications-radio"
+},
+{
+"path": "questions/14818/will-electrically-joined-dipoles-of-different-lengths-at-right-angles-behave-a",
+"title": "Will electrically joined dipoles of different lengths, at right angles, behave as a multiband antenna?",
+"category": "communications-radio"
+},
+{
+"path": "questions/11805/wire-antenna-slightly-too-long",
+"title": "Wire antenna slightly too long",
+"category": "communications-radio"
+},
+{
+"path": "questions/20870/would-it-be-possible-for-a-software-defined-fm-receiver-to-demodulate-two-sign",
+"title": "Would it be possible for a software-defined FM receiver to demodulate two signals on the same frequency?",
+"category": "communications-radio"
+},
+{
+"path": "questions/11816/wwv-wwvh-and-wwvl-may-be-shut-down-are-there-any-alternatives",
+"title": "WWV, WWVH, and WWVL may be shut down. Are there any alternatives?",
+"category": "communications-radio"
+}
+]
+}

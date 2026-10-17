@@ -1,0 +1,2510 @@
+{
+"pack": "se-cooking",
+"kind": "stackexchange",
+"title": "Stack Exchange - cooking",
+"about": "Top-voted questions with their best answers from cooking.stackexchange.com.",
+"archive": "se-cooking",
+"made": "2026-10-17",
+"items": [
+{
+"path": "questions/121583/room-temperature-and-cool-dry-place-are-there-actual-temperatures-associated-w",
+"title": "\"Room temperature\" and \"cool, dry place\" -- are there actual temperatures associated with these canned phrases?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8289/why-do-onions-taste-sweeter-when-cooked-at-lower-temperature",
+"title": "(Why) do onions taste sweeter when cooked at lower temperature?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/78248/any-benefit-to-buy-high-quality-meat-for-a-mediocre-cook",
+"title": "Any benefit to buy high-quality meat for a mediocre cook?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/68039/are-carrots-dyed-orange",
+"title": "Are carrots dyed orange?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2821/are-chives-and-green-onions-the-same-thing",
+"title": "Are Chives and Green Onions the same thing?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/77939/are-there-any-advantages-to-freshly-ground-salt",
+"title": "Are there any advantages to freshly ground salt?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/94358/are-there-different-grades-or-styles-of-bacon",
+"title": "Are there different grades or styles of bacon?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/15432/at-what-point-is-water-considered-at-a-boil",
+"title": "At what point is water considered \"at a boil?\"",
+"category": "cooking-fire"
+},
+{
+"path": "questions/223/best-meat-replacements-for-a-vegetarian-vegan",
+"title": "Best meat replacements for a vegetarian/vegan?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6899/blowtorch-hardware-store-vs-kitchen-store-is-there-a-difference",
+"title": "Blowtorch - hardware store vs kitchen store. Is there a difference?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3120/buttermilk-substitute",
+"title": "Buttermilk substitute?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/17605/can-extra-virgin-olive-oil-be-used-for-stir-frying-roasting-grilling",
+"title": "Can extra virgin olive oil be used for stir frying, roasting, grilling?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/27745/can-food-be-boiled-extra-fast-hard-in-water",
+"title": "Can food be boiled \"extra fast/hard\" in water?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/4214/can-i-boil-pasta-in-a-pasta-sauce",
+"title": "Can I boil pasta in a pasta sauce?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/99853/can-i-deep-fry-food-in-butter-instead-of-vegetable-oil",
+"title": "Can I deep fry food in butter instead of vegetable oil?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/115420/can-i-dissolve-mint-in-water-and-drink-it",
+"title": "Can I dissolve mint in water and drink it?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/119493/can-i-fry-food-with-solely-essential-lemon-oil",
+"title": "Can I fry food with solely essential lemon oil?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/53729/can-i-leave-uncooked-rice-sitting-in-water-for-an-hour-or-longer-before-cookin",
+"title": "Can I leave uncooked rice sitting in water for an hour or longer before cooking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/85518/can-i-use-cooking-sherry-instead-of-red-wine-in-my-stew",
+"title": "Can I use cooking sherry instead of red wine in my stew?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/75177/can-one-bake-a-cake-with-a-cooked-egg-instead-of-a-raw-one",
+"title": "Can one bake a cake with a cooked egg instead of a raw one?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/102603/can-something-have-more-sugar-per-100g-than-the-percentage-of-sugar-that-s-in-",
+"title": "Can something have more sugar per 100g than the percentage of sugar that's in it?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/45952/can-you-candy-salt",
+"title": "Can you candy salt?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/22464/can-you-re-use-parchment-paper-when-baking-batches-of-cookies",
+"title": "Can you re-use parchment paper when baking batches of cookies?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/12749/conversion-rule-how-to-switch-oil-and-butter",
+"title": "Conversion rule: how to switch oil and butter?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3594/cooking-an-egg-without-oil-or-butter",
+"title": "Cooking an egg without oil or butter",
+"category": "cooking-fire"
+},
+{
+"path": "questions/100951/cooking-scrambled-eggs-ends-up-with-excess-liquid",
+"title": "Cooking Scrambled Eggs ends up with excess liquid",
+"category": "cooking-fire"
+},
+{
+"path": "questions/11793/could-coconut-cream-be-used-to-create-a-non-dairy-ganache-for-whipping",
+"title": "Could coconut cream be used to create a non-dairy ganache for whipping?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/119706/cracked-oven-proof-dish-trying-to-understand-the-physics-of-what-went-wrong",
+"title": "Cracked oven proof dish - trying to understand the physics of what went wrong",
+"category": "cooking-fire"
+},
+{
+"path": "questions/183/cutting-boards-what-are-some-general-tips-on-purchasing-and-using-a-cutting-bo",
+"title": "Cutting boards: What are some general tips on purchasing and using a cutting board?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/20958/difference-between-soup-and-stew",
+"title": "Difference between soup and stew",
+"category": "cooking-fire"
+},
+{
+"path": "questions/34414/dishwasher-safety-top-shelf-vs-bottom-shelf",
+"title": "Dishwasher safety - \"top shelf\" vs. \"bottom shelf\"",
+"category": "cooking-fire"
+},
+{
+"path": "questions/120447/dispensing-fair-shares-of-inhomogeneous-soup",
+"title": "Dispensing fair shares of inhomogeneous soup",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8274/dissolving-cocoa-powder-in-milk",
+"title": "Dissolving cocoa powder in milk",
+"category": "cooking-fire"
+},
+{
+"path": "questions/79264/do-magnets-dull-knives",
+"title": "Do magnets dull knives?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/109275/do-plastic-cutting-boards-dull-knives-faster-than-wood-boards",
+"title": "Do plastic cutting boards dull knives faster than wood boards?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2690/do-you-heat-the-pan-first-then-add-oil-or-put-the-oil-in-and-heat-up-with-the-",
+"title": "Do you heat the pan first, then add oil? Or put the oil in and heat up with the pan?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2532/does-active-dry-yeast-really-expire",
+"title": "Does active dry yeast really expire?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6641/does-adding-salt-help-water-boil-faster",
+"title": "Does adding salt help water boil faster?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/20754/does-adding-salt-when-soaking-dry-beans-toughen-or-soften-the-skin-of-the-bean",
+"title": "Does adding salt when soaking dry beans toughen or soften the skin of the bean?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/10721/does-boiling-water-instead-of-warm-water-hurt-the-flavor-of-tea-hot-chocolate",
+"title": "Does Boiling Water, Instead of Warm Water, Hurt the Flavor of Tea/Hot Chocolate",
+"category": "cooking-fire"
+},
+{
+"path": "questions/20153/does-ceramic-non-stick-cookware-fail-and-if-so-how",
+"title": "Does ceramic non-stick cookware \"fail\", and if so, how?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/74737/does-chilli-get-milder-with-cooking",
+"title": "Does chilli get milder with cooking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2503/does-it-matter-what-kind-of-sugar-is-used-in-baking",
+"title": "Does it matter what kind of sugar is used in baking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/38/does-resting-the-dough-for-a-long-time-reduce-the-need-to-knead-the-bread",
+"title": "Does resting the dough for a long time reduce the need to knead the bread?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2218/does-searing-meat-lock-in-moisture",
+"title": "Does searing meat lock in moisture?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/114579/does-water-go-bad-in-this-sense",
+"title": "Does water \"go bad\" in this sense?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/5707/does-water-that-s-been-left-to-sit-and-then-reboiled-taste-different-from-fres",
+"title": "Does water that's been left to sit and then reboiled taste different from fresh water boiled once?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/76981/double-cooked-pasta",
+"title": "Double cooked pasta",
+"category": "cooking-fire"
+},
+{
+"path": "questions/28150/egg-yolks-vs-whole-eggs",
+"title": "Egg yolks vs Whole eggs",
+"category": "cooking-fire"
+},
+{
+"path": "questions/16990/explanation-of-different-egg-preparations",
+"title": "Explanation of different egg preparations",
+"category": "cooking-fire"
+},
+{
+"path": "questions/40169/first-onion-or-first-minced-meat",
+"title": "First onion or first minced meat?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/14385/fish-and-cheese-an-unbreakable-rule",
+"title": "Fish and cheese: An unbreakable rule?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/33584/fresh-milk-curdles-when-added-to-hot-coffee-and-tea",
+"title": "Fresh milk curdles when added to hot coffee and tea",
+"category": "cooking-fire"
+},
+{
+"path": "questions/104704/fry-onions-and-garlic-before-adding-to-the-sauce",
+"title": "Fry onions and garlic before adding to the sauce?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/80859/grilling-veggies-meat-on-same-surface-for-vegetarian-guests",
+"title": "Grilling veggies & meat on same surface for vegetarian guests",
+"category": "cooking-fire"
+},
+{
+"path": "questions/121201/how-can-cooked-meat-still-have-protein-value",
+"title": "How Can Cooked Meat Still Have Protein Value?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/567/how-can-i-chop-onions-without-crying",
+"title": "How can I chop onions without crying?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/64481/how-can-i-cool-tea-quickly",
+"title": "How can I cool tea quickly?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/21627/how-can-i-create-steam-in-a-normal-oven-to-promote-bread-oven-spring",
+"title": "How can I create steam in a normal oven to promote bread oven spring?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/122028/how-can-i-curate-ingredients-for-my-child-to-do-foolproof-self-directed-sensor",
+"title": "How can I curate ingredients for my child to do foolproof self-directed sensory play + baking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1/how-can-i-get-chewy-chocolate-chip-cookies",
+"title": "How can I get chewy chocolate chip cookies?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1731/how-can-i-get-my-bread-to-be-more-fluffy-and-less-dense",
+"title": "How can I get my bread to be more fluffy and less dense?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/873/how-can-i-grate-soft-cheeses",
+"title": "How can I grate soft cheeses?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/13973/how-can-i-identify-dutch-process-cocoa",
+"title": "How can I identify dutch process cocoa?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/47610/how-can-i-improve-my-fried-rice",
+"title": "How can I improve my fried rice?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/87/how-can-i-keep-delicate-food-from-sticking-to-the-grill",
+"title": "How can I keep delicate food from sticking to the grill?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/403/how-can-i-keep-pasta-from-sticking-to-itself",
+"title": "How can I keep pasta from sticking to itself?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/4091/how-can-i-make-this-antique-ginger-wine-recipe-using-ingredients-available-tod",
+"title": "How can I make this antique ginger wine recipe using ingredients available today?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/18400/how-can-i-stop-fish-from-sticking-to-a-stainless-steel-pan",
+"title": "How can I stop fish from sticking to a stainless steel pan?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/56418/how-can-i-tell-the-difference-between-a-rabbit-and-a-cat",
+"title": "How can I tell the difference between a rabbit and a cat?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/99317/how-can-i-tell-the-difference-between-unmarked-sugar-and-stevia",
+"title": "How can I tell the difference between unmarked sugar and stevia?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/58177/how-did-i-explode-a-saucepan",
+"title": "How Did I Explode A Saucepan?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/121135/how-did-replacing-flour-in-muffins-go-so-wrong",
+"title": "How did replacing flour in muffins go so wrong?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/20506/how-do-chinese-restaurants-tenderize-their-meat",
+"title": "How do Chinese restaurants tenderize their meat?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/67511/how-do-i-avoid-carrot-slices-rolling-away",
+"title": "How do I avoid carrot slices rolling away?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6836/how-do-i-butter-popcorn-without-making-it-soggy",
+"title": "How do I butter popcorn without making it soggy?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/12861/how-do-i-convert-a-weight-of-dried-chick-peas-to-volume-of-cooked",
+"title": "How do I convert a weight of dried chick peas to volume of cooked?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/78835/how-do-i-convey-an-order-for-over-medium-eggs-without-runny-yolks",
+"title": "How do I convey an order for over medium eggs without runny yolks?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/22065/how-do-i-ensure-that-pita-forms-a-nice-big-even-pocket-when-baking",
+"title": "How do I ensure that pita forms a nice big, even pocket when baking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/710/how-do-i-flip-an-egg-when-preparing-it-over-easy",
+"title": "How do I flip an egg when preparing it \"over easy\"?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/94603/how-do-i-get-something-sticky-like-honey-or-golden-syrup-off-measuring-spoons-",
+"title": "How do I get something sticky like honey or Golden Syrup off measuring spoons or measuring cups? Is there a better way?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/10363/how-do-i-make-paneer-firm-and-chewy-like-in-the-restaurant",
+"title": "How do I make paneer firm and chewy like in the restaurant?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/46189/how-do-i-make-prettier-fried-eggs",
+"title": "How do I make prettier fried eggs?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2181/how-do-i-make-soft-chapattis",
+"title": "How do I make soft chapattis?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/81/how-do-i-pound-chicken-or-other-meat-without-making-a-mess",
+"title": "How do I pound chicken (or other meat) without making a mess?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/11304/how-do-i-press-avocadoes-to-make-avocado-oil",
+"title": "How do I press avocadoes to make avocado oil?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/909/how-do-i-prevent-an-egg-cracking-while-hard-boiling-it",
+"title": "How do I prevent an egg cracking while hard boiling it?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/15061/how-do-i-separate-egg-white",
+"title": "How do I separate egg white?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/78169/how-do-i-wash-the-pokey-side-of-a-box-grater",
+"title": "How do I wash the \"pokey\" side of a box grater?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/51655/how-do-restaurants-make-chicken-fried-rice-what-ingredient-am-i-missing",
+"title": "How do restaurants make chicken fried rice? What ingredient am I missing?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1484/how-do-you-clean-a-pizza-stone",
+"title": "How do you clean a pizza stone?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/261/how-do-you-clean-a-seasoned-cast-iron-skillet",
+"title": "How do you clean a seasoned cast iron skillet?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3218/how-do-you-cook-a-steak-like-those-found-in-fine-steakhouses",
+"title": "How do you cook a steak like those found in fine steakhouses?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/5297/how-do-you-cook-grass-fed-beef-so-it-is-not-tough",
+"title": "How do you cook grass-fed beef so it is not tough?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/14504/how-do-you-get-sushi-rice-to-not-stick-to-your-hands",
+"title": "how do you get sushi rice to not stick to your hands?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/13167/how-do-you-make-a-cake-lift-equally-and-minimize-doming",
+"title": "How do you make a cake lift equally and minimize doming?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2582/how-do-you-make-yorkshire-puddings-rise-reliably",
+"title": "How do you make Yorkshire Puddings rise reliably?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/895/how-do-you-peel-garlic-easily",
+"title": "How do you peel garlic easily?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/267/how-do-you-properly-cook-a-steak",
+"title": "How do you properly cook a steak?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2276/how-do-you-raise-your-dough-in-cold-seasons",
+"title": "How do you raise your dough in cold seasons?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/7414/how-do-you-reduce-static-in-a-coffee-grinder",
+"title": "How do you reduce static in a coffee grinder?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/57/how-does-a-splash-of-vinegar-help-when-poaching-eggs",
+"title": "How does a splash of vinegar help when poaching eggs?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/367/how-does-the-way-that-i-cut-my-garlic-affect-the-taste-of-my-food",
+"title": "How does the way that I cut my garlic affect the taste of my food?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/14044/how-does-thermal-shock-affect-pans-made-of-different-materials",
+"title": "How does thermal shock affect pans made of different materials?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/138/how-long-do-you-let-a-steak-from-the-fridge-come-up-to-temperature-and-when-do",
+"title": "How long do you let a steak from the fridge come up to temperature, and when do you salt it?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/13792/how-long-should-i-cook-pasta-sauce",
+"title": "How long should I cook pasta sauce?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/964/how-might-i-roast-coffee-at-home-without-investing-in-an-expensive-roasting-ma",
+"title": "How might I roast coffee at home without investing in an expensive roasting machine?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/9055/how-much-juice-is-in-a-lemon",
+"title": "How much juice is in a lemon?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/21529/how-much-salt-can-i-safely-add-to-bread-dough",
+"title": "How much salt can I safely add to bread dough?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/30761/how-much-to-reduce-salt-when-using-salted-butter-in-place-of-unsalted-butter",
+"title": "How much to reduce salt when using salted butter in place of unsalted butter",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3378/how-should-baking-soda-be-used-to-tenderize-meat",
+"title": "How should baking soda be used to tenderize meat?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/315/how-should-i-care-for-my-knives",
+"title": "How should I care for my knives?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2/how-should-i-cook-bacon-in-an-oven",
+"title": "How should I cook bacon in an oven?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/67298/how-should-i-keep-the-vegetables-from-flying-off-the-board-when-i-cut-them",
+"title": "How should I keep the vegetables from flying off the board when I cut them?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/11/how-should-i-poach-an-egg",
+"title": "How should I poach an egg?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/10026/how-should-i-prepare-dried-chickpeas",
+"title": "How should I prepare dried chickpeas?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/54/how-should-i-prepare-risotto",
+"title": "How should I prepare Risotto",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2391/how-to-caramelise-onions",
+"title": "How to caramelise onions?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/17852/how-to-clean-a-clogged-misto-oil-sprayer-spritzer",
+"title": "How to clean a clogged Misto oil sprayer/spritzer?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/121783/how-to-dispose-large-amount-of-wet-sugar",
+"title": "How to dispose large amount of wet sugar?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/255/how-to-fix-food-that-got-extra-salty",
+"title": "How to fix food that got extra salty?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/14158/how-to-get-threads-in-a-yeast-dough",
+"title": "How to get threads in a yeast dough?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/84300/how-to-grill-without-an-actual-grill",
+"title": "How to grill without an actual grill",
+"category": "cooking-fire"
+},
+{
+"path": "questions/85188/how-to-keep-onions-from-sinking-in-a-salad",
+"title": "How to keep onions from sinking in a salad",
+"category": "cooking-fire"
+},
+{
+"path": "questions/87745/how-to-know-when-a-recipe-shouldn-t-contain-onion-garlic",
+"title": "How to know when a recipe shouldn't contain onion/garlic?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/5764/how-to-make-extra-crispy-and-crunchy-breading-like-kfc",
+"title": "How to make extra crispy and crunchy breading like KFC?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8961/how-to-peel-chestnuts",
+"title": "How to peel chestnuts?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/865/how-to-peel-hard-boiled-eggs-easily",
+"title": "How to peel hard boiled eggs easily?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/11216/how-to-prepare-butter-for-baking-when-time-is-limited",
+"title": "How to prepare butter for baking when time is limited?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/85802/how-to-prevent-liquids-from-spilling-when-pouring-from-measuring-cup",
+"title": "How to prevent liquids from spilling when pouring from measuring cup?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/13697/how-to-prevent-pizza-dough-from-stretching-back",
+"title": "How to prevent pizza dough from stretching back",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8902/how-to-quickly-soften-hard-dried-out-brown-sugar",
+"title": "How to quickly soften hard, dried out brown sugar",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1747/how-to-remove-bits-of-egg-shell-from-a-cracked-egg",
+"title": "How to remove bits of egg shell from a cracked egg?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2743/how-to-rest-meat-but-not-let-it-get-too-cold",
+"title": "How to rest meat but not let it get too cold?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/826/how-to-stop-meatballs-falling-apart-when-frying",
+"title": "How to stop meatballs falling apart when frying",
+"category": "cooking-fire"
+},
+{
+"path": "questions/4464/how-to-succeed-with-making-omelette",
+"title": "How to succeed with making omelette",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3928/how-to-test-that-a-knife-is-sharp-enough",
+"title": "How to test that a knife is sharp enough?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/13822/how-to-throw-a-pizza-dough",
+"title": "How to throw a pizza dough?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/10310/how-warm-must-dough-be-in-order-to-rise",
+"title": "How warm must dough be in order to rise?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/46994/i-bought-mainland-s-vintage-cheddar-it-tastes-stale",
+"title": "I bought Mainland's vintage cheddar, it tastes... stale?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/112312/i-cannot-understand-how-to-properly-fry-seafood",
+"title": "I cannot understand how to properly fry seafood",
+"category": "cooking-fire"
+},
+{
+"path": "questions/115767/i-want-my-potatoes-to-be-baked-within-an-hour-but-i-forgot-to-preheat-the-oven",
+"title": "I want my potatoes to be baked within an hour, but I forgot to preheat the oven. Should I put them in while preheating or not?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/417/i-want-to-make-my-own-cheese-how-do-i-get-started",
+"title": "I want to make my own cheese. How do I get started?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/88493/identify-a-round-kitchen-tool-with-perforated-and-hinged-metal-leaves",
+"title": "Identify a round kitchen tool with perforated and hinged metal leaves",
+"category": "cooking-fire"
+},
+{
+"path": "questions/5124/induction-range-vs-gas",
+"title": "Induction range vs gas",
+"category": "cooking-fire"
+},
+{
+"path": "questions/59807/is-sealing-in-the-flavor-an-actual-thing",
+"title": "Is \"sealing in the flavor\" an actual thing?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/25041/is-a-cup-on-a-coffee-maker-always-6-oz-is-this-a-standard-in-the-us",
+"title": "Is a \"cup\" on a coffee maker always 6 oz? Is this a standard in the US?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/68628/is-butter-ever-the-same-after-having-been-melted",
+"title": "Is butter ever the same after having been melted?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/10329/is-granulated-sugar-american-the-same-as-caster-sugar-uk",
+"title": "Is granulated sugar (American) the same as caster sugar (UK)?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/12582/is-it-normal-to-see-flames-inside-my-self-cleaning-oven",
+"title": "Is it normal to see flames inside my self-cleaning oven?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/25043/is-it-okay-to-use-aluminium-foil-instead-of-parchment-paper-while-baking-cooki",
+"title": "Is it okay to use aluminium foil instead of parchment paper while baking cookies?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/4708/is-it-possible-to-cook-a-whole-fish-in-a-dishwasher",
+"title": "Is it possible to cook a whole fish in a dishwasher?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/7268/is-it-safe-to-eat-freshwater-fish-raw",
+"title": "Is it safe to eat freshwater fish raw?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1291/is-there-a-substitute-for-tahini-in-hummus",
+"title": "Is there a substitute for tahini in hummus?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/122181/is-there-a-trick-for-softening-butter-quickly",
+"title": "Is there a trick for softening butter quickly?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/84965/is-there-a-word-for-the-flavour-shared-by-onion-spring-onion-shallot-leek-and-",
+"title": "Is there a word for the flavour shared by onion, spring onion, shallot, leek, and chive?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/175/is-there-an-alternative-to-condensed-milk",
+"title": "Is there an alternative to condensed milk?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/274/is-there-any-difference-between-chopped-and-crushed-garlic-in-cooking",
+"title": "Is there any difference between chopped and crushed garlic in cooking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/9458/is-there-any-truth-to-the-idea-that-you-shouldn-t-multiply-seasonings-when-mul",
+"title": "Is there any truth to the idea that you shouldn't multiply seasonings when multiplying a recipe?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/75148/is-there-any-way-to-bring-an-egg-to-its-natural-state-not-boiled-after-you-coo",
+"title": "Is there any way to bring an egg to its natural state (not boiled) after you cook it?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2827/is-there-any-way-to-sous-vide-without-a-machine",
+"title": "Is there any way to sous-vide without a machine",
+"category": "cooking-fire"
+},
+{
+"path": "questions/30253/is-there-evidence-that-adding-salt-to-water-prior-to-boiling-can-damage-a-stai",
+"title": "Is there evidence that adding salt to water prior to boiling can damage a stainless steel pan?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/21766/is-there-something-better-than-mineral-oil-for-cutting-boards",
+"title": "Is there something better than mineral oil for cutting boards?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/105522/kneading-bread-with-arthritic-hands-any-tips",
+"title": "Kneading bread with arthritic hands-any tips?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/102762/milk-instead-of-water-in-bread",
+"title": "Milk instead of water in bread",
+"category": "cooking-fire"
+},
+{
+"path": "questions/93901/mint-vs-peppermint",
+"title": "Mint vs Peppermint",
+"category": "cooking-fire"
+},
+{
+"path": "questions/81145/mystery-kitchen-device-with-three-finger-loops-one-attached-to-a-sliding-rod-t",
+"title": "Mystery kitchen device with three finger loops, one attached to a sliding rod that passes through a ring",
+"category": "cooking-fire"
+},
+{
+"path": "questions/67374/onion-and-garlic-a-no-no",
+"title": "Onion and Garlic, a no-no?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3189/parmesan-rind-should-i-use-it-or-trash-it",
+"title": "Parmesan rind:  should I use it, or trash it?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3949/pasta-is-simmering-equivalent-to-roiling-boil",
+"title": "Pasta: is simmering equivalent to roiling boil?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/18299/pink-salt-vs-regular-salt",
+"title": "Pink salt vs regular salt",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6507/pizza-baking-order",
+"title": "Pizza baking order",
+"category": "cooking-fire"
+},
+{
+"path": "questions/114956/potato-for-a-purpose",
+"title": "Potato for a purpose",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6820/powdered-milk-in-bread-recipe",
+"title": "Powdered milk in bread recipe",
+"category": "cooking-fire"
+},
+{
+"path": "questions/64190/preventing-my-toast-from-becoming-wet-when-i-put-it-on-the-plate",
+"title": "Preventing my toast from becoming wet when I put it on the plate",
+"category": "cooking-fire"
+},
+{
+"path": "questions/190/proper-ratio-of-water-to-rice",
+"title": "Proper ratio of Water to Rice",
+"category": "cooking-fire"
+},
+{
+"path": "questions/11780/rinse-the-salt-off-a-steak-before-cooking",
+"title": "Rinse the salt off a steak before cooking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2765/shiny-side-or-not-for-foil",
+"title": "Shiny side or not for foil?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/20900/should-i-buy-steel-or-ceramic-knives",
+"title": "Should I buy steel or ceramic knives?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/11903/should-i-rinse-canned-beans-before-using-them",
+"title": "Should I rinse canned beans before using them?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/93163/should-i-use-salted-or-unsalted-butter-if-the-recipe-doesn-t-specify",
+"title": "Should I use salted or unsalted butter if the recipe doesn't specify?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/5031/should-one-always-use-the-whole-garlic-clove",
+"title": "Should one always use the whole garlic clove?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/92888/should-pasta-be-started-in-cold-or-boiling-water",
+"title": "Should pasta be started in cold or boiling water?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/488/slow-cooking-without-a-slow-cooker",
+"title": "Slow cooking without a slow cooker",
+"category": "cooking-fire"
+},
+{
+"path": "questions/112285/steaming-while-boiling-food",
+"title": "Steaming while boiling food",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2995/stock-vs-broth-what-s-the-difference-in-usage",
+"title": "Stock vs Broth - What's the difference in usage?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8618/stopping-water-from-bubbling-over-when-cooking-rice",
+"title": "Stopping water from bubbling over when cooking rice",
+"category": "cooking-fire"
+},
+{
+"path": "questions/128894/substitute-for-saltpetre",
+"title": "Substitute for saltpetre",
+"category": "cooking-fire"
+},
+{
+"path": "questions/580/substituting-garlic-powder-for-garlic-salt",
+"title": "Substituting garlic powder for garlic salt?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/88863/tea-water-heat-to-80-degc-or-boil-to-100-degc-and-let-it-cool-down-to-80-degc",
+"title": "Tea water: heat to 80 °C or boil to 100 °C and let it cool down to 80 °C?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1535/techniques-to-get-a-nice-golden-brown-crust-on-bread",
+"title": "Techniques to get a nice golden-brown crust on bread",
+"category": "cooking-fire"
+},
+{
+"path": "questions/12826/the-difference-between-beet-sugar-and-cane-sugar",
+"title": "The difference between beet sugar and cane sugar",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6667/the-secret-to-hash-browns-home-fries-breakfast-potatoes",
+"title": "The secret to hash browns / home fries / breakfast potatoes",
+"category": "cooking-fire"
+},
+{
+"path": "questions/15041/theoretical-why-there-s-no-gradient-of-doneness-in-bread",
+"title": "Theoretical: why there's no gradient of doneness in bread?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/11739/time-vs-temperature-what-changes-what",
+"title": "Time vs. Temperature - What changes what?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/29233/trick-to-making-perfect-egg-ribbons",
+"title": "Trick to making perfect egg ribbons?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/291/unnecessary-kitchen-gadgets-a-reference",
+"title": "Unnecessary kitchen gadgets: a reference",
+"category": "cooking-fire"
+},
+{
+"path": "questions/339/what-are-some-good-substitutes-for-salt-for-those-on-low-sodium-diets",
+"title": "What are some good substitutes for salt for those on low sodium diets?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/97018/what-are-some-good-ways-to-treat-frozen-vegetables-such-that-they-behave-like-",
+"title": "What are some good ways to treat frozen vegetables such that they behave like fresh vegetables when stir frying them?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/109360/what-are-the-advantages-of-seasoned-cast-iron-vs-enameled-cast-iron",
+"title": "What are the advantages of seasoned cast iron vs enameled cast iron?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6164/what-are-the-benefits-of-using-a-dedicated-rice-cooker-rather-than-just-cookin",
+"title": "What are the benefits of using a dedicated rice cooker, rather than just cooking rice in a pot?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/4840/what-are-the-differences-between-an-induction-stove-and-a-regular-electric-sto",
+"title": "What are the differences between an induction stove and a regular electric stove?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3329/what-are-the-differences-between-different-types-of-onions-and-when-do-you-use",
+"title": "What are the differences between different types of onions, and when do you use them?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/22157/what-are-the-different-applications-for-differently-shaped-wooden-spoons",
+"title": "What are the different applications for differently shaped wooden spoons?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/20839/what-are-the-impacts-of-common-pizza-dough-errors",
+"title": "What are the impacts of common pizza dough errors?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/118025/what-are-the-names-and-purposes-of-these-six-kitchen-knives",
+"title": "What are the names and purposes of these six kitchen knives?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/88001/what-can-be-done-with-accidentaly-oversalted-beef",
+"title": "What can be done with accidentaly oversalted beef?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8684/what-can-i-do-to-help-prevent-flatulence-from-beans",
+"title": "What can I do to help prevent flatulence from beans?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8192/what-can-i-substitute-for-kaffir-lime-leaves",
+"title": "What can I substitute for Kaffir Lime Leaves?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/626/what-can-i-use-for-a-creme-brulee-if-i-don-t-have-a-blow-torch",
+"title": "What can I use for a Crème brûlée if I don't have a blow torch?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/13866/what-can-you-surmise-about-coffee-beans-that-have-oil-on-them-at-the-time-of-p",
+"title": "What can you surmise about coffee beans that have oil on them at the time of purchase?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/7909/what-causes-water-to-boil-over",
+"title": "What causes water to boil over?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/84482/what-constitutes-the-majority-of-meat",
+"title": "What constitutes the majority of meat?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/113540/what-did-european-american-historical-cooks-do-with-the-egg-whites",
+"title": "What did European/American historical cooks do with the egg whites?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1614/what-do-virgin-and-extra-virgin-mean-in-regards-to-olive-oil",
+"title": "What do \"virgin\" and \"extra virgin\" mean in regards to olive oil?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/19160/what-does-bring-to-a-simmer-mean",
+"title": "What does \"bring to a simmer\" mean?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/11448/what-does-a-healthy-cast-iron-skillet-look-like",
+"title": "What does a healthy cast iron skillet look like?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/71500/what-does-the-bagel-setting-on-toasters-do",
+"title": "What does the \"bagel\" setting on toasters do?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/29888/what-ensures-big-holes-in-my-bread",
+"title": "What ensures big holes in my bread?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/723/what-exactly-is-sushi-grade-fish",
+"title": "What exactly is \"Sushi Grade\" fish?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/101165/what-exactly-is-apple-cider",
+"title": "What exactly is apple cider?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/106071/what-happened-to-my-egg",
+"title": "What happened to my egg?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/114125/what-happens-when-you-reduce-stock-all-the-way",
+"title": "What happens when you reduce stock all the way?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/56447/what-is-a-clove-of-garlic",
+"title": "What is a clove of garlic?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/13336/what-is-a-good-pine-nut-substitute-for-pesto",
+"title": "What is a good pine nut substitute for pesto?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1366/what-is-a-good-substitute-for-fish-sauce",
+"title": "What is a good substitute for Fish Sauce?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1324/what-is-a-substitute-for-mascarpone-cheese",
+"title": "What is a substitute for mascarpone cheese?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1332/what-is-a-substitute-for-red-or-white-wine-in-a-recipe",
+"title": "What is a substitute for red or white wine in a recipe?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/12667/what-is-chickpea-flour-used-for",
+"title": "What is chickpea flour used for?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2215/what-is-ground-beef",
+"title": "What is ground beef?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/10570/what-is-meant-by-cook-until-the-oil-separates-in-indian-curry-recipes",
+"title": "What is meant by \"cook until the oil separates\" in Indian curry recipes?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/400/what-is-the-best-flour-to-use-for-pizza-dough",
+"title": "What is the best flour to use for pizza dough?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/12048/what-is-the-best-way-to-clean-a-grater",
+"title": "What is the best way to clean a grater?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/5869/what-is-the-butter-for-in-a-jam-recipe",
+"title": "What is the butter for in a jam recipe?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/12458/what-is-the-criss-cross-pattern-on-top-of-peanut-butter-cookies-used-for",
+"title": "What is the criss-cross pattern on top of peanut butter cookies used for?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/4/what-is-the-difference-between-baking-soda-and-baking-powder",
+"title": "What is the difference between baking soda and baking powder?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/788/what-is-the-difference-between-sea-salt-and-regular-table-salt",
+"title": "What is the difference between sea salt and regular table salt?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/356/what-is-the-difference-between-various-types-of-flour",
+"title": "What is the difference between various types of flour?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3/what-is-the-difference-between-white-and-brown-eggs",
+"title": "What is the difference between white and brown eggs?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/65768/what-is-the-function-of-this-shallow-19-divoted-eared-cast-iron-piece",
+"title": "What is the function of this shallow, 19-divoted, eared cast iron piece?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/15913/what-is-the-ideal-hydration-for-bread-dough",
+"title": "What is the ideal hydration for bread dough?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3720/what-is-the-point-of-a-salt-mill",
+"title": "What is the point of a salt mill?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/10951/what-is-the-proper-way-to-dispose-of-a-kitchen-knife",
+"title": "What is the proper way to dispose of a kitchen knife?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3141/what-is-the-purpose-of-creaming-butter-with-sugar-in-cookie-recipes",
+"title": "What is the purpose of creaming butter with sugar in cookie recipes?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/27528/what-is-the-purpose-of-sugar-in-baking-plain-bread",
+"title": "What is the purpose of sugar in baking plain bread?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/28322/what-is-the-rind-of-brie-cheese-made-of",
+"title": "What is the rind of Brie cheese made of?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/119758/what-is-the-use-of-this-strange-contraption-on-this-serving-fork",
+"title": "What is the use of this strange contraption on this serving fork?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/81375/what-is-this-cutting-spatula-with-holes-see-photo",
+"title": "What is this cutting spatula with holes? (See photo)",
+"category": "cooking-fire"
+},
+{
+"path": "questions/109630/what-is-this-for-a-burger-press",
+"title": "What is this for? A burger-press?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/94455/what-is-this-glass-object-for",
+"title": "What is this glass object for?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/83040/what-is-this-green-bulbous-leafy-vegetable",
+"title": "What is this green, bulbous, leafy vegetable?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/116665/what-is-this-metal-rod-with-attached-razor-blade-found-in-nana-s-kitchen",
+"title": "What is this metal rod with attached razor blade? Found in Nana's Kitchen",
+"category": "cooking-fire"
+},
+{
+"path": "questions/112287/what-is-this-oddly-shaped-hinged-device-with-indentations",
+"title": "What is this oddly shaped hinged device with indentations?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/100191/what-is-this-old-lemon-squeezer-shaped-pan",
+"title": "What is this old \"lemon-squeezer\" shaped pan",
+"category": "cooking-fire"
+},
+{
+"path": "questions/86152/what-is-this-one-handed-tool-with-five-dull-steel-blades-called",
+"title": "What is this one-handed tool with five dull steel \"blades\" called?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/9005/what-kind-of-rice-is-used-in-chinese-cooking",
+"title": "What kind of rice is used in Chinese cooking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/184/what-knives-are-required-for-a-serious-home-kitchen",
+"title": "What knives are \"required\" for a serious home kitchen?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/27855/what-makes-a-bread-either-close-or-open-crumbed-textured",
+"title": "What makes a bread either close or open crumbed/textured?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/13555/what-oil-is-best-for-seasoning-a-cast-iron-skillet",
+"title": "What oil is best for seasoning a cast-iron skillet",
+"category": "cooking-fire"
+},
+{
+"path": "questions/701/what-oil-or-fat-to-use-for-different-purposes",
+"title": "What oil or fat to use for different purposes?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/89081/what-qualities-to-look-for-in-a-cut-of-beef-destined-for-well-done",
+"title": "What qualities to look for in a cut of beef destined for \"well done\"?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/21573/what-should-i-cover-bread-dough-with-while-it-s-rising",
+"title": "What should I cover bread dough with while it's rising?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6158/what-should-i-look-for-in-a-good-multi-purpose-chef-s-knife",
+"title": "What should I look for in a good, multi-purpose chef's knife?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/76470/what-should-i-use-for-old-recipes-that-call-for-buttermilk",
+"title": "What should I use for old recipes that call for 'buttermilk'?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/29926/what-temperature-does-the-maillard-reaction-occur",
+"title": "What temperature does the Maillard reaction occur?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/88914/what-to-look-for-in-a-kitchen-scale",
+"title": "What to look for in a kitchen scale",
+"category": "cooking-fire"
+},
+{
+"path": "questions/98754/what-to-use-instead-of-cling-film-to-wrap-pastry",
+"title": "What to use instead of cling film to wrap pastry",
+"category": "cooking-fire"
+},
+{
+"path": "questions/103311/what-type-of-beer-is-best-for-beer-battered-fish",
+"title": "What type of beer is best for beer battered fish?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/73396/what-s-really-the-difference-between-fruit-and-vegetables",
+"title": "What's (really) the difference between fruit and vegetables?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/109769/what-s-a-good-substitute-for-basil-in-pesto-sauce",
+"title": "What's a good substitute for basil in pesto sauce?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/40270/what-s-the-best-approach-to-get-runny-yolk-sunny-side-up-fried-eggs",
+"title": "What's the best approach to get runny-yolk sunny side up fried eggs?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/641/what-s-the-best-way-to-season-a-cast-iron-skillet",
+"title": "What's the best way to season a cast iron skillet?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/125/what-s-the-difference-between-pan-frying-sauteing-and-shallow-frying",
+"title": "What's the difference between pan frying, sauteing, and shallow frying?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/11162/what-s-the-ideal-coffee-to-water-ratio-for-a-french-press",
+"title": "What's the ideal coffee to water ratio for a French press?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3734/what-s-the-proper-way-to-dispose-of-used-fats-oils",
+"title": "What's the proper way to dispose of used fats & oils?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/16971/what-s-the-purpose-of-clarifying-butter",
+"title": "What's the purpose of clarifying butter?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/714/what-s-the-right-way-to-hard-boil-eggs",
+"title": "What's the right way to hard boil eggs?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/9716/what-s-the-secret-for-chinese-fried-rice",
+"title": "What's the secret for Chinese fried rice?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/33015/what-s-the-size-of-the-plastic-cup-that-came-with-my-rice-cooker",
+"title": "What's the size of the plastic cup that came with my rice cooker?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/25492/what-s-this-pucker-style-hole-on-my-cheese-grater-for",
+"title": "What's this \"pucker\" style hole on my cheese grater for?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/316/when-baking-is-it-better-to-use-a-gas-or-electric-oven",
+"title": "When baking, is it better to use a gas or electric oven?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6007/when-boiling-potatoes-should-i-put-them-in-with-the-cold-water-or-in-to-the-ho",
+"title": "When boiling potatoes, should I put them in with the cold water or in to the hot?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8465/when-boiling-water-without-any-other-ingredients-in-it-why-start-from-cold",
+"title": "When boiling water without any other ingredients in it, why start from cold?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8934/when-cooking-pasta-in-salted-water-how-much-of-the-salt-is-absorbed",
+"title": "When cooking pasta in salted water how much of the salt is absorbed?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/23727/when-i-m-separating-egg-whites-how-much-does-it-matter-if-a-little-yolk-gets-i",
+"title": "When I'm separating egg whites, how much does it matter if a little yolk gets in?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/670/when-is-a-cooking-oil-not-appropriate-to-substitute-for-another",
+"title": "When is a cooking oil not appropriate to substitute for another?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/776/when-is-it-necessary-to-cover-food-with-aluminum-foil-during-baking-roasting",
+"title": "When is it necessary to cover food with aluminum foil during baking/roasting?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/95437/when-making-batter-dough-why-is-it-really-bad-to-clean-your-spoon-by-hitting-i",
+"title": "When making batter/dough, why is it really bad to clean your spoon by hitting it on the edge of the bowl a few times?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/772/when-making-sushi-why-do-you-have-to-rinse-the-rice",
+"title": "When making sushi, why do you have to rinse the rice?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/19435/when-to-use-convection-fan-bake-vs-bake",
+"title": "When to use convection/fan bake vs bake",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3986/when-you-cook-spaghetti-do-you-add-olive-oil-to-the-boiling-water",
+"title": "When you cook spaghetti, do you add olive oil to the boiling water?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/164/when-if-ever-are-dried-herbs-preferable-to-fresh-herbs",
+"title": "When, if ever, are dried herbs preferable to fresh herbs?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/18682/where-did-the-thin-smooth-plastic-spatulas-go",
+"title": "Where did the thin, smooth plastic spatulas go?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/109493/where-does-the-green-part-of-the-scallion-start-and-the-white-part-end",
+"title": "Where does the green part of the scallion start and the white part end?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/112917/which-measuring-scale-should-i-buy",
+"title": "Which measuring scale should I buy?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8965/which-torch-to-buy-for-finishing-sous-vide-meat-butane-or-propane",
+"title": "Which torch to buy for finishing sous vide meat? Butane or propane?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/4584/which-vegetables-to-use-for-stock",
+"title": "Which vegetables to use for stock?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2574/why-add-salt-to-the-water-when-cooking-pasta",
+"title": "Why add salt to the water when cooking pasta?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/12884/why-are-baking-measurements-such-nice-round-numbers",
+"title": "Why are baking measurements such nice round numbers?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/71206/why-are-certain-fruit-veg-bought-in-uk-supermarkets-tasteless",
+"title": "Why are certain fruit & veg bought in UK supermarkets tasteless?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1577/why-are-italian-eggs-so-yellow",
+"title": "Why are Italian eggs so yellow?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/19095/why-are-salt-and-pepper-the-classic-dinner-table-seasoning",
+"title": "Why are salt and pepper the \"classic\" dinner table seasoning?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/32291/why-are-there-no-recipes-combining-both-yeast-and-baking-powder",
+"title": "Why are there no recipes combining both yeast and baking powder?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6869/why-can-applesauce-be-used-in-place-of-oil",
+"title": "Why can applesauce be used in place of oil?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/12693/why-clean-a-pot-used-to-cook-rice-with-cold-water",
+"title": "Why clean a pot (used to cook rice) with cold water?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/90638/why-did-flatbread-dominate-the-middle-east-but-europe-adopted-raised-breads",
+"title": "Why did flatbread dominate the Middle East but Europe adopted raised breads?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/73082/why-did-james-bond-heat-up-the-knife-for-his-foie-gras",
+"title": "Why did James Bond heat up the knife for his foie gras?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/25623/why-did-my-grandfather-in-law-salt-his-beer",
+"title": "Why did my grandfather-in-law salt his beer?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/10995/why-did-my-mozzarella-turn-out-like-ricotta",
+"title": "Why did my mozzarella turn out like ricotta?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/67178/why-do-american-supermarkets-only-carry-lamb-and-not-mutton",
+"title": "Why do American supermarkets only carry lamb and not mutton?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/117390/why-do-brussels-sprouts-only-taste-good-when-cut",
+"title": "Why do Brussels sprouts only taste good when cut?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/105036/why-do-chinese-grocers-advise-cutting-and-discarding-flowers-in-chinese-vegeta",
+"title": "Why do Chinese grocers advise cutting and discarding flowers in Chinese vegetables?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/122016/why-do-my-silicone-spatulas-melt-in-frying-oil",
+"title": "Why do my silicone spatulas melt in frying oil?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/17686/why-do-people-smash-garlic",
+"title": "Why do people smash garlic?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/9499/why-do-red-onions-turn-blue-or-green-when-cooking-sometimes",
+"title": "Why do red onions turn blue or green when cooking sometimes?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/22648/why-do-some-powders-clump-in-hot-water",
+"title": "Why do some powders clump in hot water?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/2242/why-do-some-recipes-recommend-kosher-salt",
+"title": "Why do some recipes recommend Kosher salt?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6287/why-do-tomatoes-get-so-hot",
+"title": "Why do tomatoes get so hot?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/14685/why-do-we-use-so-much-water-to-cook-spaghetti",
+"title": "Why do we use so much water to cook spaghetti?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/116059/why-does-cooking-fewer-eggs-require-more-water-steam",
+"title": "Why does cooking fewer eggs require more water/steam?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/115191/why-does-kitchenaid-recommend-against-using-the-dough-hook-on-speed-1",
+"title": "Why does KitchenAid recommend against using the Dough Hook on Speed 1?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/46901/why-does-my-glaze-soak-into-my-doughnuts",
+"title": "Why does my glaze soak into my doughnuts?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/95177/why-does-plastic-never-dry-properly-in-a-dishwasher",
+"title": "Why does plastic never dry properly in a dishwasher?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/79339/why-does-this-entire-carton-of-eggs-have-2-yolks-each",
+"title": "Why does this entire carton of eggs have 2 yolks each?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/85636/why-drain-soaked-rice",
+"title": "Why drain soaked rice?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/81525/why-fry-rice-before-boiling",
+"title": "Why fry rice before boiling?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/42962/why-is-180-degrees-c-so-common-in-recipes",
+"title": "Why is 180 degrees C so common in recipes?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/605/why-is-carrot-juice-so-sweet",
+"title": "Why is carrot juice so sweet?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/19411/why-is-it-important-to-add-salt-during-cooking",
+"title": "Why is it important to add salt during cooking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/10243/why-is-it-necessary-to-preheat-an-oven",
+"title": "Why is it necessary to preheat an oven?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/4073/why-is-my-cheese-sauce-gritty",
+"title": "Why is my cheese sauce gritty?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/119639/why-is-my-red-cabbage-suddenly-turning-blue-when-cooking-while-it-never-did-so",
+"title": "Why is my red cabbage suddenly turning blue when cooking, while it never did so before?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/64457/why-is-putting-an-egg-in-the-microwave-not-recommended",
+"title": "Why is putting an egg in the microwave not recommended?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/564/why-is-sugar-a-wet-ingredient",
+"title": "Why is sugar a wet ingredient?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/103533/why-is-there-potato-in-meatballs",
+"title": "Why is there potato in meatballs?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/76004/why-isn-t-almond-milk-and-other-non-animal-based-milk-considered-juice",
+"title": "Why isn't Almond Milk (and other non-animal based 'milk') considered juice?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/9014/why-let-dough-rise-twice",
+"title": "Why let dough rise twice?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/110131/why-not-make-sourdough-bread-from-young-starter",
+"title": "Why not make sourdough bread from young starter?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1804/why-not-put-knives-in-the-dishwasher",
+"title": "Why not put knives in the dishwasher?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8416/why-should-a-stock-be-simmered-and-not-boiled",
+"title": "Why should a stock be simmered and not boiled?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/623/why-should-i-rest-meat-after-cooking",
+"title": "Why should I \"rest\" meat after cooking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/21569/why-should-i-let-bread-cool-before-slicing-and-eating",
+"title": "Why should I let bread cool before slicing and eating?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/434/why-should-i-soak-beans-before-cooking",
+"title": "Why should I soak beans before cooking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/20390/why-skim-scum-from-the-surface-of-a-simmering-stock",
+"title": "Why skim \"scum\" from the surface of a simmering stock?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/71514/why-stir-sourdough-only-with-wooden-spoons",
+"title": "Why stir sourdough only with wooden spoons?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/21675/why-stretch-and-fold-vs-traditional-kneading-of-bread-dough",
+"title": "Why stretch and fold vs traditional kneading of bread dough?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/77275/why-throw-pizza-dough-besides-for-show",
+"title": "Why throw pizza dough besides for show?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/130627/why-turn-on-the-oven-at-the-start-of-a-recipe",
+"title": "Why turn on the oven at the start of a recipe?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/75664/why-use-a-kettle-to-heat-water",
+"title": "Why use a kettle to heat water?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/89004/why-use-baking-powder-instead-of-yeast",
+"title": "Why use baking powder instead of yeast?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/997/why-use-milk-in-scrambled-eggs",
+"title": "Why use milk in scrambled eggs?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/67709/why-use-onions-in-cooking",
+"title": "Why use onions in cooking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8832/why-use-yeast-instead-of-baking-powder",
+"title": "Why use yeast instead of baking powder?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6638/why-wait-for-water-to-boil",
+"title": "Why wait for water to boil?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/84310/why-would-boiling-milk-in-an-electric-kettle-break-the-kettle",
+"title": "Why would boiling milk in an electric kettle break the kettle?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/55241/why-would-i-buy-a-rice-cooker",
+"title": "Why would I buy a rice cooker?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/50468/why-would-you-place-potatoes-on-salt-when-baking-in-the-oven",
+"title": "Why would you place potatoes on salt when baking in the oven?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/11390/will-using-a-knife-sharpener-reduce-the-lifetime-of-my-knife",
+"title": "Will using a knife sharpener reduce the lifetime of my knife?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/85/wok-preparation-and-caring",
+"title": "Wok preparation and caring",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8028/are-any-retail-vacuum-sealing-systems-worth-the-expense",
+"title": "Are any retail vacuum-sealing systems worth the expense?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/83219/are-rare-burgers-safe",
+"title": "Are rare burgers safe?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/14287/are-refrigerated-hard-boild-eggs-really-unsafe-after-a-week",
+"title": "Are refrigerated hard boild eggs really unsafe after a week?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/618/best-chopping-board-material-for-meat",
+"title": "Best chopping board material for meat",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/129704/bleach-in-cast-iron-pan-safety-concerns",
+"title": "Bleach in cast iron pan, safety concerns?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/9451/botulism-garlic-cold-pressed-olive-oil-and-mason-jars",
+"title": "Botulism, Garlic, Cold pressed Olive oil and mason jars",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/46494/browning-avocados-what-helps",
+"title": "Browning Avocados - What Helps?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/2961/can-heavy-cream-be-frozen",
+"title": "Can heavy cream be frozen?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/8798/can-i-boil-eggs-in-the-same-pot-i-m-boiling-something-else",
+"title": "Can I boil eggs in the same pot I'm boiling something else?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1934/can-i-freeze-roux",
+"title": "Can I freeze roux?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/110602/can-i-make-a-neverending-soup-in-an-instantpot",
+"title": "Can I make a neverending Soup in an instantpot?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1122/can-i-prevent-honey-from-congealing-hardening-in-the-pantry",
+"title": "Can I prevent honey from congealing/hardening in the pantry?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/114910/can-meat-spoil-outside-the-fridge-if-it-s-baked-into-bread-as-a-filling",
+"title": "Can meat spoil outside the fridge if it's baked into bread as a filling?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/92317/can-mold-grow-in-vinegar",
+"title": "Can mold grow in vinegar?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/117272/can-my-freezer-be-too-cold",
+"title": "Can my freezer be too cold?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/16872/can-one-preserve-food-by-periodically-heating-it",
+"title": "Can one preserve food by periodically heating it?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/5021/can-raw-eggs-be-frozen",
+"title": "Can raw eggs be frozen?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/8603/can-store-bought-salmon-be-used-for-sashimi",
+"title": "Can store bought salmon be used for sashimi?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/116437/cooling-coffee-rapidly-without-dilution",
+"title": "Cooling coffee rapidly without dilution",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/3903/cure-for-burns-from-hot-peppers-capsicum-oil",
+"title": "Cure for burns from hot peppers / capsicum oil?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/3879/difference-between-freezer-bag-and-storage-bag",
+"title": "Difference between freezer bag and storage bag",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/120897/does-cooking-food-inside-a-pressure-cooker-and-then-leaving-it-locked-preserve",
+"title": "Does cooking food inside a pressure cooker and then leaving it locked preserve it similar to canning?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/25781/does-freezing-butter-or-margarine-change-the-properties",
+"title": "Does freezing butter or margarine change the properties?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/14570/does-meat-need-to-be-washed-before-preparation",
+"title": "Does meat need to be washed before preparation?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1773/does-putting-knives-in-a-wooden-block-blade-down-wear-out-the-blade",
+"title": "Does putting knives in a wooden block blade down wear out the blade?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/32358/does-wax-on-citrus-fruit-make-the-zest-unsafe-to-eat-or-compromise-its-flavor",
+"title": "Does wax on citrus fruit make the zest unsafe to eat or compromise its flavor?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1863/expiration-date-on-milk",
+"title": "Expiration Date on Milk",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/14307/food-safety-of-meat-vs-veggies-and-fruit-with-mold-on-them",
+"title": "Food safety of meat vs. veggies and fruit with mold on them",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/43407/food-safety-when-tasting-from-dish",
+"title": "Food safety when tasting from dish",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/126617/food-temperature-danger-zone-is-it-really-binary",
+"title": "Food temperature \"danger zone\" - is it really binary?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/3014/frying-oil-reuse",
+"title": "Frying Oil Reuse",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/121511/garlic-with-the-olives-what-happened",
+"title": "Garlic with the olives... what happened?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1188/good-ways-to-store-coffee",
+"title": "Good ways to store coffee?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/105244/how-can-i-get-a-very-thick-or-viscous-paste-e-g-caramel-ganache-thick-mayonnai",
+"title": "How can I get a very thick or viscous paste (e.g. caramel, ganache, thick mayonnaise) into small-necked squeeze bottles without heating it up?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1363/how-dangerous-is-it-to-refreeze-meat-that-has-been-thawed",
+"title": "How dangerous is it to refreeze meat that has been thawed?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/51629/how-do-canned-soup-companies-keep-their-noodles-from-absorbing-all-the-liquid-",
+"title": "How do canned soup companies keep their noodles from absorbing all the liquid in the can?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/16507/how-do-i-know-if-a-black-banana-is-too-old-to-be-eaten",
+"title": "How do I know if a black banana is too old to be eaten?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/34670/how-do-i-know-if-food-left-at-room-temperature-is-still-safe-to-eat",
+"title": "How do I know if food left at room temperature is still safe to eat?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/25761/how-do-i-maximize-the-shelf-life-of-my-homemade-hot-sauce",
+"title": "How do I maximize the shelf life of my homemade hot sauce?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/10115/how-do-i-stop-my-fire-alarm-from-going-off-when-i-cook",
+"title": "How do I stop my fire alarm from going off when I cook?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/2209/how-do-you-properly-clean-a-cutting-board-and-knife-to-prevent-cross-contamina",
+"title": "How do you properly clean a cutting board and knife to prevent cross contamination?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/112378/how-is-rare-steak-made-safe-to-eat",
+"title": "How is rare steak made safe to eat?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/17528/how-long-can-cooked-food-be-safely-stored-at-room-warm-temperature",
+"title": "How long can cooked food be safely stored at room/warm temperature?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/14775/how-long-can-eggs-be-unrefrigerated-before-becoming-unsafe-to-eat",
+"title": "How long can eggs be unrefrigerated before becoming unsafe to eat?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/7663/how-long-can-i-keep-eggs-in-the-refrigerator",
+"title": "How long can I keep eggs in the refrigerator?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/21068/how-long-can-i-store-a-food-in-the-pantry-refrigerator-or-freezer",
+"title": "How long can I store a food in the pantry, refrigerator, or freezer?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/2030/how-long-does-cooked-pasta-last-in-the-fridge",
+"title": "How long does cooked pasta last in the fridge?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/39432/how-long-is-garlic-butter-safe-and-why-is-it-not-a-botulism-risk-like-garlic-i",
+"title": "How long is garlic butter safe, and why is it not a botulism risk like garlic in oil?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/17225/how-long-is-it-safe-to-drink-coffee-after-brewed",
+"title": "How long is it safe to drink coffee after brewed?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1511/how-long-is-it-safe-to-marinate-meat",
+"title": "How long is it safe to marinate meat?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/7707/how-long-should-i-keep-a-cut-onion",
+"title": "How long should I keep a cut onion?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/9642/how-long-will-uncooked-chicken-keep-in-the-fridge",
+"title": "How long will uncooked chicken keep in the fridge?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/66426/how-prevalent-was-foodborne-botulism-before-stricter-food-safety-guidelines",
+"title": "How prevalent was foodborne botulism before stricter food safety guidelines?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/4388/how-safe-is-steak-tartare",
+"title": "How safe is steak tartare?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/51569/how-to-avoid-getting-arm-hair-in-food",
+"title": "How to avoid getting arm hair in food?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/848/how-to-chill-beer-quickly",
+"title": "How to chill beer quickly?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/6419/how-to-keep-my-deep-frying-oil-usable-as-long-as-possible",
+"title": "How to keep my (deep frying) oil usable as long as possible?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/100051/how-to-know-if-blackberries-are-safe-to-eat",
+"title": "How to know if blackberries are safe to eat?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1435/how-to-quickly-and-safely-defrost-chicken",
+"title": "How to quickly and safely defrost chicken?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/3935/how-to-store-brown-sugar-without-it-becoming-hard",
+"title": "How to store brown sugar without it becoming hard?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/139/how-to-store-fresh-herbs",
+"title": "How to Store Fresh Herbs",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/7779/i-need-to-quickly-and-safely-thaw-frozen-ground-beef-what-are-my-options",
+"title": "I need to quickly and safely thaw frozen ground beef, what are my options?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/95284/i-used-olive-oil-to-finish-my-salad-serving-utensils-now-what",
+"title": "I used olive oil to finish my salad serving utensils - now what?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/114453/if-one-tomato-had-molded-is-the-rest-of-the-pack-safe-to-eat",
+"title": "If one tomato had molded, is the rest of the pack safe to eat?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/11526/is-until-juices-run-clear-a-valid-test-for-poultry-doneness-why-or-why-not",
+"title": "Is \"until juices run clear\" a valid test for poultry doneness? Why or why not?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/136605/is-30-year-old-honey-ok-to-eat",
+"title": "Is 30+ year old honey ok to eat?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/46803/is-a-steak-ok-to-eat-if-it-fell-down-but-i-cooked-it-afterwards",
+"title": "Is a steak OK to eat if it fell down, but I cooked it afterwards?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/3111/is-ground-beef-that-was-in-the-refrigerator-for-two-weeks-and-has-turned-brown",
+"title": "Is ground beef that was in the refrigerator for two weeks and has turned brown still usable?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/18191/is-it-bad-to-cook-frozen-meat-without-thawing-it",
+"title": "Is it bad to cook frozen meat without thawing it?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/30498/is-it-ok-to-store-open-cans-in-the-fridge",
+"title": "Is it ok to store open cans in the fridge?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/33890/is-it-okay-to-keep-flour-in-the-freezer",
+"title": "Is it okay to keep flour in the freezer?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/16665/is-it-really-necessary-to-wash-a-skillet-that-will-be-heated-up-again-soon",
+"title": "Is it really necessary to wash a skillet that will be heated up again soon?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/61628/is-it-safe-to-boil-water-in-a-microwave",
+"title": "Is it safe to boil water in a microwave?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/15557/is-it-safe-to-cook-a-steak-that-was-left-out-raw-for-7-hours",
+"title": "Is it safe to cook a steak that was left out (raw) for 7 hours?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/91250/is-it-safe-to-drink-grain-alcohol-mixed-with-snake-blood",
+"title": "Is it safe to drink grain alcohol mixed with snake blood?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/4292/is-it-safe-to-eat-a-cooked-steak-that-briefly-touched-the-plate-that-was-holdi",
+"title": "Is it safe to eat a cooked steak that (briefly) touched the plate that was holding the raw meat?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/28561/is-it-safe-to-eat-green-onion-slime",
+"title": "Is it safe to eat green onion slime?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1230/is-it-safe-to-eat-moldy-cheese-if-you-slice-off-the-edges",
+"title": "Is it safe to eat moldy cheese if you slice off the edges?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1260/is-it-safe-to-eat-potatoes-that-have-sprouted",
+"title": "Is it safe to eat potatoes that have sprouted?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/2957/is-it-safe-to-eat-raw-eggs",
+"title": "Is it safe to eat raw eggs?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/13958/is-it-safe-to-eat-smoked-bacon-without-grilling",
+"title": "Is it safe to eat smoked bacon without grilling?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/12185/is-it-safe-to-eat-sprouted-onions",
+"title": "Is it safe to eat sprouted onions?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/36/is-it-safe-to-leave-butter-at-room-temperature",
+"title": "Is it safe to leave butter at room temperature?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/55250/is-it-safe-to-not-wash-mushrooms",
+"title": "Is it safe to not wash mushrooms?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/8919/is-it-safe-to-put-hot-food-in-the-fridge",
+"title": "Is it safe to put hot food in the fridge?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/18353/is-it-safe-to-reuse-loose-tea-leaves-the-next-day-what-precautions-need-to-be-",
+"title": "Is it safe to reuse loose tea leaves the next day? What precautions need to be taken for storing tea for reuse?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/93265/is-it-true-that-bananas-are-radioactive",
+"title": "Is it true that bananas are radioactive?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/82049/is-it-true-that-moldy-jam-pickles-are-good-to-eat-if-you-mix-the-mold-into-the",
+"title": "Is it true that moldy jam/pickles are good to eat if you mix the mold into the rest of the mixture?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/3472/is-there-a-problem-with-defrosting-meat-on-the-counter",
+"title": "Is there a problem with defrosting meat on the counter?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/112780/is-there-a-reason-to-not-grate-cheese-ahead-of-time",
+"title": "Is there a reason to not grate cheese ahead of time?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/7804/is-there-anything-i-can-add-to-homemade-bread-to-preserve-it",
+"title": "Is there anything I can add to homemade bread to preserve it?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/123754/is-this-yellow-substance-on-my-chicken-meat-a-fat-deposit-and-is-it-ok",
+"title": "Is this yellow substance on my chicken meat a fat deposit, and is it ok?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/100100/keep-milk-or-milk-alternative-for-a-day-without-a-fridge",
+"title": "Keep milk (or milk alternative) for a day without a fridge",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/2746/making-long-er-life-homemade-mayonnaise",
+"title": "Making \"long(er)-life\" homemade mayonnaise",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/10008/my-ginger-is-blueish-is-it-safe",
+"title": "My ginger is blueish... is it safe?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/9778/my-tea-bags-are-expired-can-i-still-use-them",
+"title": "My tea bags are expired, can I still use them?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/20978/never-ending-soup-is-it-actually-safe",
+"title": "Never ending soup; is it actually safe?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1355/nonstick-cookware-or-not",
+"title": "Nonstick cookware or not?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/149/once-a-month-cooking",
+"title": "Once a month cooking",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/70890/salad-packaged-with-raw-meat-is-it-safe",
+"title": "Salad packaged with raw meat: is it safe?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/70/shelf-life-of-spices",
+"title": "Shelf life of spices",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/11889/should-i-peel-kiwifruit",
+"title": "Should I peel kiwifruit?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1672/should-i-refrigerate-eggs",
+"title": "Should I refrigerate eggs?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1651/should-tomatoes-be-stored-in-the-fridge",
+"title": "Should tomatoes be stored in the fridge?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/106/sniffing-out-a-rotten-egg-from-the-dozen",
+"title": "Sniffing out a rotten egg from the dozen",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/105602/steak-dropped-in-soapy-dish-water",
+"title": "Steak dropped in soapy dish water",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/61/what-are-the-pros-and-cons-of-storing-bread-in-various-locations",
+"title": "What are the pros and cons of storing bread in various locations?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/105892/what-are-the-tiny-white-self-moving-objects-on-pasta",
+"title": "What are the tiny white self-moving objects on pasta?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/89/what-can-i-do-to-help-my-avocados-ripen",
+"title": "What can I do to help my avocados ripen?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/20373/what-does-the-refrigerator-crisper-compartment-actually-do",
+"title": "What does the refrigerator crisper compartment actually do?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/121210/what-is-the-best-way-to-store-potatoes",
+"title": "What is the best way to store potatoes?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/9/what-is-the-internal-temperature-a-steak-should-be-cooked-to-for-rare-medium-r",
+"title": "What is the internal temperature a steak should be cooked to for Rare/Medium Rare/Medium/Well?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/126305/what-is-the-result-of-extremely-over-fermenting-bread-dough",
+"title": "What is the result of extremely over-fermenting bread dough?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/46427/what-is-the-temperature-range-for-food-not-to-burn-your-mouth",
+"title": "What is the temperature range for food not to burn your mouth?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/103091/what-is-the-value-of-the-texas-crutch",
+"title": "What is the value of the \"Texas Crutch\"?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/24356/what-meats-can-i-serve-medium-rare-and-why",
+"title": "What meats can I serve medium rare and why?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/41598/what-parasites-are-problematic-in-sous-vide",
+"title": "What parasites are problematic in sous vide?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/128515/what-scientific-evidence-there-is-that-keeping-cooked-meat-at-room-temperature",
+"title": "What scientific evidence there is that keeping cooked meat at room temperature is unsafe past two hours?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/4529/what-temperatures-should-i-keep-my-refrigerator-and-freezer-set-at",
+"title": "What temperatures should I keep my refrigerator and freezer set at?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/15830/what-s-the-best-way-to-store-rice-long-term",
+"title": "What's the best way to store rice long-term?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/5071/what-s-the-purpose-of-a-bread-box",
+"title": "What's the purpose of a bread box?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/444/what-s-wrong-with-using-spin-dryer-to-dry-lettuce",
+"title": "What's wrong with using spin dryer to dry lettuce?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/101085/when-making-yogurt-why-doesn-t-bad-bacteria-grow-as-well",
+"title": "When making yogurt, why doesn't bad bacteria grow as well?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/37025/why-are-there-spikes-growing-out-of-my-ice-tray",
+"title": "Why are there spikes growing out of my ice tray?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/9555/why-did-my-turkey-stock-turn-into-gelatin",
+"title": "Why did my Turkey Stock turn into gelatin?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/4157/why-do-some-foods-taste-better-the-next-day",
+"title": "Why do some foods taste better the next day?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/4945/why-do-we-peel-carrots",
+"title": "Why do we peel carrots?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/109/why-does-a-brown-paper-bag-speed-ripening",
+"title": "Why does a brown paper bag speed ripening?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/108959/why-does-frozen-food-still-have-an-expiration-date",
+"title": "Why does frozen food still have an expiration date?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/9420/why-doesn-t-bailey-s-go-bad",
+"title": "Why doesn't Bailey's go bad?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/79458/why-is-eating-pretzels-safe-when-they-are-bathed-in-lye",
+"title": "Why is eating pretzels safe when they are bathed in lye?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/55047/why-is-expired-frozen-chicken-safe-to-eat",
+"title": "Why is expired frozen chicken safe to eat?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/12992/why-is-it-dangerous-to-eat-meat-which-has-been-left-out-and-then-cooked",
+"title": "Why is it dangerous to eat meat which has been left out and then cooked?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/94034/why-is-putting-hot-milk-in-a-thermos-not-recommended",
+"title": "Why is putting hot milk in a thermos not recommended?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1351/why-isn-t-it-safe-to-eat-raw-chicken",
+"title": "Why isn't it safe to eat raw chicken?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/121207/why-must-fermenting-meat-be-kept-cold-but-not-vegetables",
+"title": "Why must fermenting meat be kept cold, but not vegetables?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/122883/why-not-use-alcohol-ice",
+"title": "Why not use alcohol ice?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/73475/why-should-or-shouldn-t-we-wash-rice-before-cooking",
+"title": "Why should (or shouldn't) we wash rice before cooking?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/117076/why-would-plant-based-cookie-dough-packaging-say-do-not-consume-raw-dough",
+"title": "Why would plant-based cookie dough packaging say \"Do not consume raw dough\"?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/18917/will-avocado-stay-fresh-longer-if-stored-in-the-refrigerator",
+"title": "Will avocado stay fresh longer if stored in the refrigerator?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/56051/will-spoiled-food-always-make-you-sick",
+"title": "Will spoiled food always make you sick?",
+"category": "food-storage-preservation"
+}
+]
+}
