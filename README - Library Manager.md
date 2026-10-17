@@ -104,14 +104,19 @@ search cleared, any open item closed, back to the top. The Add pages keep what y
 
 ### Local Area
 
-Local Area was built for the first owner's home area (Kalispell / Flathead County, Montana) and is kept in the
-library folder `local-area`. In a new library it is **empty**: the tools that collected it (plant lists, Montana
-wildlife and fungi, topographic maps, a North America road map) were one-off jobs for that area and are not
-included. What the pages can do, once a library has such material:
+Local Area is the section about where you live, in the library folder `local-area`. Make it with
+**`Build Local Area.bat`** (see `README.md`, *Your Local Area*): it asks for your town and builds Start Here
+(frost dates, growing season, hardiness zone, monthly weather), species pages for the plants, wildlife, insects
+and fungi seen near you, and - in the US - topographic maps. Until then the section is not shown. (The first owner's
+Kalispell section was put together by hand and is not part of the download.)
 
-- **Topic tiles** (each shows how many pages it has) - click one to drill in, with search, sort and buttons for the
-  topic's own groups; **◀ All topics** goes back. Plant, wildlife and fungi pages offer **Change type…** to move
-  them to another tile.
+- **Start Here** opens straight away. The other tiles - **Plants**, **Wildlife**, **Insects & Spiders**,
+  **Fungi & Lichens**, **Maps** and **Your Documents** (local documents you added with *Add a Document*, category
+  Local Area) - show how many pages they hold; buttons inside split them further (Birds, Mammals, Conifers…).
+- Each species page has key facts (scientific name, family, how often it is seen near you and in which months),
+  photos with their photographers' licenses, a month-by-month sightings table and the Wikipedia article.
+- **◀ All topics** goes back to the tiles. Plant, wildlife and fungi pages offer **Change type…** to file them
+  under another group.
 - **Maps** - topographic GeoPDF maps open on the **Pages** tab; moving the mouse shows the position under it.
   **Search by position**: type or paste a position into a Local Area search box (`48.1958, -114.3129`,
   `48°11'45"N 114°18'46"W`, `N48 11.748 W114 18.774` or a Google Maps link) to find the map it is on.
@@ -307,6 +312,7 @@ Tools without a page of their own:
 | Wikipedia articles | `67_add_wiki_articles.py [--check] "Title:CODE" …` or `--file list.txt` |
 | Get Archives.bat | `get_archives.py [--list] [<archive> … \| all]` |
 | Build Starter Library.bat | `build_starter.py [--list] [<pack> … \| all]` |
+| Build Local Area.bat | `build_local_area.py [--place "<town>"] [--radius <km>] [--per-group <n>] [--groups birds,fungi…] [--maps <km> \| --no-maps] [--yes]` |
 | Archive builders used by the packs | `15_build_zim_docs.py <source>`, `18_stackexchange.py build <site>` |
 | Share your own choices as packs | `make_starter_packs.py` - rewrites `starter\` from what is in your library |
 | Recipes from a browser bookmarks export (one folder or several) | `58_fetch_bookmarks.py <bookmarks.html> "<folder name>" …`, then `20_catalog.py` and `21_readme.py` |

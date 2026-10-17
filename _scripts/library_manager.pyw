@@ -783,6 +783,42 @@ LOCAL_TOPICS = [
                           ("Weather, site & animal damage", _title("(Weather")), ("Tree identification", _title("(Tree identification"))]),
 ]
 
+# A Local Area made by build_local_area.py (it leaves local-area\local-area.json) gets these tiles instead - the
+# groups that tool writes. The list above stays for the hand-built Kalispell section.
+LOCAL_AREA_CONF = os.path.join(RESEARCH, "local-area", "local-area.json")
+GENERIC_LOCAL_TOPICS = [
+    ("Start Here", "🧭", "Frost dates, growing season, hardiness zone and monthly weather for your area",
+     _typ("local-overview"), []),
+    ("Plants", "🌿", "Flowering plants (incl. broadleaf trees and shrubs), conifers, grasses, ferns and mosses seen near you",
+     lambda i: (i.get("ltype") or "").startswith("Plants"),
+     [("Flowering plants", _grp("Plants - Flowering plants")), ("Conifers", _grp("Plants - Conifers")),
+      ("Grasses, sedges & rushes", _grp("Plants - Grasses, sedges & rushes")), ("Ferns & mosses", _grp("Plants - Ferns & mosses"))]),
+    ("Wildlife", "🦌", "Birds, mammals, fish, reptiles and amphibians seen near you",
+     lambda i: (i.get("ltype") or "").startswith("Wildlife"),
+     [("Birds", _grp("Wildlife - Birds")), ("Mammals", _grp("Wildlife - Mammals")), ("Fish", _grp("Wildlife - Fish")),
+      ("Reptiles & amphibians", _grp("Wildlife - Reptiles & amphibians"))]),
+    ("Insects & Spiders", "🦋", "Insects, spiders, ticks and mites seen near you",
+     _grp("Insects", "Spiders, ticks & mites"), [("Insects", _grp("Insects")), ("Spiders, ticks & mites", _grp("Spiders, ticks & mites"))]),
+    ("Fungi & Lichens", "🍄", "Mushrooms, brackets and lichens seen near you - never eat one identified from a photo",
+     _grp("Fungi & lichens"), []),
+    ("Maps", "📍", "USGS topographic maps of your area (open them here or from 📍 Waypoints)", _grp("Maps"), []),
+    ("Your Documents", "📚", "Local guides and documents you added to the Local Area category",
+     lambda i: i["type"] not in ("local-overview", "local-profile", "local-wildlife", "local-map"), []),
+]
+if os.path.exists(LOCAL_AREA_CONF):
+    LOCAL_TOPICS = GENERIC_LOCAL_TOPICS
+
+
+def local_area_intro():
+    """The Local Area page's line under its title: the place Build Local Area made it for, or the hand-built section's."""
+    try:
+        c = json.load(open(LOCAL_AREA_CONF, encoding="utf-8"))
+        return (f"{c['name']} and {c['radius']} km around it: pick a topic - plants, wildlife, insects and fungi seen there, "
+                "frost dates and weather, and maps.")
+    except (OSError, ValueError, KeyError):
+        return ("Kalispell / Flathead County: pick a topic - your plants with key facts for zone 5b, Montana wildlife, insects, fungi "
+                "and grasses, nearby Pacific Northwest species, growing guides, MSU documents and pest pages.")
+
 
 class WaypointsPage(Page):
     """Your own named places: each opens the topo map it is on, zoomed in on a red marker.  Add them here (type or
@@ -949,9 +985,7 @@ class App(tk.Tk):
                  "or All Recipes to search them all.",
                  lambda i: i["category"] == "recipes" and i.get("group") != "course", RECIPE_TOPICS, unit="recipe")),
              ("school", "\U0001F393", "Cooking School", lv.CoursePage),
-             ("local", "⛰", "Local Area", lambda app: lv.TopicPage(app, "Local Area",
-                 "Kalispell / Flathead County: pick a topic - your plants with key facts for zone 5b, Montana wildlife, insects, fungi "
-                 "and grasses, nearby Pacific Northwest species, growing guides, MSU documents and pest pages.",
+             ("local", "⛰", "Local Area", lambda app: lv.TopicPage(app, "Local Area", local_area_intro(),
                  lambda i: i["category"] == "local-area", LOCAL_TOPICS)),
              ("waypoints", "\U0001F4CD", "Waypoints", WaypointsPage),
              ("docs", "📚", "Documents & Books", lambda app: lv.TopicPage(app, "Documents & Books",

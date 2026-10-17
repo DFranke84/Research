@@ -341,7 +341,11 @@ LOCAL_TYPES_FILE = os.path.join(RESEARCH, "_work", "local_area", "type_overrides
 
 
 def local_types():
-    """Local Area types, in menu order (the '## ' groups of the plant list + the Field Guide groups)."""
+    """Local Area types, in menu order (the '## ' groups of the plant list + the Field Guide groups) - or, for a
+    Local Area made by build_local_area.py, that tool's groups."""
+    if os.path.exists(os.path.join(RESEARCH, "local-area", "local-area.json")):
+        import importlib
+        return [g[0] for g in importlib.import_module("build_local_area").GROUPS]
     try:
         from local_area_specs import PLANT_TABLE, WILD_GROUPS
         return [l[3:].strip() for l in PLANT_TABLE.splitlines() if l.startswith("## ")] + WILD_GROUPS
@@ -2724,8 +2728,9 @@ class Reader(tk.Frame):
                 "\n\nOn the map\n"
                 "  \U0001F4CD Add waypoint, then click  -  save a spot (or right-click a spot)\n"
                 "  \U0001F4CF Measure, then click points  -  straight-line distances and the total\n"
-                "  Click a red pin  -  edit that waypoint\n"
-                "  \U0001F30E North America map  -  the same spot on the road map")
+                "  Click a red pin  -  edit that waypoint"
+                + ("\n  \U0001F30E North America map  -  the same spot on the road map"
+                   if getattr(self.page.app, "na_map_available", lambda: False)() else ""))
 
     def step(self, z, d):
         if d == 0:
