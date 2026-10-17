@@ -1,0 +1,2000 @@
+{
+"pack": "se-mechanics",
+"kind": "stackexchange",
+"title": "Stack Exchange - mechanics",
+"about": "Top-voted questions with their best answers from mechanics.stackexchange.com.",
+"archive": "se-mechanics",
+"made": "2026-10-17",
+"items": [
+{
+"path": "questions/36115/fill-nitrogen-in-tires-poster-are-the-claims-credible-or-just-hot-air",
+"title": "\"Fill nitrogen in tires\" poster - are the claims credible or just hot air?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/19759/00-honda-cbr929rr-unknown-issue-help",
+"title": "'00 Honda CBR929RR - Unknown issue, help!",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/42267/09-chevy-malibu-no-crank-no-start-heavy-troubleshooting-already-completed",
+"title": "'09 Chevy Malibu - No Crank, No Start - Heavy Troubleshooting Already Completed",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/623/2000-jetta-runs-rough-shudders-on-cold-start-only-on-wet-days",
+"title": "2000 Jetta runs rough, shudders on cold start only on wet days.",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/2614/2000-vw-golf-heater-won-t-blow-hot-air",
+"title": "2000 VW Golf heater won't blow hot air",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/99/2005-ford-taurus-is-it-really-harmful-to-use-standard-antifreeze",
+"title": "2005 Ford Taurus - Is it really harmful to use standard antifreeze?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/32337/350z-cranks-won-t-start",
+"title": "350z cranks won't start",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/51426/40amp-protection-on-25amp-rated-wiring",
+"title": "40amp protection on 25amp rated wiring?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24457/5-stroke-engines-what-are-these-things",
+"title": "5-Stroke Engines - What are these things?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/79516/accidentally-left-car-idling-for-14-hours-what-are-possible-consequences-from-",
+"title": "Accidentally left car idling for 14 hours. What are possible consequences from this?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/6116/adding-a-additional-battery-to-car",
+"title": "Adding a additional battery to car",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/22790/afraid-to-crank-engine-how-can-i-tell-if-my-cylinders-are-flooded-with-water",
+"title": "Afraid to crank engine - how can I tell if my cylinders are flooded with water?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/26408/aluminium-engine-vs-cast-iron-engine",
+"title": "Aluminium engine vs Cast Iron engine",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1192/any-recommendations-on-vehicle-maintenance-software-for-the-diyer",
+"title": "Any recommendations on vehicle maintenance software for the DIYer?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/26079/are-manual-transmission-cars-disappearing",
+"title": "Are manual transmission cars disappearing?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/29795/are-oils-from-the-skin-a-problem-with-turn-signal-bulbs",
+"title": "Are oils from the skin a problem with turn signal bulbs?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/888/are-there-any-advantages-of-idling-a-vehicle-vs-turning-it-off-and-back-on-aga",
+"title": "Are there any advantages of idling a vehicle vs. turning it off and back on again?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/28547/are-there-requirements-for-building-a-car-pc-and-it-s-software",
+"title": "Are there requirements for building a car-PC and it's software?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/49333/are-trims-hubcaps-on-a-car-tires-necessary",
+"title": "Are trims (Hubcaps) on a car tires necessary?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/26182/are-tyre-repair-kits-a-viable-alternative-for-a-spare-wheel",
+"title": "Are tyre repair kits a viable alternative for a spare wheel?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/11249/at-what-point-do-you-need-to-replace-the-calipers",
+"title": "At what point do you need to replace the calipers?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/37257/at-what-time-of-day-temperature-should-i-refuel-my-vehicle",
+"title": "At what time of day/temperature should I refuel my vehicle?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/3902/automatic-transmission-is-shifting-to-neutral-while-approaching-stops-bad",
+"title": "Automatic transmission: Is shifting to neutral while approaching stops bad?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/91/battery-drains-by-itself-when-vehicle-is-parked-parasitic-draw",
+"title": "Battery drains by itself when vehicle is parked (parasitic draw)",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/50317/battery-removal-or-just-disconnect-neg-terminal",
+"title": "Battery removal or just disconnect neg. terminal",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24757/brake-flush-vs-replacing-the-brake-fluid",
+"title": "Brake flush vs. Replacing the brake fluid",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/9148/brake-rotors-blank-slotted-or-drilled",
+"title": "brake rotors- blank, slotted or drilled?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/51878/can-a-lithium-ion-battery-really-start-a-truck",
+"title": "Can a lithium-ion battery really start a truck?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/27815/can-a-weak-battery-destroy-an-alternator",
+"title": "Can a weak battery destroy an alternator?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/48895/can-i-connect-wires-by-just-twisting-them-together-and-insulating-with-tape",
+"title": "Can I connect wires by just twisting them together and insulating with tape?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/4575/can-i-drive-a-car-with-only-water-and-no-coolant-if-it-has-a-leak",
+"title": "Can I drive a car with only water and no coolant if it has a leak?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/40101/can-i-jump-start-one-car-with-two-other-cars-in-parallel",
+"title": "Can I jump start one car with two other cars in parallel?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/21277/can-i-jumpstart-a-non-hybrid-car-from-a-hybrid-or-full-electric-car",
+"title": "Can I jumpstart a non-hybrid car from a hybrid or full electric car?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/14984/can-i-safely-upgrade-to-an-agm-battery",
+"title": "Can I safely upgrade to an AGM battery?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/6920/can-i-use-lower-octane-fuel-at-high-elevation",
+"title": "Can I use lower octane fuel at high elevation?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/430/can-radiator-cool-down-a-car-too-much",
+"title": "Can radiator cool down a car too much?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/81913/can-salt-water-be-used-in-place-of-antifreeze",
+"title": "Can salt water be used in place of antifreeze?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/18292/can-this-tire-sidewall-damage-be-repaired-or-should-i-replace-the-tire",
+"title": "Can this tire sidewall damage be repaired or should I replace the tire?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25087/can-you-run-an-engine-without-a-radiator",
+"title": "Can you run an engine without a radiator?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/87844/car-battery-at-10v-then-shows-145v-while-car-running-after-boost-then-when-car",
+"title": "Car battery at 10v, then shows 14,5v while car running after boost, then when car turns off, drops to 10v again within a minute",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/4010/car-crash-when-does-a-car-catch-fire",
+"title": "Car crash: when does a car catch fire?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/7422/car-shakes-when-in-gear-at-red-light",
+"title": "Car shakes when in gear at red light",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/68255/cascading-repair-costs-following-blown-head-gasket-on-a-2004-subaru-outback",
+"title": "Cascading Repair Costs following Blown Head Gasket on a 2004 Subaru Outback",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/6516/causes-of-early-clutch-failure-excluding-driver-style",
+"title": "Causes of early clutch failure EXCLUDING driver style",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/19238/change-calipers-on-both-sides",
+"title": "Change calipers on both sides?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/16048/changing-firing-order-in-a-4-cylinder-car",
+"title": "Changing Firing Order in a 4 Cylinder Car",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/4651/charger-doesn-t-stay-put-in-cigarette-lighter-outlet",
+"title": "Charger doesn't stay put in cigarette lighter outlet",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/49138/cheap-winter-tires-vs-high-quality-all-seasons",
+"title": "Cheap winter tires vs high quality all seasons",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24374/checking-tire-pressure-when-the-tire-is-warm-or-cold",
+"title": "Checking Tire Pressure when the tire is warm or cold",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/9541/clicking-type-sound-when-braking-at-low-speeds",
+"title": "Clicking type sound when braking at low speeds",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/15588/clutch-less-shifting-why-does-it-work-is-it-bad",
+"title": "Clutch less shifting - why does it work? Is it bad?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/27893/clutch-smell-after-botched-attempt-at-accelerating-on-a-ramp",
+"title": "Clutch smell after botched attempt at accelerating on a ramp",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24223/cold-temperatures-and-tire-pressure-light",
+"title": "Cold temperatures and tire pressure light",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1384/couldn-t-start-my-volvo-due-to-key-error-called-assistance-and-he-fixed-it-by-",
+"title": "Couldn't start my Volvo due to Key Error. Called assistance and he fixed it by hitting the key with a screwdriver. What could be the error?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/23585/diesel-engine-runaway-what-is-it",
+"title": "Diesel Engine Runaway - What is it?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/849/diesel-vs-petrol-motorcars-pro-s-and-cons",
+"title": "Diesel vs Petrol motorcars. Pro's and cons?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/862/difference-between-high-octane-and-low-octane",
+"title": "Difference between high octane and low octane?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/7417/differences-and-recommendation-between-steel-and-alloy-wheels-for-winter",
+"title": "Differences and Recommendation between Steel and Alloy Wheels for Winter?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/38611/discovered-disconnected-part-when-removing-wheels",
+"title": "Discovered disconnected part when removing wheels",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/27889/do-cars-consume-less-fuel-when-in-neutral",
+"title": "Do cars consume less fuel when in Neutral?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/443/do-i-have-an-oil-leak-if-i-have-to-add-oil",
+"title": "Do I have an oil leak if I have to add oil?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/15387/do-i-have-to-rely-on-wire-color-to-correctly-wire-up-an-o2-sensor",
+"title": "Do I have to rely on wire color to correctly wire up an O2 sensor?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/55351/do-i-need-to-replace-my-rotors",
+"title": "Do I need to replace my rotors?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/85993/do-i-need-to-take-special-care-of-my-new-motorcycle-in-this-particular-scenari",
+"title": "Do I need to take special care of my new motorcycle in this particular scenario?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/59814/do-matching-left-right-lights-often-burn-out-within-a-short-time-period-of-eac",
+"title": "Do matching (left/right) lights often burn out within a short time period of each other? If so, why?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/74672/do-mobile-air-conditioners-exist-for-cars",
+"title": "Do mobile air conditioners exist for cars?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/29029/do-pistons-keep-moving-when-the-car-stops",
+"title": "Do pistons keep moving when the car stops?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/27811/do-these-ebc-brake-pads-look-like-a-counterfeit",
+"title": "Do these EBC brake pads look like a counterfeit?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/43433/do-these-tyre-cracks-necessitate-replacement",
+"title": "Do these tyre cracks necessitate replacement?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25508/does-forcefully-overriding-the-self-canceling-damage-my-indicator-levers",
+"title": "Does (forcefully) overriding the self-canceling damage my indicator levers?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/88927/does-a-car-keep-moving-if-neither-accelerator-nor-brake-is-pressed",
+"title": "Does a Car Keep Moving If Neither Accelerator, Nor Brake Is Pressed?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/28266/does-a-carburettor-engine-apply-fuel-at-high-speeds-when-the-pedal-is-no-longe",
+"title": "Does a carburettor engine apply fuel at high speeds when the pedal is no longer depressed?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/7/does-a-timing-chain-need-maintenance",
+"title": "Does a timing chain need maintenance?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/5590/does-accelerating-faster-worsen-fuel-efficiency",
+"title": "Does accelerating faster worsen fuel efficiency?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1210/does-downshifting-engine-braking-cause-extra-wear-and-tear",
+"title": "Does Downshifting (Engine Braking) Cause Extra Wear and Tear?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/37628/does-flooring-the-throttle-while-traveling-at-lower-speeds-increase-fuel-consu",
+"title": "Does flooring the throttle while traveling at lower speeds increase fuel consumption?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/6788/does-giving-gas-while-releasing-the-clutch-cause-unnecessary-wear",
+"title": "Does giving gas while releasing the clutch cause unnecessary wear?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/54202/does-kicking-a-tire-off-your-car-from-underneath-it-while-it-s-held-up-by-a-st",
+"title": "Does kicking a tire off your car from underneath it while it's held up by a stable jack pose safety threats?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/28651/does-putting-an-automatic-car-into-neutral-at-stop-lights-significantly-harm-t",
+"title": "Does putting an automatic car into neutral at stop lights significantly harm the transmission?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/19836/does-resting-your-foot-on-the-clutch-wear-it-out",
+"title": "Does resting your foot on the clutch wear it out?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1876/does-the-amount-of-fuel-in-the-tank-matter",
+"title": "Does the amount of fuel in the tank matter?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/27998/does-the-brake-bleeding-sequence-really-matter",
+"title": "Does the brake bleeding sequence really matter?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25018/does-vaseline-dissolve-rubber",
+"title": "Does Vaseline dissolve rubber?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/828/driving-in-second-gear-at-65-mph",
+"title": "Driving in second gear at 65+ mph",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24257/dynamometer-question-how-is-it-operated-and-what-are-they-doing",
+"title": "Dynamometer Question - How is it operated and what are they doing?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/22006/engine-noise-rattle-when-clutch-is-fully-pressed-bmw-320d-e46-manual",
+"title": "Engine noise / rattle when clutch is fully pressed [BMW 320d e46, manual]",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/9715/engine-oil-change-and-getting-rid-of-old-oil-completely",
+"title": "Engine oil change and getting rid of old oil completely",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/7922/engine-power-specification-at-different-rpm",
+"title": "Engine power specification at different rpm?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/555/engine-revs-high-5th-gear-manual-transmission",
+"title": "Engine revs high 5th gear manual transmission",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/34941/everytime-i-go-to-change-my-oil-filter-it-s-extremely-hard-to-remove-any-way-i",
+"title": "Everytime I go to change my oil filter it's extremely hard to remove. Any way I can make this easier for me in the future?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/88399/ford-focus-hard-to-start-after-fueling",
+"title": "Ford Focus hard to start after fueling",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/15931/front-left-controller-arm-corroded-and-broke-on-my-2002-hyundai-elantra",
+"title": "Front left controller arm corroded and broke on my 2002 Hyundai Elantra",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/35527/garage-tech-drained-oil-and-forgot-to-refill-i-drove-off-what-damage-could-thi",
+"title": "Garage tech drained oil and forgot to refill. I drove off - what damage could this have caused?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/30450/grease-on-wheel-bolts-or-not",
+"title": "Grease on wheel bolts or not?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/79323/haven-t-driven-a-car-since-the-start-of-the-pandemic-can-it-be-driven-without-",
+"title": "Haven't driven a car since the start of the pandemic; can it be driven without special measures?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/37553/hit-a-curb-chewed-up-rim-and-took-a-chunk-out-of-tire-will-they-need-replaceme",
+"title": "Hit a curb; chewed up rim and took a chunk out of tire. Will they need replacement?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/29392/how-can-an-oil-plug-just-fall-out-after-three-months-and-3000-miles-and-the-ca",
+"title": "How can an oil plug just fall out after three months and 3,000 miles and the car has just 35,000 miles on it, 2014 Ford Escape",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/29004/how-can-i-detect-vacuum-leaks-without-access-to-a-smoke-machine",
+"title": "How can I detect vacuum leaks without access to a smoke machine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/7681/how-can-i-repair-cracks-in-leather-seat",
+"title": "How can I repair cracks in leather seat?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/23503/how-can-i-tell-if-i-have-bad-cats",
+"title": "How can I tell if I have bad cats?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25969/how-can-i-tell-which-parts-of-my-car-are-by-wire",
+"title": "How can I tell which parts of my car are \"By Wire\"?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/37473/how-can-you-tell-if-the-engine-is-not-brand-new",
+"title": "How can you tell if the engine is not brand new?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/441/how-can-you-tell-the-oil-needs-to-be-changed",
+"title": "How can you tell the oil needs to be changed?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/3937/how-difficult-is-it-to-rebuild-a-transmission",
+"title": "How difficult is it to rebuild a transmission?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/74496/how-do-cars-drive-through-deep-water-as-shown-on-many-videos-online",
+"title": "How do cars drive through deep water as shown on many videos online?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/113/how-do-i-apply-dielectric-grease-to-my-battery",
+"title": "How do I apply dielectric grease to my battery?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/10985/how-do-i-determine-what-type-of-jumper-cable-i-should-carry",
+"title": "How do I determine what type of jumper cable I should carry?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/4573/how-do-i-find-the-correct-pins-in-a-can-bus-connector",
+"title": "How do I find the correct pins in a CAN-BUS connector?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/642/how-do-i-know-when-to-change-my-spark-plug",
+"title": "How do I know when to change my spark plug",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/2204/how-do-i-loosen-stuck-lug-nuts-in-order-to-change-a-tire",
+"title": "How do I loosen stuck lug nuts in order to change a tire?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24569/how-do-i-remove-a-broken-drill-bit-from-metal",
+"title": "How do I remove a broken drill bit from metal?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/14612/how-do-i-repair-detatched-interior-roof-fabric",
+"title": "How do I repair detatched interior roof fabric?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1079/how-do-i-select-the-right-oil-for-my-car",
+"title": "How do I select the right oil for my car?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/406/how-do-i-test-my-car-battery",
+"title": "How do I test my car battery?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/26363/how-do-i-troubleshoot-the-source-of-oil-in-my-coolant",
+"title": "How do I troubleshoot the source of oil in my coolant?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/52053/how-do-the-latest-automatic-transmissions-match-the-efficiencies-of-manual-gea",
+"title": "How do the latest automatic transmissions match the efficiencies of manual gearboxes?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/18403/how-do-you-test-analogue-electrical-circuits",
+"title": "How do you test analogue electrical circuits?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25089/how-do-you-un-seize-an-engine",
+"title": "How do you un-seize an engine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/14830/how-does-ambient-temperature-affect-engine-efficiency-and-fuel-consumption",
+"title": "How does ambient temperature affect engine efficiency and fuel consumption?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/27361/how-does-the-car-s-ecu-detect-a-misfire",
+"title": "How does the car's ECU detect a misfire?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/26783/how-does-the-transmission-not-strip-itself-when-applying-the-brake",
+"title": "How does the transmission not strip itself when applying the brake?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25434/how-exactly-does-running-fuel-lean-increase-the-temperature-of-ignition",
+"title": "How exactly does running fuel-lean increase the temperature of ignition?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1125/how-far-can-i-drive-with-1-gallon-too-much-oil",
+"title": "How far can I drive with 1 gallon too much oil?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1669/how-important-is-a-fuel-cap",
+"title": "How important is a fuel cap?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1102/how-important-is-it-to-use-a-real-flare-nut-wrench-when-removing-the-fuel-line",
+"title": "How important is it to use a real flare nut wrench when removing the fuel line on an old Ford tractor?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/4820/how-long-can-i-drive-on-a-donut-spare",
+"title": "How long can I drive on a donut spare?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/119/how-long-does-it-take-for-gas-to-go-bad",
+"title": "How long does it take for gas to go bad?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/7847/how-long-should-i-let-my-car-warm-up-in-the-winter",
+"title": "How long should I let my car warm up in the winter?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/48316/how-low-does-the-oil-level-have-to-get-to-trigger-the-low-oil-light",
+"title": "How low does the oil level have to get to trigger the low oil light?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/16753/how-much-air-should-a-tire-lose-each-month",
+"title": "How much air should a tire lose each month?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/15565/how-much-does-spark-plug-gap-affect-fuel-efficiency",
+"title": "How much does spark plug gap affect fuel efficiency?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1536/how-much-power-hp-do-the-components-on-the-engine-belt-generally-use",
+"title": "How much power (HP) do the components on the engine belt generally use?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/4816/how-old-is-too-old-for-a-new-tire",
+"title": "How old is too old for a new tire?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/33382/how-over-square-can-you-go",
+"title": "How over-square can you go?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/68989/how-slow-not-zero-can-a-car-engine-run-without-hurting-engine-and-saving-on-fu",
+"title": "How slow ( not zero) can a car engine run without hurting engine and saving on fuel",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/89531/how-to-relatively-safely-store-a-small-amount-200-milliliters-of-gasoline-for-",
+"title": "How to (relatively safely) store a small amount (200 milliliters) of gasoline for up to a month?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/61943/how-to-add-a-7th-gear-to-a-car-to-enhance-fuel-economy",
+"title": "How to add a 7th gear to a car to enhance fuel economy?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1240/how-to-begin-learning-engine-tuning",
+"title": "How to begin learning engine tuning?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/96/how-to-deal-with-rust",
+"title": "How to deal with rust",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/32340/how-to-determine-exactly-what-s-wrong-with-my-alternator",
+"title": "How to determine exactly what's wrong with my alternator?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/21033/how-to-dispose-of-engine-coolant",
+"title": "How to dispose of engine coolant?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/39706/how-to-find-a-part-lost-in-the-snow",
+"title": "How to find a part lost in the snow",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/249/how-to-fix-leaky-tires-after-2-shops-couldn-t",
+"title": "How to fix leaky tires after 2 shops couldn't",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/3181/how-to-get-organized-without-a-garage-workspace",
+"title": "How To Get Organized Without a Garage Workspace?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/2997/how-to-improve-fuel-economy-in-high-mileage-car",
+"title": "How to improve fuel economy in high-mileage car?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/28752/how-to-keep-wheel-ramps-from-sliding",
+"title": "How to keep wheel ramps from sliding?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/12/how-to-maintain-a-sometimes-used-vehicle",
+"title": "How to maintain a sometimes-used vehicle?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/661/how-to-optimize-fuel-consumption-by-changing-the-rear-differential-ratio",
+"title": "how to optimize fuel consumption by changing the rear differential ratio?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/504/how-to-properly-dispose-of-old-fuel",
+"title": "How to properly dispose of old fuel?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24323/how-to-read-car-tires",
+"title": "How To Read Car Tires",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25373/how-to-remove-core-plugs-aka-freeze-plugs",
+"title": "How to Remove Core Plugs? (aka Freeze Plugs)",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/31573/how-to-remove-stripped-hex-bolts",
+"title": "How to Remove Stripped Hex Bolts",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1166/how-to-test-a-clutch",
+"title": "How to test a clutch",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/51/how-to-test-for-defective-glow-plugs",
+"title": "How to test for defective glow plugs?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/2766/how-urgently-should-i-replace-this-tire-is-it-safe-to-drive-on-at-all",
+"title": "HOW urgently should I replace this tire? Is it safe to drive on at all?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/21668/i-drove-with-my-parking-brake-on-for-30-mins-should-i-be-worried",
+"title": "I drove with my Parking Brake on for 30 mins: should I be worried?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/71794/i-got-this-screw-in-my-tire-should-i-plug-or-replace",
+"title": "I got this screw in my tire, should I plug or replace?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/45137/i-ran-my-car-on-almost-no-oil-for-a-few-weeks-before-realizing-the-problem-now",
+"title": "I ran my car on almost no oil for a few weeks before realizing the problem. Now what?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/72294/if-i-am-just-replacing-the-car-engine-do-i-need-to-replace-the-odometer-as-wel",
+"title": "If I am just replacing the car engine, do I need to replace the odometer as well?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/32616/if-you-change-your-oil-with-synthetic-can-you-never-safely-go-back-to-using-co",
+"title": "If you change your oil with synthetic can you never safely go back to using conventional?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/21119/impact-vs-regular-sockets",
+"title": "Impact vs. Regular Sockets",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/21846/is-a-tire-with-exposed-wire-safe-to-drive-on",
+"title": "Is a tire with exposed wire safe to drive on?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/9056/is-an-oil-life-indicator-a-reliable-indicator-for-when-to-change-the-oil",
+"title": "Is an \"oil life indicator\" a reliable indicator for when to change the oil?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/3330/is-anti-seize-a-lubricant-abrasive-or-both",
+"title": "Is Anti-Seize a lubricant, abrasive, or both?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/10978/is-double-clicking-a-mechanical-torque-wrench-just-a-habit",
+"title": "Is double-clicking a mechanical torque wrench just a habit?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1695/is-downshifting-on-hills-harmful-for-non-trucks",
+"title": "Is downshifting on hills harmful for non-trucks?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1772/is-idling-bad-for-your-engine",
+"title": "Is idling bad for your engine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/4383/is-it-better-to-drive-across-a-speed-bump-at-a-right-angle-or-slightly-skewed",
+"title": "Is it better to drive across a speed bump at a right angle or slightly skewed?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/74549/is-it-ever-neccesary-to-burn-a-starter-out",
+"title": "Is it ever neccesary to burn a starter out?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/3850/is-it-harmful-to-drive-at-high-rpms",
+"title": "Is it harmful to drive at high rpms",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1856/is-it-necessary-to-burn-in-or-break-in-a-new-car",
+"title": "Is it necessary to 'burn in' or 'break in' a new car?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/8687/is-it-necessary-to-flush-brake-fluid",
+"title": "Is it necessary to flush brake fluid?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/35985/is-it-necessary-to-have-the-wheels-of-a-car-aligned-with-the-body-when-parked-",
+"title": "Is it necessary to have the wheels of a car aligned with the body when parked, due to weight on the axle?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/11244/is-it-normal-for-stop-distance-to-be-long-on-brand-new-brake-pads",
+"title": "Is it normal for stop distance to be long on brand new brake pads?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/2891/is-it-ok-to-mix-oil-of-different-viscosity-in-a-wankel-engine",
+"title": "Is it OK to mix oil of different viscosity in a Wankel engine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24719/is-it-ok-to-use-a-scissor-jack-instead-of-a-floor-jack",
+"title": "Is it ok to use a scissor jack instead of a floor jack?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/2281/is-it-okay-to-leave-a-car-for-5-months-without-driving-it",
+"title": "Is it okay to leave a car for 5 months without driving it?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/920/is-it-okay-to-replace-one-tire-of-four-matched-tires-with-a-completely-differe",
+"title": "Is it okay to replace one tire (of four matched tires) with a completely different model of tire?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/38506/is-it-possible-for-a-diesel-engine-computer-to-detect-and-prevent-a-runaway-co",
+"title": "Is it possible for a diesel engine computer to detect (and prevent) a runaway condition?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/2723/is-it-possible-to-harm-your-car-by-giving-someone-a-boost",
+"title": "Is it possible to harm your car by giving someone a boost?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/57143/is-it-really-impossible-to-fix-a-seized-engine",
+"title": "Is it really impossible to fix a seized engine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/8550/is-it-safe-to-drive-a-car-that-has-a-broken-suspension-spring",
+"title": "Is it safe to drive a car that has a broken suspension spring?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/50816/is-it-safe-to-drive-my-car-to-a-repair-shop-with-a-bolt-in-the-tire-picture",
+"title": "Is it safe to drive my car to a repair shop with a bolt in the tire? (picture)",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/29139/is-it-safe-to-drive-with-low-engine-coolant",
+"title": "Is it Safe to Drive With Low Engine Coolant?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/51583/is-it-safe-to-use-a-hydraulic-jack-as-a-stand-if-not-why",
+"title": "Is it safe to use a hydraulic jack as a stand? If not, why?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/37320/is-it-true-that-most-of-the-engine-wear-during-its-life-time-occurs-during-a-c",
+"title": "Is it true that most of the engine wear during its life time occurs during a cold start up?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/84/is-it-worth-switching-to-full-synthetic-or-blend-oil-in-my-older-car-truck",
+"title": "Is it worth switching to full synthetic or blend oil in my older car/truck?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/41015/is-my-head-gasket-cracked",
+"title": "Is my head gasket cracked?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1135/is-prestone-all-makes-all-models-coolant-really-compatible-with-all-models",
+"title": "Is Prestone \"All Makes/All Models\" coolant *really* compatible with all models?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/31571/is-reverse-gear-in-a-manual-transmission-equivalent-to-any-other-gear",
+"title": "Is reverse gear in a manual transmission equivalent to any other gear?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/16596/is-shifting-to-neutral-on-a-decline-more-fuel-efficient-than-keeping-the-gear-",
+"title": "Is shifting to neutral on a decline more fuel efficient than keeping the gear engaged?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/825/is-start-stop-technology-good-or-bad-for-my-car-alfa-mito",
+"title": "Is Start & Stop technology good or bad for my car? (Alfa MiTO)",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/3910/is-starting-your-car-with-the-a-c-on-bad",
+"title": "Is starting your car with the A/C on bad?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24580/is-there-a-benefit-to-belt-driven-motorcycles",
+"title": "Is there a benefit to belt driven motorcycles?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/793/is-there-a-way-to-put-prius-with-dead-battery-into-neutral",
+"title": "Is there a way to put Prius with dead battery into neutral?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/4253/is-this-what-is-making-my-car-sound-like-a-racecar",
+"title": "Is this what is making my car sound like a racecar?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/417/is-tire-rotation-important",
+"title": "Is tire rotation important?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1410/jump-starting-a-dead-battery-connect-black-wire-to-negative-pole-of-battery-or",
+"title": "Jump starting a dead battery: Connect black wire to negative pole of battery or grounded metal?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/3772/keeping-an-old-car-alive",
+"title": "Keeping an old car alive?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/49916/leaving-car-for-3-weeks-change-oil-before-or-after",
+"title": "Leaving car for 3 weeks, change oil before or after?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/72145/leaving-car-in-lubbock-texas-for-1-month",
+"title": "Leaving car in Lubbock, Texas for 1 month",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/49902/leaving-car-with-automatic-transmission-in-neutral-instead-of-park",
+"title": "Leaving car with automatic transmission in Neutral instead of Park",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24494/ltft-and-stft-values-are-off-and-don-t-make-sense",
+"title": "LTFT and STFT values are off and don't make sense",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/9364/lugging-the-engine-manual-transmission",
+"title": "Lugging the Engine (Manual Transmission)",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/71262/maintenance-tips-to-prolong-engine-lifespan-for-short-trips",
+"title": "Maintenance tips to prolong engine lifespan for short trips",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/4136/manual-transmission-at-stop-1st-with-clutch-in-or-neutral-with-clutch-out-or-t",
+"title": "Manual transmission at stop: 1st with clutch in, or neutral with clutch out? -OR- Throwout Bearing wear",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/92332/mechanic-sent-me-this-image-and-said-my-brake-rotors-should-be-replaced-does-t",
+"title": "Mechanic sent me this image and said my brake rotors should be replaced. Does this seem right?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25816/multimeter-basic-functionality-and-howto",
+"title": "Multimeter - Basic Functionality and Howto",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/9124/must-i-replace-all-4-tires-on-an-all-wheel-drive-awd-vehicle",
+"title": "Must I Replace All 4 Tires on an All Wheel Drive (AWD) vehicle?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/52859/my-car-has-moisture-on-the-inside-of-the-glass-but-other-cars-do-not",
+"title": "My car has moisture on the inside of the glass but other cars do not",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/204/my-car-squeals-when-braking-even-though-i-ve-had-my-front-rotors-machined-and-",
+"title": "My Car Squeals When Braking Even Though I've Had My Front Rotors Machined and Back Rotors Replaced and all new brake pads. What could it be?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1340/my-car-s-coolant-temperature-reaches-almost-100-c-212-f-in-a-fast-pace",
+"title": "My car's coolant temperature reaches almost 100 C / 212 F in a fast pace",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/39183/need-i-press-clutch-pedal-while-starting-my-car-in-neutral",
+"title": "Need I press clutch pedal while starting my car in neutral?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/32020/normal-to-leave-nail-in-tire-after-a-flat",
+"title": "Normal to leave nail in tire after a flat?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/4298/oil-burning-smell-and-slow-oil-leak",
+"title": "Oil burning smell and slow oil leak",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/88314/park-marker-lamps-won-t-turn-off",
+"title": "Park/marker lamps won't turn off",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/38194/proper-oil-for-1940-s-era-aluminum-ford-engine",
+"title": "proper oil for 1940's era aluminum ford engine",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/17290/pros-and-cons-of-using-straight-antifreeze",
+"title": "Pros and cons of using straight antifreeze?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/312/pros-cons-of-higher-capacity-car-battery",
+"title": "Pros/cons of higher capacity car battery?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/19268/push-start-a-car-with-automatic-transmission",
+"title": "Push start a car with automatic transmission",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25752/replace-car-batteries-with-capacitors",
+"title": "Replace car batteries with capacitors?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/3307/rpm-and-duration-to-recharge-a-battery",
+"title": "RPM and duration to recharge a battery?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/3572/running-with-straight-water-as-coolant-in-the-summer-is-it-fine",
+"title": "Running with straight water as coolant in the summer. Is it fine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/18503/second-hand-car-engine-tyres-etc",
+"title": "Second hand car - Engine/Tyres/Etc",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/70219/seized-engine-due-to-being-run-without-oil",
+"title": "Seized engine due to being run without oil",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/27319/seized-nut-bolt-difficult-to-access",
+"title": "Seized nut & bolt - difficult to access",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/779/should-a-mechanical-click-torque-wrench-be-set-to-zero-when-not-in-use",
+"title": "Should a mechanical \"click\" Torque Wrench be set to zero when not in use?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/5164/should-i-change-my-tires-so-they-all-match",
+"title": "Should I change my tires so they all match?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/42847/should-i-depress-the-clutch-pedal-when-braking-to-a-stop",
+"title": "Should I depress the clutch pedal when braking to a stop?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24277/should-i-fill-my-tire",
+"title": "Should I fill my tire?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/72988/should-i-perform-my-first-oil-change-at-1000-miles-or-when-the-manual-says",
+"title": "Should I perform my first oil change at 1000 miles, or when the manual says?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/5521/should-i-pull-my-wipers-away-from-the-windshield-when-parked-during-a-winter-s",
+"title": "Should I pull my wipers away from the windshield when parked during a winter storm?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/61942/should-i-really-keep-my-gas-tank-at-least-half-full",
+"title": "Should I really keep my gas tank at least half full?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/29595/should-i-replace-fuses-as-a-part-of-regular-maintenance",
+"title": "Should I replace fuses as a part of regular maintenance?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/73/should-i-resurface-or-replace-my-rotors-everytime-i-replace-brake-pads",
+"title": "Should I resurface or replace my rotors everytime I replace brake pads?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/29953/should-i-use-gasoline-87-89-or-93-on-2016-rav4-se",
+"title": "Should I use gasoline 87, 89 or 93 on 2016 RAV4 SE",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1723/should-motorcyle-exhaust-headers-ever-glow-red-hot",
+"title": "Should motorcyle exhaust headers ever glow red hot",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24448/should-negative-trickle-charger-clips-be-attached-to-the-battery-negative-term",
+"title": "Should negative trickle charger clips be attached to the battery negative terminal, or ground?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/47887/small-amount-of-wrong-fuel-type-put-in-the-tank",
+"title": "Small amount of wrong fuel type put in the tank",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/29493/smart-and-effective-ways-to-light-up-a-garage-without-relying-on-power-outlets",
+"title": "Smart and effective ways to light up a garage without relying on power outlets?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/33048/spark-plug-broke-off-in-engine-can-i-drive-the-car",
+"title": "Spark plug broke off in engine - can I drive the car?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/31646/standard-practices-for-use-and-care-of-click-type-torque-wrenches",
+"title": "Standard Practices for Use and Care of Click-Type Torque Wrenches",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/29711/static-electric-shock-as-i-leave-the-car",
+"title": "Static electric shock as I leave the car",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/498/static-vs-effective-compression-why-does-higher-effective-compression-not-requ",
+"title": "Static vs. Effective compression: Why does higher effective compression not require higher octane gas?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/6445/steering-wheel-shakes-at-high-speeds",
+"title": "Steering wheel shakes at high speeds",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/45749/strange-metallic-stickers-on-rims-after-repair-shop-visit",
+"title": "Strange metallic stickers on rims after repair shop visit",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/27991/strange-overheating-behaviour",
+"title": "Strange overheating behaviour",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/4048/switching-from-reverse-to-drive-always-stop-completely",
+"title": "Switching from Reverse to Drive - always stop completely?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/732/symptoms-of-lean-or-rich-carb-settings-on-a-motorcycle",
+"title": "Symptoms of Lean or Rich carb settings on a motorcycle",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/2711/timing-chain-vs-timing-belt",
+"title": "Timing Chain vs. Timing Belt",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/49346/tire-blew-out-at-15k-miles-should-i-replace-just-one-tire-or-a-pair",
+"title": "Tire blew out at 15K miles, should I replace just one tire or a pair",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/71535/top-off-gas-with-old-oil-is-that-bad",
+"title": "Top off gas with old oil, is that bad?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/5739/use-of-neutral-gear-in-automatic-transmission",
+"title": "Use of Neutral Gear in Automatic Transmission",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/8298/using-a-car-with-an-inaccessible-negative-battery-terminal-to-jump-start",
+"title": "Using a car with an inaccessible negative battery terminal to jump start",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/35659/we-have-fuel-injection-why-not-air-injection",
+"title": "We have fuel injection, why not air injection?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24555/what-actually-happens-when-there-is-not-enough-oil-in-a-car-engine",
+"title": "What actually happens when there is not enough oil in a car engine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24679/what-actually-happens-when-there-is-way-too-much-oil-in-a-car-engine",
+"title": "What actually happens when there is way too much oil in a car engine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25972/what-are-the-advantages-disadvantages-of-a-boxer-engine",
+"title": "What are the Advantages & Disadvantages of a Boxer engine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/17393/what-are-the-advantages-of-a-single-side-swingarm-on-motorcycles",
+"title": "What are the Advantages of a Single Side SwingArm on Motorcycles?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24956/what-are-the-benefits-of-a-dry-sump",
+"title": "What are the benefits of a dry sump?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/846/what-are-the-benefits-of-low-profile-tires",
+"title": "What are the benefits of low profile tires?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/39/what-are-the-benefits-of-premium-high-octane-petrol",
+"title": "What are the benefits of premium (high octane) petrol?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/36847/what-are-the-differences-between-a-dual-mass-flywheel-and-a-standard-flywheel",
+"title": "What are the differences between a dual mass flywheel and a standard flywheel?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/68135/what-are-the-pros-and-cons-for-the-two-possible-gear-directions-when-parking-t",
+"title": "What are the pros and cons for the two possible \"gear directions\" when parking the car on a hill?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/930/what-are-the-risks-of-overfilling-a-small-engine-with-oil",
+"title": "What are the risks of overfilling a small engine with oil?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1934/what-are-the-tradeoffs-for-positive-vs-negative-ground",
+"title": "What are the tradeoffs for positive vs. negative ground?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/30037/what-are-these-loops-in-the-brake-line-for",
+"title": "What are these loops in the brake line for?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/39564/what-are-these-metal-clips-where-my-wheel-rims-meet-the-tires-and-what-are-the",
+"title": "What are these metal clips where my wheel rims meet the tires and what are they for?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/12910/what-can-cause-a-car-to-consume-more-fuel",
+"title": "What can cause a car to consume more fuel?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1313/what-can-cause-warped-rotors",
+"title": "What can cause warped rotors?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/35095/what-can-i-do-to-combat-wire-embrittlement",
+"title": "What can I do to combat wire embrittlement?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/37718/what-causes-a-20-difference-in-fuel-economy-between-winter-and-summer",
+"title": "What causes a 20% difference in fuel economy between winter and summer?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/12628/what-causes-an-engine-to-burn-oil",
+"title": "What causes an engine to burn oil?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/15120/what-causes-battery-terminal-corrosion",
+"title": "What causes battery terminal corrosion?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/11612/what-causes-brakes-to-pulsate-right-after-rotor-and-pad-replacement",
+"title": "What causes brakes to pulsate right after rotor and pad replacement?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/27366/what-color-should-the-spark-be-when-using-a-spark-tester",
+"title": "What Color Should the Spark Be When Using a Spark Tester?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/258/what-differences-between-synthetic-and-dino-oil",
+"title": "What differences between synthetic and dino oil?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/14544/what-disadvantages-a-car-with-4-speed-transmission-have-compared-to-5-6-or-7-s",
+"title": "What disadvantages a car with 4-speed transmission have compared to 5, 6 or 7 speed with similar engine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24566/what-does-a-flywheel-do-and-what-is-it-connected-to",
+"title": "What does a flywheel do and what is it connected to?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/29601/what-does-a-liter-class-engine-mean",
+"title": "What does a liter class engine mean?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/11315/what-does-a-water-like-drip-coming-out-of-the-exhaust-of-the-car-signify",
+"title": "What does a water-like drip coming out of the exhaust of the car signify?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/12763/what-does-honda-s-econ-button-do-does-it-truly-improve-fuel-efficiency",
+"title": "What does Honda's 'Econ' button do? Does it truly improve fuel efficiency?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/28724/what-does-it-mean-to-retard-an-engine",
+"title": "What does it mean to retard an engine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/27404/what-does-pie-cut-exhaust-mean",
+"title": "What does pie cut exhaust mean?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/6103/what-does-the-cc-mean-on-a-motorcycle",
+"title": "What does the 'cc' mean on a motorcycle?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24902/what-does-under-square-and-over-square-mean",
+"title": "What does under-square and over-square mean?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/37308/what-emergency-gear-and-tools-should-i-keep-in-my-vehicle",
+"title": "What emergency gear and tools should I keep in my vehicle?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24149/what-exactly-are-fuel-trims",
+"title": "What exactly are fuel trims?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/17944/what-exactly-is-a-burnt-valve-and-what-causes-it",
+"title": "What exactly is a \"burnt valve\" and what causes it?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/762/what-factors-affect-the-maximum-air-pressure-that-should-be-put-in-a-vehicle-s",
+"title": "What factors affect the maximum air pressure that should be put in a vehicle's tires?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/911/what-happens-if-a-single-spark-plug-unexpectedly-goes-down-in-a-multi-cylinder",
+"title": "What happens if a single spark plug unexpectedly goes down in a multi-cylinder engine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/32763/what-happens-if-i-change-the-oil-when-the-engine-is-cold",
+"title": "What happens if I change the oil when the engine is cold?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/9449/what-happens-if-you-put-the-wrong-kind-of-gas-in-your-car",
+"title": "What happens if you put the wrong kind of gas in your car?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1594/what-is-a-good-car-to-start-with-if-i-want-to-learn-auto-repair",
+"title": "What is a good car to start with if I want to learn auto repair?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/26384/what-is-a-leak-down-tester-and-what-can-i-do-with-it",
+"title": "What is a leak down tester and what can I do with it?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/21048/what-is-a-rod-knock",
+"title": "What is a rod knock?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24449/what-is-cold-tire-shearing",
+"title": "What is cold tire shearing?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/8134/what-is-difference-between-dohc-and-sohc",
+"title": "what is difference between DOHC and SOHC?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/7041/what-is-happening-when-a-two-stroke-engine-is-said-to-be-four-stroking",
+"title": "What is happening when a two-stroke engine is said to be \"four-stroking\"?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/28775/what-is-in-fossil-fuels-that-we-can-t-mass-produce",
+"title": "What is in fossil fuels that we can't mass produce?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/73841/what-is-most-fuel-efficient-at-130km-h",
+"title": "What is most fuel efficient at 130km/h?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/28742/what-is-my-friend-s-wife-not-telling-him-about-this-tire",
+"title": "What is my friend's wife not telling him (about this tire)?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24499/what-is-regenerative-braking-and-why-don-t-we-use-it",
+"title": "What is regenerative braking and why don't we use it?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/524/what-is-the-bcm-body-control-module-in-a-car",
+"title": "What is the BCM (Body Control Module) in a car?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/2519/what-is-the-best-way-to-prevent-my-doors-from-freezing-shut-in-the-winter",
+"title": "What is the best way to prevent my doors from freezing shut in the winter?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/330/what-is-the-best-way-to-remove-a-stuck-rusted-exhaust-bolt",
+"title": "What is the best way to remove a stuck/rusted exhaust bolt?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/17318/what-is-the-difference-between-a-180deg-v4-and-a-true-boxer-motor",
+"title": "What is the difference between a 180° V4 and a true boxer motor?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/718/what-is-the-difference-between-dot3-and-dot4-brake-fluids",
+"title": "what is the difference between DOT3 and DOT4 brake fluids?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/2013/what-is-the-difference-between-normal-platinum-iridium-plugs",
+"title": "What is the difference between normal, platinum, iridium plugs?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25238/what-is-the-most-efficient-method-of-getting-your-car-unstuck-from-snow",
+"title": "What is the most efficient method of getting your car unstuck from snow?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24872/what-is-the-motorcycle-equivalent-of-obd-ii",
+"title": "What is the motorcycle equivalent of OBD-II?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/31797/what-is-the-point-of-the-exhaust",
+"title": "What is the point of the exhaust?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/67/what-is-the-proper-way-to-bleed-brakes-and-replace-the-fluid",
+"title": "What is the proper way to bleed brakes and replace the fluid?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/4882/what-is-the-purpose-of-plastic-engine-covers",
+"title": "What is the purpose of plastic engine covers?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/41433/what-is-the-small-metal-square-attached-to-the-wheel-or-tire",
+"title": "What is the small metal square attached to the wheel or tire?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25049/what-makes-two-stroke-engines-less-fuel-efficient-than-four-strokes",
+"title": "What makes two-stroke engines less fuel-efficient than four-strokes?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25385/what-mechanical-action-is-heel-and-toe-clutchless-shifting-trying-to-accomplis",
+"title": "What mechanical action is heel and toe (clutchless) shifting trying to accomplish?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/26886/what-mechanical-revolution-is-measured-in-rpm",
+"title": "What mechanical revolution is measured in \"RPM\"?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24514/what-possible-causes-for-the-check-engine-light-can-i-check-for-myself",
+"title": "What possible causes for the \"check engine\" light can I check for myself?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/39014/what-should-always-be-replaced-when-rebuilding-an-engine",
+"title": "What should always be replaced when rebuilding an engine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/48168/what-tests-should-i-do-on-a-30-year-old-car-driven-1000-miles-per-year",
+"title": "what tests should I do on a 30 year old car driven 1,000 miles per year?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1463/what-to-check-when-buying-a-used-car",
+"title": "What to check when buying a used car?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1497/what-to-know-before-buying-and-obd-ii-reader",
+"title": "What to know before buying and OBD-II reader",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1718/what-would-be-the-most-likely-cause-of-engine-sputter",
+"title": "What would be the most likely cause of engine sputter?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/39007/what-s-the-best-gear-to-leave-a-manual-vehicle-in-when-parked",
+"title": "What's the best gear to leave a manual vehicle in when parked?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/26513/what-s-the-cause-of-diesels-typical-clatter-noise",
+"title": "What's the cause of Diesels' typical clatter noise?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/881/wheel-stuck-or-fused-to-drum",
+"title": "Wheel stuck or fused to drum",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/791/when-car-is-standing-still-i-smell-diesel-exhaust-why",
+"title": "When car is standing still, I smell Diesel exhaust. Why?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/6206/when-do-brake-rotors-really-need-to-be-replaced",
+"title": "When do brake rotors really need to be replaced?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24136/when-does-it-make-sense-to-replace-a-camshaft",
+"title": "When does it make sense to replace a camshaft?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/38032/when-is-an-engine-flush-a-good-idea",
+"title": "When is an engine flush a good idea?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/33776/when-the-handbrake-is-not-working-is-it-safe-to-fully-depend-on-putting-car-in",
+"title": "When the handbrake is not working, is it safe to fully depend on putting car into park instead?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/44862/where-does-the-power-in-an-idling-engine-go",
+"title": "Where does the power in an idling engine go?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/14813/why-almost-all-dirt-bikes-have-single-cylinder-engine",
+"title": "Why (almost) all dirt bikes have single cylinder engine?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24327/why-are-the-blades-of-car-radiator-fans-unevenly-spaced",
+"title": "Why are the blades of car radiator fans unevenly spaced?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/73040/why-are-these-wires-sticking-out-of-battery-terminal",
+"title": "Why are these wires sticking out of battery terminal?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/41265/why-are-wheels-labeled-r16-when-the-16-is-actually-the-diameter",
+"title": "Why are wheels labeled \"R16\" when the 16\" is actually the diameter?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/9022/why-check-oil-when-engine-is-at-operating-temperature",
+"title": "Why check oil when engine is at operating temperature?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/23962/why-did-ducati-decide-to-use-the-desmodromic-valve-train-rather-than-a-more-tr",
+"title": "Why did Ducati decide to use the desmodromic valve train rather than a more tradition valve train?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24778/why-do-5-and-6-speed-transmissions-typically-need-different-gear-ratios",
+"title": "Why do 5 and 6-speed transmissions typically need different gear ratios?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/47237/why-do-car-starter-motors-draw-so-much-current",
+"title": "Why do car starter motors draw so much current?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/38409/why-do-cars-die-after-removing-jumper-cables",
+"title": "Why do cars die after removing jumper cables?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24722/why-do-harley-davidson-engines-suffer-from-such-poor-performance",
+"title": "Why do Harley Davidson engines suffer from such poor performance?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/23865/why-do-heavy-vehicles-almost-always-use-diesel-engines",
+"title": "Why do heavy vehicles almost always use diesel engines?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/32567/why-do-internal-combustion-engines-have-specific-firing-orders",
+"title": "Why do Internal Combustion Engines have specific \"Firing Orders\"?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/40111/why-do-manufacturers-detune-engines",
+"title": "Why do manufacturers detune engines?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/9158/why-do-some-tuned-cars-have-very-inclined-tires",
+"title": "Why do some tuned cars have very inclined tires?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/80359/why-do-the-brakes-freeze-the-suspension",
+"title": "Why do the brakes \"freeze\" the suspension?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/14921/why-do-the-lights-flicker-when-i-accelerate",
+"title": "Why do the lights flicker when I accelerate?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/24755/why-do-two-stroke-engine-exhaust-pipes-look-so-strange",
+"title": "Why do two-stroke engine exhaust pipes look so strange?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/27282/why-do-tyres-go-flat-after-a-few-weeks-of-non-usage",
+"title": "Why do tyres go flat after a few weeks of non-usage?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/17490/why-do-we-need-to-cool-air-after-it-leaves-a-turbocharger",
+"title": "Why do we need to cool air after it leaves a turbocharger?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/2731/why-does-a-turbocharger-only-produce-boost-when-the-engine-is-under-load",
+"title": "Why does a Turbocharger only produce boost when the engine is under load?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/12752/why-does-an-engine-stall-manual-transmission",
+"title": "WHY does an engine stall? (manual transmission)",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/17808/why-does-diesel-engine-have-redline-much-lower-than-petrol-engine-redline",
+"title": "Why does diesel engine have redline much lower than petrol engine redline?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/15221/why-does-diesel-engine-need-a-warm-up-before-the-start-up",
+"title": "Why does diesel engine need a warm-up before the start-up?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/27595/why-does-gm-still-insist-on-push-rod-engines",
+"title": "Why does GM still insist on push rod engines?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/31521/why-does-stopping-and-starting-a-car-in-heavy-traffic-burn-more-fuel",
+"title": "Why does stopping and starting a car in heavy traffic burn more fuel?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/62812/why-does-the-rear-of-my-vehicle-sink-when-i-apply-the-handbrake-on-a-downward-",
+"title": "Why does the rear of my vehicle sink when I apply the handbrake on a downward gradient?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/477/why-does-the-reverse-gear-in-manual-transmission-cars-sound-different",
+"title": "Why does the reverse gear in manual transmission cars sound different",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/9037/why-doesn-t-anyone-ever-repair-an-automatic-transmission",
+"title": "Why doesn't anyone ever repair an automatic transmission?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/3942/why-doesn-t-the-engine-stall-out-when-you-come-to-a-stop-with-an-automatic-tra",
+"title": "Why doesn't the engine stall out when you come to a stop with an automatic transmission?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/48269/why-don-t-i-get-shocked-constantly",
+"title": "Why don't I get shocked constantly?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/57738/why-don-t-people-hand-pump-their-tires",
+"title": "Why don't people hand pump their tires?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/49367/why-don-t-we-rotate-tyres-but-you-rotate-tires",
+"title": "Why don't we rotate tyres but you rotate tires?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/29113/why-has-my-car-burnt-through-all-the-oil",
+"title": "Why has my car burnt through all the oil?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/39652/why-is-a-12v-outlet-that-provides-120w-protected-by-a-20a-fuse-in-my-2015-fore",
+"title": "Why is a 12V outlet that provides 120W protected by a 20A fuse in my 2015 Forester?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/2411/why-is-a-motorcycle-s-neutral-between-first-and-second-gears",
+"title": "Why is a motorcycle's neutral between first and second gears?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25041/why-is-a-w-16-called-well-w",
+"title": "Why is a W-16 called, well, W?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/38809/why-is-engine-displacement-frequently-a-few-ccs-below-an-exact-number",
+"title": "Why is engine displacement frequently a few CCs below an exact number?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/29524/why-is-gas-around-a-car-battery-only-at-risk-of-ignition-from-jumper-cables",
+"title": "Why is gas around a car battery only at risk of ignition from jumper cables?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/80388/why-is-it-sometimes-hard-to-engage-reverse-gear-in-a-manual-transmission",
+"title": "Why is it sometimes hard to engage reverse gear in a manual transmission?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/54713/why-is-my-car-equipped-with-a-battery-shutdown-timer",
+"title": "Why is my car equipped with a battery shutdown timer?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/820/why-is-my-motorcycle-losing-power-when-accelerating",
+"title": "Why is my motorcycle losing power when accelerating?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/14613/why-is-my-toyota-dashboard-shiny-and-sticky-and-how-do-i-clean-it",
+"title": "Why is my Toyota dashboard shiny and sticky, and how do I clean it?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/31863/why-is-the-speed-of-a-motorcycle-measured-at-the-front-wheel",
+"title": "Why is the speed of a motorcycle measured at the front wheel?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/43772/why-is-towing-a-manual-transmission-car-in-neutral-with-the-drive-wheels-on-th",
+"title": "Why is towing a manual transmission car, in neutral, with the drive wheels on the ground, considered safe?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1471/why-might-i-experience-a-power-falloff-after-starting-my-car-with-the-ac-on",
+"title": "Why might I experience a power falloff after starting my car with the AC On?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/32431/why-nitrogen-and-not-carbon-dioxide-is-used-in-critical-tire-applications",
+"title": "Why nitrogen and not carbon dioxide is used in critical tire applications?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/5382/why-no-alternate-hand-cranked-spring-loaded-starter-for-a-car",
+"title": "Why no alternate (hand-cranked, spring-loaded) starter for a car?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/19605/why-not-use-gasoline-on-diesel-engines-or-vice-versa",
+"title": "Why not use gasoline on diesel engines or vice versa?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/64583/why-one-should-not-leave-fingerprints-on-bulbs-and-plugs",
+"title": "Why one should not leave fingerprints on bulbs and plugs?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25328/why-or-why-not-increase-engine-efficiency-by-running-the-car-fuel-lean-using-a",
+"title": "Why or why not increase engine efficiency by running the car \"fuel-lean\" (using a turbo or supercharger)?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/69288/why-put-copper-in-between-battery-contacts-and-clamps",
+"title": "Why put copper in between battery contacts and clamps?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/15546/why-should-i-connect-the-red-positive-terminal-first-when-jump-starting",
+"title": "Why should I connect the red/positive terminal first when jump starting?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/5129/why-should-the-fuel-petcock-valve-be-turned-to-off-position-when-not-using-the",
+"title": "Why should the fuel petcock valve be turned to “Off” position when not using the vehicle?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/36308/why-smaller-engines-on-newer-vehicles",
+"title": "Why smaller engines on newer vehicles",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/63699/why-use-snow-tires-on-all-4-wheels-on-2-wheel-drive-cars",
+"title": "Why use snow tires on all 4 wheels on 2-wheel-drive cars?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/803/why-would-a-new-gas-cap-cause-the-check-engine-light-to-shut-off",
+"title": "Why would a new gas cap cause the \"check engine\" light to shut off?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/32479/why-would-i-want-to-measure-torque-while-loosening-a-bolt-or-nut",
+"title": "Why would I want to measure torque while loosening a bolt or nut?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/43194/will-fitting-a-physically-bigger-battery-reduce-the-working-life-of-the-altern",
+"title": "Will fitting a physically bigger battery reduce the working life of the alternator?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25223/will-having-a-radiator-full-of-engine-oil-do-damage-to-the-motor",
+"title": "Will having a radiator full of engine oil do damage to the motor?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/1494/will-higher-octane-fuel-improve-gas-mileage",
+"title": "Will higher octane fuel improve gas mileage?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/28060/will-higher-octane-fuel-improve-towing-power",
+"title": "Will higher octane fuel improve towing power?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/2914/will-putting-an-extra-quart-of-oil-in-my-car-ruin-it",
+"title": "Will Putting An Extra Quart of Oil In My Car Ruin It?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/797/will-snow-tire-studs-get-rusty-if-a-tire-is-washed-before-putting-to-storage",
+"title": "Will snow tire studs get rusty if a tire is washed before putting to storage?",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/39702/winter-tires-and-summer-tires",
+"title": "Winter tires and summer tires",
+"category": "mechanical-vehicles"
+},
+{
+"path": "questions/25365/yamaha-r1-intake-tract-configuration",
+"title": "Yamaha R1 intake tract configuration",
+"category": "mechanical-vehicles"
+}
+]
+}

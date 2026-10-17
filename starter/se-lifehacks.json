@@ -1,0 +1,510 @@
+{
+"pack": "se-lifehacks",
+"kind": "stackexchange",
+"title": "Stack Exchange - lifehacks",
+"about": "Top-voted questions with their best answers from lifehacks.stackexchange.com.",
+"archive": "se-lifehacks",
+"made": "2026-10-17",
+"items": [
+{
+"path": "questions/5467/find-out-if-an-egg-is-boiled-or-not-without-cracking-it",
+"title": "Find out if an egg is boiled or not without cracking it",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/10622/how-can-i-eat-my-bagel-when-i-lack-a-knife-to-cut-it",
+"title": "How can I eat my bagel when I lack a knife to cut it?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/6706/how-can-i-get-rid-of-the-tiny-fish-bone-stuck-in-my-throat-upon-eating-fish",
+"title": "How can I get rid of the tiny fish-bone stuck in my throat upon eating fish?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/1550/how-can-i-remove-the-cork-from-a-wine-bottle-when-i-don-t-have-a-corkscrew",
+"title": "How can I remove the cork from a wine bottle when I don't have a corkscrew?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/416/how-can-i-tell-if-an-egg-has-gone-bad-without-cracking-it-open",
+"title": "How can I tell if an egg has gone bad without cracking it open?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/60/how-do-i-fill-a-hot-water-urn-that-doesn-t-fit-in-the-sink",
+"title": "How do I fill a hot water urn that doesn't fit in the sink?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/335/how-to-counteract-the-burning-sensation-after-eating-spicy-food",
+"title": "How to counteract the burning sensation after eating spicy food?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/7178/how-to-eat-loud-food-chips-celery-quietly",
+"title": "How to eat loud food (chips, celery) quietly",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/5610/how-to-keep-bread-fresher-for-longer",
+"title": "How to keep bread fresher for longer",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/10716/how-to-peel-an-orange",
+"title": "How to peel an orange?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/234/how-to-remove-a-hard-boiled-egg-s-shell-quickly-by-hand-without-damaging-the-e",
+"title": "How to remove a hard boiled egg's shell quickly, by hand, without damaging the egg?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/7919/quick-and-dirty-substitute-for-cream-in-coffee",
+"title": "Quick and dirty substitute for cream in coffee?",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/141/tricks-for-opening-very-tight-jars",
+"title": "Tricks for opening very tight jars",
+"category": "food-storage-preservation"
+},
+{
+"path": "questions/9653/best-law-abiding-ways-to-inconvenience-cold-callers",
+"title": "Best (law-abiding) ways to inconvenience cold callers?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/166/cleaning-a-dirty-computer-screen",
+"title": "Cleaning a dirty computer screen",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/1/how-can-i-better-clean-headphones-that-sit-inside-the-ear",
+"title": "How can I better clean headphones that sit inside the ear?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/6/how-can-i-clean-my-sticky-keyboard",
+"title": "How can I clean my sticky keyboard?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/2022/how-can-i-fill-the-house-with-a-pleasant-smell-at-the-last-minute",
+"title": "How can I fill the house with a pleasant smell at the last minute?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/1649/how-can-i-get-the-smell-of-garlic-off-my-hands",
+"title": "How can I get the smell of garlic off my hands?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/1827/how-can-i-neatly-eat-messy-food-without-common-utensils",
+"title": "How can I neatly eat messy food without \"common\" utensils?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/7149/how-can-i-remove-ants-from-my-laptop-keyboard",
+"title": "How can I remove ants from my laptop keyboard?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/7454/how-do-i-find-and-kill-a-single-mosquito-in-the-middle-of-the-night",
+"title": "How do I find and kill a single mosquito in the middle of the night?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/14477/how-do-i-get-the-last-lines-of-dust-into-the-dustpan",
+"title": "How do I get the last lines of dust into the dustpan?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/2496/how-do-i-remove-hairs-from-a-caster-wheel-on-a-roller-chair",
+"title": "How do I remove hairs from a caster wheel on a roller chair?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/6380/how-does-one-efficiently-clean-up-hair-from-sink-after-shaving-or-trimming-bea",
+"title": "How does one efficiently clean up hair from sink after shaving or trimming beard?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/98/how-to-clean-blood-from-white-clothes",
+"title": "How to clean blood from white clothes",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/2409/how-to-clean-crevices-of-electronics-without-compressed-air",
+"title": "How to clean crevices of electronics without compressed air?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/6303/how-to-clean-inside-of-straw",
+"title": "How to clean inside of straw",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/51/how-to-clean-out-a-peanut-butter-jar-for-recycling",
+"title": "How to clean out a peanut butter jar for recycling?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/1861/how-to-get-cat-urine-smell-out-of-wooden-floors",
+"title": "How to get cat urine smell out of wooden floors?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/19640/how-to-get-rid-of-bedbugs",
+"title": "How to get rid of Bedbugs?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/9239/how-to-remove-really-old-masking-tape",
+"title": "How to remove really old masking tape?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/7345/how-to-remove-smell-from-a-new-water-bottle",
+"title": "How to remove smell from a new water bottle?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/1798/is-there-any-way-to-kill-a-fly-without-a-flyswatter",
+"title": "Is there any way to kill a fly without a flyswatter?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/17/permanent-marker-on-a-dry-erase-board",
+"title": "Permanent marker on a dry erase board?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/5711/removing-rust-from-tools",
+"title": "Removing rust from tools",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/66/what-is-the-best-way-to-get-rid-of-steam-on-a-mirror",
+"title": "What is the best way to get rid of steam on a mirror?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/5970/what-is-the-best-way-to-recondition-a-whiteboard",
+"title": "What is the best way to recondition a whiteboard?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/4371/which-is-the-best-lure-to-use-on-a-mousetrap",
+"title": "Which is the best lure to use on a mousetrap?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/9484/adding-a-belt-hole-without-a-leather-punch",
+"title": "Adding a belt hole without a leather punch",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/9904/best-way-to-know-if-somebody-has-broken-into-my-room-without-camera",
+"title": "Best way to know if somebody has broken into my room without camera",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/24843/changing-pants-in-office-bathroom",
+"title": "Changing pants in office bathroom",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6939/comfortable-ways-of-riding-a-bike-barefoot",
+"title": "Comfortable Ways of Riding a Bike Barefoot",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2136/how-can-i-wear-in-my-shoes-without-wearing-them",
+"title": "How can I \"wear in\" my shoes without wearing them?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/139/how-can-i-painlessly-add-or-remove-keys-to-my-key-ring",
+"title": "How can I (painlessly) add or remove keys to my key ring?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/281/how-can-i-avoid-getting-static-shocks-in-the-winter",
+"title": "How can I avoid getting static shocks in the winter?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2129/how-can-i-avoid-hurting-my-fingers-when-using-a-hammer",
+"title": "How can I avoid hurting my fingers when using a hammer",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/15170/how-can-i-black-out-a-bright-bedroom-at-night",
+"title": "How can I black out a bright bedroom at night?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/11242/how-can-i-destroy-sensitive-documents-without-a-paper-shredder",
+"title": "How can I destroy sensitive documents without a paper shredder?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5853/how-can-i-effectively-black-out-my-room-for-sleeping-cheaply-and-such-that-i-c",
+"title": "How can I effectively black out my room for sleeping, cheaply and such that I can still open the curtains during the day?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6098/how-can-i-get-food-unstuck-from-my-teeth-while-at-work",
+"title": "How can I get food unstuck from my teeth while at work?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10767/how-can-i-humidify-a-room-without-a-humidifier",
+"title": "How can I humidify a room without a humidifier?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5674/how-can-i-improvise-a-magnifying-glass",
+"title": "How can I improvise a magnifying glass?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2107/how-can-i-quickly-cool-a-water-bottle",
+"title": "How can I quickly cool a water bottle?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4/how-can-i-safely-trim-my-fingernails-without-a-fingernail-clipper",
+"title": "How can I safely trim my fingernails without a fingernail clipper?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10963/how-can-i-scratch-lottery-tickets",
+"title": "How can I scratch lottery tickets?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/22791/how-can-i-swallow-pills-more-easily",
+"title": "How can I swallow pills more easily?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10756/how-can-i-wear-my-headset-and-glasses-in-a-way-that-doesn-t-hurt",
+"title": "How can I wear my headset and glasses in a way that doesn't hurt?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1529/how-can-you-get-your-car-as-cool-as-possible-on-a-hot-summer-day-without-air-c",
+"title": "How can you get your car as cool as possible on a hot summer day without air conditioning?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/24867/how-can-you-stop-sweat-from-running-into-your-eyes-while-at-work-in-40-degree-",
+"title": "How can you stop sweat from running into your eyes while at work in 40+ degree Celsius weather?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/425/how-do-i-securely-tie-my-shoes",
+"title": "How do I securely tie my shoes?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6613/how-do-i-stop-cars-from-tailgating",
+"title": "How do I stop cars from tailgating?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/20260/how-do-you-remember-which-shirt-you-wore-on-the-previous-date",
+"title": "How do you remember which shirt you wore on the previous date?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1901/how-do-you-test-if-batteries-are-good",
+"title": "How do you test if batteries are good?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/20951/how-does-a-blind-passenger-not-die-if-driver-becomes-unconscious",
+"title": "How does a blind passenger not die, if driver becomes unconscious",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4061/how-should-i-store-super-glue-to-prevent-it-from-drying-out",
+"title": "How should I store super glue to prevent it from drying out?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/18957/how-to-break-a-2x1-meter-glass-in-a-safe-and-handy-way",
+"title": "How to break a 2x1 meter glass in a safe and handy way?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4242/how-to-cut-paper-without-scissors",
+"title": "How to cut paper without scissors?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6175/how-to-jump-start-a-car-without-another-car",
+"title": "How to jump start a car without another car",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/104/how-to-keep-the-windshield-from-freezing-over",
+"title": "How to keep the windshield from freezing over?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1694/how-to-keep-your-hands-warm-in-winter-while-working-on-a-laptop",
+"title": "How to keep your hands warm in winter while working on a laptop?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2429/how-to-make-my-batteries-work-for-a-short-time-one-last-time",
+"title": "How to make my batteries work for a short time, one last time",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/23260/how-to-press-a-touch-sensitive-elevator-button-without-touching-it",
+"title": "How to press a touch sensitive elevator button without touching it",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2342/how-to-quickly-cool-off-a-room-without-a-fan",
+"title": "How to quickly cool off a room without a fan?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6028/how-to-remove-creases-from-my-shirts-without-ironing",
+"title": "How to remove creases from my shirts without ironing?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/194/how-to-remove-screws-with-stripped-heads",
+"title": "How to remove screws with stripped heads?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1862/how-to-seal-envelopes-without-licking",
+"title": "How to seal envelopes without licking",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4117/how-to-shred-papers-letters-without-using-a-shredder-machine",
+"title": "How to shred papers/letters without using a shredder machine",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6229/how-to-sleep-with-a-stuffy-blocked-nose",
+"title": "How to sleep with a stuffy / blocked nose?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3937/how-to-start-fire-with-wet-fire-wood-after-it-has-been-raining-or-snowing",
+"title": "How to start fire with wet fire wood after it has been raining or snowing",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/9365/how-to-stop-shoes-from-squeaking-on-hard-floors",
+"title": "How to stop shoes from squeaking on hard floors?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6540/how-to-wake-up-without-waking-up-other-people-in-the-same-room",
+"title": "How to wake up without waking up other people in the same room?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2601/how-to-walk-through-deep-snow-at-a-faster-pace-and-keep-feet-legs-dry-as-possi",
+"title": "How to walk through deep snow at a faster pace and keep feet/legs dry as possible?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1714/i-forgot-my-toothpaste-and-it-is-impossible-to-buy-in-this-situation-are-there",
+"title": "I forgot my toothpaste and it is impossible to buy in this situation, are there any substitutes?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/19724/i-lost-my-closet-key-how-to-open-it",
+"title": "I lost my closet key, how to open it?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/422/is-there-a-way-to-erase-pencil-without-a-standard-eraser",
+"title": "Is there a way to erase pencil without a standard eraser?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1673/is-there-any-way-to-fill-in-a-hole-in-my-shoe-so-it-is-waterproof",
+"title": "Is there any way to fill in a hole in my shoe - so it is waterproof?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/7200/sleeping-in-a-noisy-environment",
+"title": "Sleeping in a noisy environment",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/12239/someone-locked-their-bike-to-mine-now-what",
+"title": "Someone locked their bike to mine - now what?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6758/stop-car-doors-from-slamming-against-wall-inside-my-garage",
+"title": "Stop car doors from slamming against wall inside my garage",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/7388/stop-keyboard-wobble-due-to-uneven-desk",
+"title": "Stop keyboard wobble due to uneven desk",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1754/what-can-be-used-in-place-of-a-mousepad",
+"title": "What can be used in place of a mousepad?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3777/what-hack-can-i-use-to-find-a-small-screw-that-falls-in-the-floor",
+"title": "What hack can I use to find a small screw that falls in the floor?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/9614/what-is-a-good-way-to-organise-and-identify-keys-on-a-keyring",
+"title": "What is a good way to organise and identify keys on a keyring?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/138/what-is-the-best-way-to-light-a-hard-to-reach-candle-wick-without-burning-your",
+"title": "What is the best way to light a hard-to-reach candle wick without burning your finger?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/22/what-is-the-best-way-to-open-clamshell-packaging",
+"title": "What is the best way to open clamshell packaging?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/85/what-is-the-quickest-way-to-defog-car-windows",
+"title": "What is the quickest way to defog car windows?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1578/what-s-the-best-way-to-keep-your-shirt-tucked-in",
+"title": "What's the best way to keep your shirt tucked in?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/17467/where-to-put-used-but-usable-clothes-a-k-a-alternative-to-the-chair",
+"title": "Where to put used-but-usable clothes (a.k.a. alternative to \"The Chair\")?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/123/eow-can-i-keep-my-jeans-zippers-from-unzipping-on-their-own",
+"title": "Ηow can I keep my jeans' zippers from unzipping on their own?",
+"category": "tools-crafts-skills"
+}
+]
+}

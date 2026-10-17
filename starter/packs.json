@@ -1,0 +1,159 @@
+{
+ "made": "2026-10-17",
+ "packs": [
+  {
+   "pack": "wikipedia",
+   "kind": "wikipedia",
+   "title": "Wikipedia articles",
+   "archive": null,
+   "items": 2359
+  },
+  {
+   "pack": "appropedia",
+   "kind": "zim",
+   "title": "Appropedia (appropriate technology, DIY)",
+   "archive": "appropedia",
+   "items": 1034
+  },
+  {
+   "pack": "energypedia",
+   "kind": "zim",
+   "title": "energypedia (off-grid energy)",
+   "archive": "energypedia",
+   "items": 171
+  },
+  {
+   "pack": "ifixit",
+   "kind": "zim",
+   "title": "iFixit repair guides",
+   "archive": "ifixit",
+   "items": 4491
+  },
+  {
+   "pack": "medlineplus",
+   "kind": "zim",
+   "title": "MedlinePlus (US National Library of Medicine)",
+   "archive": "medlineplus",
+   "items": 1270
+  },
+  {
+   "pack": "nhs",
+   "kind": "zim",
+   "title": "NHS Medicines (UK)",
+   "archive": "nhs",
+   "items": 154
+  },
+  {
+   "pack": "wikem",
+   "kind": "zim",
+   "title": "WikEM (emergency medicine)",
+   "archive": "wikem",
+   "items": 545
+  },
+  {
+   "pack": "wikibooks",
+   "kind": "zim",
+   "title": "Wikibooks (text only)",
+   "archive": "wikibooks",
+   "items": 61
+  },
+  {
+   "pack": "se-diy",
+   "kind": "stackexchange",
+   "title": "Stack Exchange - diy",
+   "archive": "se-diy",
+   "items": 700
+  },
+  {
+   "pack": "se-gardening",
+   "kind": "stackexchange",
+   "title": "Stack Exchange - gardening",
+   "archive": "se-gardening",
+   "items": 499
+  },
+  {
+   "pack": "se-mechanics",
+   "kind": "stackexchange",
+   "title": "Stack Exchange - mechanics",
+   "archive": "se-mechanics",
+   "items": 398
+  },
+  {
+   "pack": "se-bicycles",
+   "kind": "stackexchange",
+   "title": "Stack Exchange - bicycles",
+   "archive": "se-bicycles",
+   "items": 350
+  },
+  {
+   "pack": "se-cooking",
+   "kind": "stackexchange",
+   "title": "Stack Exchange - cooking",
+   "archive": "se-cooking",
+   "items": 500
+  },
+  {
+   "pack": "se-outdoors",
+   "kind": "stackexchange",
+   "title": "Stack Exchange - outdoors",
+   "archive": "se-outdoors",
+   "items": 500
+  },
+  {
+   "pack": "se-woodworking",
+   "kind": "stackexchange",
+   "title": "Stack Exchange - woodworking",
+   "archive": "se-woodworking",
+   "items": 250
+  },
+  {
+   "pack": "se-pets",
+   "kind": "stackexchange",
+   "title": "Stack Exchange - pets",
+   "archive": "se-pets",
+   "items": 150
+  },
+  {
+   "pack": "se-ham",
+   "kind": "stackexchange",
+   "title": "Stack Exchange - ham",
+   "archive": "se-ham",
+   "items": 298
+  },
+  {
+   "pack": "se-homebrew",
+   "kind": "stackexchange",
+   "title": "Stack Exchange - homebrew",
+   "archive": "se-homebrew",
+   "items": 199
+  },
+  {
+   "pack": "se-sustainability",
+   "kind": "stackexchange",
+   "title": "Stack Exchange - sustainability",
+   "archive": "se-sustainability",
+   "items": 200
+  },
+  {
+   "pack": "se-crafts",
+   "kind": "stackexchange",
+   "title": "Stack Exchange - crafts",
+   "archive": "se-crafts",
+   "items": 120
+  },
+  {
+   "pack": "se-lifehacks",
+   "kind": "stackexchange",
+   "title": "Stack Exchange - lifehacks",
+   "archive": "se-lifehacks",
+   "items": 100
+  },
+  {
+   "pack": "web",
+   "kind": "web",
+   "title": "Web pages & PDFs (public sites)",
+   "archive": null,
+   "items": 929
+  }
+ ]
+}

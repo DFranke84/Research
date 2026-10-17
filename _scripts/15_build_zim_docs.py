@@ -1,6 +1,6 @@
 """Build library files from the additional Kiwix archives in _sources/zim.
 
-Selections are made per source by 16_select_<source>.py (or by hand) and saved as
+A selection is a starter pack (starter/<source>.json, built by build_starter.py) or a hand-made file
 _work/zimsel_<source>.json: a list of documents
     {"key": unique id, "title": str, "category": folder, "paths": [ZIM entry paths, in order],
      "source_url": str, "extra": {optional front-matter fields}}
@@ -14,18 +14,19 @@ sys.path.insert(0, os.path.dirname(__file__))
 from libzim.reader import Archive
 from common import RESEARCH, TODAY, cat_dir, front_matter, slugify, SlugRegistry
 from zimlib import article_md, save_article_images
+from archives import SE_SITES, need
 
 W = os.path.join(RESEARCH, "_work")
 Z = os.path.join(RESEARCH, "_sources", "zim")
 
 # Per-source settings. root/drop are CSS selectors for the page's main content and junk to strip.
 SOURCES = {
-    "nhs": dict(zim="nhs.uk_en_medicines_2026-09b.zim", source_type="web-page", publisher="NHS (UK National Health Service)",
+    "nhs": dict(source_type="web-page", publisher="NHS (UK National Health Service)",
                 license="Open Government Licence v3.0 (Crown copyright)", root="main",
                 drop=[".nhsuk-breadcrumb", ".nhsuk-review-date", ".nhsuk-related-nav", ".nhsuk-contents-list",
                       ".nhsuk-pagination", ".app-page-feedback", ".beta-hub-related-links", "nav"],
                 images=0),
-    "medlineplus": dict(zim="medlineplus.gov_en_all_2025-01.zim", source_type="web-page",
+    "medlineplus": dict(source_type="web-page",
                         publisher="MedlinePlus (U.S. National Library of Medicine)",
                         license="Public Domain (US Government work) unless a page credits another copyright holder",
                         root="#mplus-content, #d-article, article, main",
@@ -34,25 +35,22 @@ SOURCES = {
                               ".ency-refs", "#section-References", "#section-Patient-Instructions", "#breadcrumbs", ".page-url",
                               "#citation-how-to", ".ency-citation"],
                         images=6),
-    "appropedia": dict(zim="appropedia_en_all_maxi_2026-02.zim", source_type="wiki-article", publisher="Appropedia",
+    "appropedia": dict(source_type="wiki-article", publisher="Appropedia",
                        license="CC BY-SA 4.0 (Appropedia contributors) unless the page states otherwise", root=None, drop=[".template-databox"],
                        images=20),
-    "energypedia": dict(zim="energypedia_en_all_maxi_2026-06.zim", source_type="wiki-article", publisher="energypedia",
+    "energypedia": dict(source_type="wiki-article", publisher="energypedia",
                         license="CC BY-SA 4.0 (energypedia contributors)", root=None, drop=[], images=20),
-    "wikem": dict(zim="wikem_en_all_maxi_2026-07.zim", source_type="wiki-article", publisher="WikEM",
+    "wikem": dict(source_type="wiki-article", publisher="WikEM",
                   license="CC BY-SA 3.0 (WikEM contributors)", root=None, drop=[], images=10),
-    "wikibooks": dict(zim="wikibooks_en_all_nopic_2026-04.zim", source_type="wiki-book", publisher="Wikibooks",
+    "wikibooks": dict(source_type="wiki-book", publisher="Wikibooks",
                       license="CC BY-SA 4.0 (Wikibooks contributors)", root=None, drop=[], images=0),
-    "ifixit": dict(zim="ifixit_en_all_2025-12.zim", source_type="repair-guide", publisher="iFixit",
+    "ifixit": dict(source_type="repair-guide", publisher="iFixit",
                    license="CC BY-NC-SA 3.0 (iFixit contributors; author named in the guide)", root="#mainBody, #main, body",
                    drop=["nav", "footer", "header", "#comments", ".comments", "#banner", ".banner-content"],
                    images=12),
 }
-SE_SITES = ["diy", "gardening", "mechanics", "bicycles", "cooking", "outdoors", "woodworking", "pets", "ham",
-            "homebrew", "sustainability", "crafts", "lifehacks"]
 for s in SE_SITES:
-    date = "2026-07" if s in ("cooking", "crafts") else "2026-08"
-    SOURCES["se-" + s] = dict(zim=f"{s}.stackexchange.com_en_all_{date}.zim", source_type="q-and-a",
+    SOURCES["se-" + s] = dict(source_type="q-and-a",
                               publisher=f"Stack Exchange - {s}.stackexchange.com",
                               license="CC BY-SA 4.0 (Stack Exchange contributors; attribution required)",
                               root="#mainbar, main, #content, body", drop=[".js-post-menu", ".post-signature .user-gravatar32", "form", ".bottom-notice", "#sidebar", "nav", "footer", "header"],
@@ -73,11 +71,14 @@ def drop_empty_sections(text):
     return re.sub(r"\n{3,}", "\n\n", "\n".join(l for l, k in zip(lines, keep) if k)).strip()
 
 
-def build(source):
+def build(source, docs=None):
+    """docs: the documents to build (default: _work/zimsel_<source>.json) - Build Starter Library passes a pack's items."""
     cfg = SOURCES[source]
-    zpath = os.path.join(Z, cfg["zim"])
+    zpath = need(source)   # the newest copy of this archive in _sources\zim
+    os.makedirs(W, exist_ok=True)
     z = Archive(zpath)
-    docs = json.load(open(os.path.join(W, f"zimsel_{source}.json"), encoding="utf-8"))
+    if docs is None:
+        docs = json.load(open(os.path.join(W, f"zimsel_{source}.json"), encoding="utf-8"))
     built_file = os.path.join(W, f"built_zim_{source}.json")
     built = json.load(open(built_file, encoding="utf-8")) if os.path.exists(built_file) else []
     done = {b["key"] for b in built}
@@ -129,7 +130,7 @@ def build(source):
             skipped += 1
             continue
         meta = {"title": d["title"], "category": cat, "source_type": cfg["source_type"], "publisher": cfg["publisher"],
-                "source_url": d["source_url"], "retrieved_from": f"Kiwix ZIM {cfg['zim']}", "license": cfg["license"]}
+                "source_url": d["source_url"], "retrieved_from": f"Kiwix ZIM {os.path.basename(zpath)}", "license": cfg["license"]}
         meta.update(d.get("extra") or {})
         meta.update({"images": imgs or None, "words": len(text.split()), "compiled": TODAY})
         head = f"# {d['title']}\n\n**Source:** {cfg['publisher']} - <{d['source_url']}>  \n**License:** {meta['license']}\n\n"

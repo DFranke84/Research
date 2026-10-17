@@ -1,14 +1,21 @@
-"""Shared helpers for reading the offline Wikipedia ZIM."""
-import json, re
-from urllib.parse import unquote
+"""Shared helpers for reading Wikipedia: the offline ZIM if the library has one, otherwise wikipedia.org itself."""
+import glob, json, re, time
+from urllib.parse import quote, unquote
 from libzim.reader import Archive
 from bs4 import BeautifulSoup
 
 import os
-_NAME = "wikipedia_en_all_maxi_2026-08.zim"
-# the library's own copy: <library>\_sources\zim (found relative to this script, so the library can move)
-ZIM_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "_sources", "zim", _NAME)
-ZIM_DATE = "2026-08-25"
+# the library's own copy: <library>\_sources\zim (found relative to this script, so the library can move).
+# Any English Wikipedia archive works (maxi / nopic / mini, any date); the newest one is used.
+_ZIM_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "_sources", "zim")
+_found = sorted(glob.glob(os.path.join(_ZIM_DIR, "wikipedia_en_all_*.zim")), key=lambda p: re.findall(r"\d{4}-\d{2}", p)[-1:])
+ZIM_PATH = _found[-1] if _found else None
+ZIM_DATE = time.strftime("%Y-%m-%d")
+if ZIM_PATH:
+    _d = re.findall(r"\d{4}-\d{2}", os.path.basename(ZIM_PATH))
+    ZIM_DATE = _d[-1] if _d else ZIM_DATE
+# what goes in a page's 'retrieved_from' line
+SOURCE_LABEL = f"Kiwix ZIM {os.path.basename(ZIM_PATH)} (snapshot {ZIM_DATE})" if ZIM_PATH else f"wikipedia.org (fetched {ZIM_DATE})"
 _zim = None
 
 MAINT_RE = re.compile(
@@ -23,8 +30,90 @@ MAINT_RE = re.compile(
 def zim():
     global _zim
     if _zim is None:
-        _zim = Archive(ZIM_PATH)
+        _zim = Archive(ZIM_PATH) if ZIM_PATH else WebWikipedia()
     return _zim
+
+
+class _Item:
+    def __init__(self, content, mimetype):
+        self.content, self.mimetype = content, mimetype
+
+
+class _WebEntry:
+    is_redirect = False
+
+    def __init__(self, web, title, rev, cats):
+        self.web, self.title, self.path, self.rev, self.cats = web, title, title.replace(" ", "_"), rev, cats
+        self._item = None
+
+    def get_item(self):
+        if self._item is None:
+            html = self.web.get(f"https://en.wikipedia.org/api/rest_v1/page/html/{quote(self.path, safe='')}").text
+            soup = BeautifulSoup(html, "lxml")
+            for img in soup.find_all("img"):   # pictures are fetched only when article_md keeps them
+                src = img.get("src", "")
+                if src and not src.startswith("data:"):
+                    self.web.images.append("https:" + src if src.startswith("//") else src)
+                    img["src"] = f"/__img__/{len(self.web.images) - 1}/{src.split('?')[0].rsplit('/', 1)[-1]}"
+            # the same page details the ZIM pages carry (read by page_meta: revision, categories)
+            conf = soup.new_tag("script")
+            conf.string = "RLCONF = " + json.dumps({"wgCurRevisionId": self.rev, "wgCategories": self.cats}) + ";\n"
+            (soup.head or soup).append(conf)
+            self._item = _Item(str(soup).encode("utf-8"), "text/html")
+        return self._item
+
+
+class WebWikipedia:
+    """Stands in for the Wikipedia ZIM when the library has none: same calls (get_entry_by_path / _by_title),
+    answered from wikipedia.org's public API. Slow and polite: one request at a time."""
+    UA = "ResearchLibrary-starter/1.0 (personal offline library builder; python-requests)"
+
+    def __init__(self):
+        import requests
+        self.s = requests.Session()
+        self.s.headers["User-Agent"] = self.UA
+        self.images = []
+
+    def get(self, url, **kw):
+        for attempt in range(4):
+            try:
+                r = self.s.get(url, timeout=60, **kw)
+                if r.status_code == 429 or r.status_code >= 500:
+                    raise IOError(f"HTTP {r.status_code}")
+                return r
+            except Exception:
+                if attempt == 3:
+                    raise
+                time.sleep(5 * (attempt + 1))
+
+    def get_entry_by_path(self, path):
+        m = re.match(r"/__img__/(\d+)/", path)
+        if m:
+            r = self.get(self.images[int(m.group(1))])
+            if r.status_code != 200:
+                raise KeyError(path)
+            return _WebEntry_Image(r)
+        return self.get_entry_by_title(path)
+
+    def get_entry_by_title(self, title):
+        r = self.get("https://en.wikipedia.org/w/api.php", params={
+            "action": "query", "titles": title.replace("_", " "), "redirects": 1, "prop": "info|categories",
+            "clshow": "!hidden", "cllimit": "max", "format": "json", "formatversion": 2}).json()
+        page = (r.get("query", {}).get("pages") or [{}])[0]
+        if page.get("missing") or page.get("invalid") or "title" not in page:
+            raise KeyError(title)
+        cats = [c["title"].split(":", 1)[1] for c in page.get("categories", [])]
+        return _WebEntry(self, page["title"], page.get("lastrevid"), cats)
+
+
+class _WebEntry_Image:
+    is_redirect = False
+
+    def __init__(self, r):
+        self._item = _Item(r.content, r.headers.get("Content-Type", "").split(";")[0])
+
+    def get_item(self):
+        return self._item
 
 
 def resolve(title_or_path):

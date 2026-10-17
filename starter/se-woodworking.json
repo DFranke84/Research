@@ -1,0 +1,1260 @@
+{
+"pack": "se-woodworking",
+"kind": "stackexchange",
+"title": "Stack Exchange - woodworking",
+"about": "Top-voted questions with their best answers from woodworking.stackexchange.com.",
+"archive": "se-woodworking",
+"made": "2026-10-17",
+"items": [
+{
+"path": "questions/177/joint-or-join-what-is-the-name-for-the-place-where-two-pieces-of-wood-are-fast",
+"title": "\"Joint\" or \"Join\": What is the name for the place where two pieces of wood are fastened together?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3728/applying-clamping-pressure-on-opposing-sides-of-a-circle",
+"title": "Applying clamping pressure on opposing sides of a circle",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2673/applying-shellac-smoothly-without-a-sprayer",
+"title": "Applying shellac smoothly without a sprayer",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1286/are-spline-joints-inherently-stronger-than-a-standard-butt-miter-joint",
+"title": "Are spline joints inherently stronger than a standard butt miter joint?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/450/are-there-advantages-to-using-packaged-wood-finishing-cloths-instead-of-old-to",
+"title": "Are there advantages to using packaged wood finishing cloths instead of old towels and shirts?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1017/are-there-advantages-to-using-pipe-clamps-over-parallel-bar-clamps",
+"title": "Are there advantages to using pipe clamps over parallel bar clamps?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/847/are-there-any-alternatives-to-a-sawstop",
+"title": "Are there any alternatives to a SawStop?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2175/are-there-any-serious-and-non-obvious-disadvantages-to-thermally-modified-wood",
+"title": "Are there any serious and non-obvious disadvantages to thermally modified wood?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1440/at-what-stage-of-basic-furniture-making-should-i-finish-the-wood",
+"title": "At what stage of basic furniture making should I \"finish\" the wood?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1401/best-method-for-drilling-a-larger-diameter-hole-at-an-angle",
+"title": "Best method for drilling a larger diameter hole at an angle",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/421/best-method-for-drilling-thousands-of-holes",
+"title": "Best method for drilling thousands of holes?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/357/best-way-to-flatten-boards-by-hand",
+"title": "Best way to flatten boards by hand",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2647/can-160-year-old-wood-still-have-sap",
+"title": "Can 160-year-old wood still have sap?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/670/can-clamps-be-too-tight",
+"title": "Can clamps be too tight?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2583/can-i-apply-polyurethane-over-oil-before-oil-cures",
+"title": "Can I apply polyurethane over oil before oil cures?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2068/can-i-apply-water-based-polyurethane-over-an-oil-based-stain",
+"title": "Can I apply water-based polyurethane over an oil based stain?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1338/can-i-make-a-dado-blade-set-out-of-multiple-regular-blades",
+"title": "Can I make a dado blade set out of multiple regular blades?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2852/can-i-speed-up-stain-drying-with-a-hair-dryer",
+"title": "Can I speed up stain drying with a hair dryer?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/925/can-i-thin-pva-wood-glue-that-has-thickened",
+"title": "Can I thin PVA wood glue that has thickened?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1168/can-i-use-a-plungable-router-bit-on-a-drill-press",
+"title": "Can I use a plungable router bit on a drill press?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1281/can-one-safely-mount-an-8-blade-in-a-10-saw-if-the-arbor-sizes-are-compatible",
+"title": "Can one safely mount an 8\" blade in a 10\" saw if the arbor sizes are compatible?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1654/can-veneer-be-patched-or-do-you-have-to-peel-it-off-and-start-over",
+"title": "Can veneer be patched or do you have to peel it off and start over?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1938/can-you-overwork-an-impact-driver",
+"title": "Can you overwork an impact driver?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1520/choosing-wood-and-finish-for-outdoor-furniture",
+"title": "Choosing wood and finish for outdoor furniture",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1532/comparison-of-western-saws-and-japanese-saws",
+"title": "Comparison of Western saws and Japanese Saws",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/14293/completely-split-butcher-block",
+"title": "Completely split butcher block",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2206/creating-additional-boards-from-thick-lumber",
+"title": "Creating additional boards from thick lumber",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1833/crosscutting-18-diameter-logs-by-hand",
+"title": "Crosscutting 18\" diameter logs by hand",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1022/cut-then-sand-or-vice-versa",
+"title": "Cut, then Sand? Or Vice-versa",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1976/dealing-with-knots-bleeding-through-paint",
+"title": "Dealing with knots \"bleeding\" through paint",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2211/diy-honing-oil",
+"title": "DIY honing oil?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/304/do-rip-saws-still-have-a-place-in-the-wood-shop",
+"title": "Do rip saws still have a place in the wood shop?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/874/does-dropping-boards-really-relieve-internal-tensions",
+"title": "Does dropping boards really relieve internal tensions?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2403/does-it-matter-what-kind-of-diamond-stone-i-get",
+"title": "Does it matter what kind of diamond stone I get?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/473/does-knotty-wood-dull-a-hand-plane-faster-than-normal-wood",
+"title": "Does knotty wood dull a hand plane faster than normal wood?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1414/does-mdf-have-a-grain-direction",
+"title": "Does MDF have a grain direction?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1290/does-pine-have-any-advantages",
+"title": "Does Pine have any advantages?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1826/drilling-a-straight-centered-hole-down-square-cross-section-bar-stock",
+"title": "Drilling a straight, centered hole down square-cross-section bar stock?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1559/easiest-way-for-a-beginner-to-reduce-a-pine-board-s-width-by-1-2",
+"title": "Easiest way for a beginner to reduce a pine board's width by 1/2\"?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4746/embedded-nut-for-using-machine-screws",
+"title": "Embedded nut for using machine screws?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/189/evening-reflectivity-of-a-finish-after-finishing-the-finish",
+"title": "Evening reflectivity of a finish after \"finishing the finish\"",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/205/eye-protection-for-someone-who-does-not-wear-glasses",
+"title": "Eye protection for someone who does not wear glasses?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4483/finishing-a-desk-or-tabletop",
+"title": "Finishing a desk or tabletop?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1496/finishing-schedule-for-live-edge-walnut-slab",
+"title": "Finishing schedule for live edge walnut slab",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1368/glue-spots-under-stain",
+"title": "Glue spots under stain",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/840/gluing-end-grain",
+"title": "Gluing end-grain",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/440/how-and-when-should-i-sharpen-my-router-bits",
+"title": "How and when should I sharpen my router bits?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4948/how-can-i-accurately-cross-cut-a-board-that-is-too-wide-for-my-table-saw",
+"title": "How can I accurately cross-cut a board that is too wide for my table saw?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/50/how-can-i-achieve-a-raw-unfinished-look-to-my-project-while-protecting-it-from",
+"title": "How can I achieve a raw, unfinished look to my project while protecting it from water and physical abuse?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/843/how-can-i-attach-a-solid-table-top-to-perpendicular-cross-rails",
+"title": "How can I attach a solid table top to perpendicular cross rails?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/301/how-can-i-bring-an-old-disused-table-saw-back-into-active-and-safe-use",
+"title": "How can I bring an old, disused table saw back into active and safe use?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2611/how-can-i-cleanly-cut-a-large-circle-out-of-plywood",
+"title": "How can I cleanly cut a large circle out of plywood?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/929/how-can-i-create-artificially-spalted-wood",
+"title": "How can I create artificially spalted wood?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2308/how-can-i-cut-a-90-degree-angle-with-a-table-saw",
+"title": "How can I cut a 90 degree angle with a table saw?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1448/how-can-i-cut-plywood-in-a-straight-line-on-a-smaller-table-saw-freehand",
+"title": "How can I cut plywood in a straight line on a smaller table saw freehand?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1582/how-can-i-deal-with-wood-from-diy-stores-that-is-crooked-and-may-or-may-not-be",
+"title": "How can I deal with wood from DIY stores that is crooked and may or may not be dry?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/147/how-can-i-determine-the-load-capacity-of-a-simple-bench",
+"title": "How can I determine the load capacity of a simple bench?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2209/how-can-i-ensure-my-threaded-inserts-go-in-straight",
+"title": "How can I ensure my threaded inserts go in straight?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/532/how-can-i-ensure-my-wood-is-ethically-sourced",
+"title": "How can I ensure my wood is ethically sourced?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/814/how-can-i-fabricate-a-wooden-cone",
+"title": "How can I fabricate a wooden cone?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1528/how-can-i-identify-some-of-the-common-engineered-boards-panels",
+"title": "How can I identify some of the common engineered boards/panels?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/707/how-can-i-join-two-boards-at-the-ends",
+"title": "How can I join two boards at the ends?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1247/how-can-i-make-an-inset-cutting-board-handle",
+"title": "How can I make an inset cutting board handle?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1077/how-can-i-make-my-own-dowels",
+"title": "How can I make my own dowels?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/25/how-can-i-minimize-warp-due-to-wood-movement-when-gluing-up-a-panel",
+"title": "How can I minimize warp due to wood movement when gluing up a panel?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/900/how-can-i-properly-dispose-of-rags-used-with-boiled-linseed-oil",
+"title": "How can I properly dispose of rags used with Boiled Linseed Oil",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/889/how-can-i-repair-a-split-in-a-board",
+"title": "How can I repair a split in a board?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1116/how-can-i-safely-move-complete-4-ft-x-8-ft-sheets-of-plywood-alone",
+"title": "How can I safely move complete 4 ft x 8 ft sheets of plywood alone?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1716/how-can-you-make-a-regular-screw-into-a-self-tapping-screw",
+"title": "How can you make a regular screw into a self tapping screw?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1894/how-can-you-make-a-square-without-a-square",
+"title": "How can you make a square without a square?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/9/how-can-you-stabilize-green-wood-after-turning-it-on-a-lathe",
+"title": "How can you stabilize green wood after turning it on a lathe?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1235/how-do-bench-dogs-work",
+"title": "How do bench dogs work?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3672/how-do-experts-make-dovetails-by-hand-that-fit-so-well",
+"title": "How do experts make dovetails by hand that fit so well?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/756/how-do-i-achieve-a-piano-black-high-gloss-finish-on-wood",
+"title": "How do I achieve a \"piano black\" high gloss finish on wood?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3140/how-do-i-choose-a-drill-press",
+"title": "How do I choose a drill press?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2121/how-do-i-clamp-box-joints",
+"title": "How do I clamp box joints?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1261/how-do-i-cut-a-large-log-into-boards",
+"title": "How do I cut a large log into boards?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3658/how-do-i-de-nib-polyurethane-after-it-dries-but-still-maintain-its-finish",
+"title": "How do I de-nib polyurethane after it dries but still maintain its finish?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/115/how-do-i-determine-what-type-of-wood-a-board-plank-is-made-from",
+"title": "How do I determine what type of wood a board/plank is made from?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2837/how-do-i-drill-a-hole-exactly-in-the-center-of-a-circle",
+"title": "How do I drill a hole exactly in the center of a circle?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/89/how-do-i-ensure-my-drill-is-perfectly-vertical-before-cutting-a-hole-in-my-des",
+"title": "How do I ensure my drill is perfectly vertical before cutting a hole in my desk?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/81/how-do-i-identify-the-appropriate-size-fastener-for-my-application",
+"title": "How do I identify the appropriate size fastener for my application?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2042/how-do-i-know-when-my-lathe-speed-is-wrong-or-could-be-better",
+"title": "How do I know when my lathe speed is wrong or could be better?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3384/how-do-i-make-a-drill-hole-the-same-depth-every-time",
+"title": "How do I make a drill hole the same depth every time?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/735/how-do-i-make-a-mortise-and-tenon-joints-by-hand",
+"title": "How do I make a mortise and tenon joints by hand",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1141/how-do-i-prepare-a-scraper-for-use",
+"title": "How do I prepare a scraper for use?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/21/how-do-i-prevent-dangerous-kickback-on-a-table-saw",
+"title": "How do I prevent dangerous kickback on a table saw?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4222/how-do-i-properly-care-for-my-paintbrushes",
+"title": "How do I properly care for my paintbrushes?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4254/how-do-i-properly-dispose-of-a-solvent-like-mineral-turpentine",
+"title": "How do I properly dispose of a solvent like mineral turpentine?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1/how-do-i-sharpen-a-chisel-plane-blade",
+"title": "How do I sharpen a chisel/plane blade?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/385/how-do-i-shop-for-lumber-to-use-in-home-wood-working-projects",
+"title": "How do I shop for lumber to use in home wood working projects?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2376/how-do-i-treat-mdf",
+"title": "How do I treat MDF?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/754/how-do-you-make-mortise-and-tenon-joints-using-power-tools",
+"title": "How do you make mortise and tenon joints using power tools?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/741/how-do-you-plane-end-grain",
+"title": "How do you plane end grain?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/931/how-do-you-reliably-set-all-your-jointer-knives-to-the-same-correct-height",
+"title": "How do you reliably set all your jointer knives to the same, correct height?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2398/how-does-one-aggressively-sharpen-chisels-and-plane-irons-when-damaged",
+"title": "How does one aggressively sharpen chisels and plane irons when damaged?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2054/how-does-one-properly-mount-a-breadboard-end",
+"title": "How does one properly mount a breadboard end?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3232/how-is-it-possible-to-let-wood-reach-equilibrium-moisture-content",
+"title": "How is it possible to let wood reach equilibrium moisture content?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/573/how-long-does-it-take-tung-oil-to-cure",
+"title": "How long does it take tung oil to cure?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/912/how-should-i-store-the-batteries-of-my-cordless-drill",
+"title": "How should I store the batteries of my cordless drill?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3099/how-to-clean-and-maintain-my-table-saw-top",
+"title": "How to clean and maintain my table saw top",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1524/how-to-cut-plexiglas-on-a-table-saw",
+"title": "How to cut Plexiglas on a table saw?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2030/how-to-cut-the-centre-out-of-a-large-round-of-wood",
+"title": "How to cut the centre out of a large round of wood",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/237/how-to-effectively-fix-a-crack-in-a-turned-bowl",
+"title": "How to effectively fix a crack in a turned bowl",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/124/how-to-hand-sharpen-a-badly-worn-gouge",
+"title": "How to hand-sharpen a badly worn gouge?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/7216/how-to-join-at-an-angle",
+"title": "How to join at an angle?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2521/how-to-make-a-good-joint-by-hand-planing-both-edges-at-the-same-time",
+"title": "How to make a good joint by hand planing both edges at the same time?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/235/how-to-make-a-long-shallow-cut-on-a-narrow-piece-of-wood-with-a-circular-saw",
+"title": "How to make a long shallow cut on a narrow piece of wood with a circular saw",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/571/how-to-make-proper-pilot-holes",
+"title": "How to make proper pilot holes",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6229/how-to-properly-deburr-a-chisel",
+"title": "How to properly deburr a chisel",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1863/how-to-repair-missing-chunk-of-wood-from-cabinet-door",
+"title": "How to repair missing chunk of wood from cabinet door?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3566/how-to-restore-old-files",
+"title": "How to restore old files?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/320/how-to-sharpen-a-circular-saw-or-mitre-saw-blade",
+"title": "How to sharpen a circular saw or mitre saw blade",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/9682/how-to-soundproof-the-wood-shop",
+"title": "How to soundproof the Wood Shop?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3235/how-to-store-equipment-no-longer-being-used",
+"title": "How to store equipment no longer being used",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/319/how-to-straighten-a-warped-board",
+"title": "How to straighten a warped board",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1604/in-what-cases-is-it-useful-to-have-more-than-one-of-the-same-tool",
+"title": "In what cases is it useful to have more than one of the same tool?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/231/in-what-situations-would-i-use-a-belt-sander-versus-a-random-orbit-sander",
+"title": "In what situations would I use a belt sander versus a random orbit sander?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2011/is-a-climbing-cut-on-a-table-saw-ever-justified",
+"title": "Is a climbing cut on a table-saw ever justified?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/916/is-dimensional-lumber-kiln-dried-differently-than-a-kiln-dried-board-meant-for",
+"title": "Is dimensional lumber kiln-dried differently than a kiln-dried board meant for woodworking?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/800/is-glue-the-best-permanent-join",
+"title": "Is glue the best permanent join?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1273/is-it-a-good-idea-to-apply-lacquer-over-shellac",
+"title": "Is it a good idea to apply lacquer over shellac?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2697/is-it-better-to-store-wood-vertically-or-horizontally",
+"title": "Is it better to store wood vertically or horizontally?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1436/is-it-possible-to-distress-lumber-to-look-reclaimed",
+"title": "Is it possible to distress lumber to look \"reclaimed?\"",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1410/is-it-safe-to-resaw-on-a-table-saw",
+"title": "Is it safe to resaw on a table saw?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1489/is-pvc-pipe-safe-to-use-for-a-dust-collection-system",
+"title": "Is PVC pipe safe to use for a dust collection system?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1253/is-there-a-recommended-distance-between-dog-holes-on-a-work-bench",
+"title": "Is there a recommended distance between dog holes on a work bench?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1731/is-there-a-reference-for-how-much-weight-a-dowel-rod-can-support-before-breaki",
+"title": "Is there a reference for how much weight a dowel rod can support before breaking?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/290/is-there-any-such-thing-as-sanding-something-too-fine-for-finishing",
+"title": "Is there any such thing as sanding something *too* fine for finishing?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2599/is-this-a-self-drilling-wood-screw",
+"title": "Is this a self-drilling wood screw?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1198/is-this-a-specific-kind-of-hand-drill",
+"title": "Is this a specific kind of hand drill?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/78/is-this-table-saw-lathe-jig-safe",
+"title": "Is this table saw lathe jig safe?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3534/is-working-with-mdf-going-to-kill-me",
+"title": "Is working with MDF going to kill me?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2506/issue-sanding-between-coats-of-polyurethane",
+"title": "Issue sanding between coats of polyurethane",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2144/joining-corners-in-a-loft-bed",
+"title": "Joining corners in a loft bed",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/388/joining-wood-at-an-angle",
+"title": "Joining wood at an angle",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1420/leveling-a-finish-finishing-the-finish",
+"title": "Leveling a finish/finishing the finish",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2559/make-a-bunk-bed",
+"title": "Make a bunk bed",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/425/making-biscuits-cuts-by-hand",
+"title": "Making biscuits cuts by hand",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/210/making-fake-pseudo-plugs-or-caps",
+"title": "Making fake/pseudo plugs or caps",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5873/making-wood-filler-from-sawdust",
+"title": "Making wood filler from sawdust",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3810/mortise-and-tenon-joint-proportions-for-3-wooden-beams-corner",
+"title": "Mortise and tenon joint proportions for 3 wooden beams corner",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/26/my-band-saw-blade-consistently-slips-off-what-are-some-common-causes-of-this",
+"title": "My band saw blade consistently slips off. What are some common causes of this?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1463/perfect-miters-every-time",
+"title": "Perfect miters every time",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1846/planing-thin-stock-without-the-aid-of-bench-dogs",
+"title": "Planing thin stock without the aid of bench dogs",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4595/quick-corner-joints-in-practice",
+"title": "Quick corner joints in practice",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1744/recommendation-for-manual-planing-and-sanding",
+"title": "Recommendation for manual planing and sanding",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1009/recommended-technique-for-applying-oils",
+"title": "Recommended technique for applying oils",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4647/recovering-from-a-rusted-table-saw-top-and-protecting-it-in-future",
+"title": "Recovering from a rusted table saw top -- and protecting it in future",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1130/removal-of-hardware-from-drawer-front",
+"title": "Removal of hardware from drawer front",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/417/replacing-small-drill-bits-without-buying-new-sets-or-preventing-breaks",
+"title": "Replacing small drill bits without buying new sets (or preventing breaks)",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/879/respirator-do-not-use-for-hardwoods",
+"title": "Respirator: do not use for hardwoods?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2566/router-tears-wood-leaves-streaks",
+"title": "Router tears wood, leaves streaks",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10/routing-boards-without-burn",
+"title": "Routing boards without burn",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2680/setting-precise-depth-on-a-table-saw-with-no-depth-gauge",
+"title": "Setting precise depth on a table saw with no depth gauge",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6374/sharpening-grit-progression",
+"title": "Sharpening - grit progression",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1963/sharpening-grits-naming-and-selection",
+"title": "Sharpening grits -- naming and selection",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1215/should-i-do-many-shallow-quick-cuts-or-a-single-deep-slow-one-with-my-router",
+"title": "Should I do many shallow quick cuts or a single deep slow one with my router?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2813/should-i-finish-before-during-or-after-assembly",
+"title": "Should I finish before, during, or after assembly?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/557/should-i-use-sandpaper-or-steel-wool-between-coats-of-polyurethane",
+"title": "Should I use sandpaper or Steel Wool between coats of polyurethane?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1978/smell-longevity-of-eastern-red-cedar",
+"title": "Smell Longevity of Eastern Red Cedar",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/361/stain-then-glue-or-vice-versa",
+"title": "Stain then glue, or vice-versa?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1129/strong-joints-to-use-when-making-custom-frames",
+"title": "Strong joints to use when making custom frames",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1476/table-saw-top-treatment",
+"title": "Table saw top treatment",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/642/tiny-core-bits-for-broken-screws",
+"title": "Tiny core bits for broken screws",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1984/tips-for-recognizing-aged-pressure-treated-wood",
+"title": "Tips for recognizing aged pressure treated wood",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1094/using-a-cheap-table-saw",
+"title": "Using a cheap table saw",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/191/using-smooth-dowel-pegs",
+"title": "Using smooth dowel pegs",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1708/what-alternatives-are-there-for-pocket-screws",
+"title": "What alternatives are there for pocket screws?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1802/what-am-i-doing-wrong-when-making-lap-joints-with-my-stacked-dado-set",
+"title": "What am I doing wrong when making lap joints with my stacked dado set?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1655/what-are-some-best-practices-and-techniques-for-building-cabinet-boxes-with-pl",
+"title": "What are some best practices and techniques for building cabinet boxes with plywood?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2263/what-are-some-efficient-and-effective-ways-to-remove-rust-on-old-hand-saws",
+"title": "What are some efficient and effective ways to remove rust on old hand saws?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1403/what-are-some-guidelines-to-consider-when-determining-the-thickness-of-boards-",
+"title": "What are some guidelines to consider when determining the thickness of boards to use?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/132/what-are-some-safe-finishes-for-indoor-projects-likely-to-be-chewed-on-by-a-yo",
+"title": "What are some safe finishes for indoor projects likely to be chewed on by a young child or infant?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2052/what-are-some-suitable-woods-to-use-for-tool-handles",
+"title": "What are some suitable woods to use for tool handles?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1040/what-are-spokeshaves-and-what-is-their-intended-use",
+"title": "What are spokeshaves and what is their intended use?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/390/what-are-the-advantages-of-countersinking-screws",
+"title": "What are the advantages of countersinking screws?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1134/what-are-the-differences-between-sanding-and-scraping",
+"title": "What are the differences between sanding and scraping?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4233/what-are-the-different-grain-directions-and-how-do-they-affect-joint-strength",
+"title": "What are the different grain directions, and how do they affect joint strength?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/476/what-are-the-different-uses-for-plain-sawn-flat-sawn-rift-sawn-and-quarter-saw",
+"title": "What are the different uses for plain sawn (flat sawn), rift sawn, and quarter sawn boards?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3/what-are-the-main-categories-of-wood-turning-tools",
+"title": "What are the main categories of wood-turning tools?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3300/what-are-these-blemishes-called-and-how-do-i-avoid-them",
+"title": "What are these blemishes called and how do I avoid them?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/220/what-can-i-coat-a-wooden-drawer-slide-with-to-reduce-drag",
+"title": "What can I coat a wooden drawer slide with to reduce drag?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1028/what-common-woods-produce-the-safest-most-harmful-dust",
+"title": "What common woods produce the safest/most harmful dust?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2076/what-criteria-would-want-me-to-bevel-my-chisel-in-a-certain-way",
+"title": "What criteria would want me to bevel my chisel in a certain way",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1304/what-do-i-need-to-know-for-basic-lathe-safety",
+"title": "What do I need to know for basic lathe safety?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/342/what-do-i-need-to-know-when-looking-at-pallets-for-wood",
+"title": "What do I need to know when looking at pallets for wood?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/636/what-does-stickering-wood-mean",
+"title": "What does \"stickering wood\" mean?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3330/what-drove-the-design-for-the-traditional-tang",
+"title": "What drove the design for the traditional tang?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/908/what-general-considerations-do-i-need-to-take-into-account-for-wood-movement",
+"title": "What general considerations do I need to take into account for wood movement?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/125/what-is-white-wood",
+"title": "What is \"White Wood\"?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/477/what-is-a-burl",
+"title": "What is a burl?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/972/what-is-a-good-method-for-laminating-pallet-wood-reclaimed-lumber",
+"title": "What is a good method for laminating pallet wood/reclaimed lumber?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/229/what-is-a-good-way-to-prevent-jointed-tabletops-from-bowing-when-tightening-fa",
+"title": "What is a good way to prevent jointed tabletops from bowing when tightening fasteners or the glue sets?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1492/what-is-a-try-square-used-for",
+"title": "What is a try square used for?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1390/what-is-a-wedged-through-tenon-and-how-is-it-used",
+"title": "What is a wedged through tenon and how is it used?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/857/what-is-special-about-wood-glue",
+"title": "What is special about wood glue?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3961/what-is-the-benefit-to-gluing-boards-together-instead-of-buying-a-thicker-boar",
+"title": "What is the benefit to gluing boards together instead of buying a thicker board?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/728/what-is-the-best-way-to-enlarge-a-hole-with-my-cordless-drill",
+"title": "What is the best way to enlarge a hole with my cordless drill?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/884/what-is-the-difference-between-curing-and-drying",
+"title": "What is the difference between \"curing\" and \"drying\"?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/905/what-is-the-difference-between-a-dutchman-patch-and-a-butterfly-patch",
+"title": "What is the difference between a dutchman patch and a butterfly patch?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1013/what-is-the-difference-between-a-riving-knife-and-a-splitter-on-a-table-saw",
+"title": "What is the difference between a riving knife and a splitter on a table saw?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/882/what-is-the-difference-between-hardwood-and-softwood",
+"title": "What is the difference between hardwood and softwood?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2016/what-is-the-hook-angle-on-a-saw-blade",
+"title": "What is the hook angle on a saw blade?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/703/what-is-the-minimum-length-i-can-thickness-plane",
+"title": "What is the minimum length I can thickness plane?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1230/what-is-the-name-of-the-corner-joint-with-grooves-on-this-chair",
+"title": "What is the name of the corner joint with grooves on this chair?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1144/what-is-the-process-from-start-to-finish-for-milling-a-tree-into-boards",
+"title": "What is the process, from start to finish, for milling a tree into boards?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/98/what-is-the-proper-place-of-nails-in-woodworking",
+"title": "What is the proper place of nails in woodworking?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/539/what-is-the-purpose-of-a-saw-nib",
+"title": "What is the purpose of a saw nib?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1061/what-is-the-recommended-height-of-the-blade-on-a-table-saw-while-operating",
+"title": "What is the recommended height of the blade on a table saw while operating?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1907/what-is-the-simplest-joint-for-a-non-experienced-woodworker-to-start-with",
+"title": "What is the simplest joint for a non-experienced woodworker to start with?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2141/what-is-wood-stabilization",
+"title": "What is wood stabilization?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5518/what-kind-of-fire-extinguisher-should-i-have-in-the-shop",
+"title": "What kind of fire extinguisher should I have in the shop?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1607/what-kind-of-wax-will-keep-a-crosscut-sled-sliding-well",
+"title": "What kind of wax will keep a crosscut sled sliding well?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/353/what-kind-of-wood-dust-is-toxic-dangerous-and-requires-usage-of-dust-mask",
+"title": "What kind of wood dust is toxic/dangerous and requires usage of dust mask?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1344/what-kind-style-of-respirator-is-appropriate-for-someone-with-a-beard",
+"title": "What kind/style of respirator is appropriate for someone with a beard?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2470/what-makes-a-high-quality-bench-plane",
+"title": "What makes a high quality bench plane?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1453/what-might-be-stronger-than-a-miter-but-still-look-like-a-miter-joint",
+"title": "What might be stronger than a miter but still look like a miter joint?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/285/what-minimum-amount-of-equipment-is-required-to-start-turning-bowls",
+"title": "What minimum amount of equipment is required to start turning bowls?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/807/what-minimum-level-of-hardness-on-the-janka-scale-is-appropriate-for-a-desk-to",
+"title": "What minimum level of hardness (on the Janka scale) is appropriate for a desk top?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2617/what-should-one-consider-when-purchasing-an-intro-turning-chisel-set",
+"title": "What should one consider when purchasing an intro turning chisel set?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1451/what-type-of-joint-should-i-use-for-building-a-piece-of-furniture-that-will-be",
+"title": "What type of joint should I use for building a piece of furniture that will be assembled and disassembled?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4/what-types-of-food-safe-finishes-work-best-for-protecting-wood-that-will-be-ou",
+"title": "What types of food-safe finishes work best for protecting wood that will be outdoors?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1310/what-types-of-table-saw-cuts-cannot-be-made-with-a-riving-knife-installed",
+"title": "What types of table saw cuts cannot be made with a riving knife installed?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/940/what-wood-is-best-for-engraving",
+"title": "What wood is best for engraving?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/215/what-woods-are-soft-enough-for-glazier-points",
+"title": "What woods are soft enough for glazier points?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1887/what-s-an-appropriate-wood-type-for-making-toy-blocks",
+"title": "What's an appropriate wood type for making toy blocks?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6/what-s-the-purpose-of-raising-the-grain-before-finishing-a-furniture-piece",
+"title": "What's the purpose of raising the grain before finishing a furniture piece?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1349/when-are-pocket-holes-an-appropriate-joinery-technique",
+"title": "When are pocket holes an appropriate joinery technique?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/97/when-building-an-outdoor-structure-should-i-use-pressure-treated-lumber-or-som",
+"title": "When building an outdoor structure, should I use pressure-treated lumber or something like cedar?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1312/when-do-i-need-to-use-a-router-table-instead-of-a-handheld-router",
+"title": "When do I need to use a router table instead of a handheld router?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/287/when-do-you-use-a-chuck-vs-a-faceplate-on-a-lathe",
+"title": "When do you use a chuck vs. a faceplate on a lathe?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/159/when-is-it-best-to-use-kiln-dried-vs-air-dried-vs-green-wood-in-a-project",
+"title": "When is it best to use kiln-dried vs. air-dried vs. green wood in a project?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2413/when-it-comes-to-dovetails-what-is-the-significance-of-1-61-71-8",
+"title": "When it comes to dovetails what is the significance of 1:6,1:7,1:8",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/27/when-using-a-hand-saw-how-do-i-cut-a-straight-line",
+"title": "When using a hand saw, how do I cut a straight line?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/87/when-if-ever-is-it-safe-to-use-gloves-with-power-tools",
+"title": "When, if ever, is it safe to use gloves with power tools?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5871/which-direction-does-wood-expand",
+"title": "which direction does wood expand?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/499/which-first-gouges-to-get-for-a-beginning-turner",
+"title": "Which first gouges to get for a beginning turner",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1682/why-and-when-should-i-wear-a-dust-mask",
+"title": "Why and when should I wear a dust mask?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3405/why-are-keyed-drill-chucks-still-available-for-modern-tools",
+"title": "Why are keyed drill chucks still available for modern tools?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2442/why-are-metal-lathes-not-used-for-woodturning",
+"title": "Why are metal lathes not used for woodturning?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3045/why-do-i-go-through-so-many-philips-bits",
+"title": "Why do I go through so many philips bits?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1056/why-does-direction-matter-when-using-an-electric-router",
+"title": "Why does direction matter when using an electric router?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4189/why-does-my-workpiece-become-rough-again-after-applying-polyurethane-varnish-w",
+"title": "Why does my workpiece become rough again after applying polyurethane varnish when it wasn't before?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1738/why-don-t-most-modern-drill-presses-use-some-form-of-vfd-instead-of-manual-bel",
+"title": "Why don't most modern drill presses use some form of VFD instead of manual belt-changes to adjust speed?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2986/why-is-my-countersink-bit-making-hexagonal-holes",
+"title": "Why is my countersink bit making hexagonal holes?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1542/why-would-someone-cut-a-miter-in-a-tenon",
+"title": "Why would someone cut a miter in a tenon?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1186/will-a-beam-of-laminated-boards-be-stronger-when-the-members-are-vertical-or-h",
+"title": "Will a beam of laminated boards be stronger when the members are vertical or horizontal?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10288/wood-glue-curing-vs-drying-time",
+"title": "Wood glue curing vs drying time",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2125/wood-to-use-for-3ft-sorority-letters",
+"title": "Wood to Use for 3ft Sorority Letters",
+"category": "tools-crafts-skills"
+}
+]
+}

@@ -1,0 +1,2510 @@
+{
+"pack": "se-outdoors",
+"kind": "stackexchange",
+"title": "Stack Exchange - outdoors",
+"about": "Top-voted questions with their best answers from outdoors.stackexchange.com.",
+"archive": "se-outdoors",
+"made": "2026-10-17",
+"items": [
+{
+"path": "questions/1609/a-list-of-suitable-foods-for-a-long-hike",
+"title": "A list of suitable foods for a long hike",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1707/can-i-eat-rotten-meat-and-carcass-given-enough-cooking",
+"title": "Can I eat rotten meat and carcass given enough cooking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/17555/can-i-safely-eat-grass",
+"title": "Can I safely eat grass?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6639/can-you-boil-an-egg-in-dirty-water",
+"title": "Can you boil an egg in dirty water?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/120/can-should-i-cook-in-my-tent",
+"title": "Can/Should I cook in my tent?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3398/cheese-and-eggs-on-backpacking-trips",
+"title": "Cheese and eggs on backpacking trips",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8285/eating-ash-in-soviet-union",
+"title": "Eating ash in Soviet Union",
+"category": "cooking-fire"
+},
+{
+"path": "questions/25581/giving-honey-to-a-bear",
+"title": "Giving honey to a bear?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/89/how-can-i-be-absolutely-sure-my-fire-is-safely-extinguished",
+"title": "How can I be absolutely sure my fire is safely extinguished?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/266/how-can-i-identify-edible-berries-fruit-from-poisonous",
+"title": "How can I identify edible berries/fruit from poisonous?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/23002/how-can-i-store-milk-for-long-periods-of-time",
+"title": "How can I store milk for long periods of time?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/9171/how-do-you-eat-nettles",
+"title": "How do you eat nettles?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6377/how-do-you-flavour-your-water-on-camping-trips",
+"title": "How do you flavour your water on camping trips?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/7655/how-much-does-a-full-empty-jetboil-canister-weigh",
+"title": "How much does a full/empty jetboil canister weigh?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/801/how-to-avoid-exploding-rocks",
+"title": "How to avoid exploding rocks",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1111/how-to-calculate-backpacking-food-requirements-for-a-dog",
+"title": "How to calculate backpacking food requirements for a dog",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8489/how-to-cook-meat-with-no-equipment",
+"title": "How to cook meat with no equipment?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3631/how-to-create-campfire-which-will-burn-overnight",
+"title": "How to create campfire which will burn overnight?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/5672/how-to-preserve-cheese-while-backpacking",
+"title": "How to preserve cheese while backpacking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/19742/i-have-a-firestarter-disk-but-it-wont-light-how-do-i-use-it",
+"title": "I have a firestarter disk, but it won’t light. How do I use it?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/21234/is-burning-cow-pies-dried-cow-manure-safe",
+"title": "Is burning cow pies (dried cow manure) safe?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/19102/is-it-actually-useful-to-ration-food",
+"title": "Is it actually useful to ration food?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1329/is-it-legal-to-light-bonfires-on-uk-beaches",
+"title": "Is it legal to light bonfires on UK beaches?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1023/is-the-rule-of-3-proven-for-food",
+"title": "Is the \"Rule of 3\" proven for food?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/4562/is-titanium-cookware-safe",
+"title": "Is titanium cookware safe?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/8382/is-wild-garlic-edible-how-do-you-prepare-it",
+"title": "Is wild garlic edible? How do you prepare it?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6160/permanent-camping-cooler-no-ice-needed",
+"title": "Permanent Camping Cooler - No Ice Needed",
+"category": "cooking-fire"
+},
+{
+"path": "questions/11476/possible-diet-to-avoid-delay-defecation",
+"title": "Possible diet to avoid/delay defecation",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1169/selecting-backpacking-cooking-pot-teflon-aluminum-steel-titanium-or-cast-iron",
+"title": "Selecting backpacking cooking pot – teflon, aluminum, steel, titanium, or cast iron?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/10773/stoveless-fireless-hiking-food-suggestions",
+"title": "Stoveless/fireless hiking food suggestions",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1530/surviving-a-forest-fire-by-starting-another-fire",
+"title": "Surviving a forest fire by starting another fire",
+"category": "cooking-fire"
+},
+{
+"path": "questions/1195/what-are-the-advantages-and-disadvantages-between-gas-liquid-and-solid-fuel",
+"title": "What are the advantages and disadvantages between gas, liquid and solid fuel?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/560/what-are-the-rules-for-eating-raw-wild-meat",
+"title": "What are the rules for eating raw, wild meat?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/3730/what-do-you-do-if-the-fire-does-get-out-of-control",
+"title": "What do you do if the fire does get \"out of control\"?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6472/what-foods-are-unsafe-to-cook-over-an-open-fire",
+"title": "What foods are unsafe to cook over an open fire?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/6297/what-foods-can-you-cook-by-directly-placing-them-into-a-fire",
+"title": "What foods can you cook by directly placing them into a fire?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/4647/what-foods-should-i-avoid-when-backpacking",
+"title": "What foods should I avoid when backpacking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/22289/what-is-the-leave-no-trace-way-to-dispose-of-coffee-grounds",
+"title": "What is the Leave No Trace way to dispose of coffee grounds?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/45/what-is-the-most-efficient-food-to-take-a-for-a-12-15-day-hiking-trip",
+"title": "What is the most efficient food to take a for a 12-15 day hiking trip?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/28119/what-type-of-fires-stove-can-i-use-in-germany",
+"title": "What type of fires/stove can I use in Germany?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/11671/what-s-the-best-way-to-store-carry-olive-oil-for-hiking",
+"title": "What's the best way to store/carry olive oil for hiking?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/31/what-s-the-difference-between-white-gas-propane-kerosene-and-gasoline",
+"title": "What's the difference between white gas, propane, kerosene, and gasoline?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/261/which-stove-fuel-has-best-weight-to-bulk-to-heat-ratio",
+"title": "Which stove fuel has best weight to bulk to heat ratio?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/492/which-will-keep-my-food-colder-longer-draining-the-melted-ice-water-or-leaving",
+"title": "Which will keep my food colder longer, draining the melted ice water, or leaving it in the cooler?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/11001/why-aren-t-there-any-electric-stoves-that-can-be-used-for-cooking-where-you-ca",
+"title": "Why aren't there any electric stoves that can be used for cooking where you can't build a fire?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/13495/dont-step-on-anything-you-can-step-over-what-does-this-mean",
+"title": "\"Don’t step on anything you can step over.\" - What does this mean?",
+"category": "hunting-fishing-trapping"
+},
+{
+"path": "questions/772/backpacking-or-hiking-in-areas-open-to-hunting",
+"title": "Backpacking or hiking in areas open to hunting",
+"category": "hunting-fishing-trapping"
+},
+{
+"path": "questions/20865/can-i-eat-the-rabbits-my-cat-catches",
+"title": "Can I eat the rabbits my cat catches?",
+"category": "hunting-fishing-trapping"
+},
+{
+"path": "questions/24315/how-likely-are-you-to-be-injured-by-falling-shot-from-a-game-shoot",
+"title": "How likely are you to be injured by falling shot from a game shoot?",
+"category": "hunting-fishing-trapping"
+},
+{
+"path": "questions/7850/how-to-humanely-kill-an-injured-bird",
+"title": "How to humanely kill an injured bird?",
+"category": "hunting-fishing-trapping"
+},
+{
+"path": "questions/9432/how-to-humanely-kill-an-injured-rabbit",
+"title": "How to humanely kill an injured rabbit?",
+"category": "hunting-fishing-trapping"
+},
+{
+"path": "questions/28864/if-one-falls-through-the-ice-while-ice-fishing-alone-how-might-one-get-out",
+"title": "If one falls through the ice while ice fishing alone, how might one get out?",
+"category": "hunting-fishing-trapping"
+},
+{
+"path": "questions/4982/is-it-really-necessary-to-gut-a-fish",
+"title": "Is it really necessary to gut a fish?",
+"category": "hunting-fishing-trapping"
+},
+{
+"path": "questions/17557/what-is-the-responsible-way-to-sell-a-firearm",
+"title": "What is the responsible way to sell a firearm?",
+"category": "hunting-fishing-trapping"
+},
+{
+"path": "questions/24958/what-is-this-weird-mechanical-thing-i-found-in-the-woods",
+"title": "What is this weird mechanical thing I found in the woods?",
+"category": "hunting-fishing-trapping"
+},
+{
+"path": "questions/4850/when-to-kill-and-bleed-a-fish",
+"title": "When to kill and bleed a fish",
+"category": "hunting-fishing-trapping"
+},
+{
+"path": "questions/1395/a-little-bit-of-acclimatisation-or-no-acclimatisation-at-all",
+"title": "A little bit of acclimatisation or no acclimatisation at all?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/7100/are-rhododendron-and-mountain-laurel-truly-toxic-to-burn-in-a-campfire",
+"title": "Are Rhododendron and Mountain Laurel truly toxic to burn in a campfire?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/191/can-any-waterborne-pathogens-survive-boiling",
+"title": "Can any waterborne pathogens survive boiling?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/17457/can-you-get-permanent-brain-damage-by-spending-a-day-at-10000ft-3000m-altitude",
+"title": "Can you get permanent brain damage by spending a day at 10,000ft (~3000m) altitude?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/17861/could-a-tick-make-several-test-bites-in-a-circle",
+"title": "Could a tick make several test bites in a circle?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/7450/for-how-long-afterwards-do-we-benefit-from-acclimatization",
+"title": "For how long afterwards do we benefit from acclimatization?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/27182/had-to-drink-untreated-water-any-immediate-action-to-avoid-getting-sick",
+"title": "Had to drink untreated water: Any immediate action to avoid getting sick?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/749/how-bad-do-circumstances-need-to-be-before-activating-a-plb",
+"title": "How bad do circumstances need to be before activating a PLB?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/231/how-do-i-avoid-leeches",
+"title": "How do I avoid leeches?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/1/how-do-i-treat-hot-spots-and-blisters-when-i-have-no-moleskin",
+"title": "How do I treat hot spots and blisters when I have no moleskin?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/14718/how-do-you-remove-a-fishhook-from-a-human",
+"title": "How do you remove a fishhook from a human?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/217/how-do-you-stop-blood-flow-from-a-leech-bite",
+"title": "How do you stop blood-flow from a leech bite?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/575/how-long-is-too-long-to-suffer-from-constipation-in-the-back-country",
+"title": "How long is too long to suffer from constipation in the back country?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/9920/how-much-sea-water-can-i-safely-drink",
+"title": "How much sea water can I safely drink?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/16217/how-should-i-prepare-my-body-for-prolonged-exposure-to-heat",
+"title": "How should I prepare my body for prolonged exposure to heat?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/139/how-should-i-remove-a-tick",
+"title": "How should I remove a tick?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/19/how-should-i-treat-poison-ivy",
+"title": "How should I treat poison ivy?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/767/how-to-harden-feet-to-avoid-blisters-on-long-hikes",
+"title": "How to harden feet to avoid blisters on long hikes",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/3429/how-to-minimize-sea-sickness",
+"title": "How to minimize sea sickness?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/11508/how-to-treat-a-severe-allergic-reaction-while-hiking",
+"title": "How to treat a severe allergic reaction while hiking?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/15540/i-ve-just-been-bitten-by-a-rattlesnake-how-exactly-do-i-keep-calm",
+"title": "I've just been bitten by a rattlesnake; how, exactly, do I \"keep calm\"?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/192/is-a-varied-diet-necessary-while-backpacking",
+"title": "Is a varied diet necessary while backpacking?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/22259/is-it-possible-to-live-off-the-sea",
+"title": "Is it possible to 'live off the sea'?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/1585/is-it-possible-to-sunburn-through-clothing",
+"title": "Is it possible to sunburn through clothing?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/3488/is-it-safe-to-use-denatured-alcohol-as-an-antiseptic",
+"title": "Is it safe to use denatured alcohol as an antiseptic?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/14687/is-whiskey-a-good-disinfectant",
+"title": "Is whiskey a good disinfectant?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/24108/other-than-good-shoes-and-a-stick-what-are-some-ways-to-preserve-your-knees-on",
+"title": "Other than good shoes and a stick, what are some ways to preserve your knees on long hikes?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/804/raw-meat-on-hikes",
+"title": "Raw meat on hikes",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/16149/should-one-remove-their-boots-in-an-emergency-bivvy-situation",
+"title": "Should one remove their boots in an emergency bivvy situation?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/17464/should-overweight-people-ever-climb",
+"title": "Should overweight people ever climb?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/756/should-you-pop-a-blister",
+"title": "Should you pop a blister?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/32/what-are-essential-items-in-an-emergency-kit",
+"title": "What are essential items in an emergency kit?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/464/what-are-some-proven-methods-of-training-for-week-long-backpacking-trips-at-hi",
+"title": "What are some proven methods of training for week long backpacking trips at high altitude?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/10452/what-are-the-different-stages-of-frostbite",
+"title": "What are the different stages of frostbite?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/27481/what-are-the-first-signs-that-you-are-headed-for-heat-exhaustion-and-what-shou",
+"title": "What are the first signs that you are headed for heat exhaustion, and what should you do?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/7089/what-are-the-real-dangers-of-climbing-at-high-altitude",
+"title": "What are the real dangers of climbing at high altitude?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/13/what-can-i-do-to-prevent-altitude-sickness",
+"title": "What can I do to prevent altitude sickness?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/9466/what-do-mountaineers-eat-and-drink-on-the-day-of-an-everest-summit",
+"title": "What do mountaineers eat and drink on the day of an Everest summit?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/603/what-essential-items-should-go-in-a-small-first-aid-kit",
+"title": "What essential items should go in a small first aid kit?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/3846/what-is-this-knee-pain-when-going-downhill",
+"title": "What is this knee pain when going downhill?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/6760/what-makes-certain-mountains-more-dangerous-than-others",
+"title": "What makes certain mountains more dangerous than others?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/1226/what-s-the-upf-of-a-t-shirt-or-jeans",
+"title": "What's the UPF of a T-Shirt or jeans?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/2/where-in-the-alps-is-it-safe-to-drink-the-water-without-filtering",
+"title": "Where in the Alps is it safe to drink the water without filtering?",
+"category": "medical-first-aid"
+},
+{
+"path": "questions/19254/official-providers-of-topographic-maps-per-country",
+"title": "\"Official\" providers of topographic maps per country",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/13604/are-corpses-on-mount-everest-used-as-way-points",
+"title": "Are corpses on Mount Everest used as way-points?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/24498/as-of-2019-why-do-mountaineering-courses-still-teach-how-to-use-a-paper-map",
+"title": "As of 2019, why do mountaineering courses still teach how to use a paper map?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/6941/can-a-compass-needle-become-de-magnetized-over-time",
+"title": "Can a compass needle become de-magnetized over time?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/15215/compass-compatibility-can-i-use-my-us-compass-in-australia",
+"title": "Compass compatibility: Can I use my US compass in Australia?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/1611/group-protocol-should-the-group-become-separated",
+"title": "Group protocol should the group become separated",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/13937/how-can-i-find-north-from-the-stars-without-recognizable-constellations",
+"title": "How can I find north from the stars without recognizable constellations?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/18961/how-can-i-get-a-gps-location-for-this-tree-on-a-distant-hillside",
+"title": "How can I get a GPS location for this tree on a distant hillside?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/100/how-can-you-navigate-determine-your-location-in-thick-fog",
+"title": "How can you navigate / determine your location in thick fog?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/9/how-can-you-navigate-without-a-compass-or-gps",
+"title": "How can you navigate without a compass or GPS",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/21454/how-do-you-know-you-have-reached-north-or-south-pole-without-gps",
+"title": "How do you know you have reached North or South Pole without GPS?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/6686/how-do-you-locate-the-north-star",
+"title": "How do you locate the \"North Star\"?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/10345/how-much-distance-is-there-between-true-north-and-magnetic-north-poles",
+"title": "How much distance is there between True North and Magnetic North Poles?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/1921/how-to-estimate-distances-while-at-sea",
+"title": "How to estimate distances while at sea?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/15348/how-to-temporarily-mark-a-trail",
+"title": "How to temporarily mark a trail?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/10334/i-never-adjust-for-true-north-is-this-bad-practice",
+"title": "I never adjust for true north. Is this bad practice?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/24678/what-advantage-does-the-what3words-coordinate-system-have-over-other-tradition",
+"title": "What advantage does the what3words coordinate system have over other, traditional systems?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/5959/what-format-should-i-use-to-report-my-location-to-emergency-responders",
+"title": "What format should I use to report my location to emergency responders?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/243/what-should-i-do-when-i-m-lost",
+"title": "What should I do when I'm lost?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/14916/why-would-one-aim-off-when-navigating-with-a-map-and-compass",
+"title": "Why would one aim off when navigating with a map and compass?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/16483/why-would-one-choose-to-use-a-harvey-map-rather-than-an-ordnance-survey-map",
+"title": "Why would one choose to use a Harvey map rather than an Ordnance Survey map?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/11557/will-a-compass-work-underground-or-underwater",
+"title": "Will a compass work underground or underwater?",
+"category": "navigation-mapping"
+},
+{
+"path": "questions/1915/bowline-knot-end-at-the-inside-or-outside",
+"title": "Bowline knot, end at the inside or outside?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/508/climbing-rope-is-rated-to-x-uiaa-falls-what-is-a-uiaa-fall",
+"title": "Climbing rope is rated to X UIAA falls. What is a UIAA fall?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/19001/compromised-ropes-in-retail-stores",
+"title": "Compromised Ropes in Retail Stores",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/16272/how-do-you-tie-in-to-the-centre-of-a-rope",
+"title": "How do you tie in to the centre of a rope?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/19452/how-fast-does-a-climbing-rope-recover-its-dynamic-properties-after-a-fall",
+"title": "How fast does a climbing rope recover its dynamic properties after a fall?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3798/how-safe-is-the-bowline-knot-in-different-situations",
+"title": "How safe is the bowline knot in different situations?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5833/how-should-a-climbing-rope-be-cleaned",
+"title": "How should a climbing rope be cleaned?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5789/how-should-a-climbing-rope-be-stored",
+"title": "How should a climbing rope be stored?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6580/how-to-safely-mark-a-rope",
+"title": "How to safely mark a rope",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1942/ideal-and-minimal-rope-diameter-for-lead-climbing",
+"title": "Ideal and Minimal Rope Diameter for Lead Climbing",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/15062/is-it-dangerous-to-rope-together-on-an-ascent-of-hard-packed-ice",
+"title": "Is it dangerous to rope together on an ascent of hard packed ice?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5577/is-it-safe-to-cut-a-climbing-rope-in-half",
+"title": "Is it safe to cut a climbing rope in half?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/21756/is-there-a-way-to-find-out-the-age-of-climbing-ropes",
+"title": "Is there a way to find out the age of climbing ropes?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/22911/most-practical-knots-for-hitching-a-line-to-an-object-while-keeping-the-bitter",
+"title": "Most practical knots for hitching a line to an object while keeping the bitter end as tight as possible, without sag?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1635/things-to-keep-away-from-climbing-ropes",
+"title": "Things to keep away from climbing ropes",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1693/using-a-girth-hitch-in-alpine-draws",
+"title": "Using a Girth Hitch in Alpine Draws",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/73/what-are-good-knots-to-know-for-camping-and-backpacking",
+"title": "What are good knots to know for camping and backpacking?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/8474/what-is-the-difference-between-dry-rope-non-dry-rope-and-dry-core-rope",
+"title": "What is the difference between \"dry rope\", \"non-dry rope\" and \"dry core rope\"?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5270/when-should-i-retire-my-rope",
+"title": "When should I retire my rope",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1126/which-knot-for-climbing-figure-eight-yosemite-bowline-bowline-on-a-bight",
+"title": "Which knot for climbing: figure eight, yosemite bowline, bowline on a bight?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5894/can-groundwater-still-be-consumed-if-after-boiling-the-water-turns-brown-with-",
+"title": "Can groundwater still be consumed if after boiling the water turns brown with an oily substance floating on top?",
+"category": "water"
+},
+{
+"path": "questions/16923/can-you-boil-decontaminate-water-with-heat-from-a-magnifying-glass",
+"title": "Can you boil/decontaminate water with heat from a magnifying glass?",
+"category": "water"
+},
+{
+"path": "questions/815/do-iodine-water-treatment-tablets-have-negative-effects",
+"title": "Do iodine water treatment tablets have negative effects?",
+"category": "water"
+},
+{
+"path": "questions/5106/do-you-need-to-purify-all-mountain-water-sources",
+"title": "Do you need to purify all mountain water sources",
+"category": "water"
+},
+{
+"path": "questions/11322/does-a-life-straw-replace-my-water-while-hiking",
+"title": "Does a life-straw replace my water while hiking?",
+"category": "water"
+},
+{
+"path": "questions/1117/how-long-does-water-need-to-be-boiled-for-to-kill-all-bacteria-viruses",
+"title": "How long does water need to be boiled for to kill all bacteria / viruses?",
+"category": "water"
+},
+{
+"path": "questions/4929/how-safe-is-drinking-distilled-water",
+"title": "How safe is drinking distilled water?",
+"category": "water"
+},
+{
+"path": "questions/22170/how-to-melt-snow-without-fire-or-body-heat",
+"title": "How to melt snow without fire or body heat?",
+"category": "water"
+},
+{
+"path": "questions/11177/in-a-survival-situation-should-i-drink-unpurified-water",
+"title": "In a survival situation, should I drink unpurified water?",
+"category": "water"
+},
+{
+"path": "questions/264/is-drinking-urine-safe",
+"title": "Is drinking urine safe?",
+"category": "water"
+},
+{
+"path": "questions/20597/ways-to-desalinate-water-when-lost-at-sea",
+"title": "Ways to desalinate water when \"lost at sea\"?",
+"category": "water"
+},
+{
+"path": "questions/29/what-are-the-different-methods-to-purify-water",
+"title": "What are the different methods to purify water?",
+"category": "water"
+},
+{
+"path": "questions/7/what-is-the-safest-way-to-purify-water",
+"title": "What is the safest way to purify water?",
+"category": "water"
+},
+{
+"path": "questions/11100/why-are-people-so-worried-about-giardia",
+"title": "Why are people so worried about Giardia?",
+"category": "water"
+},
+{
+"path": "questions/14837/are-there-any-techniques-for-starting-and-maintaining-a-fire-in-snow",
+"title": "Are there any techniques for starting and maintaining a fire in snow?",
+"category": "weather"
+},
+{
+"path": "questions/19535/caught-in-the-rain-without-rainwear-or-raingear",
+"title": "Caught in the rain without rainwear or raingear",
+"category": "weather"
+},
+{
+"path": "questions/488/does-eating-snow-help-dehydration",
+"title": "Does eating snow help dehydration?",
+"category": "weather"
+},
+{
+"path": "questions/23/how-does-one-dry-clothes-in-humid-weather",
+"title": "How does one dry clothes in humid weather?",
+"category": "weather"
+},
+{
+"path": "questions/91/is-digging-a-cold-hole-really-effective-when-sheltering-in-a-snowed-area",
+"title": "Is digging a \"cold hole\" really effective when sheltering in a snowed area?",
+"category": "weather"
+},
+{
+"path": "questions/6084/pitching-a-tent-in-the-rain",
+"title": "Pitching a tent in the rain?",
+"category": "weather"
+},
+{
+"path": "questions/10202/protection-from-rain-running-vs-walking",
+"title": "Protection from rain - running vs. walking",
+"category": "weather"
+},
+{
+"path": "questions/3609/rappelling-in-the-rain",
+"title": "Rappelling in the Rain",
+"category": "weather"
+},
+{
+"path": "questions/5935/reacting-to-tornado-warnings-while-camping-with-no-buildings-nearby",
+"title": "Reacting to tornado warnings while camping with no buildings nearby",
+"category": "weather"
+},
+{
+"path": "questions/21739/skis-versus-snow-shoes-when-to-choose-which-for-travelling-the-backcountry",
+"title": "Skis versus snow shoes - when to choose which for travelling the backcountry?",
+"category": "weather"
+},
+{
+"path": "questions/19841/why-do-upside-down-tree-leaves-mean-rain",
+"title": "Why do upside down tree leaves mean rain",
+"category": "weather"
+},
+{
+"path": "questions/15459/due-to-the-sheep-in-the-settlement-the-surrounding-area-has-no-mosquitoes",
+"title": "\"Due to the sheep in the settlement the surrounding area has no mosquitoes\"",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/5758/activities-at-the-campsite",
+"title": "Activities at the campsite",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1244/am-i-likely-to-need-multiple-pairs-of-boots-on-the-appalachian-trail",
+"title": "Am I likely to need multiple pairs of boots on the Appalachian Trail?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11920/am-i-packing-too-much-for-a-2-3-day-hike-in-the-forests",
+"title": "Am I packing too much for a 2-3 day hike in the forests?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10913/any-reason-to-carry-a-mug-outside-of-the-backpack",
+"title": "Any reason to carry a mug outside of the backpack?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4829/are-bears-attracted-by-lotions-and-perfumes",
+"title": "Are bears attracted by Lotions and Perfumes?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1077/are-carabiners-useful-tools-to-have-in-the-wilderness-if-so-what-would-they-be",
+"title": "Are carabiners useful tools to have in the wilderness? If so, what would they be used for?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/5224/are-dark-or-bright-clothings-preferable-in-the-desert",
+"title": "Are dark or bright clothings preferable in the desert?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/918/are-ice-grips-worth-buying",
+"title": "Are Ice grips worth buying?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/16425/are-longer-kayaks-faster-than-shorter-ones",
+"title": "Are longer kayaks faster than shorter ones?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/7116/are-mittens-warmer-than-gloves",
+"title": "Are mittens warmer than gloves?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15731/are-there-any-advantages-while-backpacking-to-hike-during-the-night-and-sleep-",
+"title": "Are there any advantages while backpacking to hike during the night and sleep during the day?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20247/are-there-any-natural-materials-found-in-the-wild-that-can-be-used-as-an-effec",
+"title": "Are there any natural materials found in the wild that can be used as an effective sunscreen?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20595/are-there-any-natural-materials-that-can-be-used-as-a-magnifying-lens-or-to-cr",
+"title": "Are there any natural materials that can be used as a magnifying lens (or to craft one)?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15370/are-there-any-situations-while-backpacking-that-would-require-a-watch",
+"title": "Are there any situations while backpacking that would require a watch?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15498/are-there-any-tips-for-preventing-a-vehicle-from-being-broken-into-while-parke",
+"title": "Are there any tips for preventing a vehicle from being broken into while parked at a trailhead?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/129/are-there-beaches-on-the-east-coast-us-where-one-can-camp-without-a-permit",
+"title": "Are there beaches on the East Coast (US) where one can camp without a permit?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/13254/are-there-wild-camping-rules-in-scotland",
+"title": "Are there wild camping rules in Scotland?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/27229/are-wheelchairs-allowed-in-us-wilderness-areas",
+"title": "Are wheelchairs allowed in US Wilderness Areas?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/226/as-an-experienced-backpacker-in-the-eastern-us-what-should-i-know-before-hikin",
+"title": "As an experienced backpacker in the Eastern US, what should I know before hiking in the Western US?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20821/at-what-angle-should-an-ice-screw-be-screwed-into-the-ice",
+"title": "At what angle should an ice screw be screwed into the ice?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/8990/backpacking-through-rain",
+"title": "Backpacking Through Rain",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/22755/backpacking-with-incontinence",
+"title": "Backpacking with incontinence",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/617/backup-prusik-for-abseiling-where-does-it-go",
+"title": "Backup prusik for Abseiling: Where does it go?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/86/bear-bags-vs-bear-canisters-which-is-better",
+"title": "Bear bags vs Bear canisters: which is better?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/3740/bear-spray-vs-rifles-against-polar-bears",
+"title": "Bear spray vs. rifles against polar bears?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1080/best-way-to-illuminate-a-tent",
+"title": "Best way to illuminate a tent?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/409/best-safest-wood-to-carve-a-spoon-from",
+"title": "Best/safest wood to carve a spoon from?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1938/buying-a-backpacking-knife",
+"title": "Buying a Backpacking Knife",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/5898/camping-with-a-dog-for-the-first-time",
+"title": "Camping with a dog for the first time",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10724/can-a-human-survive-in-saltstraumen-or-other-whirlpool",
+"title": "Can a human survive in Saltstraumen or other whirlpool?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/27571/can-a-kid-ever-dive-too-deep-while-snorkeling-and-breath-hold-diving",
+"title": "Can a kid ever dive too deep while snorkeling and breath-hold diving?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/17390/can-horses-ford-deeper-faster-rivers-than-humans",
+"title": "Can horses ford deeper/faster rivers than humans?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/24087/can-i-fix-my-boots-by-gluing-the-soles-back-on",
+"title": "Can I fix my boots by gluing the soles back on?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/16260/can-i-safely-camp-in-deer-tick-country-and-if-so-how",
+"title": "Can I safely camp in deer tick country, and if so, how?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/5/can-i-sail-a-raft-on-a-european-river-with-commercial-traffic",
+"title": "Can I sail a raft on a European river with commercial traffic?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/679/can-i-shoot-a-bear-in-self-defense",
+"title": "Can I shoot a bear in self-defense?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1576/can-i-use-a-bicycle-helmet-as-a-climbing-helmet",
+"title": "Can I use a bicycle helmet as a climbing helmet?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11290/can-i-use-one-helmet-for-both-kayaking-and-skiing",
+"title": "Can I use one helmet for both kayaking and skiing?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1404/can-oiling-keep-tools-from-rusting",
+"title": "Can oiling keep tools from rusting?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/19155/can-removing-dead-wood-harm-the-ecosystem",
+"title": "Can removing dead wood harm the ecosystem?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/18499/can-smoldering-logs-be-transported-safely",
+"title": "Can smoldering logs be transported safely",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/848/can-you-eat-pine-needles-in-an-emergency",
+"title": "Can you eat pine needles in an emergency?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/3328/canadian-law-with-respect-to-knives",
+"title": "Canadian Law with respect to knives",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/8100/climbing-barefoot-in-toe-shoes",
+"title": "Climbing barefoot/in toe-shoes?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/6765/climbing-kilimanjaro-for-a-newbie",
+"title": "Climbing Kilimanjaro for a newbie",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/5292/climbing-with-a-much-lighter-partner",
+"title": "Climbing with a much lighter partner?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/29190/cold-water-swimming-go-in-quickly-or-slowly",
+"title": "Cold water swimming - go in quickly? or slowly?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4276/commuting-by-canoe",
+"title": "Commuting by canoe",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/9284/considerations-for-older-campers",
+"title": "Considerations for older campers?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/27469/correct-technique-to-traverse-exposed-sandy-rock-slope",
+"title": "Correct technique to traverse exposed sandy rock slope",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4400/dealing-with-rashes-between-thighs-and-around-the-groin",
+"title": "Dealing with rashes between thighs and around the groin",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10359/descending-a-dry-grass-slope-with-serious-inclination-and-exposure",
+"title": "Descending a dry grass slope with serious inclination and exposure",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/3187/do-bear-safe-rules-still-apply-in-the-winter",
+"title": "Do bear-safe rules still apply in the winter?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/454/do-i-need-any-technical-skills-to-climb-kilimanjaro",
+"title": "Do I need any technical skills to climb Kilimanjaro?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1349/do-i-need-to-worry-about-feral-dogs-or-even-wolves-if-i-camp-in-random-areas-w",
+"title": "Do I need to worry about feral dogs or even wolves if I camp in random areas while hitchhiking in Georgia (the country)?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/18619/do-i-still-need-to-hang-my-food-if-i-have-two-large-dogs",
+"title": "Do I still need to hang my food if I have two large dogs?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11120/do-tent-colors-have-functional-purposes",
+"title": "Do tent colors have functional purposes?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1298/does-any-tent-manufacturer-promise-to-have-replacement-parts",
+"title": "Does any tent manufacturer promise to have replacement parts?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/7571/does-cotton-really-kill",
+"title": "Does cotton really kill?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/215/does-hiking-with-a-dog-in-bear-country-increase-or-decrease-your-risk-of-a-bea",
+"title": "Does hiking with a dog in bear country increase or decrease your risk of a bear encounter?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4778/does-packing-boots-with-newspaper-make-them-dry-faster",
+"title": "Does packing boots with newspaper make them dry faster?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/9226/does-touching-the-tent-outer-wall-from-the-inside-make-it-leak",
+"title": "Does touching the tent outer wall from the inside make it leak?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1194/driving-tent-pegs-into-rocky-ground",
+"title": "Driving tent pegs into rocky ground",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20703/etiquette-of-playing-musical-instruments-on-popular-hikes",
+"title": "Etiquette of playing musical instruments on popular hikes",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/854/first-time-camping-need-advice",
+"title": "First time camping, need advice",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1678/fivefingers-or-hiking-boots",
+"title": "FiveFingers or hiking boots?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/21178/given-limited-space-and-weight-what-should-i-carry-to-get-a-fire-going-with-da",
+"title": "Given limited space and weight what should I carry to get a fire going with damp wood?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1330/good-books-to-learn-survival",
+"title": "Good books to learn survival?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/865/handling-feminine-hygiene-on-multiple-month-treks",
+"title": "Handling feminine hygiene on multiple-month treks?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/9101/hiking-how-to-start",
+"title": "Hiking: How to start?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/22390/hot-coffee-brewing-solutions-for-deep-woods-camping",
+"title": "Hot coffee brewing solutions for deep woods camping",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/19151/how-are-camping-fuels-named-in-different-languages-and-geographies",
+"title": "How are camping fuels named in different languages and geographies?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1284/how-are-sleeping-bag-temperature-ratings-determined",
+"title": "How are sleeping bag temperature ratings determined?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4645/how-can-i-boost-morale-on-long-backpacking-trips",
+"title": "How can I boost morale on long backpacking trips?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/27884/how-can-i-clean-teeth-in-the-backcountry",
+"title": "How can I clean teeth in the backcountry?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/13784/how-can-i-clear-spiderwebs-in-my-path-while-hiking",
+"title": "How can I clear spiderwebs in my path while hiking?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/28787/how-can-i-find-the-safest-place-to-cross-a-frozen-river-from-a-map",
+"title": "How can I find the safest place to cross a frozen river from a map?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1154/how-can-i-hike-across-the-grand-canyon-if-i-don-t-have-a-backcountry-permit",
+"title": "How can I hike across the Grand Canyon if I don't have a backcountry permit?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/23065/how-can-i-protect-myself-in-case-of-a-human-attack-like-the-murders-of-the-hik",
+"title": "How can I protect myself in case of a human attack like the murders of the hikers Jespersen and Ueland in Morocco?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10723/how-can-i-recognize-a-game-trail",
+"title": "How can I recognize a game trail?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/347/how-can-i-rescue-someone-lost-in-an-avalanche",
+"title": "How can I rescue someone lost in an avalanche?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/265/how-can-i-signal-for-help-in-the-wilderness",
+"title": "How can I signal for help in the wilderness?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/218/how-can-i-start-a-fire-by-rubbing-two-sticks-together",
+"title": "How can I start a fire by rubbing two sticks together?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/56/how-can-i-stay-warm-in-subzero-0degf-18degc-weather",
+"title": "How can I stay warm in subzero (0°F, -18°C ) weather?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/6063/how-can-i-take-duct-tape-with-me-backpacking",
+"title": "How can I take duct tape with me backpacking?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/16770/how-can-i-take-keys-with-me-while-swimming",
+"title": "How can I take keys with me while swimming?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4383/how-can-i-tell-if-a-natural-snow-bridge-is-safe-to-cross",
+"title": "How can I tell if a natural snow-bridge is safe to cross?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/6319/how-can-i-tell-if-i-am-dehydrated-or-have-low-electrolytes-need-salt-etc",
+"title": "How can I tell if I am dehydrated or have low electrolytes (need salt, etc.)?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/13812/how-can-i-tell-which-way-is-down-wind",
+"title": "How can I tell which way is \"down wind\"",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/7800/how-can-i-vet-a-hiking-partner-without-potential-hard-feelings",
+"title": "How can I vet a hiking partner without potential hard feelings?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1187/how-can-you-prevent-kids-getting-lost-at-night-while-camping",
+"title": "How can you prevent kids getting lost at night while camping?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/14533/how-dangerous-are-kangaroos",
+"title": "How dangerous are kangaroos?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4655/how-dangerous-is-a-band-of-coyotes-to-a-lone-unarmed-human",
+"title": "How dangerous is a band of coyotes to a lone, unarmed human?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11890/how-dangerous-is-it-to-climb-a-via-ferrata-alone",
+"title": "How dangerous is it to climb a via ferrata alone?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/17218/how-do-forest-fires-affect-rock-climbing",
+"title": "How do forest fires affect rock climbing?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10538/how-do-i-disinfect-my-wool-hiking-socks",
+"title": "How do I disinfect my wool hiking socks?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10716/how-do-i-get-my-fingers-and-toes-warm-before-rock-climbing-at-cold-temperature",
+"title": "How do I get my fingers and toes warm before rock climbing at cold temperatures?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/8422/how-do-i-help-people-enjoy-camping-hiking-like-i-do",
+"title": "How do I help people enjoy camping/hiking (like I do!)?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/312/how-do-i-inspect-a-climbing-rope",
+"title": "How do I inspect a climbing rope?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/18330/how-do-i-make-people-not-be-afraid-of-me-and-my-dogs",
+"title": "How do I make people not be afraid of me and my dogs?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/54/how-do-i-take-care-of-gore-tex-boots",
+"title": "How do I take care of Gore-Tex boots?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/206/how-do-i-tie-a-sleeping-bag-to-my-backpack",
+"title": "How do I tie a sleeping bag to my backpack?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/22760/how-do-people-drown-while-wearing-a-life-jacket",
+"title": "How do people drown while wearing a life jacket?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15998/how-do-you-aim-a-signal-mirror",
+"title": "How do you aim a signal mirror?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/708/how-do-you-determine-how-long-a-hike-will-take",
+"title": "How do you determine how long a hike will take?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20940/how-do-you-take-field-notes-at-below-0-degc-without-freezing-fingers",
+"title": "How do you take field notes at below 0 °C, without freezing fingers?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1722/how-does-one-steer-a-two-person-kayak",
+"title": "How does one steer a two-person kayak?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/16367/how-does-water-depth-affect-swimming-safety-why-do-signs-especially-in-the-uk-",
+"title": "How does water depth affect swimming safety? Why do signs, especially in the UK, say \"DANGER: deep water\"?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/25907/how-efficient-is-travel-by-canoe",
+"title": "How efficient is travel by canoe?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/16521/how-far-from-a-road-do-i-need-to-be-to-not-hear-the-traffic",
+"title": "How far from a road do I need to be to not hear the traffic?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/8106/how-far-would-you-need-to-fall-for-it-to-be-fatal",
+"title": "How far would you need to fall for it to be fatal?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/25121/how-fast-can-you-typically-hike-through-untracked-forest",
+"title": "How fast can you typically hike through untracked forest?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4114/how-is-hygiene-possible-with-ocean-water-only",
+"title": "How is hygiene possible with ocean water only?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/19606/how-many-days-does-it-take-to-reach-hiking-x-miles-per-day",
+"title": "How many days does it take to reach hiking X miles per day?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/9485/how-much-should-your-backpack-weigh",
+"title": "How much should your backpack weigh?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/180/how-much-water-should-be-carried-while-hiking-in-the-desert",
+"title": "How much water should be carried while hiking  in the desert?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4589/how-safe-is-it-for-women-to-hike-alone",
+"title": "How safe is it for women to hike alone?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4826/how-safe-is-sleeping-in-bear-country",
+"title": "How safe is sleeping in bear country?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/592/how-should-i-check-climbing-equipment-to-tell-whether-it-is-still-safe-to-use",
+"title": "How should I check climbing equipment to tell whether it is still safe to use?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/141/how-should-i-check-that-the-anchor-is-secure-when-i-anchor-a-small-yacht-off-u",
+"title": "How should I check that the anchor is secure when I anchor a small yacht off unfamiliar land?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15559/how-should-i-plan-a-backpacking-trip-with-people-who-have-never-backpacked-bef",
+"title": "How should I plan a backpacking trip with people who have never backpacked before?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11269/how-should-i-vet-belayers-what-should-i-look-for",
+"title": "How should I vet belayers? What should I look for?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/9745/how-to-spot-someone-who-is-bouldering",
+"title": "How to \"spot\" someone who is bouldering?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4346/how-to-apply-duct-tape-and-mole-skin-to-prevent-blisters",
+"title": "How to apply duct tape and mole skin to prevent blisters?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/7969/how-to-attach-signs-to-trees-considering-tree-growth",
+"title": "How to attach signs to trees considering tree growth?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20826/how-to-avoid-getting-wet-when-exiting-a-canoe-onto-shore",
+"title": "How to avoid getting wet when exiting a canoe onto shore?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/6948/how-to-carry-a-bicycle-in-a-canoe",
+"title": "How to carry a bicycle in a canoe?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/766/how-to-carry-water-in-freezing-temperatures",
+"title": "How to carry water in freezing temperatures?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/835/how-to-cheaply-introduce-someone-to-backpacking",
+"title": "How to cheaply introduce someone to backpacking",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/7274/how-to-check-if-a-fence-or-cable-has-electricity-without-having-special-tools",
+"title": "How to check if a fence or cable has electricity without having special tools?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1627/how-to-clean-a-sleeping-bag",
+"title": "How to clean a sleeping bag ?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/16154/how-to-clean-and-refurbish-a-victorinox-swiss-army-knife",
+"title": "How to clean and refurbish a Victorinox Swiss Army Knife?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/6748/how-to-clean-vomit-from-camping-gear",
+"title": "How to clean vomit from camping gear?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/969/how-to-deal-with-condensation-in-a-tent",
+"title": "How to deal with condensation in a tent?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15036/how-to-deal-with-dogs-on-public-hiking-trails",
+"title": "How to deal with dogs on public hiking trails?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4156/how-to-deal-with-little-flies-flying-into-the-eyes",
+"title": "How to deal with little flies flying into the eyes?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15247/how-to-empty-bowels-before-a-hike",
+"title": "How to empty bowels before a hike?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/19638/how-to-fight-bugs-when-hiking",
+"title": "How to fight bugs when hiking?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/8581/how-to-hike-without-constantly-looking-down",
+"title": "How to hike without constantly looking down",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1900/how-to-inspect-climbing-bolts",
+"title": "How to inspect climbing bolts?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/21996/how-to-keep-bees-out-of-canned-beverages",
+"title": "How to keep bees out of canned beverages?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/13738/how-to-keep-small-rocks-and-stones-out-of-hiking-boots",
+"title": "How to keep small rocks and stones out of hiking boots?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/768/how-to-keep-water-cold-in-hot-weather",
+"title": "How to keep water cold in hot weather?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/8204/how-to-light-a-fire-with-wet-firewood",
+"title": "How to light a fire with wet firewood?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/6956/how-to-make-diy-ice-axe-protectors",
+"title": "How to make DIY ice axe protectors?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/2999/how-to-properly-lace-hiking-boots",
+"title": "How to properly lace hiking boots?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/6753/how-to-quickly-warm-a-tent",
+"title": "How To Quickly Warm A Tent",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/9999/how-to-react-to-an-aggressive-boar",
+"title": "How to react to an aggressive boar",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/9849/how-to-react-to-cattle-charging-towards-you",
+"title": "How to react to cattle charging towards you?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/16405/how-to-safely-rescue-someone-drowning-as-an-untrained-bystander",
+"title": "How to safely rescue someone drowning as an untrained bystander?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10271/how-to-shoo-away-a-stubborn-stray-dog-dogs-who-decides-to-tag-along-with-you-o",
+"title": "How to Shoo away a stubborn Stray Dog/Dogs who decides to tag along with you on a hike?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1044/how-to-stay-clean-on-a-multi-day-hike",
+"title": "How to stay clean on a multi-day hike?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/5087/how-to-store-a-backpack-while-sleeping",
+"title": "How to store a backpack while sleeping?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/21828/how-to-test-the-sharpness-of-a-knife",
+"title": "How to test the sharpness of a knife?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/9256/how-to-tow-a-canoe-with-a-bicycle",
+"title": "How to tow a canoe with a bicycle?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/19221/how-to-transport-personal-belongings-while-swimming-long-distance",
+"title": "How to transport personal belongings while swimming long distance?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/3839/how-to-warm-up-your-cold-toes-and-fingers",
+"title": "How to warm up your cold toes and fingers?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/22770/how-to-win-against-ants",
+"title": "How to win against ants",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/14121/how-would-you-help-a-snapping-turtle-cross-the-road",
+"title": "How would you help a snapping turtle cross the road?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20928/i-am-lost-i-found-a-trail-which-way-do-i-go",
+"title": "I am lost, I found a trail, which way do I go?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/7602/ice-skating-on-a-frozen-lake-how-thick-should-the-ice-be",
+"title": "Ice skating on a frozen lake -- how thick should the ice be?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/677/if-i-cross-paths-with-a-bear-what-should-i-do",
+"title": "If I cross paths with a bear, what should I do?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/657/if-i-have-to-cross-an-icy-flowing-river-what-are-some-ways-i-can-cross-safely",
+"title": "If I have to cross an icy, flowing river, what are some ways I can cross safely?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/216/if-i-m-caught-in-lightning-above-tree-line-what-should-i-do",
+"title": "If I'm caught in lightning above tree-line, what should I do?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/665/if-lost-in-the-wilderness-what-is-the-first-thing-i-should-do",
+"title": "If lost in the wilderness, what is the first thing I should do?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20340/if-you-are-kayaking-on-a-lake-when-whitecaps-start-happening-what-is-the-best-",
+"title": "If you are kayaking on a lake when whitecaps start happening, what is the best direction to get off the lake?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/7577/in-cold-conditions-will-you-freeze-faster-wearing-wet-clothes-than-not-wearing",
+"title": "In cold conditions, will you freeze faster wearing wet clothes than not wearing any?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20348/in-the-us-is-it-legal-to-travel-on-any-river-creek-my-canoe-will-navigate",
+"title": "In the US is it legal to travel on any river/creek my canoe will navigate?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/13910/is-ankle-support-a-myth",
+"title": "Is ankle support a myth?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1013/is-it-better-to-wear-one-pair-or-two-pairs-of-socks-while-hiking",
+"title": "Is it better to wear one pair or two pairs of socks while hiking?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/3379/is-it-dangerous-to-sleep-in-a-tent-alone-in-a-forest-in-20degc",
+"title": "Is it dangerous to sleep in a tent alone in a forest in -20°C?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/3/is-it-legal-to-camp-on-private-property-in-russia",
+"title": "Is it legal to camp on private property in Russia?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11681/is-it-offensive-to-just-hike-on-a-pilgrim-s-path",
+"title": "Is it offensive to \"just hike\" on a pilgrim's path?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/18391/is-it-poor-etiquette-to-ask-fellow-backpackers-where-they-have-been-where-they",
+"title": "Is it poor etiquette to ask fellow backpackers where they have been/where they are going?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4310/is-it-possible-to-develop-immunity-against-mosquitos",
+"title": "Is it possible to develop immunity against mosquitos?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/25280/is-it-possible-to-hike-over-30km-per-day",
+"title": "Is it possible to hike over 30km per day?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/437/is-it-possible-to-rappel-with-only-a-rope-no-harness-prusik-cord-or-other-gear",
+"title": "Is it possible to rappel with only a rope? (No harness, Prusik cord, or other gear)",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/536/is-it-practical-to-get-a-satellite-phone-for-communication-from-remote-areas",
+"title": "Is it practical to get a satellite phone for communication from remote areas?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1259/is-it-safe-to-camp-in-the-desert-without-a-tent",
+"title": "Is it safe to camp in the desert without a tent?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/27169/is-it-significantly-faster-to-hike-along-a-river-bank",
+"title": "Is it significantly faster to hike along a river bank?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/14576/is-it-unsafe-to-ride-the-chair-lift-with-a-backpack",
+"title": "Is it unsafe to ride the chair lift with a backpack?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/18805/is-it-warmer-to-sleep-in-a-car-or-in-a-tent",
+"title": "Is it warmer to sleep in a car or in a tent?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/645/is-it-warmer-to-sleep-naked-in-a-sleeping-bag",
+"title": "Is it warmer to sleep naked in a sleeping bag?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15137/is-it-warmer-to-sleep-with-an-empty-bladder",
+"title": "Is it warmer to sleep with an empty bladder?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/3012/is-my-tent-pole-a-lightning-rod",
+"title": "Is my tent pole a lightning rod?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/24205/is-sleeping-on-the-ground-in-cold-weather-better-than-on-an-air-mattress",
+"title": "Is sleeping on the ground in cold weather better than on an air mattress?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/494/is-there-a-definitive-list-of-the-tallest-mountains-in-the-world-that-require-",
+"title": "Is there a definitive list of the tallest mountains in the world that require little or no mountaineering experience?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1488/is-there-a-kayak-paddleboard-for-large-people",
+"title": "Is there a kayak / paddleboard for large people?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/828/is-there-a-protective-substance-like-an-epoxy-i-can-use-on-my-feet-so-i-can-ba",
+"title": "Is there a protective substance, like an epoxy, I can use on my feet so I can backpack barefoot?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/24797/jumping-off-of-a-cliff-into-water-survival-tips",
+"title": "Jumping off of a cliff into water - survival tips",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/27/keeping-warm-in-an-emergency",
+"title": "Keeping warm in an emergency",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/21809/knife-as-defense-against-stray-dogs",
+"title": "Knife as defense against stray dogs",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/16719/life-jacket-for-a-person-without-arms",
+"title": "Life Jacket for a person without arms?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4181/light-weight-emergency-overnight-gear",
+"title": "Light-weight emergency overnight-gear",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/6038/maintaining-a-mountain-hut",
+"title": "Maintaining a Mountain Hut",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1649/material-of-shirt-for-desert-hiking",
+"title": "Material of shirt for desert hiking",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10098/meeting-an-unknown-snake-on-the-trail-what-is-the-best-thing-to-do",
+"title": "Meeting an unknown snake on the trail; what is the best thing to do?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4801/micro-fractures-in-climbing-equipments",
+"title": "Micro-Fractures in Climbing Equipments",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15959/modern-equivalent-of-a-flare-gun",
+"title": "Modern equivalent of a flare gun?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/14312/mountaineering-with-a-6-year-old-kid-in-winter",
+"title": "Mountaineering with a 6-year-old kid in winter",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/18740/my-car-broke-down-in-siberia-what-do-i-do-now",
+"title": "My car broke down in Siberia. What do I do now?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/7588/numbers-on-down-jackets",
+"title": "Numbers on down jackets",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4214/overview-of-free-and-open-huts-in-norway-outside-the-system-of-the-official-to",
+"title": "Overview of free and open huts in Norway outside the system of the official tourist association DNT",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/13618/plant-identification-methods",
+"title": "Plant identification methods",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/468/plastic-or-fiberglass-for-a-kayak",
+"title": "Plastic or fiberglass for a kayak?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/7803/pressing-the-knee-while-ascending",
+"title": "Pressing the knee while ascending",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1243/putting-in-contact-lenses-when-outdoors",
+"title": "Putting in contact lenses when outdoors",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/6875/ration-or-consume-water",
+"title": "Ration or consume water?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/14727/reacting-to-a-bee-attack",
+"title": "Reacting to a bee attack",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10042/repair-broken-plastic-buckle-in-the-middle-of-hiking-or-alternative-way-to-fix",
+"title": "Repair broken plastic buckle in the middle of hiking or alternative way to fix it",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20013/reusing-disposable-water-bottles-vs-buying-dedicated-bottles",
+"title": "Reusing disposable water bottles vs. buying dedicated bottles",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4098/sailing-with-a-child",
+"title": "Sailing with a child",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/866/should-a-hiker-be-concerned-about-wolves-in-the-back-country",
+"title": "Should a hiker be concerned about wolves in the back-country?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4197/should-i-be-worried-about-bears-when-sleeping-in-a-hammock",
+"title": "Should I be worried about bears when sleeping in a hammock?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/13363/should-i-eat-when-i-don-t-have-anything-to-drink-in-a-survival-situations",
+"title": "Should I eat when I don't have anything to drink in a survival situations?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/9674/should-i-run-if-i-see-wild-dogs",
+"title": "Should I run if I see wild dogs?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/18888/should-one-buy-a-higher-shoe-size-while-buying-hiking-shoes",
+"title": "Should one buy a higher shoe size while buying hiking shoes?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/3535/sleeping-in-twos-in-one-hammock",
+"title": "Sleeping in twos in one hammock",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/22904/sleeping-solo-in-a-double-sleeping-bag",
+"title": "Sleeping solo in a double sleeping bag",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/24340/surfacing-out-of-a-sunken-ship-submarine-survival-tips",
+"title": "Surfacing out of a sunken ship/submarine - Survival Tips",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/6257/survival-type-activies-for-scout-camp",
+"title": "Survival type activies for Scout camp",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11735/swimming-while-in-the-high-seas",
+"title": "Swimming while in the high seas",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/470/synthetic-vs-down-sleeping-bags",
+"title": "Synthetic vs Down sleeping bags?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1268/tent-and-sleeping-bag-pack-inside-or-strap-outside-a-backpack",
+"title": "Tent and sleeping bag: pack inside or strap outside a backpack?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11214/tent-inside-of-a-tent-any-improvement-in-warmth",
+"title": "Tent inside of a tent - any improvement in warmth?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/5798/tent-placement",
+"title": "Tent placement?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1677/the-best-solution-for-carrying-a-d-slr-when-hiking",
+"title": "The best solution for carrying a D-SLR when hiking",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1453/the-outdoors-solitude-and-dealing-with-loneliness",
+"title": "The outdoors, solitude and dealing with loneliness",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/9334/toothpaste-in-the-back-country-and-the-principle-of-leave-no-trace",
+"title": "Toothpaste in the back-country and the principle of leave no trace",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/27319/trumpeting-while-backpacking",
+"title": "Trumpeting while backpacking?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/19785/under-what-conditions-does-heating-a-tent-artificially-make-objective-sense",
+"title": "Under what conditions does heating a tent artificially make objective sense?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4893/walking-up-the-slopes-to-walk-brisk-or-to-walk-slow",
+"title": "Walking up the slopes. To walk brisk or to walk slow?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/354/washing-clothes-on-long-hikes",
+"title": "Washing clothes on long hikes",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4083/washing-dishes-with-seawater-or-freshwater",
+"title": "Washing dishes with seawater or freshwater?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/14789/what-animal-could-strip-all-the-bark-off-the-lower-7-feet-of-this-tree",
+"title": "What animal could strip all the bark off the lower 7 feet of this tree?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/681/what-are-areas-of-the-body-which-lose-heat-more-quickly-and-how-can-i-reduce-t",
+"title": "What are areas of the body which lose heat more quickly, and how can I reduce that loss?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20746/what-are-some-common-mistakes-to-avoid-when-trying-winter-camping-for-the-firs",
+"title": "What are some common mistakes to avoid when trying winter camping for the first time?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/6596/what-are-some-effective-ways-to-deal-with-sand-when-camping-on-or-near-the-bea",
+"title": "What are some effective ways to deal with sand when camping on or near the beach?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1386/what-are-some-good-games-to-play-with-children-on-hikes",
+"title": "What are some good games to play with children on hikes?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/16/what-are-some-good-tips-and-techniques-for-packing-a-backpack",
+"title": "What are some good tips and techniques for packing a backpack?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1068/what-are-some-things-to-keep-in-mind-when-stealth-camping",
+"title": "What are some things to keep in mind when stealth camping?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/746/what-are-some-toilet-paper-alternatives-you-could-use-in-the-woods",
+"title": "What are some toilet paper alternatives you could use in the woods?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11642/what-are-the-advantages-and-disadvantages-of-a-paracord-knife-handle",
+"title": "What are the advantages and disadvantages of a paracord knife handle?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4134/what-are-the-dangers-of-swimming-in-natural-waters",
+"title": "What are the dangers of swimming in natural waters?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15701/what-are-the-dangers-of-walking-barefoot-in-towns-cities",
+"title": "What are the dangers of walking barefoot in towns/cities?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/24885/what-are-the-differences-between-a-25-sleeping-bag-and-a-440-sleeping-bag-if-t",
+"title": "What are the differences between a $25 sleeping bag and a $440 sleeping bag if they have the same temp rating?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/457/what-are-the-downsides-to-sleeping-in-a-hammock-on-a-multi-day-hike",
+"title": "What are the downsides to sleeping in a hammock on a multi-day hike?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/81/what-are-the-most-effective-ways-to-start-a-fire-in-the-cold",
+"title": "What are the most effective ways to start a fire in the cold?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4203/what-are-the-odds-that-i-stand-a-chance-against-wild-boars",
+"title": "What are the odds that I stand a chance against Wild Boars?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1651/what-are-the-pros-and-cons-of-beards-as-they-relate-to-the-outdoors",
+"title": "What are the pros and cons of beards as they relate to the outdoors?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/132/what-can-i-do-about-those-obnoxious-biting-flies",
+"title": "What can I do about those obnoxious biting flies?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/3362/what-can-i-do-to-keep-my-hands-warm-while-using-touchscreens-in-the-winter",
+"title": "What can I do to keep my hands warm while using touchscreens in the winter?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/896/what-clothing-would-be-appropriate-for-hiking-in-18degc-with-up-to-30-km-hr-wi",
+"title": "What clothing would be appropriate for hiking in -18°C with up to 30 km/hr wind?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/25188/what-coastal-creature-leaves-braid-like-trace-that-has-clear-landing-and-take-",
+"title": "What coastal creature leaves braid-like trace that has clear landing and take off points?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/8142/what-do-i-do-if-a-black-bear-is-right-outside-my-tent",
+"title": "What do I do if a black bear is right outside my tent?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/42/what-do-i-do-to-prevent-and-treat-frostbite",
+"title": "What do I do to prevent and treat frostbite?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/101/what-do-i-need-to-look-for-in-good-quality-hiking-boots",
+"title": "What do I need to look for in good, quality hiking boots?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/459/what-do-you-do-if-you-see-a-cougar",
+"title": "What do you do if you see a cougar?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4307/what-do-you-risk-when-you-ignore-blisters-and-carry-on-walking",
+"title": "What do you risk when you ignore blisters and carry on walking?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20184/what-does-out-and-back-mean-in-terms-of-understanding-the-length-of-a-trail",
+"title": "What does \"out and back\" mean in terms of understanding the length of a trail?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/274/what-equipment-is-recommended-when-camping-with-a-baby",
+"title": "What equipment is recommended when camping with a baby?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/27909/what-exactly-is-so-wrong-with-playing-music-on-trails",
+"title": "What exactly is so wrong with playing music on trails?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/21252/what-gear-should-i-carry-along-for-winter-emergencies",
+"title": "What gear should I carry along for winter emergencies?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/6222/what-hazardous-wildlife-is-there-in-the-uk",
+"title": "What hazardous wildlife is there in the UK?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/913/what-is-a-buff",
+"title": "What is a buff?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4015/what-is-considered-a-water-source-and-why-is-it-recommended-to-camp-so-far-fro",
+"title": "What is considered a water source, and why is it recommended to camp so far from them?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/13006/what-is-fast-packing",
+"title": "What is Fast Packing?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20084/what-is-the-best-practice-to-secure-a-17ft-open-canoe-to-the-roof-of-a-vehicle",
+"title": "What is the best practice to secure a 17ft open canoe to the roof of a vehicle?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1275/what-is-the-best-way-to-cross-streams-while-backpacking",
+"title": "What is the best way to cross streams while backpacking?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/318/what-is-the-best-way-to-store-my-sleeping-bag-for-long-periods-of-time",
+"title": "What is the best way to store my sleeping bag for long periods of time?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20424/what-is-the-difference-between-a-canoe-and-a-kayak",
+"title": "What is the difference between a Canoe and a Kayak?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/14/what-is-the-difference-between-external-and-internal-frame-packs",
+"title": "What is the difference between external and internal-frame packs?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10/what-is-the-fastest-method-to-break-in-full-leather-boots",
+"title": "What is the fastest method to 'break in' full leather boots?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/7217/what-is-the-first-thing-to-do-when-buried-in-an-avalanche",
+"title": "What is the first thing to do, when buried in an avalanche?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/5695/what-is-the-point-of-hiking-boots-versus-any-comfortable-walking-shoes",
+"title": "What is the point of hiking boots, versus any comfortable walking shoes?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15967/what-is-the-risk-of-starting-a-forest-or-wildland-fire-with-a-flare-gun",
+"title": "What is the risk of starting a forest or wildland fire with a flare gun?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/23023/what-is-this-red-bug-infesting-some-trees-in-southern-germany",
+"title": "What is this red bug infesting some trees in southern Germany?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/8687/what-is-this-tool-on-a-swiss-army-knife-for",
+"title": "What is this tool on a Swiss Army knife for?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/24913/what-is-wrong-with-the-rabbit-living-under-my-shed",
+"title": "What is wrong with the rabbit living under my shed?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/623/what-pattern-for-casual-planes-should-a-castaway-create-on-a-desert-island",
+"title": "What pattern for casual planes should a castaway create on a desert island?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/225/what-precautions-should-i-take-to-protect-myself-and-my-camp-from-bears",
+"title": "What precautions should I take to protect myself and my camp from bears?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11430/what-should-i-do-about-large-trash-left-by-others-on-usfs-land",
+"title": "What should I do about large trash left by others on USFS land?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/13283/what-should-i-do-to-avoid-ticks-other-than-wear-particular-clothing",
+"title": "What should I do to avoid ticks other than wear particular clothing?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/5822/what-should-i-do-when-caught-in-lightning-while-in-my-tent",
+"title": "What should I do when caught in lightning while in my tent?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15717/what-should-one-do-when-climbing-if-someone-above-you-yells-rock",
+"title": "What should one do when climbing if someone above you yells ROCK?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/107/what-steps-should-i-take-if-someone-starts-sinking",
+"title": "What steps should I take if someone starts sinking?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/200/what-style-crampon-should-i-use-for-my-hiking-boots-and-how-do-i-adjust-them",
+"title": "What style crampon should I use for my hiking boots and how do I adjust them?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/9519/what-to-do-if-the-second-seems-stuck-and-absolutely-no-communication-is-possib",
+"title": "What to do if the second seems stuck and absolutely no communication is possible?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20167/what-to-do-if-you-are-above-timberline-and-your-descent-is-cut-off-by-a-large-",
+"title": "What to do if you are above timberline and your descent is cut off by a large forest fire?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/13120/what-to-do-when-a-moose-blocks-the-trail",
+"title": "What to do when a moose blocks the trail?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/114/what-to-look-for-in-a-durable-3-season-sleeping-bag",
+"title": "What to look for in a durable, 3-season sleeping bag?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1485/what-to-look-for-when-purchasing-a-fixed-blade-knife",
+"title": "What to look for when purchasing a fixed blade knife",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1852/what-types-of-boots-are-good-for-caving",
+"title": "What types of boots are good for caving?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1711/what-types-of-resources-are-best-for-identifying-trees-while-hiking",
+"title": "What types of resources are best for identifying trees while hiking?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/8974/what-s-the-best-way-to-avoid-slipping-on-ice",
+"title": "What's the best way to avoid slipping on ice?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1833/what-s-the-difference-between-a-2-3-4-and-5-season-tent",
+"title": "What's the difference between a 2, 3, 4, and 5 season tent?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11866/what-s-the-difference-between-a-fjord-and-a-fjard",
+"title": "What's the difference between a fjord and a fjard?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/14284/what-s-the-difference-between-an-oar-and-a-paddle",
+"title": "What's the difference between an oar and a paddle?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/7347/what-s-the-most-remote-place-in-the-contiguous-us",
+"title": "What's the most remote place in the contiguous US?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/16598/what-s-wrong-with-swimming-out-far",
+"title": "What's wrong with swimming out far?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15286/when-back-country-camping-how-do-you-avoid-being-attacked-by-a-mountain-lion-i",
+"title": "When back country camping, how do you avoid being attacked by a mountain lion in your sleep?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1819/when-do-i-need-a-permit-to-go-into-nature",
+"title": "When do I need a permit to go into nature?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/14640/when-hiking-why-is-the-right-of-way-given-to-people-going-up",
+"title": "When hiking, why is the right of way given to people going up?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/438/when-sailing-how-do-i-rescue-a-man-overboard",
+"title": "When sailing, how do I rescue a man overboard?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/5432/when-should-i-use-spray-on-versus-wash-in-waterproofer-for-treating-dwr-garmen",
+"title": "When should I use spray-on versus wash-in waterproofer for treating DWR garments?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/6845/when-should-you-carry-a-firearm-when-hiking-trekking",
+"title": "When should you carry a firearm when hiking/trekking?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/9268/when-will-a-rattlesnake-strike",
+"title": "When will a rattlesnake strike?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10293/when-where-do-foxes-attack-humans",
+"title": "When/Where do foxes attack humans?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/96/where-in-europe-is-wild-camping-permitted",
+"title": "Where in Europe is wild camping permitted?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/3523/where-in-europe-is-wilderness-meeting-the-u-s-wilderness-definition",
+"title": "Where in Europe is wilderness meeting the U.S. wilderness definition?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/373/which-side-of-an-emergency-blanket-should-i-use",
+"title": "Which side of an emergency blanket should I use?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/2996/which-wood-sources-produce-toxic-smoke",
+"title": "Which wood sources produce toxic smoke?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10553/why-did-the-wolf-pack-withdraw-from-attacking-me",
+"title": "Why did the wolf-pack withdraw from attacking me?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15129/why-do-i-always-wake-up-freezing",
+"title": "Why do I always wake up freezing?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4341/why-do-many-climbers-appear-to-not-trust-their-belay-loops",
+"title": "Why do many climbers appear to not trust their belay loops?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/14024/why-do-most-tents-have-black-floors",
+"title": "Why do most tents have black floors?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/4942/why-do-people-who-backpack-sleep-in-tents-instead-of-tarps",
+"title": "Why do people who backpack sleep in tents instead of tarps?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/596/why-do-shin-splints-happen",
+"title": "Why do shin splints happen?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11601/why-do-so-many-people-hike-with-such-light-footwear",
+"title": "Why do so many people hike with such light footwear?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/15808/why-does-suspension-trauma-happen",
+"title": "Why does suspension trauma happen?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/16689/why-don-t-climbers-use-electrically-heated-suits",
+"title": "Why don't climbers use electrically heated suits?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/3312/why-don-t-we-apply-the-principles-of-layering-when-it-comes-to-pants",
+"title": "Why don't we apply the principles of layering when it comes to pants?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1859/why-go-without-socks-with-climbing-shoes",
+"title": "Why go without socks with climbing shoes?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10809/why-is-it-prohibited-to-sleep-in-a-tent",
+"title": "Why is it prohibited to sleep in a tent?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11353/why-is-it-tiring-to-keep-down-with-a-slower-person-on-a-walk-or-hike",
+"title": "Why is it tiring to \"keep down\" with a slower person on a walk or hike?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/21009/why-should-a-good-tent-be-uv-resistant",
+"title": "Why should a good tent be UV resistant?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/5966/why-shouldn-t-i-buy-an-ultra-light-tent",
+"title": "Why shouldn't I buy an ultra light tent?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/1074/why-tunnel-tents-for-the-poles-geodesic-for-the-mountains",
+"title": "Why tunnel tents for the poles, Geodesic for the mountains?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/20640/why-would-a-seal-be-flinging-an-octopus-around-above-the-water-and-then-slappi",
+"title": "Why would a seal be flinging an octopus around above the water and then slapping a kayaker with it?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/620/wild-camping-in-subsaharan-africa-madness-blasphemy-or-bearable",
+"title": "Wild camping in subsaharan Africa - madness, blasphemy, or bearable?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/418/will-a-tent-provide-some-protection-from-bears",
+"title": "Will a tent provide some protection from bears?",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/11126/will-black-bears-actually-follow-you-up-a-tree",
+"title": "Will Black Bears actually follow you up a tree",
+"category": "wilderness-survival"
+},
+{
+"path": "questions/10570/will-drinking-lots-of-water-in-the-day-s-prior-to-a-long-trek-mean-i-will-need",
+"title": "Will drinking lots of water in the day(s) prior to a long trek mean I will need less water on the trek?",
+"category": "wilderness-survival"
+}
+]
+}

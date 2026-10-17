@@ -1,0 +1,3510 @@
+{
+"pack": "se-diy",
+"kind": "stackexchange",
+"title": "Stack Exchange - diy",
+"about": "Top-voted questions with their best answers from diy.stackexchange.com.",
+"archive": "se-diy",
+"made": "2026-10-17",
+"items": [
+{
+"path": "questions/116855/what-should-be-done-before-using-a-fireplace-that-has-not-been-used-in-decades",
+"title": "What should be done before using a fireplace that has not been used in decades?",
+"category": "cooking-fire"
+},
+{
+"path": "questions/215663/240-v-dryer-outlet-is-reading-245-v",
+"title": "240 V dryer outlet is reading 245 V",
+"category": "energy-power"
+},
+{
+"path": "questions/149497/240-v-outlet-is-not-delivering-240-v",
+"title": "240 V outlet is not delivering 240 V",
+"category": "energy-power"
+},
+{
+"path": "questions/109837/240v-outlet-with-120v-and-215v-how",
+"title": "240v Outlet with 120v and 215v - How?",
+"category": "energy-power"
+},
+{
+"path": "questions/228902/3-position-light-switch-beeps-and-flashes-when-down",
+"title": "3 position light switch beeps and flashes when down",
+"category": "energy-power"
+},
+{
+"path": "questions/255120/aiming-to-get-electricity-for-my-cabin-via-underground-burial-few-questions",
+"title": "Aiming to get electricity for my cabin via underground burial. Few questions",
+"category": "energy-power"
+},
+{
+"path": "questions/271217/am-i-ok-cutting-an-unused-cable-tv-incoming-service-cable-attached-to-my-house",
+"title": "Am I OK cutting an unused cable TV incoming service cable attached to my house?",
+"category": "energy-power"
+},
+{
+"path": "questions/77960/are-all-rectangular-outlets-switches-and-plates-the-same-dimensions-and-interc",
+"title": "Are all rectangular outlets, switches, and plates the same dimensions and interchangeable?",
+"category": "energy-power"
+},
+{
+"path": "questions/13105/are-both-legs-of-a-home-s-power-supply-equally-used",
+"title": "Are both legs of a home's power supply equally used?",
+"category": "energy-power"
+},
+{
+"path": "questions/157296/are-my-wires-in-this-junction-box-too-short",
+"title": "Are my wires in this junction box too short?",
+"category": "energy-power"
+},
+{
+"path": "questions/5141/are-push-in-connectors-up-to-code",
+"title": "Are push in connectors up to code?",
+"category": "energy-power"
+},
+{
+"path": "questions/143466/are-rechargeable-9-volt-batteries-suitable-for-use-in-smoke-detectors",
+"title": "Are rechargeable 9-volt batteries suitable for use in smoke detectors?",
+"category": "energy-power"
+},
+{
+"path": "questions/179562/are-soldered-electrical-connections-code-compliant",
+"title": "Are soldered electrical connections code-compliant?",
+"category": "energy-power"
+},
+{
+"path": "questions/271066/are-there-safety-concerns-or-code-violations-with-my-added-outlet-and-bath-fan",
+"title": "Are there safety concerns or code violations with my added outlet and bath fan?",
+"category": "energy-power"
+},
+{
+"path": "questions/179229/are-these-pigtails-inside-the-panel-and-outside-a-junction-box-allowed",
+"title": "Are these pigtails inside the panel and outside a junction box allowed?",
+"category": "energy-power"
+},
+{
+"path": "questions/206431/best-way-to-stick-a-very-long-ethernet-cable-semi-permanently-to-walls",
+"title": "Best way to stick a very long Ethernet cable semi-permanently to walls?",
+"category": "energy-power"
+},
+{
+"path": "questions/215982/bosch-drawer-microwave-causes-arc-faults",
+"title": "Bosch Drawer Microwave causes ARC Faults",
+"category": "energy-power"
+},
+{
+"path": "questions/121053/breakers-loose-in-main-panel-does-whole-panel-need-to-be-replaced",
+"title": "Breakers loose in main panel, does whole panel need to be replaced?",
+"category": "energy-power"
+},
+{
+"path": "questions/213614/buying-a-home-with-2-prong-outlets-but-the-bathroom-has-3-prong-outets",
+"title": "Buying a home with 2 prong outlets but the bathroom has 3 prong outets",
+"category": "energy-power"
+},
+{
+"path": "questions/167016/can-a-40amp-breaker-be-used-safely-and-without-issue-with-a-40amp-device-on-6a",
+"title": "Can a 40amp breaker be used safely and without issue with a 40amp device on 6AWG wire?",
+"category": "energy-power"
+},
+{
+"path": "questions/125267/can-anyone-help-me-identify-this-old-audio-cable",
+"title": "Can anyone help me identify this old audio cable?",
+"category": "energy-power"
+},
+{
+"path": "questions/76651/can-anyone-tell-me-what-this-little-white-box-on-my-outlet-is",
+"title": "Can anyone tell me what this little white box on my outlet is?",
+"category": "energy-power"
+},
+{
+"path": "questions/89945/can-cable-splice-devices-be-concealed",
+"title": "Can cable splice devices be concealed?",
+"category": "energy-power"
+},
+{
+"path": "questions/128883/can-different-gauges-of-wire-be-used-on-the-same-circuit",
+"title": "Can different gauges of wire be used on the same circuit?",
+"category": "energy-power"
+},
+{
+"path": "questions/161227/can-gfci-outlets-be-cleaned-after-flooding",
+"title": "Can GFCI outlets be cleaned after flooding?",
+"category": "energy-power"
+},
+{
+"path": "questions/105301/can-ground-shock-me-it-s-bonded-to-neutral-in-my-panel",
+"title": "Can ground shock me? It's bonded to neutral in my panel",
+"category": "energy-power"
+},
+{
+"path": "questions/21318/can-i-add-a-standard-receptacle-on-a-gfci-circuit",
+"title": "Can I add a standard receptacle on a GFCI circuit",
+"category": "energy-power"
+},
+{
+"path": "questions/6118/can-i-backfeed-a-portable-generator-into-my-house-s-electrical-system",
+"title": "Can I backfeed a portable generator into my house's electrical system?",
+"category": "energy-power"
+},
+{
+"path": "questions/160238/can-i-cause-damage-to-electrical-appliances-by-unplugging-them-when-they-are-t",
+"title": "Can I cause damage to electrical appliances by unplugging them when they are turned on?",
+"category": "energy-power"
+},
+{
+"path": "questions/9256/can-i-connect-ground-to-neutral-in-a-3-wire-outlet",
+"title": "Can I connect ground to neutral in a 3 wire outlet?",
+"category": "energy-power"
+},
+{
+"path": "questions/196140/can-i-diy-fix-the-broken-main-feeder-support-cable",
+"title": "Can I DIY fix the broken main feeder support cable?",
+"category": "energy-power"
+},
+{
+"path": "questions/132939/can-i-replace-a-30a-breaker-with-a-40a-breaker-for-a-new-water-heater",
+"title": "Can I replace a 30A breaker with a 40A breaker for a new water heater?",
+"category": "energy-power"
+},
+{
+"path": "questions/210807/can-i-run-300-ft-of-cat6-cable-with-male-connectors-on-each-end-under-house-to",
+"title": "Can I run 300 ft of cat6 cable, with male connectors on each end, under house to other side?",
+"category": "energy-power"
+},
+{
+"path": "questions/200353/can-i-run-a-15a-table-saw-on-a-15a-circuit-if-there-are-also-shop-lights-on-th",
+"title": "Can I run a 15A table saw on a 15A circuit if there are also shop lights on the same circuit?",
+"category": "energy-power"
+},
+{
+"path": "questions/180875/can-i-run-cat6-ftp-cables-parallel-to-electrical-cable-in-the-same-conduit",
+"title": "Can I run CAT6 FTP cables parallel to electrical cable in the same conduit?",
+"category": "energy-power"
+},
+{
+"path": "questions/86628/can-i-safely-use-a-9w-led-bulb-in-place-of-a-40w-incandescent",
+"title": "Can I safely use a 9w LED bulb in place of a 40w incandescent?",
+"category": "energy-power"
+},
+{
+"path": "questions/10101/can-i-safely-use-a-switch-rated-for-1a-at-125v-with-240v-assuming-i-stay-below",
+"title": "Can I safely use a switch rated for \"1A at 125V\" with 240V,  assuming I stay below 125W?",
+"category": "energy-power"
+},
+{
+"path": "questions/290793/can-i-tell-if-there-a-break-in-building-wire",
+"title": "Can I tell if there a break in building wire?",
+"category": "energy-power"
+},
+{
+"path": "questions/166899/can-i-use-220-v-outlets-on-a-15-ampere-breaker-and-wire-it-up-as-110-v",
+"title": "Can I use 220 V outlets on a 15 ampere breaker and wire it up as 110 V?",
+"category": "energy-power"
+},
+{
+"path": "questions/26562/can-i-use-two-wire-nuts-instead-of-one-to-connect-6-wires-inside-a-3-gang-box",
+"title": "Can I use two wire nuts instead of one to connect 6 wires inside a 3-gang box?",
+"category": "energy-power"
+},
+{
+"path": "questions/31149/can-romex-nm-b-cable-be-run-through-conduit",
+"title": "Can Romex (NM-B) cable be run through conduit?",
+"category": "energy-power"
+},
+{
+"path": "questions/237264/can-you-cut-electrical-cables-cleanly-with-an-angle-grinder",
+"title": "Can you cut electrical cables cleanly with an angle grinder?",
+"category": "energy-power"
+},
+{
+"path": "questions/128020/can-you-cut-open-a-plastic-junction-box-and-just-lay-splices-inside",
+"title": "Can you cut open a plastic junction box and just lay splices inside?",
+"category": "energy-power"
+},
+{
+"path": "questions/109790/can-you-identify-this-receptacle",
+"title": "Can you identify this receptacle?",
+"category": "energy-power"
+},
+{
+"path": "questions/143994/condensor-went-hvac-guy-is-blaming-electrician-is-this-possible",
+"title": "Condensor went, HVAC guy is blaming electrician, is this possible?",
+"category": "energy-power"
+},
+{
+"path": "questions/215397/confused-about-ethernet-wiring-in-new-home",
+"title": "Confused about Ethernet wiring in new home",
+"category": "energy-power"
+},
+{
+"path": "questions/137280/considering-doing-a-100a-sub-panel-install-on-my-own-any-guidance-would-be-muc",
+"title": "Considering doing a 100A sub panel install on my own. Any guidance would be much appreciated",
+"category": "energy-power"
+},
+{
+"path": "questions/218416/diagnosing-appliance-that-shocked-me",
+"title": "Diagnosing appliance that shocked me",
+"category": "energy-power"
+},
+{
+"path": "questions/9338/do-all-wires-on-basement-walls-have-to-be-in-conduit",
+"title": "Do all wires on basement walls have to be in conduit?",
+"category": "energy-power"
+},
+{
+"path": "questions/258903/do-gfi-gfci-outlets-have-a-potential-to-damage-nespresso-machines-and-coffee-m",
+"title": "Do GFI/GFCI outlets have a potential to damage Nespresso machines (and coffee machines?)",
+"category": "energy-power"
+},
+{
+"path": "questions/168281/do-i-need-to-be-legally-qualified-to-install-a-hive-smart-thermostat",
+"title": "Do I need to be legally qualified to install a Hive smart thermostat?",
+"category": "energy-power"
+},
+{
+"path": "questions/242325/do-i-need-to-spend-extra-for-a-special-oven-light-bulb",
+"title": "Do I need to spend extra for a special oven light bulb?",
+"category": "energy-power"
+},
+{
+"path": "questions/11617/do-i-really-have-to-fasten-interior-wall-electrical-wire-to-a-stud-to-keep-it-",
+"title": "Do I really have to fasten interior-wall electrical wire to a stud to keep it from moving?",
+"category": "energy-power"
+},
+{
+"path": "questions/236674/do-i-really-need-to-include-a-wall-switched-lighting-outlet-in-every-room",
+"title": "Do I really need to include a wall switched lighting outlet in every room?",
+"category": "energy-power"
+},
+{
+"path": "questions/99697/do-new-wire-runs-in-an-existing-ceiling-need-to-be-stapled-down",
+"title": "Do new wire runs in an existing ceiling need to be stapled down?",
+"category": "energy-power"
+},
+{
+"path": "questions/252678/do-pc-boards-in-ac-units-wear-out",
+"title": "Do PC boards in AC units wear out?",
+"category": "energy-power"
+},
+{
+"path": "questions/15732/do-usb-sockets-draw-power-when-not-in-use",
+"title": "Do USB sockets draw power when not in use?",
+"category": "energy-power"
+},
+{
+"path": "questions/1592/does-a-homeowner-need-a-permit-for-electrical-work-in-massachusetts",
+"title": "Does a homeowner need a permit for electrical work in Massachusetts?",
+"category": "energy-power"
+},
+{
+"path": "questions/169387/does-unblocking-power-bar-outlets-through-short-extension-cords-increase-fire-",
+"title": "Does unblocking power bar outlets through short extension cords increase fire risk?",
+"category": "energy-power"
+},
+{
+"path": "questions/51966/does-voltage-play-any-role-in-choosing-the-appropriate-wire-gauge",
+"title": "Does voltage play any role in choosing the appropriate wire gauge?",
+"category": "energy-power"
+},
+{
+"path": "questions/97883/drilled-into-studs-light-flickered-momentarily-but-everything-else-seems-fine-",
+"title": "Drilled into studs, light flickered momentarily but everything else seems fine now - should I be worried?",
+"category": "energy-power"
+},
+{
+"path": "questions/47613/electric-shock-was-i-stupid-unlucky-or-a-combination-of-both",
+"title": "Electric shock - was I stupid, unlucky, or a combination of both?",
+"category": "energy-power"
+},
+{
+"path": "questions/11403/ethernet-cable-instead-of-thermostat-wire",
+"title": "Ethernet cable instead of Thermostat wire?",
+"category": "energy-power"
+},
+{
+"path": "questions/7674/extension-cord-and-power-strip-safety",
+"title": "Extension cord and power strip safety",
+"category": "energy-power"
+},
+{
+"path": "questions/168564/first-time-changing-switches-and-outlets-receptacles-anything-special-i-should",
+"title": "First time changing switches and outlets (receptacles). Anything special I should know?",
+"category": "energy-power"
+},
+{
+"path": "questions/270103/four-outlet-four-usb-charging-station-stuck-in-outlet",
+"title": "Four outlet / Four USB charging station stuck in outlet",
+"category": "energy-power"
+},
+{
+"path": "questions/166657/getting-ups-power-from-one-room-to-another",
+"title": "Getting UPS Power from One Room to Another",
+"category": "energy-power"
+},
+{
+"path": "questions/172727/gfi-outlets-tripped-after-power-outage",
+"title": "GFI outlets tripped after power outage",
+"category": "energy-power"
+},
+{
+"path": "questions/153916/half-my-house-losing-power-hvac-the-key-factor",
+"title": "Half my house losing power, HVAC the key factor",
+"category": "energy-power"
+},
+{
+"path": "questions/184016/half-my-power-out-but-firing-up-an-appliance-turns-it-back-on",
+"title": "Half my power out, but firing up an appliance turns it back on",
+"category": "energy-power"
+},
+{
+"path": "questions/103322/home-electronics-break-daily-and-wiring-is-ok-any-ideas",
+"title": "Home electronics break daily and wiring is OK. Any ideas?",
+"category": "energy-power"
+},
+{
+"path": "questions/1713/how-best-can-i-discover-what-is-up-with-my-electrical-bill",
+"title": "How best can I discover what is up with my electrical bill?",
+"category": "energy-power"
+},
+{
+"path": "questions/182363/how-can-an-outlet-with-only-2-wires-hot-and-neutral-be-grounded",
+"title": "How can an outlet with only 2 wires (hot and neutral) be grounded?",
+"category": "energy-power"
+},
+{
+"path": "questions/178372/how-can-i-add-an-ammeter-and-or-voltmeter-to-my-home-breaker-panel",
+"title": "How can I add an ammeter and/or voltmeter to my home breaker panel?",
+"category": "energy-power"
+},
+{
+"path": "questions/180100/how-can-i-calculate-my-anticipated-peak-current-load",
+"title": "How can I calculate my anticipated peak current load?",
+"category": "energy-power"
+},
+{
+"path": "questions/11532/how-can-i-detect-reverse-polarity-on-an-ungrounded-receptacle",
+"title": "How can I detect reverse polarity on an ungrounded receptacle?",
+"category": "energy-power"
+},
+{
+"path": "questions/63095/how-can-i-eliminate-one-3-way-switch-to-leave-just-one-switch-on-the-lighting-",
+"title": "How can I eliminate one 3-way switch to leave just one switch on the lighting circuit it's on?",
+"category": "energy-power"
+},
+{
+"path": "questions/5019/how-can-i-fix-electrical-outlets-that-don-t-hold-plugs-that-are-plugged-in-to-",
+"title": "How can I fix electrical outlets that don't \"hold\" plugs that are plugged in to them?",
+"category": "energy-power"
+},
+{
+"path": "questions/11766/how-can-i-get-a-shock-from-a-circuit-when-the-breaker-is-off",
+"title": "How can I get a shock from a circuit when the breaker is off?",
+"category": "energy-power"
+},
+{
+"path": "questions/20347/how-can-i-get-a-wire-that-is-outside-a-wall-to-be-inside-a-wall",
+"title": "How can I get a wire that is outside a wall to be inside a wall",
+"category": "energy-power"
+},
+{
+"path": "questions/9719/how-can-i-override-a-motion-detector-light",
+"title": "How can I override a motion detector light?",
+"category": "energy-power"
+},
+{
+"path": "questions/131222/how-can-i-restore-power-after-a-switch-was-shorted-with-scissors",
+"title": "How can I restore power after a switch was shorted with scissors?",
+"category": "energy-power"
+},
+{
+"path": "questions/299013/how-can-i-safely-pass-power-from-an-extension-cord-through-a-shed-wall",
+"title": "How can I safely pass power from an extension cord through a shed wall?",
+"category": "energy-power"
+},
+{
+"path": "questions/12015/how-can-i-stop-my-lights-dimming-when-my-air-conditioning-turns-on",
+"title": "How can I stop my lights dimming when my Air Conditioning turns on?",
+"category": "energy-power"
+},
+{
+"path": "questions/105340/how-can-i-trip-a-breaker-from-the-outlet",
+"title": "How can I trip a breaker from the outlet",
+"category": "energy-power"
+},
+{
+"path": "questions/82622/how-can-it-be-dangerous-to-feed-a-water-heater-from-two-separate-panels",
+"title": "How can it be dangerous to feed a water heater from two separate panels?",
+"category": "energy-power"
+},
+{
+"path": "questions/234337/how-did-a-circuit-that-was-shut-off-at-the-breaker-almost-kill-me",
+"title": "How did a circuit that was shut off at the breaker almost kill me?",
+"category": "energy-power"
+},
+{
+"path": "questions/181882/how-did-my-ground-and-neutral-become-energized-by-a-short-in-the-buried-main-l",
+"title": "How did my ground and neutral become energized by a short in the buried main line?",
+"category": "energy-power"
+},
+{
+"path": "questions/147203/how-do-i-fix-a-broken-power-cord",
+"title": "How do I fix a broken power cord",
+"category": "energy-power"
+},
+{
+"path": "questions/9293/how-do-i-install-a-gfci-receptacle-with-two-hot-wires-and-common-neutral",
+"title": "How do I install a GFCI receptacle with two hot wires and common neutral?",
+"category": "energy-power"
+},
+{
+"path": "questions/15105/how-do-i-install-an-outdoor-receptacle-box-on-vinyl-siding",
+"title": "How do I install an outdoor receptacle box on vinyl siding?",
+"category": "energy-power"
+},
+{
+"path": "questions/8259/how-do-i-join-two-cables-outside-so-that-they-re-safe-and-kept-dry",
+"title": "How do I join two cables outside so that they're safe and kept dry?",
+"category": "energy-power"
+},
+{
+"path": "questions/162263/how-do-i-make-this-wiring-inside-cabinet-safer",
+"title": "How do I make this wiring inside cabinet safer?",
+"category": "energy-power"
+},
+{
+"path": "questions/4321/how-do-i-prepare-my-home-for-a-power-outage",
+"title": "How do I prepare my home for a power outage?",
+"category": "energy-power"
+},
+{
+"path": "questions/42192/how-do-i-properly-feed-coax-through-an-outside-wall",
+"title": "How do I properly feed coax through an outside wall?",
+"category": "energy-power"
+},
+{
+"path": "questions/14029/how-do-i-properly-wire-gfci-outlets-in-parallel",
+"title": "How do I properly wire GFCI outlets in parallel?",
+"category": "energy-power"
+},
+{
+"path": "questions/10591/how-do-i-run-cable-through-my-ceiling",
+"title": "How do I run cable through my ceiling?",
+"category": "energy-power"
+},
+{
+"path": "questions/1234/how-do-i-run-ethernet-speaker-wire-and-coax-through-a-wall-into-a-crawlspace",
+"title": "How do I run ethernet, speaker wire, and coax through a wall into a crawlspace?",
+"category": "energy-power"
+},
+{
+"path": "questions/276982/how-do-i-run-power-to-a-treehouse-if-i-can-t-bury-the-wire",
+"title": "How do I run power to a treehouse if I can't bury the wire?",
+"category": "energy-power"
+},
+{
+"path": "questions/742/how-do-i-run-wires-for-a-wall-mount-flatscreen-tv",
+"title": "How do I run wires for a wall-mount flatscreen TV?",
+"category": "energy-power"
+},
+{
+"path": "questions/5/how-do-i-safely-replace-a-worn-out-electrical-outlet",
+"title": "How do I safely replace a worn out electrical outlet?",
+"category": "energy-power"
+},
+{
+"path": "questions/3932/how-do-i-wire-an-old-house-with-cat6",
+"title": "How do I wire an old house with Cat6?",
+"category": "energy-power"
+},
+{
+"path": "questions/7578/how-do-you-know-when-and-where-it-is-safe-to-drill-into-a-wall",
+"title": "How do you know when and where it is safe to drill into a wall?",
+"category": "energy-power"
+},
+{
+"path": "questions/267437/how-do-you-mount-conduit-to-a-wall-so-that-it-stands-off-a-standard-box-distan",
+"title": "How do you mount conduit to a wall so that it stands off a standard box distance?",
+"category": "energy-power"
+},
+{
+"path": "questions/10622/how-do-you-plan-capacity-for-electrical-circuits",
+"title": "How do you plan capacity for electrical circuits?",
+"category": "energy-power"
+},
+{
+"path": "questions/28612/how-do-you-release-the-wires-from-a-push-in-wire-connector",
+"title": "How do you release the wires from a push-in wire connector?",
+"category": "energy-power"
+},
+{
+"path": "questions/270062/how-is-my-analog-electric-meter-being-read",
+"title": "How is my analog electric meter being read?",
+"category": "energy-power"
+},
+{
+"path": "questions/2959/how-long-should-i-wait-before-plugging-in-a-new-refrigerator",
+"title": "How long should I wait before plugging in a new refrigerator?",
+"category": "energy-power"
+},
+{
+"path": "questions/36322/how-many-cables-are-you-allowed-to-run-through-a-single-hole-in-a-wooden-floor",
+"title": "How many cables are you allowed to run through a single hole in a wooden floor joist?",
+"category": "energy-power"
+},
+{
+"path": "questions/173007/how-much-power-do-led-smart-bulb-wireless-control-systems-consume-when-the-lig",
+"title": "How much power do LED smart bulb wireless control systems consume when the light is turned off?",
+"category": "energy-power"
+},
+{
+"path": "questions/120940/how-much-weight-can-a-light-bulb-socket-hold",
+"title": "How much weight can a light bulb socket hold?",
+"category": "energy-power"
+},
+{
+"path": "questions/201732/how-should-i-deal-with-a-cable-found-underground-on-my-property",
+"title": "How should I deal with a cable found underground on my property?",
+"category": "energy-power"
+},
+{
+"path": "questions/24686/how-should-i-go-about-installing-a-12-volt-dc-residential-circuit",
+"title": "How should I go about installing a 12 volt DC residential circuit?",
+"category": "energy-power"
+},
+{
+"path": "questions/284687/how-should-i-power-a-shed-before-the-house-is-built",
+"title": "How should I power a shed before the house is built?",
+"category": "energy-power"
+},
+{
+"path": "questions/8240/how-should-i-rewire-a-miswired-3-way-switch",
+"title": "How should I rewire a miswired 3-way switch?",
+"category": "energy-power"
+},
+{
+"path": "questions/11311/how-should-i-run-wiring-for-my-above-fireplace-mounted-tv",
+"title": "How should I run wiring for my above-fireplace mounted TV?",
+"category": "energy-power"
+},
+{
+"path": "questions/84603/how-to-avoid-wires-when-drilling-into-the-wall",
+"title": "How to avoid wires when drilling into the wall?",
+"category": "energy-power"
+},
+{
+"path": "questions/15072/how-to-detect-whether-there-is-a-signal-on-tv-cable",
+"title": "How to detect whether there is a signal on TV cable",
+"category": "energy-power"
+},
+{
+"path": "questions/188745/how-to-dig-a-trench-for-a-cable-for-a-garden-office",
+"title": "How to dig a trench for a cable for a garden office",
+"category": "energy-power"
+},
+{
+"path": "questions/229800/how-to-find-electric-device-s-driving-a-high-electric-bill",
+"title": "How to find electric device(s) driving a high electric bill?",
+"category": "energy-power"
+},
+{
+"path": "questions/262909/how-to-provide-backup-power-to-a-three-phase-european-home",
+"title": "How to provide backup power to a three-phase European home?",
+"category": "energy-power"
+},
+{
+"path": "questions/273233/how-to-pull-cable-straight",
+"title": "How to pull cable straight?",
+"category": "energy-power"
+},
+{
+"path": "questions/237627/how-to-remove-wires-from-thermostat-without-screws",
+"title": "How to remove wires from thermostat without screws",
+"category": "energy-power"
+},
+{
+"path": "questions/31179/i-have-a-3-pronged-receptacle-but-no-ground-wire-connected-to-it-is-this-ok",
+"title": "I have a 3-pronged receptacle but no ground wire connected to it. Is this ok?",
+"category": "energy-power"
+},
+{
+"path": "questions/262315/i-installed-a-new-outlet-and-tripped-the-whole-power-panel-does-a-30-amp-circu",
+"title": "I installed a new outlet and tripped the whole power panel... Does a 30 amp circuit need special outlets?",
+"category": "energy-power"
+},
+{
+"path": "questions/225128/i-ran-a-nail-through-a-wire-at-home-should-i-worry",
+"title": "I ran a nail through a wire at home, should I worry?",
+"category": "energy-power"
+},
+{
+"path": "questions/276298/i-think-my-electrician-compromised-a-loadbearing-stud",
+"title": "I think my electrician compromised a loadbearing stud",
+"category": "energy-power"
+},
+{
+"path": "questions/114610/i-tripped-a-20amp-breaker-but-didn-t-feel-a-shock-why",
+"title": "I tripped a 20amp breaker but didn't feel a shock - why?",
+"category": "energy-power"
+},
+{
+"path": "questions/114091/if-a-light-bulb-is-dead-does-it-still-consume-electricity-if-the-switch-is-in-",
+"title": "If a light bulb is dead, does it still consume electricity if the switch is in ON?",
+"category": "energy-power"
+},
+{
+"path": "questions/7430/if-dc-adapters-are-so-prevalent-why-is-ac-used-in-construction-by-default",
+"title": "If DC adapters are so prevalent, why is AC used in construction by default?",
+"category": "energy-power"
+},
+{
+"path": "questions/123733/if-i-install-a-gfci-on-the-first-outlet-in-a-circuit-will-the-other-receptacle",
+"title": "If I install a GFCI on the first outlet in a circuit will the other receptacles on that breaker circuit have GFI protection?",
+"category": "energy-power"
+},
+{
+"path": "questions/247314/if-my-240v-cooktop-does-not-have-a-neutral-is-it-safe-just-to-cap-the-neutral-",
+"title": "If my 240v cooktop does not have a neutral, is it safe just to cap the neutral and leave it?",
+"category": "energy-power"
+},
+{
+"path": "questions/48171/in-a-multi-gang-box-are-neutral-wires-paired-with-specific-hot-wires",
+"title": "In a multi-gang box, are neutral wires paired with specific hot wires?",
+"category": "energy-power"
+},
+{
+"path": "questions/165793/installed-electric-tankless-water-heater-internet-loss-when-active",
+"title": "Installed Electric Tankless Water Heater - Internet loss when active",
+"category": "energy-power"
+},
+{
+"path": "questions/229237/is-is-safe-to-use-led-strips-that-shine-onto-stair-risers-instead-of-directly-",
+"title": "Is is safe to use LED strips that shine onto stair risers instead of directly onto treads?",
+"category": "energy-power"
+},
+{
+"path": "questions/262891/is-it-bad-practice-to-regularly-turn-a-circuit-breaker-off-on",
+"title": "Is it bad practice to regularly turn a circuit breaker off/on?",
+"category": "energy-power"
+},
+{
+"path": "questions/21381/is-it-dangerous-to-run-electrical-cords-through-heating-vents",
+"title": "Is it dangerous to run electrical cords through heating vents?",
+"category": "energy-power"
+},
+{
+"path": "questions/128446/is-it-important-not-to-scratch-copper-wire-when-removing-insulation",
+"title": "Is it important not to scratch copper wire when removing insulation?",
+"category": "energy-power"
+},
+{
+"path": "questions/150437/is-it-normal-for-gfci-receptacles-to-explode-and-burn",
+"title": "Is it normal for GFCI receptacles to explode and burn?",
+"category": "energy-power"
+},
+{
+"path": "questions/10602/is-it-ok-to-borrow-a-ground-wire-from-a-different-circuit",
+"title": "Is it OK to borrow a ground wire from a different circuit?",
+"category": "energy-power"
+},
+{
+"path": "questions/131451/is-it-ok-to-create-a-third-prong-ground-from-a-cold-water-pipe-for-a-2-wire-ci",
+"title": "Is it OK to create a third prong ground from a cold water pipe, for a 2-wire circuit?",
+"category": "energy-power"
+},
+{
+"path": "questions/1706/is-it-ok-to-have-mixed-grounds-and-neutrals-on-bars-in-a-breaker-box",
+"title": "Is it ok to have mixed grounds and neutrals on bars in a breaker box?",
+"category": "energy-power"
+},
+{
+"path": "questions/129082/is-it-permissible-to-have-exposed-mains-conductors-in-holiday-lights",
+"title": "Is it permissible to have exposed mains conductors in holiday lights?",
+"category": "energy-power"
+},
+{
+"path": "questions/170118/is-it-safe-if-the-neutral-lead-is-exposed-and-disconnected",
+"title": "Is it safe if the neutral lead is exposed and disconnected?",
+"category": "energy-power"
+},
+{
+"path": "questions/225370/is-it-safe-to-install-3-prong-gfci-with-only-a-hot-and-neutral",
+"title": "Is it safe to install 3-prong GFCI with only a hot and neutral?",
+"category": "energy-power"
+},
+{
+"path": "questions/245527/is-my-multi-switch-lighting-circuit-plan-valid",
+"title": "Is my multi-switch lighting circuit plan valid?",
+"category": "energy-power"
+},
+{
+"path": "questions/192675/is-my-repair-to-this-plug-safe",
+"title": "Is my repair to this plug safe?",
+"category": "energy-power"
+},
+{
+"path": "questions/8851/is-running-ethernet-cable-through-an-air-return-allowed-under-us-code",
+"title": "Is running ethernet cable through an air return allowed under US code?",
+"category": "energy-power"
+},
+{
+"path": "questions/55719/is-switching-the-neutral-ok",
+"title": "Is switching the neutral OK?",
+"category": "energy-power"
+},
+{
+"path": "questions/74616/is-the-electrician-trying-to-scam-me",
+"title": "Is the Electrician trying to scam me?",
+"category": "energy-power"
+},
+{
+"path": "questions/221431/is-there-a-benefit-to-having-a-switch-control-an-outlet",
+"title": "Is there a benefit to having a switch control an outlet?",
+"category": "energy-power"
+},
+{
+"path": "questions/14761/is-there-a-device-that-will-allow-a-bathroom-fan-to-run-for-5-minutes-after-it",
+"title": "Is there a device that will allow a bathroom fan to run for 5 minutes after it is switched off?",
+"category": "energy-power"
+},
+{
+"path": "questions/15286/is-there-a-lifetime-failure-count-for-a-breaker",
+"title": "Is there a lifetime failure count for a breaker?",
+"category": "energy-power"
+},
+{
+"path": "questions/4247/is-there-a-wall-outlet-power-meter-that-i-can-interface-with-from-a-computer",
+"title": "Is there a wall outlet power meter that I can interface with from a computer?",
+"category": "energy-power"
+},
+{
+"path": "questions/130498/is-there-a-way-to-safely-have-exposed-electrical-wires",
+"title": "Is there a way to safely have exposed electrical wires?",
+"category": "energy-power"
+},
+{
+"path": "questions/4493/is-there-a-way-to-splice-additional-nm-b-cable",
+"title": "Is there a way to splice additional NM-B cable?",
+"category": "energy-power"
+},
+{
+"path": "questions/47713/is-there-a-way-to-unscrew-a-light-bulb-that-has-broken",
+"title": "Is there a way to unscrew a light bulb that has broken?",
+"category": "energy-power"
+},
+{
+"path": "questions/11874/is-there-an-nec-compliant-method-of-repairing-minor-damage-to-electrical-wire-",
+"title": "Is there an NEC-compliant method of repairing minor damage to electrical wire insulation without a junction box?",
+"category": "energy-power"
+},
+{
+"path": "questions/42030/is-there-any-code-for-running-ethernet-cable-through-attics",
+"title": "Is there any code for running Ethernet cable (through attics)?",
+"category": "energy-power"
+},
+{
+"path": "questions/263177/is-there-any-way-for-a-consumer-to-confirm-that-a-device-is-actually-ul-listed",
+"title": "Is there any way for a consumer to confirm that a device is actually UL listed?",
+"category": "energy-power"
+},
+{
+"path": "questions/46901/is-there-ever-a-reason-for-reversing-hot-and-neutral-on-a-receptacle",
+"title": "Is there ever a reason for reversing hot and neutral on a receptacle?",
+"category": "energy-power"
+},
+{
+"path": "questions/203964/is-this-230v-steampunk-metal-robot-lamp-safe",
+"title": "Is this 230V steampunk metal robot lamp safe?",
+"category": "energy-power"
+},
+{
+"path": "questions/91689/is-this-a-fire-hazard",
+"title": "Is this a fire hazard?",
+"category": "energy-power"
+},
+{
+"path": "questions/181839/is-this-box-bonded-properly-to-the-ground",
+"title": "Is this box bonded properly to the ground?",
+"category": "energy-power"
+},
+{
+"path": "questions/228949/is-this-correct-welder-suggests-15a-outlet-on-20a-breaker-or-20a-outlet-on-30a",
+"title": "Is this correct? Welder suggests 15A outlet on 20A breaker, or 20A outlet on 30A breaker",
+"category": "energy-power"
+},
+{
+"path": "questions/166001/is-this-light-switch-installation-safe-and-legal",
+"title": "Is this light switch installation safe and legal?",
+"category": "energy-power"
+},
+{
+"path": "questions/286329/is-this-two-110-to-one-220-adaptor-as-fire-hazard-as-it-looks",
+"title": "Is this two-110-to-one-220 adaptor as fire-hazard as it looks?",
+"category": "energy-power"
+},
+{
+"path": "questions/90670/is-twisted-and-taped-splice-on-cable-objectively-any-less-stable-than-wire-nut",
+"title": "Is twisted and taped splice on cable, objectively any less stable than wire-nuts or terminal blocks?",
+"category": "energy-power"
+},
+{
+"path": "questions/12115/is-using-15-amp-components-on-a-20-amp-breaker-against-code",
+"title": "Is using 15 amp components on a 20 amp breaker against code?",
+"category": "energy-power"
+},
+{
+"path": "questions/252038/is-white-wire-with-grey-stripes-positive-or-negative-wire",
+"title": "Is white wire with grey stripes positive or negative wire?",
+"category": "energy-power"
+},
+{
+"path": "questions/236402/led-light-bulbs-burning-out-much-sooner-than-expected",
+"title": "LED Light bulbs burning out much sooner than expected",
+"category": "energy-power"
+},
+{
+"path": "questions/133688/locating-source-of-excessive-energy-use",
+"title": "Locating source of excessive energy use",
+"category": "energy-power"
+},
+{
+"path": "questions/167436/loss-of-power-when-i-remove-item-from-the-outlet",
+"title": "Loss of power when I remove item from the outlet",
+"category": "energy-power"
+},
+{
+"path": "questions/54134/lutron-led-cfl-dimmer-switch-turns-lights-off-the-wrong-way-up-is-down-and-dow",
+"title": "Lutron LED/CFL Dimmer switch turns lights off the wrong way, up is down and down is up. What's the problem?",
+"category": "energy-power"
+},
+{
+"path": "questions/257106/male-plug-installed-in-wall",
+"title": "Male plug installed in wall",
+"category": "energy-power"
+},
+{
+"path": "questions/132120/metal-braided-cord-in-the-wall",
+"title": "Metal braided cord in the wall",
+"category": "energy-power"
+},
+{
+"path": "questions/113518/metal-spike-with-heavy-metal-cord-found-in-front-lawn",
+"title": "Metal spike with heavy metal cord found in front lawn",
+"category": "energy-power"
+},
+{
+"path": "questions/176178/multiple-holes-in-exterior-wall-studs-for-electrical-wiring",
+"title": "Multiple holes in exterior wall studs for electrical wiring",
+"category": "energy-power"
+},
+{
+"path": "questions/20206/my-house-was-hit-by-lightning-what-should-i-do",
+"title": "My house was hit by lightning. What should I do?",
+"category": "energy-power"
+},
+{
+"path": "questions/189357/my-inflatable-hot-tub-says-don-t-use-with-an-extension-cord-but-can-i",
+"title": "My inflatable hot tub says \"don't use with an extension cord\"... but can I?",
+"category": "energy-power"
+},
+{
+"path": "questions/181934/my-room-lights-brightness-pulses-when-i-turn-on-my-toaster-oven",
+"title": "My room lights' brightness pulses when I turn on my toaster oven",
+"category": "energy-power"
+},
+{
+"path": "questions/262053/mystery-wall-plate-by-front-door",
+"title": "Mystery wall plate by front door",
+"category": "energy-power"
+},
+{
+"path": "questions/165614/need-to-understand-my-home-electrical-meter-to-see-why-bill-is-so-high-and-or-",
+"title": "Need to understand my home electrical meter to see why bill is so high and/or if neighbor is on same meter",
+"category": "energy-power"
+},
+{
+"path": "questions/122125/new-gfci-outlet-green-light-is-on-but-no-power",
+"title": "New GFCI outlet; green light is on but no power",
+"category": "energy-power"
+},
+{
+"path": "questions/178088/now-i-realize-i-used-too-many-gfci-outlets-how-can-i-reclaim-them",
+"title": "Now I realize I used too many GFCI outlets. How can I reclaim them?",
+"category": "energy-power"
+},
+{
+"path": "questions/255203/old-ceiling-light-fixture-with-9-wires-5-black-4-white-how-to-install-a-new-fi",
+"title": "Old ceiling light fixture with 9 wires (5 black/4 white)-how to install a new fixture?",
+"category": "energy-power"
+},
+{
+"path": "questions/250984/old-house-2-prong-outlets-safety-question-for-kids",
+"title": "Old house, 2 prong outlets - safety question for kids",
+"category": "energy-power"
+},
+{
+"path": "questions/96863/one-circuit-on-two-20-amp-breakers",
+"title": "One circuit on two 20 amp breakers",
+"category": "energy-power"
+},
+{
+"path": "questions/148995/panel-breakers-are-alternately-90-v-and-140-v",
+"title": "Panel breakers are alternately 90 V and 140 V",
+"category": "energy-power"
+},
+{
+"path": "questions/185008/propane-appliances-throwing-orange-flames-suddenly-and-generator-s-back-firing",
+"title": "Propane appliances throwing orange flames suddenly and generator's back firing",
+"category": "energy-power"
+},
+{
+"path": "questions/177520/replacing-2-prong-outlets-in-basement-existing-wiring-has-two-hot-wires-one-ne",
+"title": "Replacing 2-prong outlets in basement - existing wiring has two hot wires, one neutral?",
+"category": "energy-power"
+},
+{
+"path": "questions/171512/repurpose-telephone-line-to-ethernet",
+"title": "Repurpose telephone line to ethernet",
+"category": "energy-power"
+},
+{
+"path": "questions/14339/running-cat-6-networking-cable-in-the-attic-what-is-up-to-code",
+"title": "Running cat 6 networking cable in the attic: what is up to code?",
+"category": "energy-power"
+},
+{
+"path": "questions/153715/safety-hook-on-double-pole-circuit-breakers",
+"title": "Safety hook on double pole circuit breakers",
+"category": "energy-power"
+},
+{
+"path": "questions/62320/should-all-federal-pacific-panels-be-replaced",
+"title": "Should all Federal Pacific panels be replaced?",
+"category": "energy-power"
+},
+{
+"path": "questions/205382/should-i-dig-a-separate-trench-for-cat5e-wire-to-shed",
+"title": "Should I dig a separate trench for CAT5e wire to shed?",
+"category": "energy-power"
+},
+{
+"path": "questions/25357/should-i-put-a-dimmer-switch-on-a-ceiling-fan",
+"title": "Should I put a dimmer switch on a ceiling fan?",
+"category": "energy-power"
+},
+{
+"path": "questions/181064/should-i-run-240v-for-any-supported-appliances",
+"title": "Should I run 240v for any supported appliances?",
+"category": "energy-power"
+},
+{
+"path": "questions/20/should-old-knob-and-tube-wiring-be-replaced",
+"title": "Should old knob and tube wiring be replaced?",
+"category": "energy-power"
+},
+{
+"path": "questions/288689/sketchy-looking-electrical-outlet",
+"title": "Sketchy looking electrical outlet",
+"category": "energy-power"
+},
+{
+"path": "questions/129707/small-branch-stuck-in-electric-wire",
+"title": "Small branch stuck in electric wire",
+"category": "energy-power"
+},
+{
+"path": "questions/161089/small-nick-on-power-cord-from-an-electric-alarm-clock-and-copper-wiring-expose",
+"title": "Small nick on power cord from an electric alarm clock, and copper wiring exposed but intact",
+"category": "energy-power"
+},
+{
+"path": "questions/129764/splitting-a-240v-line-into-two-120v-lines",
+"title": "Splitting a 240V line into two 120V lines",
+"category": "energy-power"
+},
+{
+"path": "questions/218320/subpanel-breaker-tripped-as-well-as-main-breaker-should-i-be-concerned",
+"title": "subpanel breaker tripped as well as main breaker - should I be concerned?",
+"category": "energy-power"
+},
+{
+"path": "questions/250907/the-main-ground-on-my-house-sparks-when-an-appliance-is-turned-on",
+"title": "The main ground on my house sparks when an appliance is turned on",
+"category": "energy-power"
+},
+{
+"path": "questions/253570/unused-outlets-get-warm-when-others-under-load",
+"title": "Unused outlets get warm when others under load",
+"category": "energy-power"
+},
+{
+"path": "questions/178240/weird-power-outage-in-certain-rooms-condominium",
+"title": "Weird Power Outage in Certain Rooms- Condominium",
+"category": "energy-power"
+},
+{
+"path": "questions/201207/what-are-backstab-receptacles-outlets",
+"title": "What are \"backstab\" receptacles/outlets?",
+"category": "energy-power"
+},
+{
+"path": "questions/138356/what-are-insulated-screwdrivers-for-if-youre-not-supposed-to-work-on-a-live-ci",
+"title": "What are insulated screwdrivers for if you’re not supposed to work on a live circuit?",
+"category": "energy-power"
+},
+{
+"path": "questions/62949/what-are-the-differences-between-these-two-receptacles",
+"title": "What are the differences between these two receptacles?",
+"category": "energy-power"
+},
+{
+"path": "questions/18675/what-are-the-disadvantages-of-having-electrical-conduit-penetrate-my-foundatio",
+"title": "What are the disadvantages of having electrical conduit penetrate my foundation below-grade?",
+"category": "energy-power"
+},
+{
+"path": "questions/185722/what-are-these-orange-outlets-directly-attached-to-my-breaker-box",
+"title": "What are these orange outlets directly attached to my breaker box?",
+"category": "energy-power"
+},
+{
+"path": "questions/103135/what-danger-code-violation-is-oversized-breakers",
+"title": "What danger/code violation is oversized breakers?",
+"category": "energy-power"
+},
+{
+"path": "questions/269706/what-determines-old-work-vs-new-work-during-a-re-wire-project",
+"title": "What determines \"old work\" vs. \"new work\" during a re-wire project?",
+"category": "energy-power"
+},
+{
+"path": "questions/29459/what-do-i-do-if-there-are-only-two-wires-coming-from-my-ceiling-electrical-box",
+"title": "What do I do if there are only two wires coming from my ceiling electrical box?",
+"category": "energy-power"
+},
+{
+"path": "questions/18225/what-do-i-need-to-install-led-strip-lighting",
+"title": "What do I need to install LED strip lighting?",
+"category": "energy-power"
+},
+{
+"path": "questions/11654/what-does-1-gang-2-gang-and-so-forth-mean-when-talking-about-electrical-boxes",
+"title": "What does \"1 Gang\", \"2 Gang\", and so forth mean when talking about electrical boxes?",
+"category": "energy-power"
+},
+{
+"path": "questions/231793/what-does-can-t-mix-neutrals-mean-and-how-would-neutrals-get-mixed",
+"title": "What does \"can't mix neutrals\" mean, and how would neutrals get mixed?",
+"category": "energy-power"
+},
+{
+"path": "questions/15684/what-is-a-gfi-outlet-used-for-and-where-should-i-install-them",
+"title": "What is a GFI outlet used for, and where should I install them?",
+"category": "energy-power"
+},
+{
+"path": "questions/71652/what-is-a-multiwire-branch-circuit",
+"title": "What is a multiwire branch circuit?",
+"category": "energy-power"
+},
+{
+"path": "questions/110151/what-is-a-tandem-breaker-aka-duplex-cheater-twin-double-stuff-etc",
+"title": "What is a tandem breaker (aka duplex, cheater, twin, double-stuff, etc.)?",
+"category": "energy-power"
+},
+{
+"path": "questions/5545/what-is-electrical-code-for-number-of-wires-in-a-breaker",
+"title": "What is electrical code for number of wires in a breaker?",
+"category": "energy-power"
+},
+{
+"path": "questions/13638/what-is-simplest-strategy-to-map-circuits-to-breakers-in-the-panel",
+"title": "What is simplest strategy to map circuits to breakers in the panel?",
+"category": "energy-power"
+},
+{
+"path": "questions/38230/what-is-the-best-way-to-cut-receptacle-holes-when-hanging-drywall",
+"title": "What is the best way to cut receptacle holes when hanging drywall?",
+"category": "energy-power"
+},
+{
+"path": "questions/200939/what-is-the-cause-of-this-short-in-the-outlet-receptacle",
+"title": "What is the cause of this short in the outlet receptacle?",
+"category": "energy-power"
+},
+{
+"path": "questions/201543/what-is-the-difference-between-handle-tie-and-common-trip-in-circuit-breakers",
+"title": "What is the difference between \"handle tie\" and \"common trip\" in circuit breakers?",
+"category": "energy-power"
+},
+{
+"path": "questions/57698/what-is-the-proper-per-code-method-for-running-nonmetallic-sheathed-cable-abov",
+"title": "What is the proper 'per code' method for running nonmetallic sheathed cable above a ceiling in the attic?",
+"category": "energy-power"
+},
+{
+"path": "questions/1588/what-is-the-proper-way-to-run-wires-along-across-basement-ceiling-joists",
+"title": "What is the proper way to run wires along/across basement ceiling joists?",
+"category": "energy-power"
+},
+{
+"path": "questions/20873/what-is-the-purpose-of-these-holes-on-my-wire-stripper",
+"title": "What is the purpose of these holes on my wire stripper?",
+"category": "energy-power"
+},
+{
+"path": "questions/235425/what-is-the-reason-for-electric-heaters-saying-to-never-use-an-extension-cord",
+"title": "What is the reason for electric heaters saying to never use an extension cord?",
+"category": "energy-power"
+},
+{
+"path": "questions/5653/what-is-the-right-way-to-connect-7-conductors-in-an-electrical-box",
+"title": "What is the right way to connect 7 conductors in an electrical box?",
+"category": "energy-power"
+},
+{
+"path": "questions/3366/what-is-the-right-way-to-strip-power-wires",
+"title": "What is the right way to strip power wires?",
+"category": "energy-power"
+},
+{
+"path": "questions/224886/what-is-this-cable-in-my-yard-why-is-it-exposed-and-what-can-i-do-about-it",
+"title": "What is this cable in my yard, why is it exposed, and what can I do about it?",
+"category": "energy-power"
+},
+{
+"path": "questions/114238/what-is-this-electrical-cord-for",
+"title": "What is this electrical cord for?",
+"category": "energy-power"
+},
+{
+"path": "questions/41971/what-is-this-velcro-like-product",
+"title": "What is this velcro-like product?",
+"category": "energy-power"
+},
+{
+"path": "questions/119668/what-items-in-a-house-can-potentially-be-damaged-by-shutting-them-off-at-the-c",
+"title": "What items in a house can potentially be damaged by shutting them off at the circuit breaker?",
+"category": "energy-power"
+},
+{
+"path": "questions/98865/what-kind-of-gloves-should-i-wear-during-electrical-work",
+"title": "What kind of gloves should I wear during electrical work?",
+"category": "energy-power"
+},
+{
+"path": "questions/177746/what-on-earth-is-this-small-wall-mounted-computer",
+"title": "What on earth is this small wall-mounted computer?",
+"category": "energy-power"
+},
+{
+"path": "questions/235665/what-should-a-homeowner-look-for-in-a-torque-driver-for-diy-electrical-work",
+"title": "What should a homeowner look for in a torque driver for DIY electrical work?",
+"category": "energy-power"
+},
+{
+"path": "questions/206752/what-should-i-do-with-a-powered-switch-that-seemingly-does-nothing",
+"title": "What should I do with a powered switch that seemingly does nothing?",
+"category": "energy-power"
+},
+{
+"path": "questions/16028/what-should-i-use-to-secure-organize-data-cable-runs",
+"title": "What should I use to secure/organize data cable runs?",
+"category": "energy-power"
+},
+{
+"path": "questions/182030/what-type-of-cable-should-i-bury-for-a-small-utility-shed",
+"title": "What type of cable should I bury for a small utility shed?",
+"category": "energy-power"
+},
+{
+"path": "questions/30926/what-types-of-electrical-outlets-are-found-in-a-typical-home-in-the-usa",
+"title": "What types of electrical outlets are found in a typical home in the USA?",
+"category": "energy-power"
+},
+{
+"path": "questions/237186/what-was-a-receptacle-installed-near-my-breaker-box",
+"title": "What was a receptacle installed near my breaker box?",
+"category": "energy-power"
+},
+{
+"path": "questions/29057/what-wire-gauge-do-i-need-for-a-100-amp-subpanel-at-the-end-of-a-60-wire-run",
+"title": "What wire gauge do I need for a 100 Amp subpanel at the end of a 60' wire run?",
+"category": "energy-power"
+},
+{
+"path": "questions/291/what-s-the-best-way-of-replacing-a-plug-or-switch-in-a-house-with-aluminum-wir",
+"title": "What's the best way of replacing a plug or switch in a house with aluminum wiring?",
+"category": "energy-power"
+},
+{
+"path": "questions/249003/what-s-the-cheapest-way-to-wire-these-lights-that-are-400-away-at-the-end-of-t",
+"title": "What's the cheapest way to wire these lights that are 400' away at the end of the driveway?",
+"category": "energy-power"
+},
+{
+"path": "questions/11633/what-s-the-minimum-depth-that-an-electrical-box-can-recess-into-a-finished-wal",
+"title": "What's the minimum depth that an electrical box can recess into a finished wall? Does it have to be flush?",
+"category": "energy-power"
+},
+{
+"path": "questions/17001/what-s-the-standard-height-for-an-outlet",
+"title": "What's the standard height for an outlet?",
+"category": "energy-power"
+},
+{
+"path": "questions/90038/when-doing-electrical-work-what-do-i-use-to-check-wires-are-safe",
+"title": "When doing electrical work, what do I use to check wires are safe?",
+"category": "energy-power"
+},
+{
+"path": "questions/11747/when-i-turn-down-the-dimmer-switch-on-my-lights-do-i-actually-use-less-electri",
+"title": "When I turn down the dimmer switch on my lights, do I actually use less electricity?",
+"category": "energy-power"
+},
+{
+"path": "questions/7977/when-to-use-holes-instead-of-side-terminals-to-wire-an-outlet",
+"title": "When to use holes instead of side terminals to wire an outlet",
+"category": "energy-power"
+},
+{
+"path": "questions/156756/when-wiring-a-switch-should-i-break-the-neutral-or-power-wire",
+"title": "When wiring a switch, should I break the neutral or power wire?",
+"category": "energy-power"
+},
+{
+"path": "questions/15466/when-wiring-outlets-should-i-use-pigtails-or-both-sets-of-outlet-screws",
+"title": "When wiring outlets should I use pigtails or both sets of outlet screws?",
+"category": "energy-power"
+},
+{
+"path": "questions/75011/where-should-i-not-use-a-gfci-or-afci",
+"title": "Where should I NOT use a GFCI or AFCI?",
+"category": "energy-power"
+},
+{
+"path": "questions/9341/which-kitchen-outlets-do-not-need-gfci",
+"title": "Which Kitchen outlets do NOT need GFCI?",
+"category": "energy-power"
+},
+{
+"path": "questions/8229/which-way-is-up-electric-outlet",
+"title": "Which way is up? (electric outlet)",
+"category": "energy-power"
+},
+{
+"path": "questions/164379/while-drilling-into-kitchen-wall-hit-a-wire-any-advice",
+"title": "While drilling into kitchen wall, hit a wire - any advice?",
+"category": "energy-power"
+},
+{
+"path": "questions/168110/why-am-i-getting-an-electric-shock-from-the-water-in-my-hot-tub",
+"title": "Why am I getting an electric shock from the water in my hot tub?",
+"category": "energy-power"
+},
+{
+"path": "questions/265934/why-am-i-getting-shocked-touching-an-outdoor-faucet",
+"title": "Why am I getting shocked touching an outdoor faucet?",
+"category": "energy-power"
+},
+{
+"path": "questions/179894/why-are-adjacent-breakers-for-unrelated-circuits-ganged",
+"title": "Why are adjacent breakers for unrelated circuits ganged?",
+"category": "energy-power"
+},
+{
+"path": "questions/281210/why-are-all-the-neutral-wires-in-a-sub-panel-burnt-or-melted",
+"title": "Why are all the neutral wires in a sub panel burnt or melted?",
+"category": "energy-power"
+},
+{
+"path": "questions/5901/why-are-homes-wired-using-solid-wire-rather-than-stranded",
+"title": "Why are homes wired using solid wire rather than stranded?",
+"category": "energy-power"
+},
+{
+"path": "questions/157867/why-are-these-receptacles-so-difficult-to-plug-into",
+"title": "Why are these receptacles so difficult to plug into?",
+"category": "energy-power"
+},
+{
+"path": "questions/10144/why-are-wire-nuts-not-used-in-the-uk",
+"title": "Why are “Wire Nuts” not used in the UK?",
+"category": "energy-power"
+},
+{
+"path": "questions/215039/why-can-i-not-assemble-conduit-around-cable-but-must-pull-it-after-assembly",
+"title": "Why can I not assemble conduit around cable, but must pull it after assembly?",
+"category": "energy-power"
+},
+{
+"path": "questions/101066/why-did-my-electrician-put-metal-plates-wherever-the-stud-is-drilled-through",
+"title": "Why did my electrician put metal plates wherever the stud is drilled through?",
+"category": "energy-power"
+},
+{
+"path": "questions/251268/why-did-my-extension-cord-melt-and-arc",
+"title": "Why did my extension cord melt and arc?",
+"category": "energy-power"
+},
+{
+"path": "questions/168225/why-did-my-leaking-pool-light-trip-the-circuit-breaker-but-not-the-gfci",
+"title": "Why did my leaking pool light trip the circuit breaker, but not the GFCI?",
+"category": "energy-power"
+},
+{
+"path": "questions/33602/why-do-240v-circuits-not-require-neutral",
+"title": "Why Do 240V Circuits Not Require Neutral?",
+"category": "energy-power"
+},
+{
+"path": "questions/238419/why-do-electricians-in-some-areas-choose-wire-nuts-over-reusable-terminal-bloc",
+"title": "Why do electricians in some areas choose wire nuts over reusable terminal blocks like Wago offers?",
+"category": "energy-power"
+},
+{
+"path": "questions/81197/why-do-i-have-voltage-on-a-plumbing-ground-strap-and-is-it-dangerous",
+"title": "Why do I have voltage on a plumbing ground strap, and is it dangerous?",
+"category": "energy-power"
+},
+{
+"path": "questions/285440/why-do-instruction-manuals-specify-do-not-use-extension-cord-and-provide-a-sep",
+"title": "Why do instruction manuals specify, \"Do not use extension cord and provide a separate circuit\"?",
+"category": "energy-power"
+},
+{
+"path": "questions/79466/why-do-my-led-bulbs-state-not-for-use-in-totally-enclosed-luminaires",
+"title": "Why do my led bulbs state: not for use in totally enclosed luminaires?",
+"category": "energy-power"
+},
+{
+"path": "questions/158243/why-do-single-electrical-receptacles-exist",
+"title": "Why do single electrical receptacles exist?",
+"category": "energy-power"
+},
+{
+"path": "questions/128773/why-does-my-home-s-power-fade-and-surge-when-i-plug-things-in",
+"title": "Why does my home's power fade and surge when I plug things in?",
+"category": "energy-power"
+},
+{
+"path": "questions/37810/why-does-my-stud-finder-detect-electrical-wires-over-a-large-area-of-my-wall",
+"title": "Why does my stud finder detect electrical wires over a large area of my wall?",
+"category": "energy-power"
+},
+{
+"path": "questions/292838/why-does-my-tankless-water-heater-fail-when-the-hvac-is-running",
+"title": "Why does my tankless water heater fail when the HVAC is running?",
+"category": "energy-power"
+},
+{
+"path": "questions/289603/why-does-my-waffle-maker-regularly-trip-afci",
+"title": "Why does my waffle maker regularly trip AFCI?",
+"category": "energy-power"
+},
+{
+"path": "questions/249522/why-does-replacing-this-outlet-cause-a-nearby-light-to-stay-on",
+"title": "Why does replacing this outlet cause a nearby light to stay on?",
+"category": "energy-power"
+},
+{
+"path": "questions/195531/why-does-tesla-recommend-such-a-small-gauge-wire-for-their-chargers-compared-t",
+"title": "Why does Tesla recommend such a small gauge wire for their chargers compared to this chart I found online?",
+"category": "energy-power"
+},
+{
+"path": "questions/11275/why-does-this-receptacle-have-the-ground-tied-to-the-neutral",
+"title": "Why does this receptacle have the ground tied to the neutral?",
+"category": "energy-power"
+},
+{
+"path": "questions/210537/why-does-us-code-not-allow-a-15a-single-receptacle-on-a-20a-circuit",
+"title": "Why does US Code not allow a 15A single receptacle on a 20A circuit?",
+"category": "energy-power"
+},
+{
+"path": "questions/178698/why-don-t-electrical-receptacles-have-more-than-one-ground",
+"title": "Why don't electrical receptacles have more than one ground?",
+"category": "energy-power"
+},
+{
+"path": "questions/166099/why-don-t-i-have-ground-wiring-on-any-of-my-outlets",
+"title": "Why don't I have ground wiring on any of my outlets?",
+"category": "energy-power"
+},
+{
+"path": "questions/100511/why-don-t-you-connect-unused-hot-and-neutral-wires-to-complete-the-circuit",
+"title": "Why don't you connect unused hot and neutral wires to \"complete the circuit\"?",
+"category": "energy-power"
+},
+{
+"path": "questions/11798/why-energy-saving-bulb-flashes-when-the-switch-is-off",
+"title": "Why energy saving bulb flashes when the switch is off?",
+"category": "energy-power"
+},
+{
+"path": "questions/203424/why-has-my-10-year-old-ceiling-fan-suddenly-started-shocking-me-through-the-fa",
+"title": "Why has my 10 year old ceiling fan suddenly started shocking me through the fan pull chain?",
+"category": "energy-power"
+},
+{
+"path": "questions/91390/why-is-a-service-neutral-grounded-but-not-the-subpanel-neutral",
+"title": "why is a service neutral grounded but not the subpanel-neutral?",
+"category": "energy-power"
+},
+{
+"path": "questions/15580/why-is-ent-rarely-used-for-electrical-wiring",
+"title": "Why is ENT rarely used for electrical wiring?",
+"category": "energy-power"
+},
+{
+"path": "questions/12763/why-is-it-safe-to-use-15-a-receptacles-on-a-20-a-circuit",
+"title": "Why is it safe to use 15 A receptacles on a 20 A circuit?",
+"category": "energy-power"
+},
+{
+"path": "questions/261152/why-is-my-background-energy-usage-higher-in-the-first-half-of-each-hour",
+"title": "Why is my background energy usage higher in the first half of each hour?",
+"category": "energy-power"
+},
+{
+"path": "questions/201936/why-is-my-garage-grounded-only-when-it-rains",
+"title": "Why is my garage grounded ONLY when it rains?",
+"category": "energy-power"
+},
+{
+"path": "questions/192538/why-is-my-house-wired-with-two-coax-in-every-room-and-an-rj11-splitter",
+"title": "Why is my house wired with two coax in every room and an RJ11 splitter?",
+"category": "energy-power"
+},
+{
+"path": "questions/185036/why-is-my-voltage-dropping-with-load-and-why-is-current-flowing-on-my-ground-w",
+"title": "Why is my voltage dropping with load and why is current flowing on my ground wire?",
+"category": "energy-power"
+},
+{
+"path": "questions/309345/why-is-the-led-bulb-wattage-limit-in-my-lamps-so-much-lower-than-the-incandesc",
+"title": "Why is the LED bulb wattage limit in my lamps so much lower than the Incandescent limit?",
+"category": "energy-power"
+},
+{
+"path": "questions/267321/why-is-the-main-breaker-sparking-in-off-position",
+"title": "Why is the main breaker sparking in off position?",
+"category": "energy-power"
+},
+{
+"path": "questions/266443/why-is-there-a-jumper-between-these-circuit-breakers",
+"title": "Why is there a jumper between these circuit breakers?",
+"category": "energy-power"
+},
+{
+"path": "questions/268070/why-is-there-a-voltage-on-my-hdmi-and-coaxial-cables",
+"title": "Why is there a voltage on my HDMI and coaxial cables?",
+"category": "energy-power"
+},
+{
+"path": "questions/124354/why-is-there-no-neutral-in-a-switch-box",
+"title": "Why is there no neutral in a switch box?",
+"category": "energy-power"
+},
+{
+"path": "questions/236119/why-is-there-only-one-receptacle-in-this-outlet",
+"title": "Why is there only one receptacle in this outlet?",
+"category": "energy-power"
+},
+{
+"path": "questions/137103/why-is-this-shared-neutral-wiring-bad",
+"title": "Why is this shared-neutral wiring bad?",
+"category": "energy-power"
+},
+{
+"path": "questions/239743/why-was-a-high-wall-plug-installed-in-a-1959-home",
+"title": "Why was a high wall plug installed in a 1959 home?",
+"category": "energy-power"
+},
+{
+"path": "questions/64438/why-won-t-a-led-bulb-work-in-a-standard-light-fixture",
+"title": "Why won't a LED bulb work in a standard light fixture?",
+"category": "energy-power"
+},
+{
+"path": "questions/53252/why-would-a-gfci-trip-on-refrigerator-circuit",
+"title": "Why would a GFCI trip on refrigerator circuit?",
+"category": "energy-power"
+},
+{
+"path": "questions/116587/why-would-a-switch-be-wired-with-its-neutral-connected-to-ground",
+"title": "Why would a switch be wired with its neutral connected to ground?",
+"category": "energy-power"
+},
+{
+"path": "questions/14904/why-would-there-be-a-50-amp-plug-on-a-30-amp-appliance",
+"title": "Why would there be a 50 amp plug on a 30 amp appliance?",
+"category": "energy-power"
+},
+{
+"path": "questions/63077/why-would-two-circuit-breakers-be-connected-inside-the-service-panel",
+"title": "Why would two circuit breakers be connected inside the service panel?",
+"category": "energy-power"
+},
+{
+"path": "questions/200882/would-it-be-code-legal-to-have-an-all-240v-house-in-the-united-states",
+"title": "Would it be Code legal to have an all-240V house in the United States?",
+"category": "energy-power"
+},
+{
+"path": "questions/154304/does-a-c-encourage-mold-growth",
+"title": "Does A/C encourage mold growth?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/3205/how-can-i-get-rid-of-a-mouse-in-my-house",
+"title": "How can I get rid of a mouse in my house?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/660/how-can-i-get-rid-of-ants-in-an-environmently-friendly-way",
+"title": "How can I get rid of ants in an environmently friendly way?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/223/how-can-i-paint-over-mold-to-prevent-it-from-coming-back-again",
+"title": "How can I paint over mold to prevent it from coming back again?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/149776/how-can-i-stop-a-toilet-seat-from-rapidly-loosening",
+"title": "How can I stop a toilet seat from rapidly loosening?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/21270/how-do-i-find-and-dispose-of-the-dead-animal-that-s-presumably-in-my-ceiling",
+"title": "How do I find and dispose of the dead animal that's presumably in my ceiling?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/20551/how-do-i-fix-a-sticking-toilet-refill-float",
+"title": "How do I fix a sticking toilet refill float?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/5031/how-do-i-repair-prevent-woodpecker-holes-in-cedar-siding",
+"title": "How do I repair/prevent woodpecker holes in cedar siding?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/249934/ok-to-put-bleach-in-toilet-tank",
+"title": "Ok to put bleach in toilet tank?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/613/what-are-the-black-spots-on-my-bathroom-ceiling-are-they-mold",
+"title": "What are the black spots on my bathroom ceiling? Are they mold?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/2384/what-can-i-do-to-keep-my-shed-or-house-free-of-spiders",
+"title": "What can I do to keep my shed (or house) free of spiders?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/13000/what-is-the-proper-safe-and-effective-way-to-apply-diatomaceous-earth",
+"title": "What is the proper, safe, and effective way to apply diatomaceous earth?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/14680/what-is-the-recommended-way-to-destroy-mold",
+"title": "What is the recommended way to destroy mold?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/9540/when-bolting-down-a-porcelain-toilet-how-tight-is-too-tight",
+"title": "When bolting down a porcelain toilet, how tight is \"too tight\"?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/238561/why-are-we-to-leave-a-front-loader-clothes-washer-open-but-not-the-dishwasher",
+"title": "Why are we to leave a front-loader clothes washer open, but not the dishwasher?",
+"category": "sanitation-hygiene"
+},
+{
+"path": "questions/151514/alarms-on-doors-that-have-access-to-a-pool",
+"title": "Alarms on Doors that have Access to a Pool",
+"category": "shelter-construction"
+},
+{
+"path": "questions/31984/are-cracks-in-a-newly-poured-concrete-basement-floor-a-problem",
+"title": "Are cracks in a newly poured concrete basement floor a problem?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/186077/are-gaps-above-and-below-framing-members-a-concern",
+"title": "Are gaps above and below framing members a concern?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/303047/are-there-any-reasons-i-shouldn-t-remove-this-odd-nook-from-a-basement-room",
+"title": "Are there any reasons I shouldn't remove this odd nook from a basement room?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/4/are-there-ways-to-determine-if-a-wall-is-load-bearing",
+"title": "Are there ways to determine if a wall is load bearing?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/136459/are-tin-roofs-permanent",
+"title": "Are tin roofs \"permanent\"?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/256595/asphalt-or-concrete-which-job-first",
+"title": "Asphalt or concrete, which job first?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/124023/broken-door-jamb-what-s-the-easiest-way-to-fix-this",
+"title": "Broken door jamb - What's the easiest way to fix this?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/252360/can-i-cut-the-small-tab-off-of-these-rafters-to-make-drywalling-easier",
+"title": "Can I cut the small tab off of these rafters to make drywalling easier",
+"category": "shelter-construction"
+},
+{
+"path": "questions/226773/can-i-gain-ac-efficiency-by-spraying-condensate-water-on-the-outdoor-coils",
+"title": "Can I gain AC efficiency by spraying condensate water on the outdoor coils?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/4713/can-i-paint-or-seal-a-very-moist-basement-floor-to-make-it-waterproof",
+"title": "Can I paint or seal a very moist basement floor to make it waterproof?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/10025/can-you-rout-plywood",
+"title": "Can you rout plywood?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/172829/contractor-cut-joist-hangers-to-make-them-fit",
+"title": "Contractor cut joist hangers to make them fit",
+"category": "shelter-construction"
+},
+{
+"path": "questions/194489/contractor-is-installing-a-vinyl-fence-and-posts-but-is-not-using-any-water-wi",
+"title": "Contractor is installing a vinyl fence and posts but is not using any water with concrete. Is he doing it right?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/200664/crack-in-concrete-block-garage-wall",
+"title": "Crack in concrete block garage wall",
+"category": "shelter-construction"
+},
+{
+"path": "questions/146432/diagonal-brace-left-in-the-basement-by-builder-can-i-remove-it-replace-it",
+"title": "Diagonal brace left in the basement by builder. Can I remove it? Replace it?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/223415/disconnecting-a-gas-stove-new-zealand",
+"title": "Disconnecting a gas stove (New Zealand)",
+"category": "shelter-construction"
+},
+{
+"path": "questions/252214/do-americans-in-dense-city-centers-vent-their-dryers-directly-outdoors",
+"title": "Do Americans in dense city centers vent their dryers directly outdoors?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/31576/do-i-need-to-sand-my-entire-deck-before-staining",
+"title": "Do I need to sand my entire deck before staining?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/222531/do-smart-or-programmable-thermostats-actually-save-money",
+"title": "Do smart or programmable thermostats actually save money?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/211811/do-studs-in-wooden-buildings-eventually-get-replaced-as-they-lose-their-struct",
+"title": "Do studs in wooden buildings eventually get replaced as they lose their structural capacity?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/334/do-thermostat-controlled-auto-adjust-hvac-vents-exist",
+"title": "Do thermostat-controlled, auto-adjust HVAC vents exist?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/10321/does-a-bedroom-have-to-have-a-closet",
+"title": "Does a bedroom have to have a closet?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/269196/does-this-downspout-design-make-sense",
+"title": "Does this downspout design make sense?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/26714/does-xps-osb-subfloor-need-to-be-anchored",
+"title": "Does XPS+OSB subfloor need to be anchored?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/1733/doors-are-sticky-and-noisy-when-opened",
+"title": "Doors are sticky and noisy when opened?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/322574/excessive-flame-on-one-burner",
+"title": "Excessive flame on one burner",
+"category": "shelter-construction"
+},
+{
+"path": "questions/156719/how-can-i-allow-911-first-responders-to-access-a-locked-residence",
+"title": "How can I allow 911 first responders to access a locked residence?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/163976/how-can-i-close-a-gap-between-my-fence-and-my-neighbor-s-that-s-on-his-side-of",
+"title": "How can I close a gap between my fence and my neighbor's that's on his side of the property line?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/21620/how-can-i-fill-a-screw-hole-so-it-can-be-used-again",
+"title": "How can I fill a screw hole so it can be used again?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/173003/how-can-i-fix-a-framing-mistake-so-i-can-drywall",
+"title": "How can I fix a framing mistake so I can drywall?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/6428/how-can-i-fix-a-garbage-disposal-with-crushed-glass-in-it",
+"title": "How can I fix a garbage disposal with crushed glass in it?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/89494/how-can-i-fix-the-issues-i-m-having-with-large-double-gates",
+"title": "How can I fix the issues I'm having with large double gates?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/221168/how-can-i-get-a-bolt-with-no-head-out-of-my-wall",
+"title": "How can I get a bolt with no head out of my wall?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/3293/how-can-i-insulate-my-garage-door",
+"title": "How can I insulate my garage door?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/255273/how-can-i-monitor-my-roof-to-detect-roof-leaks-before-they-cause-damage",
+"title": "How can I monitor my roof to detect roof leaks before they cause damage?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/241505/how-can-i-protect-a-frozen-heat-pump-in-cold-weather-while-waiting-for-service",
+"title": "How can I protect a frozen heat pump in cold weather while waiting for service?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/47107/how-can-i-protect-my-fingers-while-using-a-band-saw",
+"title": "How can I protect my fingers while using a band saw?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/262354/how-can-i-reduce-noise-coming-in-a-window-for-under-100",
+"title": "How can I reduce noise coming in a window for under $100?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/244726/how-can-i-remove-a-dead-animal-stuck-inside-an-underground-stormwater-drain-pi",
+"title": "How can I remove a dead animal stuck inside an underground stormwater drain pipe?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/166741/how-can-i-remove-material-from-this-wood-beam",
+"title": "How can I remove material from this wood beam?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/128060/how-can-i-repair-a-puncture-in-a-hollow-core-wooden-door",
+"title": "How can I repair a puncture in a hollow-core wooden door?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/174645/how-can-i-repair-this-gas-leak-on-my-new-range-teflon-tape-isn-t-working",
+"title": "How can I repair this gas leak on my new range? Teflon tape isn't working",
+"category": "shelter-construction"
+},
+{
+"path": "questions/176184/how-can-i-seal-8-inch-round-holes-in-my-siding",
+"title": "How can I seal 8 inch round holes in my siding?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/9689/how-can-i-stop-birds-from-hitting-my-sunroom-windows",
+"title": "How can I stop birds from hitting my sunroom windows?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/9696/how-do-i-adjust-a-door-so-it-doesn-t-swing-on-its-own",
+"title": "How do I adjust a door so it doesn't swing on its own?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/2865/how-do-i-build-a-french-drain",
+"title": "How do I build a French drain?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/3961/how-do-i-build-an-ice-rink-in-my-backyard",
+"title": "How do I build an ice rink in my backyard?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/51861/how-do-i-correctly-install-ceramic-floor-tile",
+"title": "How do I correctly install ceramic floor tile?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/10391/how-do-i-drill-a-21-8-inch-door-knob-hole-over-an-existing-11-2-inch-hole",
+"title": "How do I drill a 2⅛ inch door knob hole over an existing 1½ inch hole?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/190603/how-do-i-drywall-when-the-studs-are-not-flush",
+"title": "How do I drywall when the studs are not flush?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/7801/how-do-i-ensure-the-bathroom-door-stays-open-unless-someone-is-inside",
+"title": "How do I ensure the bathroom door stays open unless someone is inside?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/110753/how-do-i-feed-an-ethernet-cable-through-a-doorway-without-damaging-the-door-or",
+"title": "How do I feed an ethernet cable through a doorway without damaging the door or wall?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/21/how-do-i-find-studs-when-stud-finders-won-t-work",
+"title": "How do I find studs when stud finders won't work?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/2110/how-do-i-find-where-mice-are-entering-my-house",
+"title": "How do I find where mice are entering my house?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/4043/how-do-i-fix-a-door-frame-that-my-dog-chewed",
+"title": "How do I fix a door frame that my dog chewed?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/11594/how-do-i-fix-a-hole-in-drywall",
+"title": "How do I fix a hole in drywall?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/4889/how-do-i-fix-a-sinkhole-in-my-backyard",
+"title": "How do I fix a sinkhole in my backyard?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/235153/how-do-i-get-over-my-fear-of-using-power-tools",
+"title": "How do I get over my fear of using power tools?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/323665/how-do-i-get-this-screw-thing-off-my-sliding-door",
+"title": "How do I get this screw thing off my sliding door?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/13636/how-do-i-improve-pergola-stability",
+"title": "How do I improve Pergola Stability?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/21281/how-do-i-keep-my-christmas-tree-from-falling-over",
+"title": "How do I keep my Christmas tree from falling over?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/152033/how-do-i-make-around-the-room-shelves-for-a-seriously-skewed-room",
+"title": "How do I make around-the-room shelves for a seriously skewed room?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/2964/how-do-i-repair-a-curtain-rod-anchor-that-was-ripped-out-of-the-wall",
+"title": "How do I repair a curtain rod anchor that was ripped out of the wall?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/160538/how-do-i-repair-my-stair-bannister",
+"title": "How do I repair my stair bannister?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/234343/how-do-i-self-repair-a-section-of-crumbling-basement-wall-or-should-i-hire-a-p",
+"title": "How do I self-repair a section of crumbling basement wall, or should I hire a professional?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/12759/how-do-i-shift-a-door-s-latch-hole-and-strike-plate-up-or-down-half-an-inch",
+"title": "How do I shift a door's latch hole and strike plate up or down half an inch?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/3039/how-do-i-stop-the-dripping-noise-from-my-gutters",
+"title": "How do I stop the dripping noise from my gutters?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/10436/how-do-i-use-an-extension-ladder-to-get-onto-my-roof",
+"title": "How do I use an extension ladder to get onto my roof?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/2784/how-do-you-determine-if-a-door-is-right-handed-rh-or-left-handed-lh",
+"title": "How do you determine if a door is Right Handed (RH) or Left Handed (LH)?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/131906/how-do-you-find-helpers-for-larger-diy-projects",
+"title": "How do you find helpers for larger DIY projects?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/12314/how-do-you-secure-wood-framing-to-a-concrete-basement-floor",
+"title": "How do you secure wood framing to a concrete basement floor?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/176105/how-does-a-ball-bearing-door-hinge-work",
+"title": "How does a ball bearing door hinge work?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/28548/how-long-should-i-wait-before-painting-or-staining-pressure-treated-wood",
+"title": "How long should I wait before painting or staining pressure-treated wood?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/58433/how-much-damage-can-a-grow-op-do-to-a-house-in-3-months",
+"title": "How much damage can a grow-op do to a house in 3 months?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/8112/how-much-load-can-a-wood-board-support-if-it-is-supported-only-at-the-ends",
+"title": "How much load can a (wood) board support, if it is supported only at the ends?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/12732/how-should-i-clean-and-repaint-a-painted-wooden-deck",
+"title": "How should I clean and repaint a painted wooden deck?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/11961/how-should-i-fill-a-hole-in-an-exterior-wall",
+"title": "How should I fill a hole in an exterior wall?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/271364/how-should-i-refurbish-a-concrete-slab-with-a-rough-surface",
+"title": "How should I refurbish a concrete slab with a rough surface?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/246786/how-should-i-remove-a-swimming-pool-from-my-back-yard",
+"title": "How should I remove a swimming pool from my back yard?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/251926/how-to-safely-permanently-turn-off-natural-gas",
+"title": "How to (safely) permanently turn off natural gas?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/12942/how-to-add-on-to-a-concrete-patio",
+"title": "How to add on to a concrete patio?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/76153/how-to-calculate-the-maximum-safe-load-on-a-horizontal-wooden-beam",
+"title": "How to calculate the maximum safe load on a horizontal wooden beam?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/125744/how-to-open-a-door-that-has-the-insides-of-a-door-handle-inside-without-a-door",
+"title": "How to open a door that has the insides of a door handle inside without a door knob",
+"category": "shelter-construction"
+},
+{
+"path": "questions/14370/how-would-i-go-about-turning-a-tree-in-to-a-tabletop",
+"title": "How would I go about turning a tree in to a tabletop?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/593/humidity-levels",
+"title": "Humidity Levels",
+"category": "shelter-construction"
+},
+{
+"path": "questions/92/i-added-insulation-to-my-attic-rafters-but-should-i-have-left-room-for-airflow",
+"title": "I added insulation to my attic rafters, but should I have left room for airflow?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/37576/if-my-wall-has-metal-studs-is-it-better-to-anchor-heavy-objects-through-just-d",
+"title": "If my wall has metal studs, is it better to anchor heavy objects through just drywall or also through the studs?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/292279/is-a-main-beam-being-held-on-by-an-angle-iron-a-safe-construction",
+"title": "Is a main beam being held on by an angle iron a safe construction?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/8591/is-it-better-to-waterproof-a-basement-from-the-outside-or-the-inside",
+"title": "Is it better to waterproof a basement from the outside or the inside?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/201594/is-it-normal-to-use-a-grinder-to-finish-a-new-driveway",
+"title": "Is it normal to use a grinder to finish a new driveway?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/28640/is-it-ok-that-the-frame-of-my-house-doesn-t-line-up-with-the-slab",
+"title": "Is it OK that the frame of my house doesn't line up with the slab?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/260004/is-it-possible-for-a-gas-fired-boiler-to-consume-more-energy-when-heating-inte",
+"title": "Is it possible for a gas fired boiler to consume more energy when heating intermitently versus having heating at all times?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/13174/is-it-possible-to-convert-a-truss-attic-into-living-space",
+"title": "Is it possible to convert a truss attic into living space?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/280327/is-it-possible-to-turn-this-dumb-waiter-into-an-elevator",
+"title": "is it possible to turn this dumb-waiter into an elevator?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/228672/is-it-safe-to-remove-old-rusty-nails-from-a-wooden-beam",
+"title": "Is it safe to remove old rusty nails from a wooden beam?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/171624/is-it-safe-to-remove-the-bottom-chords-of-a-series-of-garage-roof-trusses",
+"title": "Is it safe to remove the bottom chords of a series of garage roof trusses?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/232203/is-it-safe-to-screw-into-a-single-support-beam-holding-up-an-entire-house",
+"title": "Is it safe to screw into a single support beam holding up an entire house?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/223083/is-it-safe-to-use-a-drill-bit-with-a-half-broken-tip",
+"title": "Is it safe to use a drill bit with a half broken tip?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/177696/is-it-unsafe-to-remove-one-stud-from-a-load-bearing-wall",
+"title": "Is it unsafe to remove one stud from a load bearing wall?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/11704/is-my-rapidly-failing-foundation-dangerous",
+"title": "Is my rapidly failing foundation dangerous?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/85055/is-notching-a-flange-on-an-i-joist-ever-acceptable",
+"title": "Is notching a flange on an I-Joist ever acceptable?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/107394/is-there-supposed-to-be-a-gap-between-the-wall-and-the-roof",
+"title": "Is there supposed to be a gap between the wall and the roof?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/283792/is-this-a-load-bearing-column",
+"title": "Is this a load bearing column?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/72776/is-this-cracking-foundation-under-a-jack-post-a-problem-that-requires-repair",
+"title": "Is this cracking foundation under a jack post a problem that requires repair?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/134462/knowing-where-to-drill-holes-in-steel-plate",
+"title": "Knowing where to drill holes in steel plate?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/1427/lubricant-for-squeaky-doors",
+"title": "Lubricant for squeaky doors",
+"category": "shelter-construction"
+},
+{
+"path": "questions/182396/make-a-hole-deeper-than-the-drill-bit-is-long",
+"title": "Make a hole deeper than the drill bit is long",
+"category": "shelter-construction"
+},
+{
+"path": "questions/183113/masonry-bits-dulling-after-3-4-holes",
+"title": "Masonry bits dulling after 3-4 holes",
+"category": "shelter-construction"
+},
+{
+"path": "questions/143909/mounted-tv-too-high-ok-to-use-same-studs-to-remount",
+"title": "Mounted tv too high, OK to use same studs to remount?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/223244/my-apartment-door-unlocked-by-itself-can-anyone-offer-an-explanation-please",
+"title": "My apartment door unlocked by itself. Can anyone offer an explanation please?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/237986/rafters-separating-from-ceiling",
+"title": "Rafters separating from ceiling",
+"category": "shelter-construction"
+},
+{
+"path": "questions/79733/safe-professional-way-to-transport-lumber-with-just-a-roof-rack",
+"title": "Safe/professional way to transport lumber with just a roof rack",
+"category": "shelter-construction"
+},
+{
+"path": "questions/202796/seemingly-overbuilt-basement-wall-load-bearing",
+"title": "Seemingly overbuilt basement wall - load bearing?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/4267/should-i-agree-to-have-more-insulation-added-to-my-attic",
+"title": "Should I agree to have more insulation added to my attic?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/4765/should-i-attach-the-fence-post-s-where-my-fence-meets-my-house-how-do-i-do-it",
+"title": "Should I attach the fence post(s) where my fence meets my house? How do I do it?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/305626/should-i-be-worried-about-this-giant-crack",
+"title": "Should I be worried about this giant crack?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/312816/should-i-let-my-doors-be-drafty-if-my-house-is-too-tight",
+"title": "Should I let my doors be drafty if my house is “too tight”?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/24717/should-i-let-pressure-treated-lumber-dry-before-building-with-it",
+"title": "Should I let pressure treated lumber dry before building with it?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/202989/should-i-make-my-two-steps-have-the-same-rise-or-keep-one-closer-to-a-typical-",
+"title": "Should I make my two steps have the same rise or keep one closer to a typical height?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/243/should-i-set-fence-posts-in-dirt-gravel-crushed-rock-or-concrete",
+"title": "Should I set fence posts in dirt, gravel, crushed rock, or concrete?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/145348/should-i-tilt-my-diy-self-standing-bookshelf-backwards-to-prevent-it-falling-d",
+"title": "Should I tilt my DIY self-standing bookshelf backwards to prevent it falling down?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/67/should-i-use-a-subfloor-for-a-finished-basement-s-floor",
+"title": "Should I use a subfloor for a finished basement's floor?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/8636/should-i-use-steel-or-wood-studs-for-basement-exterior-walls",
+"title": "Should I use steel or wood studs for basement exterior walls?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/14243/we-built-a-pergola-is-it-safe",
+"title": "We built a pergola, is it safe?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/4780/what-are-cheap-ways-to-build-strong-shelves-with-a-large-span",
+"title": "What are cheap ways to build strong shelves with a large span?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/444/what-are-framing-dimensions-like-in-the-metric-world",
+"title": "What are framing dimensions like in the metric world?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/2678/what-are-some-tips-for-finishing-wood",
+"title": "What are some tips for finishing wood?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/216038/what-are-the-dangers-of-operating-a-mini-excavator",
+"title": "What are the dangers of operating a mini excavator?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/10657/what-are-the-guidelines-for-holes-in-joists",
+"title": "What are the guidelines for holes in joists?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/9581/what-are-the-most-important-things-to-check-do-after-buying-a-home",
+"title": "What are the most important things to check/do after buying a home?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/539/what-are-the-pros-and-cons-of-different-types-of-windows",
+"title": "What are the pros and cons of different types of windows?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/3679/what-are-the-pros-and-cons-of-installing-a-roof-heating-cable",
+"title": "What are the pros and cons of installing a roof heating cable?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/5124/what-are-the-pros-and-cons-of-medium-density-fibreboard-mdf",
+"title": "What are the pros and cons of medium-density fibreboard (MDF)?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/1954/what-are-the-pros-and-cons-of-steel-vs-aluminum-metal-roofing",
+"title": "What are the pros and cons of steel vs. aluminum metal roofing?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/9929/what-are-the-pros-and-cons-of-uv-window-film",
+"title": "What are the pros and cons of UV window film?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/208/what-basic-safety-equipment-should-everyone-have",
+"title": "What basic safety equipment should everyone have?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/180421/what-bit-should-i-use-to-drill-a-two-inch-hole-in-a-solid-concrete-wall",
+"title": "What bit should I use to drill a two inch hole in a solid concrete wall?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/175625/what-causes-standard-door-hinges-to-close-up-to-a-certain-amount-automatically",
+"title": "What causes standard door hinges to close up to a certain amount automatically?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/4469/what-grit-sandpaper-should-i-use-between-coats-of-polyurethane",
+"title": "What grit sandpaper should I use between coats of polyurethane?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/166283/what-happens-to-foam-insulation-board-after-you-pour-concrete-slab",
+"title": "What happens to foam insulation board after you pour concrete slab?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/7871/what-humidity-should-i-set-my-dehumidifier-to",
+"title": "What humidity should I set my dehumidifier to?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/9311/what-is-better-for-a-roof-plywood-or-osb",
+"title": "What is better for a roof, plywood or OSB?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/11901/what-is-causing-caused-these-brown-circular-stains-in-my-cabinetry",
+"title": "What is causing/caused these brown circular stains in my cabinetry?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/10480/what-is-the-best-tool-for-cutting-up-scrap-wood",
+"title": "What is the best tool for cutting up scrap wood?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/11219/what-is-the-best-way-to-incrementally-finish-an-unfinished-basement",
+"title": "What is the best way to incrementally finish an unfinished basement?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/40751/what-is-the-relative-importance-of-cut-retardant-safety-gloves-when-using-a-ch",
+"title": "What is the relative importance of cut-retardant safety gloves when using a chainsaw?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/6211/what-is-the-safe-correct-way-to-work-on-gutters-from-a-ladder-or-from-the-roof",
+"title": "What is the safe/correct way to work on gutters? From a ladder or from the roof?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/141955/what-is-this-balloon-with-eyes-printed-on-it-hanging-from-the-eave-on-this-hou",
+"title": "What is this balloon with \"eyes\" printed on it, hanging from the eave on this house?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/16328/what-is-this-bolt-in-my-basement-floor",
+"title": "What is this bolt in my basement floor?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/236498/what-is-this-hook-on-a-strike-panic-door",
+"title": "What is this hook on a strike/panic door?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/106106/what-is-this-metal-rail-in-the-basement-ceiling",
+"title": "What is this metal rail in the basement ceiling",
+"category": "shelter-construction"
+},
+{
+"path": "questions/268239/what-is-this-plastic-tab-tag-stuck-out-of-the-ge-dryer-drum-gap",
+"title": "What is this plastic tab/tag stuck out of the GE dryer drum gap?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/210767/what-is-this-stake-in-my-yard-and-can-i-remove-it",
+"title": "What is this stake in my yard and can I remove it?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/2824/what-kind-of-mortar-should-i-use-to-point-a-fieldstone-foundation",
+"title": "What kind of mortar should I use to point a fieldstone foundation?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/1986/what-size-dowels-to-use-for-joints",
+"title": "What size dowels to use for joints?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/107293/what-sorts-of-appliances-will-malfunction-on-a-reversed-ac-outlet",
+"title": "What sorts of appliances will malfunction on a reversed AC outlet?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/974/what-types-of-home-radon-mitigation-systems-have-you-used-and-how-well-do-they",
+"title": "What types of home radon mitigation systems have you used, and how well do they work?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/169704/what-s-the-1-inch-square-knob-sticking-out-of-the-wall",
+"title": "What's the 1 inch square knob sticking out of the wall?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/7628/what-s-the-best-way-to-account-for-saw-blade-width-kerf-when-cutting-boards",
+"title": "What's the best way to account for saw blade width (kerf) when cutting boards?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/190959/what-s-the-difference-between-framing-lumber-and-framing-studs",
+"title": "What's the difference between \"Framing Lumber\" and \"Framing Studs\"?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/156720/what-s-this-plastic-thing-along-my-sidewalk-pavers",
+"title": "What's this plastic thing along my sidewalk pavers?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/67912/when-pouring-concrete-is-it-safe-to-add-large-rocks-to-increase-volume",
+"title": "When pouring concrete, is it safe to add large rocks to increase volume?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/248444/where-to-start-first-in-finishing-my-basement",
+"title": "Where to start first in finishing my basement",
+"category": "shelter-construction"
+},
+{
+"path": "questions/6431/which-is-better-for-deck-flooring-2x6-or-1x6-deck-boards",
+"title": "Which is better for deck flooring: 2x6 or 1x6 deck boards?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/11880/which-tools-should-not-be-operated-while-wearing-gloves",
+"title": "Which tools should not be operated while wearing gloves?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/2768/why-are-2x4s-really-1-5-x3-5",
+"title": "Why are 2x4s really 1.5\"x3.5\"?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/248748/why-are-so-many-radiators-installed-beneath-a-window-at-least-in-germany",
+"title": "Why are so many radiators installed beneath a window (at least in Germany)?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/239168/why-did-cracks-form-over-the-rebar-grid-in-my-concrete-footings",
+"title": "Why did cracks form over the rebar grid in my concrete footings?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/228056/why-do-british-houses-have-indoors-windows-in-some-rooms",
+"title": "Why do British houses have \"indoors\" windows in some rooms?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/26003/why-do-builders-say-that-wet-concrete-mortar-is-not-as-strong",
+"title": "Why do builders say that wet concrete/mortar is not as strong?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/264405/why-does-bleeding-radiators-save-energy",
+"title": "Why does bleeding radiators save energy?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/192635/why-does-my-shed-door-expand-shrink",
+"title": "Why does my shed door expand/shrink?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/9282/why-don-t-programmable-thermostats-automatically-switch-between-cool-and-heat",
+"title": "Why don't programmable thermostats automatically switch between \"Cool\" and \"Heat\"?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/144612/why-is-all-this-exterior-trim-rotting-and-how-do-i-fix-it",
+"title": "Why is all this exterior trim rotting and how do I fix it?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/174235/why-is-my-fire-extinguisher-emptied-after-one-use",
+"title": "Why is my fire extinguisher emptied after one use?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/242588/why-is-my-house-energy-efficient-only-in-winter",
+"title": "Why is my house energy efficient only in winter?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/198068/why-is-the-cut-using-a-jigsaw-not-a-perfect-straight-line",
+"title": "Why is the cut using a jigsaw not a perfect straight line?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/89117/why-mate-two-boards-instead-of-using-one-thicker-board",
+"title": "Why mate two boards instead of using one thicker board?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/126147/why-should-we-replace-smoke-alarms-every-10-years",
+"title": "Why should we replace smoke alarms every 10 years?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/202496/why-tape-black-garbage-bags-to-outside-windows-not-between-inside-windows-and-",
+"title": "Why tape black garbage bags to outside windows, not between inside windows and blinds?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/251573/why-would-a-particular-heat-pump-model-be-illegal-in-my-state",
+"title": "Why would a particular heat pump model be illegal in my state?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/206936/will-window-shrink-wrap-make-a-noticeable-difference-in-heating-bill-in-house-",
+"title": "Will window shrink-wrap make a noticeable difference in heating bill in house with single-paned windows?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/89782/wind-from-kitchen-sink-drainage-pipe",
+"title": "Wind from kitchen sink drainage pipe",
+"category": "shelter-construction"
+},
+{
+"path": "questions/9055/would-bullet-proof-glass-help-deter-burglars-how-does-it-compare-to-normal-gla",
+"title": "Would bullet proof glass help deter burglars? How does it compare to normal glass?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/30844/would-providing-shade-for-my-air-conditioner-s-condensor-improve-its-efficienc",
+"title": "Would providing shade for my air conditioner's condensor improve its efficiency?",
+"category": "shelter-construction"
+},
+{
+"path": "questions/167179/basic-power-tool-set-for-home-repair-and-simple-projects",
+"title": "Basic power tool set for Home repair and simple projects",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/200779/by-manually-impacting-and-cooling-drill-bit-in-water-may-one-slowly-drill-conc",
+"title": "By manually impacting and cooling drill bit in water may one slowly drill concrete and bricks without impact function?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/246877/can-you-identify-this-tool-that-looks-like-a-pyramidal-rake-with-an-integrated",
+"title": "Can you identify this tool that looks like a pyramidal rake with an integrated sliding plate to compress the tines?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/218815/can-you-identify-this-tool",
+"title": "Can you identify this tool?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/115571/choosing-the-right-machine-screw-for-a-threaded-hole-in-a-computer-monitor-mou",
+"title": "Choosing the right machine screw for a threaded hole in a computer monitor mount",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/14546/how-can-i-coil-up-a-rope-so-that-it-doesn-t-get-tangled",
+"title": "How can I coil up a rope so that it doesn't get tangled?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/16263/how-can-i-remove-a-really-stuck-screw",
+"title": "How can I remove a really stuck screw?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10374/how-can-i-repair-rusty-tools",
+"title": "How can I repair rusty tools?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/268483/how-can-i-sharpen-oscillating-tool-blades",
+"title": "How can I sharpen oscillating tool blades?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5729/how-do-i-rehang-a-wooden-door-with-worn-screw-holes",
+"title": "How do I rehang a wooden door with worn screw holes?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/219552/how-do-i-release-a-bit-from-a-jammed-keyless-drill-chuck",
+"title": "How do I release a bit from a jammed keyless drill chuck?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/97172/how-do-i-remove-these-ikea-screws-studs-inside-holes",
+"title": "How do I remove these Ikea screws? (studs inside holes)",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/258808/how-do-i-unscrew-this-screw-to-disassemble-a-dresser",
+"title": "How do I unscrew this screw to disassemble a dresser?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10401/how-do-you-sharpen-a-knife",
+"title": "How do you sharpen a knife?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/943/how-much-weight-can-screws-in-drywall-hold",
+"title": "How much weight can screws in drywall hold?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/143809/how-to-avoid-stripping-screw-heads",
+"title": "How to avoid stripping screw heads?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/18211/how-to-drive-a-nail-in-a-confined-space",
+"title": "How to drive a nail in a confined space?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/155330/how-to-fit-a-screw-into-a-drilled-big-hole-on-wall",
+"title": "How to fit a screw into a drilled big hole on wall?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/217070/how-to-keep-screws-in-a-hollow-door",
+"title": "How to keep screws in a hollow door",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/27147/how-to-prevent-batteries-leaking-out-in-devices",
+"title": "How to prevent batteries leaking out in devices?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/101535/how-to-remove-screws-from-old-decking",
+"title": "How to remove screws from old decking",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10451/how-to-remove-screws-with-stripped-heads",
+"title": "How to remove screws with stripped heads?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/218773/how-to-remove-very-stuck-stripped-screws",
+"title": "How to remove very stuck stripped screws?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/21400/how-to-unscrew-screws-that-are-barely-accessible",
+"title": "How to unscrew screws that are barely accessible?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2630/is-it-worth-spending-extra-to-get-a-nicer-circular-saw",
+"title": "Is it worth spending extra to get a nicer circular saw?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/918/is-there-a-case-where-nails-are-better-than-screws-from-an-engineering-structu",
+"title": "Is there a case where nails are better than screws, from an engineering/structural standpoint?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/160100/is-this-saw-blade-faulty",
+"title": "Is this saw blade faulty?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/314104/lineman-s-pliers-don-t-fully-close",
+"title": "Lineman's pliers don't fully close",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/307550/purpose-of-sleeve-on-sledge-hammer-handle",
+"title": "Purpose of sleeve on sledge hammer handle",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/51962/putting-together-a-tool-set-for-children-8-11",
+"title": "Putting together a tool set for children 8-11",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3268/should-i-release-the-pressure-out-of-an-air-compressor-when-it-is-not-in-use",
+"title": "Should I release the pressure out of an air compressor when it is not in use?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6442/should-i-use-nails-or-screws-for-hanging-drywall-on-the-ceiling",
+"title": "Should I use nails or screws for hanging drywall on the ceiling?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/14630/should-i-use-nails-or-screws-to-refasten-my-subfloor-to-the-joists",
+"title": "Should I use nails or screws to refasten my subfloor to the joists?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/319782/star-shaped-screw-holes-what-is-the-purpose-of-this-shape",
+"title": "Star-shaped screw holes - what is the purpose of this shape?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/185001/technique-for-driving-hinge-screws-to-minimize-misalignment",
+"title": "Technique for driving hinge screws to minimize misalignment",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/159974/turning-a-hard-to-access-nut",
+"title": "Turning a hard to access nut?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/13824/understanding-us-screw-sizes",
+"title": "Understanding US Screw Sizes",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/11452/what-are-the-differences-between-sds-sds-plus-and-sds-max-drills",
+"title": "What are the differences between SDS, SDS Plus, and SDS Max drills?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/53/what-are-the-tools-that-every-do-it-yourselfer-must-own",
+"title": "What are the tools that every Do-it-Yourselfer must own?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/115704/what-are-these-tools-used-for",
+"title": "What are these tools used for?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/210232/what-are-wrenches-called-that-are-just-cut-out-of-steel-flats",
+"title": "What are wrenches called that are just cut out of steel flats?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/16771/what-benefit-do-plasterboard-drywall-screws-have",
+"title": "What benefit do plasterboard/drywall screws have?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/215215/what-do-the-numbers-in-screw-sizes-m3-m4-etc-mean",
+"title": "What do the numbers in screw sizes M3, M4 etc. mean?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/247698/what-hand-tool-has-a-long-spiral-shank-with-cutting-teeth",
+"title": "What hand tool has a long spiral shank with cutting teeth?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/185238/what-is-a-non-self-tapping-screw-what-does-self-tapping-mean-really",
+"title": "What is a NON-self-tapping screw? What does self-tapping mean, really?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/7524/what-is-the-best-technique-for-using-a-drill-to-insert-screws",
+"title": "What is the best technique for using a drill to insert screws?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/244578/what-is-the-purpose-of-the-notch-at-the-end-of-the-depth-probe-on-callipers",
+"title": "What is the purpose of the notch at the end of the depth probe on callipers?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/20684/what-is-the-purpose-of-this-y-shaped-bit",
+"title": "What is the purpose of this Y shaped bit?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/949/what-is-the-recommended-home-design-software",
+"title": "What is the recommended home design software?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/27708/what-is-the-use-for-this-different-threading-near-the-head-of-a-large-screw",
+"title": "What is the use for this different threading near the head of a large screw?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/181802/what-is-this-attaching-my-toilet-seat-and-how-can-i-unscrew-it",
+"title": "What is this attaching my toilet seat and how can I unscrew it?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/18766/what-is-this-kind-of-security-bolt-head-called-and-how-can-i-remove-it",
+"title": "What is this kind of security bolt head called, and how can I remove it?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/228550/what-is-this-measuring-tool-with-two-sliding-rods-for",
+"title": "What is this measuring tool with two sliding rods for?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/234227/what-is-this-sharpened-steel-rod-with-rubber-coating",
+"title": "What is this sharpened steel rod with rubber coating?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/208537/what-is-this-tool-called-and-what-is-it-used-for",
+"title": "What is this tool called and what is it used for?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/250620/what-is-this-tool-that-looks-like-a-prybar-with-tapered-tines",
+"title": "What is this tool that looks like a prybar with tapered tines?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/168923/what-is-this-welding-tool-i-found-in-my-attic",
+"title": "What is this welding tool I found in my attic?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10919/what-should-i-look-for-when-choosing-a-stud-finder",
+"title": "What should I look for when choosing a stud finder?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/46399/what-tool-is-a-solid-metal-cube-with-dimples-or-half-spheres-on-every-side",
+"title": "What tool is a solid metal cube with dimples or half spheres on every side?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/313881/what-type-of-screw-head-type-looks-like-four-recessed-overlapping-squares",
+"title": "What type of screw head type looks like four recessed overlapping squares?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/227029/what-type-of-tool-has-rings-of-teeth-that-spin-freely-on-a-shaft",
+"title": "What type of tool has rings of teeth that spin freely on a shaft?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/148930/what-s-the-term-for-a-hole-with-a-screw-thread",
+"title": "What's the term for a hole with a screw thread?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/8800/when-pre-drilling-for-screws-how-do-you-determine-the-correct-bit-diameter",
+"title": "When pre-drilling for screws, how do you determine the correct bit diameter?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6457/when-should-i-replace-a-circular-saw-blade",
+"title": "When should I replace a circular saw blade?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/231780/where-does-the-lawn-string-trimmer-line-go",
+"title": "Where does the lawn string trimmer line go?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2701/why-are-there-so-many-different-types-of-screws-phillps-flat-hex-star-etc",
+"title": "Why are there so many different types of screws (phillps/flat/hex/star/etc)?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/148459/why-do-contractor-levels-have-two-vials-with-the-same-orientation",
+"title": "Why do Contractor Levels have two vials with the same orientation?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/293168/why-do-so-many-of-my-screws-break",
+"title": "Why do so many of my screws break?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/172106/will-removing-shelving-screws-from-studs-damage-the-studs",
+"title": "Will removing shelving screws from studs damage the studs?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/296569/will-the-coating-on-deck-screws-interact-poorly-with-untreated-lumber",
+"title": "Will the coating on deck screws interact poorly with untreated lumber?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/176429/wood-glue-versus-epoxy-for-doweling-stripped-screw-holes",
+"title": "Wood glue versus epoxy for doweling stripped screw holes",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5738/1lb-of-cure-is-worth-10-tons-of-mold-diy-repair-of-a-poorly-sealed-window-lots",
+"title": "1lb of cure is worth 10 tons of mold: DIY repair of a poorly sealed window? lots of photos herein",
+"category": "water"
+},
+{
+"path": "questions/146168/a-guest-pushed-in-my-shower-wall-tile-how-can-i-fix-it",
+"title": "A guest pushed in my shower wall tile. How can I fix it?",
+"category": "water"
+},
+{
+"path": "questions/42339/are-1-4-turn-water-supply-valves-more-reliable-than-multi-turn-valves-or-vice-",
+"title": "Are \"1/4 turn\" water supply valves more reliable than \"multi-turn\" valves? Or vice-versa?",
+"category": "water"
+},
+{
+"path": "questions/68468/are-toilets-supposed-to-be-caulked-to-the-floor",
+"title": "Are toilets supposed to be caulked to the floor?",
+"category": "water"
+},
+{
+"path": "questions/88784/are-water-boilers-dangerous-when-showering",
+"title": "Are water boilers dangerous when showering?",
+"category": "water"
+},
+{
+"path": "questions/10784/best-way-to-keep-a-pex-run-in-an-attic-above-a-foyer-from-freezing",
+"title": "Best way to keep a PEX run in an attic (above a foyer) from freezing?",
+"category": "water"
+},
+{
+"path": "questions/86365/can-a-toilet-get-too-old-to-the-point-where-it-can-never-be-unclogged-and-must",
+"title": "Can a toilet get \"too old\" to the point where it can never be unclogged and must be replaced?",
+"category": "water"
+},
+{
+"path": "questions/227149/can-i-pour-concrete-over-a-pvc-sewer-pipe-without-damaging-it",
+"title": "Can I pour concrete over a PVC sewer pipe without damaging it?",
+"category": "water"
+},
+{
+"path": "questions/126571/can-i-still-be-sold-plumbing-fixtures-that-contain-lead",
+"title": "Can I still be sold plumbing fixtures that contain lead?",
+"category": "water"
+},
+{
+"path": "questions/216757/can-my-municipal-water-line-siphon-from-my-house-water-lines",
+"title": "Can my municipal water line siphon from my house water lines?",
+"category": "water"
+},
+{
+"path": "questions/176654/can-tankless-conventional-water-heaters-join-forces",
+"title": "Can tankless & conventional water heaters join forces?",
+"category": "water"
+},
+{
+"path": "questions/178806/can-teflon-thread-tape-be-reused",
+"title": "Can Teflon thread tape be reused?",
+"category": "water"
+},
+{
+"path": "questions/219100/can-white-bread-be-used-to-temporarily-plug-pipes-for-repair",
+"title": "Can white bread be used to temporarily plug pipes for repair?",
+"category": "water"
+},
+{
+"path": "questions/201380/does-a-drainage-pipe-need-to-be-continuously-sloped",
+"title": "Does a drainage pipe need to be continuously sloped?",
+"category": "water"
+},
+{
+"path": "questions/58657/does-a-plumbing-vent-need-to-penetrate-the-roof-can-it-penetrate-a-wall",
+"title": "Does a plumbing vent need to penetrate the roof? (Can it penetrate a wall?)",
+"category": "water"
+},
+{
+"path": "questions/261/does-pex-tubing-have-any-advantages-over-copper",
+"title": "Does Pex tubing have any advantages over copper?",
+"category": "water"
+},
+{
+"path": "questions/243306/french-drain-why-do-i-need-3-of-rock-bedding-beneath-the-pipe",
+"title": "French Drain: Why do I need 3\" of rock bedding beneath the pipe?",
+"category": "water"
+},
+{
+"path": "questions/181694/good-way-to-remove-something-from-a-bathroom-sink-overflow-drain",
+"title": "Good way to remove something from a bathroom sink overflow drain?",
+"category": "water"
+},
+{
+"path": "questions/260612/how-can-i-or-a-plumber-locate-a-mysterious-internal-leak",
+"title": "How can I (or a plumber) locate a mysterious internal leak?",
+"category": "water"
+},
+{
+"path": "questions/209168/how-can-i-get-roof-rain-runoff-into-pond-with-an-aboveground-wall",
+"title": "How can I get roof rain runoff into pond with an aboveground wall?",
+"category": "water"
+},
+{
+"path": "questions/404/how-can-i-improve-the-water-pressure-in-my-shower",
+"title": "How can I improve the water pressure in my shower?",
+"category": "water"
+},
+{
+"path": "questions/8562/how-can-i-prevent-or-remedy-bio-slime-accumulation-in-a-sink-drain",
+"title": "How can I prevent or remedy \"bio slime\" accumulation in a sink drain?",
+"category": "water"
+},
+{
+"path": "questions/21917/how-can-i-prevent-spillage-from-my-bathtub",
+"title": "How can I prevent spillage from my bathtub?",
+"category": "water"
+},
+{
+"path": "questions/100279/how-can-i-pull-a-wire-through-a-pipe-that-has-too-many-turns-for-fish-tape",
+"title": "How can I pull a wire through a pipe that has too many turns for fish tape?",
+"category": "water"
+},
+{
+"path": "questions/253847/how-can-i-refill-the-toilet-after-the-water-has-evaporated-from-disuse",
+"title": "How can I refill the toilet after the water has evaporated from disuse?",
+"category": "water"
+},
+{
+"path": "questions/189612/how-can-i-remove-a-lemon-from-a-toilet-drain",
+"title": "How can I remove a lemon from a toilet drain?",
+"category": "water"
+},
+{
+"path": "questions/15279/how-can-i-reseal-a-shower-drain-on-a-pre-formed-shower-base",
+"title": "How can I reseal a shower drain on a pre-formed shower base?",
+"category": "water"
+},
+{
+"path": "questions/584/how-can-i-speed-up-my-slow-hot-water",
+"title": "How can I speed up my slow hot water?",
+"category": "water"
+},
+{
+"path": "questions/13126/how-can-i-tell-if-these-pipes-are-gas-lines-or-water-lines",
+"title": "How can I tell if these pipes are gas lines or water lines?",
+"category": "water"
+},
+{
+"path": "questions/179949/how-can-i-unscrew-the-faucet-nuts-in-the-tight-space-behind-my-sink-basin",
+"title": "How can I unscrew the faucet nuts in the tight space behind my sink basin?",
+"category": "water"
+},
+{
+"path": "questions/150779/how-can-i-unscrew-this-nut-with-little-clearance",
+"title": "How can I unscrew this nut with little clearance?",
+"category": "water"
+},
+{
+"path": "questions/210136/how-can-we-dry-out-a-soaked-water-heater-and-restore-a-novice-plumber-s-dignit",
+"title": "How can we dry out a soaked water heater (and restore a novice plumber's dignity)?",
+"category": "water"
+},
+{
+"path": "questions/179623/how-do-electric-hot-water-heaters-explode-and-what-can-be-done-to-prevent-that",
+"title": "How do electric hot water heaters explode and what can be done to prevent that from happening?",
+"category": "water"
+},
+{
+"path": "questions/11165/how-do-i-fix-a-bad-sweat-solder-joint",
+"title": "How do I \"fix\" a bad sweat (solder) joint?",
+"category": "water"
+},
+{
+"path": "questions/1749/how-do-i-fix-a-water-hammer-problem",
+"title": "How do I fix a \"water hammer\" problem?",
+"category": "water"
+},
+{
+"path": "questions/3869/how-do-i-fix-a-leaky-toilet-that-only-leaks-from-underneath",
+"title": "How do I fix a leaky toilet that only leaks from underneath?",
+"category": "water"
+},
+{
+"path": "questions/192003/how-do-i-limit-the-water-flowing-through-my-neighbor-s-fence-into-my-yard",
+"title": "How do I limit the water flowing through my neighbor's fence into my yard?",
+"category": "water"
+},
+{
+"path": "questions/126039/how-do-i-remove-this-fastener-under-my-bathroom-faucet",
+"title": "How do I remove this fastener under my bathroom faucet",
+"category": "water"
+},
+{
+"path": "questions/20318/how-do-i-replace-this-cast-iron-toilet-flange",
+"title": "How do I replace this cast iron toilet flange?",
+"category": "water"
+},
+{
+"path": "questions/305903/how-do-i-safely-remove-a-mystery-cast-iron-pipe-in-my-basement",
+"title": "How do I safely remove a mystery cast iron pipe in my basement?",
+"category": "water"
+},
+{
+"path": "questions/162114/how-do-i-stop-a-creek-from-eroding-my-steep-embankment",
+"title": "How do I stop a creek from eroding my steep embankment?",
+"category": "water"
+},
+{
+"path": "questions/259614/how-do-i-tighten-this-bathroom-faucet",
+"title": "How do I tighten this bathroom faucet?",
+"category": "water"
+},
+{
+"path": "questions/2821/how-do-i-wrap-pipe-threads-with-teflon-tape",
+"title": "How do I wrap pipe threads with teflon tape?",
+"category": "water"
+},
+{
+"path": "questions/38188/how-effective-are-outdoor-foam-faucet-covers-to-prevent-freezing",
+"title": "How effective are outdoor foam faucet covers to prevent freezing?",
+"category": "water"
+},
+{
+"path": "questions/283769/how-long-do-modern-flush-toilets-last",
+"title": "How long do modern flush toilets last?",
+"category": "water"
+},
+{
+"path": "questions/12130/how-much-water-do-water-softeners-waste",
+"title": "How much water do water softeners waste?",
+"category": "water"
+},
+{
+"path": "questions/1711/how-often-do-septic-tanks-typically-need-to-be-pumped",
+"title": "How often do septic tanks typically need to be pumped?",
+"category": "water"
+},
+{
+"path": "questions/160783/how-should-i-support-this-large-drywall-patch",
+"title": "How should I support this large drywall patch?",
+"category": "water"
+},
+{
+"path": "questions/12670/how-tight-should-threaded-brass-pipe-fittings-be",
+"title": "How tight should threaded brass pipe fittings be?",
+"category": "water"
+},
+{
+"path": "questions/228605/how-to-avoid-breaking-electric-wires-telephone-wires-and-water-pipes-in-the-ga",
+"title": "How to avoid breaking electric wires, telephone wires, and water pipes in the garden while digging",
+"category": "water"
+},
+{
+"path": "questions/217582/how-to-convince-plumber-that-there-is-a-gas-leak",
+"title": "How to convince plumber that there is a gas leak?",
+"category": "water"
+},
+{
+"path": "questions/237884/how-to-drill-through-wall-without-hitting-boiler-on-the-other-side",
+"title": "How to drill through wall without hitting boiler on the other side",
+"category": "water"
+},
+{
+"path": "questions/221111/how-to-get-a-wrench-into-this-location-to-remove-this-nut",
+"title": "How to get a wrench into this location to remove this nut",
+"category": "water"
+},
+{
+"path": "questions/257408/how-to-patch-underwater-power-line",
+"title": "How to patch underwater power line",
+"category": "water"
+},
+{
+"path": "questions/217103/how-to-prepare-home-to-prevent-pipe-leaks-during-a-severe-winter-storm",
+"title": "How to prepare home to prevent pipe leaks during a severe winter storm?",
+"category": "water"
+},
+{
+"path": "questions/71585/how-to-prevent-heavy-rainwater-from-jumping-the-gutter",
+"title": "How to prevent heavy rainwater from jumping the gutter?",
+"category": "water"
+},
+{
+"path": "questions/218221/how-to-reinforce-a-joist-with-plumbing-running-through-it",
+"title": "How to reinforce a joist with plumbing running through it?",
+"category": "water"
+},
+{
+"path": "questions/238073/is-3-16-plywood-subfloor-sufficient-for-a-shower-floor",
+"title": "Is 3/16\" plywood subfloor sufficient for a shower floor?",
+"category": "water"
+},
+{
+"path": "questions/159665/is-all-copper-pipe-pretty-much-the-same",
+"title": "Is all copper pipe pretty much the same?",
+"category": "water"
+},
+{
+"path": "questions/1364/is-flushing-a-water-heater-a-good-idea",
+"title": "Is flushing a water heater a good idea?",
+"category": "water"
+},
+{
+"path": "questions/182617/is-it-a-problem-that-my-bathtub-drains-directly-into-the-wall",
+"title": "Is it a problem that my bathtub drains directly into the wall?",
+"category": "water"
+},
+{
+"path": "questions/110043/is-it-bad-to-turn-off-the-water-while-on-vacation",
+"title": "Is it bad to turn off the water while on vacation?",
+"category": "water"
+},
+{
+"path": "questions/47014/is-it-more-economical-to-use-hot-water-before-boiling-or-to-bring-cold-water-t",
+"title": "Is it more economical to use hot water before boiling or to bring cold water to a boil?",
+"category": "water"
+},
+{
+"path": "questions/196780/is-it-safe-for-plumbing-to-use-rainwater-to-flush-toilets",
+"title": "Is it safe for plumbing to use rainwater to flush toilets?",
+"category": "water"
+},
+{
+"path": "questions/186869/is-it-safe-to-flush-newspaper-down-the-toilet",
+"title": "Is it safe to flush newspaper down the toilet?",
+"category": "water"
+},
+{
+"path": "questions/314/is-it-worth-it-to-insulate-hot-water-pex-tubing",
+"title": "Is it worth it to insulate hot water PEX tubing?",
+"category": "water"
+},
+{
+"path": "questions/254313/is-my-fast-draining-gurgling-sink-the-cause-of-sewer-smells",
+"title": "Is my fast-draining, gurgling sink the cause of sewer smells?",
+"category": "water"
+},
+{
+"path": "questions/279310/is-my-stainless-steel-kitchen-sink-really-chemically-dangerous",
+"title": "Is my stainless steel kitchen sink really chemically dangerous?",
+"category": "water"
+},
+{
+"path": "questions/85211/is-there-a-freezing-water-resistant-metal-pipe",
+"title": "Is there a freezing-water-resistant metal pipe?",
+"category": "water"
+},
+{
+"path": "questions/7933/is-there-a-technique-to-make-a-shower-mirror-fog-free",
+"title": "Is there a technique to make a shower mirror fog-free?",
+"category": "water"
+},
+{
+"path": "questions/238506/must-these-old-pipes-be-replaced",
+"title": "Must these old pipes be replaced?",
+"category": "water"
+},
+{
+"path": "questions/166468/orange-material-in-grout-lines-need-help-to-identify",
+"title": "Orange material in grout lines - need help to identify",
+"category": "water"
+},
+{
+"path": "questions/44534/purpose-of-fill-valve-tube-going-into-overflow-drain",
+"title": "Purpose of Fill Valve Tube Going into Overflow Drain",
+"category": "water"
+},
+{
+"path": "questions/242687/removing-faucet-from-kitchen",
+"title": "Removing faucet from kitchen",
+"category": "water"
+},
+{
+"path": "questions/131277/scientifically-speaking-how-and-why-does-sweating-soldering-copper-pipes-work",
+"title": "Scientifically speaking, how and why does sweating (soldering) copper pipes work?",
+"category": "water"
+},
+{
+"path": "questions/37662/should-a-gas-water-heater-be-shut-down-if-the-water-main-has-to-be-turned-off",
+"title": "Should a gas water heater be shut down if the water main has to be turned off?",
+"category": "water"
+},
+{
+"path": "questions/108708/should-i-extend-a-drain-vent-that-terminates-in-my-attic",
+"title": "Should I extend a drain vent that terminates in my attic?",
+"category": "water"
+},
+{
+"path": "questions/88476/should-i-run-the-tap-while-dumping-boiling-water",
+"title": "Should I run the tap while dumping boiling water?",
+"category": "water"
+},
+{
+"path": "questions/1243/should-my-toilet-flange-sit-on-top-of-the-backer-board-or-the-tile-of-the-floo",
+"title": "Should my toilet flange sit on top of the backer board or the tile of the floor?",
+"category": "water"
+},
+{
+"path": "questions/270584/sudden-sulfur-smell-from-well-water",
+"title": "Sudden Sulfur Smell from well water",
+"category": "water"
+},
+{
+"path": "questions/239577/toilet-bolt-broke-free-from-floor-recommendations",
+"title": "Toilet bolt broke free from floor...recommendations?",
+"category": "water"
+},
+{
+"path": "questions/193683/turn-off-hot-water-without-hot-water-valve",
+"title": "Turn off hot water without hot water valve",
+"category": "water"
+},
+{
+"path": "questions/178570/using-a-sealant-to-stop-a-toilet-tank-leak",
+"title": "Using a sealant to stop a toilet tank leak",
+"category": "water"
+},
+{
+"path": "questions/1342/what-are-the-uses-of-the-various-schedules-of-pvc-pipe",
+"title": "What are the uses of the various schedules of PVC pipe?",
+"category": "water"
+},
+{
+"path": "questions/212600/what-are-these-capped-metal-pipes-in-our-yard",
+"title": "What are these capped, metal pipes in our yard?",
+"category": "water"
+},
+{
+"path": "questions/151468/what-are-those-metal-discs-at-the-base-of-some-walls",
+"title": "What are those metal discs at the base of some walls?",
+"category": "water"
+},
+{
+"path": "questions/164660/what-can-cause-a-never-frozen-indoor-copper-drain-pipe-to-crack",
+"title": "What can cause a never-frozen indoor copper drain pipe to crack?",
+"category": "water"
+},
+{
+"path": "questions/4117/what-can-i-do-about-my-drains-constantly-getting-blocked",
+"title": "What can I do about my drains constantly getting blocked?",
+"category": "water"
+},
+{
+"path": "questions/88211/what-is-pipe-dope",
+"title": "What is \"pipe dope\"?",
+"category": "water"
+},
+{
+"path": "questions/253495/what-is-an-air-bleeder-valve-and-how-does-it-winterize-pipes",
+"title": "What is an air bleeder valve, and how does it winterize pipes?",
+"category": "water"
+},
+{
+"path": "questions/1709/what-is-the-advantage-of-pex-pinch-clamp-vs-crimp-rings",
+"title": "What is the advantage of PEX pinch clamp vs. crimp rings?",
+"category": "water"
+},
+{
+"path": "questions/328228/what-is-the-fitting-a-plumber-installed-on-my-toilet-drain-after-moving-its-po",
+"title": "What is the fitting a plumber installed on my toilet drain after moving its position?",
+"category": "water"
+},
+{
+"path": "questions/175589/what-is-this-cast-iron-device-on-my-water-supply-pipe",
+"title": "What is this cast-iron device on my water supply pipe?",
+"category": "water"
+},
+{
+"path": "questions/288685/what-is-this-humming-machine-in-my-basement-hooked-up-to-a-pipe",
+"title": "What is this humming machine in my basement hooked up to a pipe?",
+"category": "water"
+},
+{
+"path": "questions/93682/what-is-this-mysterious-pipe-in-my-back-yard",
+"title": "What is this mysterious pipe in my back yard?",
+"category": "water"
+},
+{
+"path": "questions/189418/what-is-this-pipe-coming-out-of-the-basement-floor",
+"title": "What is this pipe coming out of the basement floor?",
+"category": "water"
+},
+{
+"path": "questions/175421/what-is-this-spiral-shaped-device-from-my-toilet-supply-line",
+"title": "What is this spiral-shaped device from my toilet supply line?",
+"category": "water"
+},
+{
+"path": "questions/136750/what-is-this-vertical-metal-pipe-in-my-backyard-old-well-septic",
+"title": "What is this vertical metal pipe in my backyard? old well? septic?",
+"category": "water"
+},
+{
+"path": "questions/127108/what-kind-of-tool-can-i-use-to-tighten-a-faucet-bolt-in-a-tight-place",
+"title": "What kind of tool can I use to tighten a faucet bolt in a tight place?",
+"category": "water"
+},
+{
+"path": "questions/167080/what-should-i-be-aware-of-in-buying-second-hand-sinks-and-toilets",
+"title": "What should I be aware of in buying second-hand sinks and toilets?",
+"category": "water"
+},
+{
+"path": "questions/6796/what-should-we-look-for-when-buying-a-fixer-upper-house",
+"title": "What should we look for when buying a fixer-upper house?",
+"category": "water"
+},
+{
+"path": "questions/29929/what-temperature-should-i-set-my-water-heater-to",
+"title": "What temperature should I set my water heater to?",
+"category": "water"
+},
+{
+"path": "questions/29243/what-would-cause-air-bubbles-in-the-toilet-when-i-m-showering",
+"title": "What would cause air bubbles in the toilet when I'm showering?",
+"category": "water"
+},
+{
+"path": "questions/20815/what-would-cause-the-water-pressure-to-be-too-high-for-just-a-second",
+"title": "What would cause the water pressure to be too high for just a second?",
+"category": "water"
+},
+{
+"path": "questions/36613/when-is-pipe-dope-tape-needed",
+"title": "When is pipe dope/tape needed?",
+"category": "water"
+},
+{
+"path": "questions/21117/when-should-pipe-dope-vs-thread-tape-be-used",
+"title": "When should pipe dope vs thread tape be used?",
+"category": "water"
+},
+{
+"path": "questions/18339/which-type-of-pvc-for-exposed-outdoor-use",
+"title": "Which type of PVC for exposed outdoor use?",
+"category": "water"
+},
+{
+"path": "questions/61/which-water-heater-types-do-you-recommend",
+"title": "Which water heater types do you recommend?",
+"category": "water"
+},
+{
+"path": "questions/170815/why-are-the-inside-diameters-of-some-pipe-larger-than-the-stated-size",
+"title": "Why are the inside diameters of some pipe larger than the stated size?",
+"category": "water"
+},
+{
+"path": "questions/229776/why-are-there-loops-of-copper-water-pipe-coming-out-of-my-concrete-floor",
+"title": "Why are there loops of copper water pipe coming out of my concrete floor?",
+"category": "water"
+},
+{
+"path": "questions/171125/why-arent-there-water-shutoff-valves-for-each-room",
+"title": "Why aren’t there water shutoff valves for each room?",
+"category": "water"
+},
+{
+"path": "questions/177282/why-do-gas-water-heater-exhausts-have-an-air-gap-before-the-chimney",
+"title": "Why do gas water heater exhausts have an air gap before the chimney?",
+"category": "water"
+},
+{
+"path": "questions/8969/why-do-my-toilets-flush-slowly-and-often-incompletely",
+"title": "Why do my toilets flush slowly and often incompletely?",
+"category": "water"
+},
+{
+"path": "questions/3492/why-does-my-dishwasher-back-up-into-the-sink-but-running-the-disposal-allows-i",
+"title": "Why does my dishwasher back up into the sink, but running the disposal allows it to drain?",
+"category": "water"
+},
+{
+"path": "questions/24627/why-does-the-shower-get-cold-when-i-flush-and-how-can-i-prevent-it",
+"title": "Why does the shower get cold when I flush, and how can I prevent it?",
+"category": "water"
+},
+{
+"path": "questions/184446/why-does-this-pipe-feeding-a-hot-water-heater-dip-down-like-this",
+"title": "Why does this pipe feeding a hot water heater dip down like this?",
+"category": "water"
+},
+{
+"path": "questions/9105/why-is-my-hot-water-running-out-quickly-regardless-of-other-household-water-us",
+"title": "Why is my hot water running out quickly regardless of other household water usage?",
+"category": "water"
+},
+{
+"path": "questions/250733/why-not-put-pipe-dope-on-female-thread",
+"title": "Why not put pipe dope on female thread?",
+"category": "water"
+},
+{
+"path": "questions/1331/why-would-you-use-copper-over-cpvc-or-pex",
+"title": "Why would you use copper over CPVC or PEX?",
+"category": "water"
+}
+]
+}

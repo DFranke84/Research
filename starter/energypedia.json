@@ -1,0 +1,1549 @@
+{
+"pack": "energypedia",
+"kind": "zim",
+"title": "energypedia (off-grid energy)",
+"about": "Off-grid and small-scale energy: solar, wind, micro-hydro, cooking stoves.",
+"archive": "energypedia",
+"made": "2026-10-17",
+"items": [
+{
+"key": "Alcohol_Stoves",
+"title": "Alcohol Stoves",
+"category": "cooking-fire",
+"paths": [
+"Alcohol_Stoves"
+],
+"source_url": "https://energypedia.info/wiki/Alcohol_Stoves"
+},
+{
+"key": "Alternative_Charcoal_Tool_(ACT)",
+"title": "Alternative Charcoal Tool (ACT)",
+"category": "cooking-fire",
+"paths": [
+"Alternative_Charcoal_Tool_(ACT)"
+],
+"source_url": "https://energypedia.info/wiki/Alternative_Charcoal_Tool_(ACT)"
+},
+{
+"key": "Baking_with_Improved_Ovens",
+"title": "Baking with Improved Ovens",
+"category": "cooking-fire",
+"paths": [
+"Baking_with_Improved_Ovens"
+],
+"source_url": "https://energypedia.info/wiki/Baking_with_Improved_Ovens"
+},
+{
+"key": "Basic_Energy_Services_-_Improved_Stoves",
+"title": "Basic Energy Services - Improved Stoves",
+"category": "cooking-fire",
+"paths": [
+"Basic_Energy_Services_-_Improved_Stoves"
+],
+"source_url": "https://energypedia.info/wiki/Basic_Energy_Services_-_Improved_Stoves"
+},
+{
+"key": "Biogas_Stoves",
+"title": "Biogas Stoves",
+"category": "cooking-fire",
+"paths": [
+"Biogas_Stoves"
+],
+"source_url": "https://energypedia.info/wiki/Biogas_Stoves"
+},
+{
+"key": "Biomass_briquettes",
+"title": "Biomass briquettes",
+"category": "cooking-fire",
+"paths": [
+"Biomass_briquettes"
+],
+"source_url": "https://energypedia.info/wiki/Biomass_briquettes"
+},
+{
+"key": "Biomass_Briquettes_-_Production",
+"title": "Biomass Briquettes - Production",
+"category": "cooking-fire",
+"paths": [
+"Biomass_Briquettes_-_Production"
+],
+"source_url": "https://energypedia.info/wiki/Biomass_Briquettes_-_Production"
+},
+{
+"key": "Cashew_Nut_Shells_as_Fuel",
+"title": "Cashew Nut Shells as Fuel",
+"category": "cooking-fire",
+"paths": [
+"Cashew_Nut_Shells_as_Fuel"
+],
+"source_url": "https://energypedia.info/wiki/Cashew_Nut_Shells_as_Fuel"
+},
+{
+"key": "Charcoal_Cookstoves",
+"title": "Charcoal Cookstoves",
+"category": "cooking-fire",
+"paths": [
+"Charcoal_Cookstoves"
+],
+"source_url": "https://energypedia.info/wiki/Charcoal_Cookstoves"
+},
+{
+"key": "Charcoal_Production",
+"title": "Charcoal Production",
+"category": "cooking-fire",
+"paths": [
+"Charcoal_Production"
+],
+"source_url": "https://energypedia.info/wiki/Charcoal_Production"
+},
+{
+"key": "Coal_Stoves",
+"title": "Coal Stoves",
+"category": "cooking-fire",
+"paths": [
+"Coal_Stoves"
+],
+"source_url": "https://energypedia.info/wiki/Coal_Stoves"
+},
+{
+"key": "Cooking_Energy_in_Humanitarian_Settings",
+"title": "Cooking Energy in Humanitarian Settings",
+"category": "cooking-fire",
+"paths": [
+"Cooking_Energy_in_Humanitarian_Settings"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_Energy_in_Humanitarian_Settings"
+},
+{
+"key": "Cooking_Energy_in_Refugee_Situations",
+"title": "Cooking Energy in Refugee Situations",
+"category": "cooking-fire",
+"paths": [
+"Cooking_Energy_in_Refugee_Situations"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_Energy_in_Refugee_Situations"
+},
+{
+"key": "Cooking_Fuels",
+"title": "Cooking Fuels",
+"category": "cooking-fire",
+"paths": [
+"Cooking_Fuels"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_Fuels"
+},
+{
+"key": "Cooking_Stove_(PA_Technology)",
+"title": "Cooking Stove (Powering Agriculture technology sheet)",
+"category": "cooking-fire",
+"paths": [
+"Cooking_Stove_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_Stove_(PA_Technology)"
+},
+{
+"key": "Cooking_with_Agricultural_Residues",
+"title": "Cooking with Agricultural Residues",
+"category": "cooking-fire",
+"paths": [
+"Cooking_with_Agricultural_Residues"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_with_Agricultural_Residues"
+},
+{
+"key": "Cooking_with_Biogas",
+"title": "Cooking with Biogas",
+"category": "cooking-fire",
+"paths": [
+"Cooking_with_Biogas"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_with_Biogas"
+},
+{
+"key": "Cooking_with_Charcoal",
+"title": "Cooking with Charcoal",
+"category": "cooking-fire",
+"paths": [
+"Cooking_with_Charcoal"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_with_Charcoal"
+},
+{
+"key": "Cooking_with_Ethanol_and_Methanol",
+"title": "Cooking with Ethanol and Methanol",
+"category": "cooking-fire",
+"paths": [
+"Cooking_with_Ethanol_and_Methanol"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_with_Ethanol_and_Methanol"
+},
+{
+"key": "Cooking_with_Firewood",
+"title": "Cooking with Firewood",
+"category": "cooking-fire",
+"paths": [
+"Cooking_with_Firewood"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_with_Firewood"
+},
+{
+"key": "Cooking_with_Kerosene",
+"title": "Cooking with Kerosene",
+"category": "cooking-fire",
+"paths": [
+"Cooking_with_Kerosene"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_with_Kerosene"
+},
+{
+"key": "Cooking_with_Plant_Oil",
+"title": "Cooking with Plant Oil",
+"category": "cooking-fire",
+"paths": [
+"Cooking_with_Plant_Oil"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_with_Plant_Oil"
+},
+{
+"key": "Cooking_with_Solid_Fuels",
+"title": "Cooking with Solid Fuels",
+"category": "cooking-fire",
+"paths": [
+"Cooking_with_Solid_Fuels"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_with_Solid_Fuels"
+},
+{
+"key": "Cooking_with_Woodfuels_(Firewood_and_Charcoal)",
+"title": "Cooking with Woodfuels (Firewood and Charcoal)",
+"category": "cooking-fire",
+"paths": [
+"Cooking_with_Woodfuels_(Firewood_and_Charcoal)"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_with_Woodfuels_(Firewood_and_Charcoal)"
+},
+{
+"key": "Cooking_with_Woodgas",
+"title": "Cooking with Woodgas",
+"category": "cooking-fire",
+"paths": [
+"Cooking_with_Woodgas"
+],
+"source_url": "https://energypedia.info/wiki/Cooking_with_Woodgas"
+},
+{
+"key": "Firewood_Cookstoves",
+"title": "Firewood Cookstoves",
+"category": "cooking-fire",
+"paths": [
+"Firewood_Cookstoves"
+],
+"source_url": "https://energypedia.info/wiki/Firewood_Cookstoves"
+},
+{
+"key": "Firewood_Management_Techniques",
+"title": "Firewood Management Techniques",
+"category": "cooking-fire",
+"paths": [
+"Firewood_Management_Techniques"
+],
+"source_url": "https://energypedia.info/wiki/Firewood_Management_Techniques"
+},
+{
+"key": "Fuel_Prices_Pakistan",
+"title": "Fuel Prices Pakistan",
+"category": "cooking-fire",
+"paths": [
+"Fuel_Prices_Pakistan"
+],
+"source_url": "https://energypedia.info/wiki/Fuel_Prices_Pakistan"
+},
+{
+"key": "Gasifier_Stoves",
+"title": "Gasifier Stoves",
+"category": "cooking-fire",
+"paths": [
+"Gasifier_Stoves"
+],
+"source_url": "https://energypedia.info/wiki/Gasifier_Stoves"
+},
+{
+"key": "General_Kitchen_Management_Practices",
+"title": "General Kitchen Management Practices",
+"category": "cooking-fire",
+"paths": [
+"General_Kitchen_Management_Practices"
+],
+"source_url": "https://energypedia.info/wiki/General_Kitchen_Management_Practices"
+},
+{
+"key": "Heat_Retainers_-_Thermos_Flasks_and_Fireless_Cookers",
+"title": "Heat Retainers - Thermos Flasks and Fireless Cookers",
+"category": "cooking-fire",
+"paths": [
+"Heat_Retainers_-_Thermos_Flasks_and_Fireless_Cookers"
+],
+"source_url": "https://energypedia.info/wiki/Heat_Retainers_-_Thermos_Flasks_and_Fireless_Cookers"
+},
+{
+"key": "Heating_Stove_(PA_Technology)",
+"title": "Heating Stove (Powering Agriculture technology sheet)",
+"category": "cooking-fire",
+"paths": [
+"Heating_Stove_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Heating_Stove_(PA_Technology)"
+},
+{
+"key": "Improved_Cookstoves_(ICS)_-_User_Training",
+"title": "Improved Cookstoves (ICS) - User Training",
+"category": "cooking-fire",
+"paths": [
+"Improved_Cookstoves_(ICS)_-_User_Training"
+],
+"source_url": "https://energypedia.info/wiki/Improved_Cookstoves_(ICS)_-_User_Training"
+},
+{
+"key": "Kerosene_Stoves",
+"title": "Kerosene Stoves",
+"category": "cooking-fire",
+"paths": [
+"Kerosene_Stoves"
+],
+"source_url": "https://energypedia.info/wiki/Kerosene_Stoves"
+},
+{
+"key": "LPG_cooking_system",
+"title": "LPG cooking system",
+"category": "cooking-fire",
+"paths": [
+"LPG_cooking_system"
+],
+"source_url": "https://energypedia.info/wiki/LPG_cooking_system"
+},
+{
+"key": "LPG_for_cooking",
+"title": "LPG for cooking",
+"category": "cooking-fire",
+"paths": [
+"LPG_for_cooking"
+],
+"source_url": "https://energypedia.info/wiki/LPG_for_cooking"
+},
+{
+"key": "Plant_Oil_Cookers",
+"title": "Plant Oil Cookers",
+"category": "cooking-fire",
+"paths": [
+"Plant_Oil_Cookers"
+],
+"source_url": "https://energypedia.info/wiki/Plant_Oil_Cookers"
+},
+{
+"key": "Pressure_Cookers",
+"title": "Pressure Cookers",
+"category": "cooking-fire",
+"paths": [
+"Pressure_Cookers"
+],
+"source_url": "https://energypedia.info/wiki/Pressure_Cookers"
+},
+{
+"key": "Solid_fuel",
+"title": "Solid fuel",
+"category": "cooking-fire",
+"paths": [
+"Solid_fuel"
+],
+"source_url": "https://energypedia.info/wiki/Solid_fuel"
+},
+{
+"key": "Testing_of_Woodfuel_Stoves",
+"title": "Testing of Woodfuel Stoves",
+"category": "cooking-fire",
+"paths": [
+"Testing_of_Woodfuel_Stoves"
+],
+"source_url": "https://energypedia.info/wiki/Testing_of_Woodfuel_Stoves"
+},
+{
+"key": "Woodfuel_Production_Options",
+"title": "Woodfuel Production Options",
+"category": "cooking-fire",
+"paths": [
+"Woodfuel_Production_Options"
+],
+"source_url": "https://energypedia.info/wiki/Woodfuel_Production_Options"
+},
+{
+"key": "Advantages_and_Disadvantages_of_Biogas",
+"title": "Advantages and Disadvantages of Biogas",
+"category": "energy-power",
+"paths": [
+"Advantages_and_Disadvantages_of_Biogas"
+],
+"source_url": "https://energypedia.info/wiki/Advantages_and_Disadvantages_of_Biogas"
+},
+{
+"key": "Agitation_of_Digesters",
+"title": "Agitation of Digesters",
+"category": "energy-power",
+"paths": [
+"Agitation_of_Digesters"
+],
+"source_url": "https://energypedia.info/wiki/Agitation_of_Digesters"
+},
+{
+"key": "Balloon_Digester_for_Biogas_Plants",
+"title": "Balloon Digester for Biogas Plants",
+"category": "energy-power",
+"paths": [
+"Balloon_Digester_for_Biogas_Plants"
+],
+"source_url": "https://energypedia.info/wiki/Balloon_Digester_for_Biogas_Plants"
+},
+{
+"key": "Basic_Energy_Services_-_Solar_PV_(SHS,_Solar_Lanterns)",
+"title": "Basic Energy Services - Solar PV (SHS, Solar Lanterns)",
+"category": "energy-power",
+"paths": [
+"Basic_Energy_Services_-_Solar_PV_(SHS,_Solar_Lanterns)"
+],
+"source_url": "https://energypedia.info/wiki/Basic_Energy_Services_-_Solar_PV_(SHS,_Solar_Lanterns)"
+},
+{
+"key": "Basics_on_Biomass",
+"title": "Basics on Biomass",
+"category": "energy-power",
+"paths": [
+"Basics_on_Biomass"
+],
+"source_url": "https://energypedia.info/wiki/Basics_on_Biomass"
+},
+{
+"key": "Batteries",
+"title": "Batteries",
+"category": "energy-power",
+"paths": [
+"Batteries"
+],
+"source_url": "https://energypedia.info/wiki/Batteries"
+},
+{
+"key": "Battery_Charging_Systems_(BCS)",
+"title": "Battery Charging Systems (BCS)",
+"category": "energy-power",
+"paths": [
+"Battery_Charging_Systems_(BCS)"
+],
+"source_url": "https://energypedia.info/wiki/Battery_Charging_Systems_(BCS)"
+},
+{
+"key": "Biogas_Appliances",
+"title": "Biogas Appliances",
+"category": "energy-power",
+"paths": [
+"Biogas_Appliances"
+],
+"source_url": "https://energypedia.info/wiki/Biogas_Appliances"
+},
+{
+"key": "Biogas_Basics",
+"title": "Biogas Basics",
+"category": "energy-power",
+"paths": [
+"Biogas_Basics"
+],
+"source_url": "https://energypedia.info/wiki/Biogas_Basics"
+},
+{
+"key": "Biogas_Gas_Pipe,_Valves_and_Accessories",
+"title": "Biogas Gas Pipe, Valves and Accessories",
+"category": "energy-power",
+"paths": [
+"Biogas_Gas_Pipe,_Valves_and_Accessories"
+],
+"source_url": "https://energypedia.info/wiki/Biogas_Gas_Pipe,_Valves_and_Accessories"
+},
+{
+"key": "Biogas_Manuals_/_Biogas_Digest",
+"title": "Biogas Manuals / Biogas Digest",
+"category": "energy-power",
+"paths": [
+"Biogas_Manuals_/_Biogas_Digest"
+],
+"source_url": "https://energypedia.info/wiki/Biogas_Manuals_/_Biogas_Digest"
+},
+{
+"key": "Biogas_Substrate",
+"title": "Biogas Substrate",
+"category": "energy-power",
+"paths": [
+"Biogas_Substrate"
+],
+"source_url": "https://energypedia.info/wiki/Biogas_Substrate"
+},
+{
+"key": "Biomass_Gasification_(Small-scale)",
+"title": "Biomass Gasification (Small-scale)",
+"category": "energy-power",
+"paths": [
+"Biomass_Gasification_(Small-scale)"
+],
+"source_url": "https://energypedia.info/wiki/Biomass_Gasification_(Small-scale)"
+},
+{
+"key": "Boiler_(PA_Technology)",
+"title": "Boiler (Powering Agriculture technology sheet)",
+"category": "energy-power",
+"paths": [
+"Boiler_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Boiler_(PA_Technology)"
+},
+{
+"key": "Charge_Controllers",
+"title": "Charge Controllers",
+"category": "energy-power",
+"paths": [
+"Charge_Controllers"
+],
+"source_url": "https://energypedia.info/wiki/Charge_Controllers"
+},
+{
+"key": "Components_of_Battery_Charging_Systems_(BSC)",
+"title": "Components of Battery Charging Systems (BSC)",
+"category": "energy-power",
+"paths": [
+"Components_of_Battery_Charging_Systems_(BSC)"
+],
+"source_url": "https://energypedia.info/wiki/Components_of_Battery_Charging_Systems_(BSC)"
+},
+{
+"key": "Diesel-PV_Hybrid_System_Without_Battery_Storage",
+"title": "Diesel-PV Hybrid System Without Battery Storage",
+"category": "energy-power",
+"paths": [
+"Diesel-PV_Hybrid_System_Without_Battery_Storage"
+],
+"source_url": "https://energypedia.info/wiki/Diesel-PV_Hybrid_System_Without_Battery_Storage"
+},
+{
+"key": "Digester_Heating",
+"title": "Digester Heating",
+"category": "energy-power",
+"paths": [
+"Digester_Heating"
+],
+"source_url": "https://energypedia.info/wiki/Digester_Heating"
+},
+{
+"key": "Electrical_Safety_and_Design",
+"title": "Electrical Safety and Design",
+"category": "energy-power",
+"paths": [
+"Electrical_Safety_and_Design"
+],
+"source_url": "https://energypedia.info/wiki/Electrical_Safety_and_Design"
+},
+{
+"key": "Electricity_Basics",
+"title": "Electricity Basics",
+"category": "energy-power",
+"paths": [
+"Electricity_Basics"
+],
+"source_url": "https://energypedia.info/wiki/Electricity_Basics"
+},
+{
+"key": "Features_of_PicoPV_Systems",
+"title": "Features of PicoPV Systems",
+"category": "energy-power",
+"paths": [
+"Features_of_PicoPV_Systems"
+],
+"source_url": "https://energypedia.info/wiki/Features_of_PicoPV_Systems"
+},
+{
+"key": "Fixed-dome_Biogas_Plants",
+"title": "Fixed-dome Biogas Plants",
+"category": "energy-power",
+"paths": [
+"Fixed-dome_Biogas_Plants"
+],
+"source_url": "https://energypedia.info/wiki/Fixed-dome_Biogas_Plants"
+},
+{
+"key": "Floating_Drum_Biogas_Plants",
+"title": "Floating Drum Biogas Plants",
+"category": "energy-power",
+"paths": [
+"Floating_Drum_Biogas_Plants"
+],
+"source_url": "https://energypedia.info/wiki/Floating_Drum_Biogas_Plants"
+},
+{
+"key": "Heat_Exchangers_(PA_Technology)",
+"title": "Heat Exchangers (Powering Agriculture technology sheet)",
+"category": "energy-power",
+"paths": [
+"Heat_Exchangers_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Heat_Exchangers_(PA_Technology)"
+},
+{
+"key": "Heating_-_Indoor_Air_Temperature",
+"title": "Heating - Indoor Air Temperature",
+"category": "energy-power",
+"paths": [
+"Heating_-_Indoor_Air_Temperature"
+],
+"source_url": "https://energypedia.info/wiki/Heating_-_Indoor_Air_Temperature"
+},
+{
+"key": "How_to_Plan_a_Mini_Hydro_Power_Project",
+"title": "How to Plan a Mini Hydro Power Project",
+"category": "energy-power",
+"paths": [
+"How_to_Plan_a_Mini_Hydro_Power_Project"
+],
+"source_url": "https://energypedia.info/wiki/How_to_Plan_a_Mini_Hydro_Power_Project"
+},
+{
+"key": "Hydro_Battery_Charging_Station",
+"title": "Hydro Battery Charging Station",
+"category": "energy-power",
+"paths": [
+"Hydro_Battery_Charging_Station"
+],
+"source_url": "https://energypedia.info/wiki/Hydro_Battery_Charging_Station"
+},
+{
+"key": "Hydro_Power_-_Civil_Engineering",
+"title": "Hydro Power - Civil Engineering",
+"category": "energy-power",
+"paths": [
+"Hydro_Power_-_Civil_Engineering"
+],
+"source_url": "https://energypedia.info/wiki/Hydro_Power_-_Civil_Engineering"
+},
+{
+"key": "Hydro_Power_Basics",
+"title": "Hydro Power Basics",
+"category": "energy-power",
+"paths": [
+"Hydro_Power_Basics"
+],
+"source_url": "https://energypedia.info/wiki/Hydro_Power_Basics"
+},
+{
+"key": "Hydropower_-_Equipment",
+"title": "Hydropower - Equipment",
+"category": "energy-power",
+"paths": [
+"Hydropower_-_Equipment"
+],
+"source_url": "https://energypedia.info/wiki/Hydropower_-_Equipment"
+},
+{
+"key": "Lamps_and_Electric_Appliances",
+"title": "Lamps and Electric Appliances",
+"category": "energy-power",
+"paths": [
+"Lamps_and_Electric_Appliances"
+],
+"source_url": "https://energypedia.info/wiki/Lamps_and_Electric_Appliances"
+},
+{
+"key": "Lighting",
+"title": "Lighting",
+"category": "energy-power",
+"paths": [
+"Lighting"
+],
+"source_url": "https://energypedia.info/wiki/Lighting"
+},
+{
+"key": "Lighting_Technologies",
+"title": "Lighting Technologies",
+"category": "energy-power",
+"paths": [
+"Lighting_Technologies"
+],
+"source_url": "https://energypedia.info/wiki/Lighting_Technologies"
+},
+{
+"key": "Low-Cost_Polyethylene_Tube_Digester",
+"title": "Low-Cost Polyethylene Tube Digester",
+"category": "energy-power",
+"paths": [
+"Low-Cost_Polyethylene_Tube_Digester"
+],
+"source_url": "https://energypedia.info/wiki/Low-Cost_Polyethylene_Tube_Digester"
+},
+{
+"key": "Maintenance_Area",
+"title": "Maintenance Area",
+"category": "energy-power",
+"paths": [
+"Maintenance_Area"
+],
+"source_url": "https://energypedia.info/wiki/Maintenance_Area"
+},
+{
+"key": "Maintenance_of_a_Biogas_Plant",
+"title": "Maintenance of a Biogas Plant",
+"category": "energy-power",
+"paths": [
+"Maintenance_of_a_Biogas_Plant"
+],
+"source_url": "https://energypedia.info/wiki/Maintenance_of_a_Biogas_Plant"
+},
+{
+"key": "Material_for_Biogas_Digesters",
+"title": "Material for Biogas Digesters",
+"category": "energy-power",
+"paths": [
+"Material_for_Biogas_Digesters"
+],
+"source_url": "https://energypedia.info/wiki/Material_for_Biogas_Digesters"
+},
+{
+"key": "Micro_Gasifiers",
+"title": "Micro Gasifiers",
+"category": "energy-power",
+"paths": [
+"Micro_Gasifiers"
+],
+"source_url": "https://energypedia.info/wiki/Micro_Gasifiers"
+},
+{
+"key": "Micro_Hydro_-_Operation_and_Maintenance",
+"title": "Micro Hydro - Operation and Maintenance",
+"category": "energy-power",
+"paths": [
+"Micro_Hydro_-_Operation_and_Maintenance"
+],
+"source_url": "https://energypedia.info/wiki/Micro_Hydro_-_Operation_and_Maintenance"
+},
+{
+"key": "Micro_Hydro_Power_(MHP)_Manuals",
+"title": "Micro Hydro Power (MHP) Manuals",
+"category": "energy-power",
+"paths": [
+"Micro_Hydro_Power_(MHP)_Manuals"
+],
+"source_url": "https://energypedia.info/wiki/Micro_Hydro_Power_(MHP)_Manuals"
+},
+{
+"key": "Micro_Hydro_Power_(MHP)_Plant_-_Turbine_Types",
+"title": "Micro Hydro Power (MHP) Plant - Turbine Types",
+"category": "energy-power",
+"paths": [
+"Micro_Hydro_Power_(MHP)_Plant_-_Turbine_Types"
+],
+"source_url": "https://energypedia.info/wiki/Micro_Hydro_Power_(MHP)_Plant_-_Turbine_Types"
+},
+{
+"key": "Micro_Hydro_Power_(MHP)_Plants",
+"title": "Micro Hydro Power (MHP) Plants",
+"category": "energy-power",
+"paths": [
+"Micro_Hydro_Power_(MHP)_Plants"
+],
+"source_url": "https://energypedia.info/wiki/Micro_Hydro_Power_(MHP)_Plants"
+},
+{
+"key": "Micro_Hydro_Power_(MHP)_Troubleshooting_Poster_for_Operators_in_Indonesia",
+"title": "Micro Hydro Power (MHP) Troubleshooting Poster for Operators in Indonesia",
+"category": "energy-power",
+"paths": [
+"Micro_Hydro_Power_(MHP)_Troubleshooting_Poster_for_Operators_in_Indonesia"
+],
+"source_url": "https://energypedia.info/wiki/Micro_Hydro_Power_(MHP)_Troubleshooting_Poster_for_Operators_in_Indonesia"
+},
+{
+"key": "Mini-Grid_Sizing",
+"title": "Mini-Grid Sizing",
+"category": "energy-power",
+"paths": [
+"Mini-Grid_Sizing"
+],
+"source_url": "https://energypedia.info/wiki/Mini-Grid_Sizing"
+},
+{
+"key": "Off-Grid_Photovoltaics_(PA_Technology)",
+"title": "Off-Grid Photovoltaics (Powering Agriculture technology sheet)",
+"category": "energy-power",
+"paths": [
+"Off-Grid_Photovoltaics_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Off-Grid_Photovoltaics_(PA_Technology)"
+},
+{
+"key": "Operation_and_Maintenance_Plan_and_Glossary_for_PV_Systems",
+"title": "Operation and Maintenance Plan and Glossary for PV Systems",
+"category": "energy-power",
+"paths": [
+"Operation_and_Maintenance_Plan_and_Glossary_for_PV_Systems"
+],
+"source_url": "https://energypedia.info/wiki/Operation_and_Maintenance_Plan_and_Glossary_for_PV_Systems"
+},
+{
+"key": "Operation_of_a_Biogas_Plant",
+"title": "Operation of a Biogas Plant",
+"category": "energy-power",
+"paths": [
+"Operation_of_a_Biogas_Plant"
+],
+"source_url": "https://energypedia.info/wiki/Operation_of_a_Biogas_Plant"
+},
+{
+"key": "Organic_Fertilizer_from_Biogas_Plants",
+"title": "Organic Fertilizer from Biogas Plants",
+"category": "energy-power",
+"paths": [
+"Organic_Fertilizer_from_Biogas_Plants"
+],
+"source_url": "https://energypedia.info/wiki/Organic_Fertilizer_from_Biogas_Plants"
+},
+{
+"key": "Parts_of_a_Biogas_Plant",
+"title": "Parts of a Biogas Plant",
+"category": "energy-power",
+"paths": [
+"Parts_of_a_Biogas_Plant"
+],
+"source_url": "https://energypedia.info/wiki/Parts_of_a_Biogas_Plant"
+},
+{
+"key": "Pico_Hydro_Power",
+"title": "Pico Hydro Power",
+"category": "energy-power",
+"paths": [
+"Pico_Hydro_Power"
+],
+"source_url": "https://energypedia.info/wiki/Pico_Hydro_Power"
+},
+{
+"key": "Piping_Systems_for_Biogas_Plants",
+"title": "Piping Systems for Biogas Plants",
+"category": "energy-power",
+"paths": [
+"Piping_Systems_for_Biogas_Plants"
+],
+"source_url": "https://energypedia.info/wiki/Piping_Systems_for_Biogas_Plants"
+},
+{
+"key": "Planning_Guide_for_Biogas_Plants",
+"title": "Planning Guide for Biogas Plants",
+"category": "energy-power",
+"paths": [
+"Planning_Guide_for_Biogas_Plants"
+],
+"source_url": "https://energypedia.info/wiki/Planning_Guide_for_Biogas_Plants"
+},
+{
+"key": "Planning,_Installation_and_Maintenance_of_Solar_Home_System",
+"title": "Planning, Installation and Maintenance of Solar Home System",
+"category": "energy-power",
+"paths": [
+"Planning,_Installation_and_Maintenance_of_Solar_Home_System"
+],
+"source_url": "https://energypedia.info/wiki/Planning,_Installation_and_Maintenance_of_Solar_Home_System"
+},
+{
+"key": "Plasters_and_Coats_for_Biogas_Digesters_and_Gas-holder",
+"title": "Plasters and Coats for Biogas Digesters and Gas-holder",
+"category": "energy-power",
+"paths": [
+"Plasters_and_Coats_for_Biogas_Digesters_and_Gas-holder"
+],
+"source_url": "https://energypedia.info/wiki/Plasters_and_Coats_for_Biogas_Digesters_and_Gas-holder"
+},
+{
+"key": "Plastic_Bag_Digester_(PA_Technology)",
+"title": "Plastic Bag Digester (Powering Agriculture technology sheet)",
+"category": "energy-power",
+"paths": [
+"Plastic_Bag_Digester_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Plastic_Bag_Digester_(PA_Technology)"
+},
+{
+"key": "Pocket-Hydro",
+"title": "Pocket-Hydro",
+"category": "energy-power",
+"paths": [
+"Pocket-Hydro"
+],
+"source_url": "https://energypedia.info/wiki/Pocket-Hydro"
+},
+{
+"key": "PV_system",
+"title": "PV system",
+"category": "energy-power",
+"paths": [
+"PV_system"
+],
+"source_url": "https://energypedia.info/wiki/PV_system"
+},
+{
+"key": "Recycling_of_Photovoltaic_(PV)_Batteries",
+"title": "Recycling of Photovoltaic (PV) Batteries",
+"category": "energy-power",
+"paths": [
+"Recycling_of_Photovoltaic_(PV)_Batteries"
+],
+"source_url": "https://energypedia.info/wiki/Recycling_of_Photovoltaic_(PV)_Batteries"
+},
+{
+"key": "Sizing_a_Battery_Charging_Systems_(BCS)",
+"title": "Sizing a Battery Charging Systems (BCS)",
+"category": "energy-power",
+"paths": [
+"Sizing_a_Battery_Charging_Systems_(BCS)"
+],
+"source_url": "https://energypedia.info/wiki/Sizing_a_Battery_Charging_Systems_(BCS)"
+},
+{
+"key": "Sizing_of_the_Biogas_Plant",
+"title": "Sizing of the Biogas Plant",
+"category": "energy-power",
+"paths": [
+"Sizing_of_the_Biogas_Plant"
+],
+"source_url": "https://energypedia.info/wiki/Sizing_of_the_Biogas_Plant"
+},
+{
+"key": "Small_Scale_Biodigester_(PA_Technology)",
+"title": "Small Scale Biodigester (Powering Agriculture technology sheet)",
+"category": "energy-power",
+"paths": [
+"Small_Scale_Biodigester_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Small_Scale_Biodigester_(PA_Technology)"
+},
+{
+"key": "Small-Scale_Wind",
+"title": "Small-Scale Wind",
+"category": "energy-power",
+"paths": [
+"Small-Scale_Wind"
+],
+"source_url": "https://energypedia.info/wiki/Small-Scale_Wind"
+},
+{
+"key": "Solar_Battery_Charging_Stations",
+"title": "Solar Battery Charging Stations",
+"category": "energy-power",
+"paths": [
+"Solar_Battery_Charging_Stations"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Battery_Charging_Stations"
+},
+{
+"key": "Solar_Cells_and_Modules",
+"title": "Solar Cells and Modules",
+"category": "energy-power",
+"paths": [
+"Solar_Cells_and_Modules"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Cells_and_Modules"
+},
+{
+"key": "Solar_Collectors_(PA_Technology)",
+"title": "Solar Collectors (Powering Agriculture technology sheet)",
+"category": "energy-power",
+"paths": [
+"Solar_Collectors_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Collectors_(PA_Technology)"
+},
+{
+"key": "Solar_Home_Systems_(SHS)",
+"title": "Solar Home Systems (SHS)",
+"category": "energy-power",
+"paths": [
+"Solar_Home_Systems_(SHS)"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Home_Systems_(SHS)"
+},
+{
+"key": "Solar_Street_Lights",
+"title": "Solar Street Lights",
+"category": "energy-power",
+"paths": [
+"Solar_Street_Lights"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Street_Lights"
+},
+{
+"key": "Solar_Systems_-_Wiring_and_Fitting",
+"title": "Solar Systems - Wiring and Fitting",
+"category": "energy-power",
+"paths": [
+"Solar_Systems_-_Wiring_and_Fitting"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Systems_-_Wiring_and_Fitting"
+},
+{
+"key": "Solar_Thermal_Technologies",
+"title": "Solar Thermal Technologies",
+"category": "energy-power",
+"paths": [
+"Solar_Thermal_Technologies"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Thermal_Technologies"
+},
+{
+"key": "Standards_for_System_Installation_and_Wiring",
+"title": "Standards for System Installation and Wiring",
+"category": "energy-power",
+"paths": [
+"Standards_for_System_Installation_and_Wiring"
+],
+"source_url": "https://energypedia.info/wiki/Standards_for_System_Installation_and_Wiring"
+},
+{
+"key": "Standards_for_the_PV_Generator",
+"title": "Standards for the PV Generator",
+"category": "energy-power",
+"paths": [
+"Standards_for_the_PV_Generator"
+],
+"source_url": "https://energypedia.info/wiki/Standards_for_the_PV_Generator"
+},
+{
+"key": "Steffturbine_-_Hydropower_Turbine",
+"title": "Steffturbine - Hydropower Turbine",
+"category": "energy-power",
+"paths": [
+"Steffturbine_-_Hydropower_Turbine"
+],
+"source_url": "https://energypedia.info/wiki/Steffturbine_-_Hydropower_Turbine"
+},
+{
+"key": "Technical_Aspects_of_Gasification",
+"title": "Technical Aspects of Gasification",
+"category": "energy-power",
+"paths": [
+"Technical_Aspects_of_Gasification"
+],
+"source_url": "https://energypedia.info/wiki/Technical_Aspects_of_Gasification"
+},
+{
+"key": "Thermo_Electric_Generators",
+"title": "Thermo Electric Generators",
+"category": "energy-power",
+"paths": [
+"Thermo_Electric_Generators"
+],
+"source_url": "https://energypedia.info/wiki/Thermo_Electric_Generators"
+},
+{
+"key": "Tools_to_Prevent_Theft_of_Panels",
+"title": "Tools to Prevent Theft of Panels",
+"category": "energy-power",
+"paths": [
+"Tools_to_Prevent_Theft_of_Panels"
+],
+"source_url": "https://energypedia.info/wiki/Tools_to_Prevent_Theft_of_Panels"
+},
+{
+"key": "Types_of_Biogas_Digesters_and_Plants",
+"title": "Types of Biogas Digesters and Plants",
+"category": "energy-power",
+"paths": [
+"Types_of_Biogas_Digesters_and_Plants"
+],
+"source_url": "https://energypedia.info/wiki/Types_of_Biogas_Digesters_and_Plants"
+},
+{
+"key": "Types_of_Gasholders_for_Biogas_Plants",
+"title": "Types of Gasholders for Biogas Plants",
+"category": "energy-power",
+"paths": [
+"Types_of_Gasholders_for_Biogas_Plants"
+],
+"source_url": "https://energypedia.info/wiki/Types_of_Gasholders_for_Biogas_Plants"
+},
+{
+"key": "TyreTube_Biogas_Plant",
+"title": "TyreTube Biogas Plant",
+"category": "energy-power",
+"paths": [
+"TyreTube_Biogas_Plant"
+],
+"source_url": "https://energypedia.info/wiki/TyreTube_Biogas_Plant"
+},
+{
+"key": "Wind_Energy_-_Physics",
+"title": "Wind Energy - Physics",
+"category": "energy-power",
+"paths": [
+"Wind_Energy_-_Physics"
+],
+"source_url": "https://energypedia.info/wiki/Wind_Energy_-_Physics"
+},
+{
+"key": "Wind_Hybrid-Systems",
+"title": "Wind Hybrid-Systems",
+"category": "energy-power",
+"paths": [
+"Wind_Hybrid-Systems"
+],
+"source_url": "https://energypedia.info/wiki/Wind_Hybrid-Systems"
+},
+{
+"key": "Wind_Turbine_Technology",
+"title": "Wind Turbine Technology",
+"category": "energy-power",
+"paths": [
+"Wind_Turbine_Technology"
+],
+"source_url": "https://energypedia.info/wiki/Wind_Turbine_Technology"
+},
+{
+"key": "Drip_Irrigation",
+"title": "Drip Irrigation",
+"category": "food-production",
+"paths": [
+"Drip_Irrigation"
+],
+"source_url": "https://energypedia.info/wiki/Drip_Irrigation"
+},
+{
+"key": "Solar_Water_Heater",
+"title": "Solar Water Heater",
+"category": "food-production",
+"paths": [
+"Solar_Water_Heater"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Water_Heater"
+},
+{
+"key": "SPIS_Design",
+"title": "SPIS Design",
+"category": "food-production",
+"paths": [
+"SPIS_Design"
+],
+"source_url": "https://energypedia.info/wiki/SPIS_Design"
+},
+{
+"key": "SPIS_Set_Up",
+"title": "SPIS Set Up",
+"category": "food-production",
+"paths": [
+"SPIS_Set_Up"
+],
+"source_url": "https://energypedia.info/wiki/SPIS_Set_Up"
+},
+{
+"key": "SPIS_Toolbox_-_Establish_and_Refine_Maintenance_Plan",
+"title": "SPIS Toolbox - Establish and Refine Maintenance Plan",
+"category": "food-production",
+"paths": [
+"SPIS_Toolbox_-_Establish_and_Refine_Maintenance_Plan"
+],
+"source_url": "https://energypedia.info/wiki/SPIS_Toolbox_-_Establish_and_Refine_Maintenance_Plan"
+},
+{
+"key": "SPIS_Toolbox_-_Implement_Maintenance_Routines",
+"title": "SPIS Toolbox - Implement Maintenance Routines",
+"category": "food-production",
+"paths": [
+"SPIS_Toolbox_-_Implement_Maintenance_Routines"
+],
+"source_url": "https://energypedia.info/wiki/SPIS_Toolbox_-_Implement_Maintenance_Routines"
+},
+{
+"key": "SPIS_Toolbox_-_Install",
+"title": "SPIS Toolbox - Install",
+"category": "food-production",
+"paths": [
+"SPIS_Toolbox_-_Install"
+],
+"source_url": "https://energypedia.info/wiki/SPIS_Toolbox_-_Install"
+},
+{
+"key": "SPIS_Toolbox_-_Irrigation_Efficiency_Tips",
+"title": "SPIS Toolbox - Irrigation Efficiency Tips",
+"category": "food-production",
+"paths": [
+"SPIS_Toolbox_-_Irrigation_Efficiency_Tips"
+],
+"source_url": "https://energypedia.info/wiki/SPIS_Toolbox_-_Irrigation_Efficiency_Tips"
+},
+{
+"key": "SPIS_Toolbox_-_Irrigation_Principles",
+"title": "SPIS Toolbox - Irrigation Principles",
+"category": "food-production",
+"paths": [
+"SPIS_Toolbox_-_Irrigation_Principles"
+],
+"source_url": "https://energypedia.info/wiki/SPIS_Toolbox_-_Irrigation_Principles"
+},
+{
+"key": "SPIS_Toolbox_-_Irrigation_System",
+"title": "SPIS Toolbox - Irrigation System",
+"category": "food-production",
+"paths": [
+"SPIS_Toolbox_-_Irrigation_System"
+],
+"source_url": "https://energypedia.info/wiki/SPIS_Toolbox_-_Irrigation_System"
+},
+{
+"key": "SPIS_Toolbox_-_Reservoir",
+"title": "SPIS Toolbox - Reservoir",
+"category": "food-production",
+"paths": [
+"SPIS_Toolbox_-_Reservoir"
+],
+"source_url": "https://energypedia.info/wiki/SPIS_Toolbox_-_Reservoir"
+},
+{
+"key": "SPIS_Toolbox_-_Select_Field_Irrigation_Method",
+"title": "SPIS Toolbox - Select Field Irrigation Method",
+"category": "food-production",
+"paths": [
+"SPIS_Toolbox_-_Select_Field_Irrigation_Method"
+],
+"source_url": "https://energypedia.info/wiki/SPIS_Toolbox_-_Select_Field_Irrigation_Method"
+},
+{
+"key": "SPIS_Toolbox_-_Solar_Generator",
+"title": "SPIS Toolbox - Solar Generator",
+"category": "food-production",
+"paths": [
+"SPIS_Toolbox_-_Solar_Generator"
+],
+"source_url": "https://energypedia.info/wiki/SPIS_Toolbox_-_Solar_Generator"
+},
+{
+"key": "SPIS_Toolbox_-_Water_Pump",
+"title": "SPIS Toolbox - Water Pump",
+"category": "food-production",
+"paths": [
+"SPIS_Toolbox_-_Water_Pump"
+],
+"source_url": "https://energypedia.info/wiki/SPIS_Toolbox_-_Water_Pump"
+},
+{
+"key": "Sprinkler_Irrigation",
+"title": "Sprinkler Irrigation",
+"category": "food-production",
+"paths": [
+"Sprinkler_Irrigation"
+],
+"source_url": "https://energypedia.info/wiki/Sprinkler_Irrigation"
+},
+{
+"key": "Surface_Irrigation",
+"title": "Surface Irrigation",
+"category": "food-production",
+"paths": [
+"Surface_Irrigation"
+],
+"source_url": "https://energypedia.info/wiki/Surface_Irrigation"
+},
+{
+"key": "Water_Heating",
+"title": "Water Heating",
+"category": "food-production",
+"paths": [
+"Water_Heating"
+],
+"source_url": "https://energypedia.info/wiki/Water_Heating"
+},
+{
+"key": "Water_Storage_Tank_Sizing_for_Solar_Powered_Irrigation",
+"title": "Water Storage Tank Sizing for Solar Powered Irrigation",
+"category": "food-production",
+"paths": [
+"Water_Storage_Tank_Sizing_for_Solar_Powered_Irrigation"
+],
+"source_url": "https://energypedia.info/wiki/Water_Storage_Tank_Sizing_for_Solar_Powered_Irrigation"
+},
+{
+"key": "Batteryless_Solar_Refrigerator",
+"title": "Batteryless Solar Refrigerator",
+"category": "food-storage-preservation",
+"paths": [
+"Batteryless_Solar_Refrigerator"
+],
+"source_url": "https://energypedia.info/wiki/Batteryless_Solar_Refrigerator"
+},
+{
+"key": "Belt_dryer",
+"title": "Belt dryer",
+"category": "food-storage-preservation",
+"paths": [
+"Belt_dryer"
+],
+"source_url": "https://energypedia.info/wiki/Belt_dryer"
+},
+{
+"key": "Cereal_Dryers_(PA_Technology)",
+"title": "Cereal Dryers (Powering Agriculture technology sheet)",
+"category": "food-storage-preservation",
+"paths": [
+"Cereal_Dryers_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Cereal_Dryers_(PA_Technology)"
+},
+{
+"key": "Cooling",
+"title": "Cooling",
+"category": "food-storage-preservation",
+"paths": [
+"Cooling"
+],
+"source_url": "https://energypedia.info/wiki/Cooling"
+},
+{
+"key": "Evaporative_cooling_chamber",
+"title": "Evaporative cooling chamber",
+"category": "food-storage-preservation",
+"paths": [
+"Evaporative_cooling_chamber"
+],
+"source_url": "https://energypedia.info/wiki/Evaporative_cooling_chamber"
+},
+{
+"key": "Evaporative_Cooling_Devices",
+"title": "Evaporative Cooling Devices",
+"category": "food-storage-preservation",
+"paths": [
+"Evaporative_Cooling_Devices"
+],
+"source_url": "https://energypedia.info/wiki/Evaporative_Cooling_Devices"
+},
+{
+"key": "Flat_Bed_Paddy_Rice_Dryer_(PA_Technology)",
+"title": "Flat Bed Paddy Rice Dryer (Powering Agriculture technology sheet)",
+"category": "food-storage-preservation",
+"paths": [
+"Flat_Bed_Paddy_Rice_Dryer_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Flat_Bed_Paddy_Rice_Dryer_(PA_Technology)"
+},
+{
+"key": "Fruit_Dryers_(PA_Technology)",
+"title": "Fruit Dryers (Powering Agriculture technology sheet)",
+"category": "food-storage-preservation",
+"paths": [
+"Fruit_Dryers_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Fruit_Dryers_(PA_Technology)"
+},
+{
+"key": "Meat_Dryers_(PA_Technology)",
+"title": "Meat Dryers (Powering Agriculture technology sheet)",
+"category": "food-storage-preservation",
+"paths": [
+"Meat_Dryers_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Meat_Dryers_(PA_Technology)"
+},
+{
+"key": "Night_Radiative_Cooling_(PA_Technology)",
+"title": "Night Radiative Cooling (Powering Agriculture technology sheet)",
+"category": "food-storage-preservation",
+"paths": [
+"Night_Radiative_Cooling_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Night_Radiative_Cooling_(PA_Technology)"
+},
+{
+"key": "Pre-cooling_of_Agricultural_Products",
+"title": "Pre-cooling of Agricultural Products",
+"category": "food-storage-preservation",
+"paths": [
+"Pre-cooling_of_Agricultural_Products"
+],
+"source_url": "https://energypedia.info/wiki/Pre-cooling_of_Agricultural_Products"
+},
+{
+"key": "Refrigerators_(PA_Technology)",
+"title": "Refrigerators (Powering Agriculture technology sheet)",
+"category": "food-storage-preservation",
+"paths": [
+"Refrigerators_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Refrigerators_(PA_Technology)"
+},
+{
+"key": "River_Ice_Cooling_System",
+"title": "River Ice Cooling System",
+"category": "food-storage-preservation",
+"paths": [
+"River_Ice_Cooling_System"
+],
+"source_url": "https://energypedia.info/wiki/River_Ice_Cooling_System"
+},
+{
+"key": "Solar_Cooling",
+"title": "Solar Cooling",
+"category": "food-storage-preservation",
+"paths": [
+"Solar_Cooling"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Cooling"
+},
+{
+"key": "Solar_Dryers_(PA_Technology)",
+"title": "Solar Dryers (Powering Agriculture technology sheet)",
+"category": "food-storage-preservation",
+"paths": [
+"Solar_Dryers_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Dryers_(PA_Technology)"
+},
+{
+"key": "Solar_Drying",
+"title": "Solar Drying",
+"category": "food-storage-preservation",
+"paths": [
+"Solar_Drying"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Drying"
+},
+{
+"key": "Solar_Milk_Cooling_with_Insulated_Milk_Cans",
+"title": "Solar Milk Cooling with Insulated Milk Cans",
+"category": "food-storage-preservation",
+"paths": [
+"Solar_Milk_Cooling_with_Insulated_Milk_Cans"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Milk_Cooling_with_Insulated_Milk_Cans"
+},
+{
+"key": "Vegetable_Dryers_(PA_Technology)",
+"title": "Vegetable Dryers (Powering Agriculture technology sheet)",
+"category": "food-storage-preservation",
+"paths": [
+"Vegetable_Dryers_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Vegetable_Dryers_(PA_Technology)"
+},
+{
+"key": "Vegetable_Oil",
+"title": "Vegetable Oil",
+"category": "food-storage-preservation",
+"paths": [
+"Vegetable_Oil"
+],
+"source_url": "https://energypedia.info/wiki/Vegetable_Oil"
+},
+{
+"key": "Design_of_Photovoltaic_(PV)_Pumping",
+"title": "Design of Photovoltaic (PV) Pumping",
+"category": "water",
+"paths": [
+"Design_of_Photovoltaic_(PV)_Pumping"
+],
+"source_url": "https://energypedia.info/wiki/Design_of_Photovoltaic_(PV)_Pumping"
+},
+{
+"key": "Hydraulic_RAM_Pumps_(PA_Technology)",
+"title": "Hydraulic RAM Pumps (Powering Agriculture technology sheet)",
+"category": "water",
+"paths": [
+"Hydraulic_RAM_Pumps_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Hydraulic_RAM_Pumps_(PA_Technology)"
+},
+{
+"key": "Photovoltaic_(PV)_Pumping",
+"title": "Photovoltaic (PV) Pumping",
+"category": "water",
+"paths": [
+"Photovoltaic_(PV)_Pumping"
+],
+"source_url": "https://energypedia.info/wiki/Photovoltaic_(PV)_Pumping"
+},
+{
+"key": "Pumps_for_Biogas_Plants",
+"title": "Pumps for Biogas Plants",
+"category": "water",
+"paths": [
+"Pumps_for_Biogas_Plants"
+],
+"source_url": "https://energypedia.info/wiki/Pumps_for_Biogas_Plants"
+},
+{
+"key": "Self-Priming_Pump",
+"title": "Self-Priming Pump",
+"category": "water",
+"paths": [
+"Self-Priming_Pump"
+],
+"source_url": "https://energypedia.info/wiki/Self-Priming_Pump"
+},
+{
+"key": "Solar_Pumping_Toolkit_-_Installation_and_O&M",
+"title": "Solar Pumping Toolkit - Installation and O&M",
+"category": "water",
+"paths": [
+"Solar_Pumping_Toolkit_-_Installation_and_O&M"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Pumping_Toolkit_-_Installation_and_O&M"
+},
+{
+"key": "Solar_Thermal_Pump_(PA_Technology)",
+"title": "Solar Thermal Pump (Powering Agriculture technology sheet)",
+"category": "water",
+"paths": [
+"Solar_Thermal_Pump_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Thermal_Pump_(PA_Technology)"
+},
+{
+"key": "Solar_Water_Purification_(PA_Technology)",
+"title": "Solar Water Purification (Powering Agriculture technology sheet)",
+"category": "water",
+"paths": [
+"Solar_Water_Purification_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Solar_Water_Purification_(PA_Technology)"
+},
+{
+"key": "Treadle_Pump_(PA_Technology)",
+"title": "Treadle Pump (Powering Agriculture technology sheet)",
+"category": "water",
+"paths": [
+"Treadle_Pump_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Treadle_Pump_(PA_Technology)"
+},
+{
+"key": "Volanta_Pump_(PA_Technology)",
+"title": "Volanta Pump (Powering Agriculture technology sheet)",
+"category": "water",
+"paths": [
+"Volanta_Pump_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Volanta_Pump_(PA_Technology)"
+},
+{
+"key": "Wind_Pumps_(PA_Technology)",
+"title": "Wind Pumps (Powering Agriculture technology sheet)",
+"category": "water",
+"paths": [
+"Wind_Pumps_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Wind_Pumps_(PA_Technology)"
+},
+{
+"key": "Wirtz_Spiral_Pump_(PA_Technology)",
+"title": "Wirtz Spiral Pump (Powering Agriculture technology sheet)",
+"category": "water",
+"paths": [
+"Wirtz_Spiral_Pump_(PA_Technology)"
+],
+"source_url": "https://energypedia.info/wiki/Wirtz_Spiral_Pump_(PA_Technology)"
+}
+]
+}

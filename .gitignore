@@ -4,6 +4,9 @@
 !/.gitignore
 !/.gitattributes
 !/Setup.bat
+!/Get Archives.bat
+!/Build Starter Library.bat
+!/starter/
 !/Library Manager.vbs
 !/README.md
 !/README - Library Manager.md

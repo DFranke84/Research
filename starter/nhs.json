@@ -1,0 +1,2476 @@
+{
+"pack": "nhs",
+"kind": "zim",
+"title": "NHS Medicines (UK)",
+"about": "UK NHS guides to common medicines: what they are for, how to take them, side effects.",
+"archive": "nhs",
+"made": "2026-10-17",
+"items": [
+{
+"key": "www.nhs.uk/medicines/acrivastine/",
+"title": "Acrivastine (Benadryl) (NHS medicine guide)",
+"slug": "nhs acrivastine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/acrivastine/about-acrivastine/",
+"www.nhs.uk/medicines/acrivastine/who-can-and-cannot-take-acrivastine/",
+"www.nhs.uk/medicines/acrivastine/how-and-when-to-take-acrivastine/",
+"www.nhs.uk/medicines/acrivastine/side-effects-of-acrivastine/",
+"www.nhs.uk/medicines/acrivastine/pregnancy-breastfeeding-and-fertility-while-taking-acrivastine/",
+"www.nhs.uk/medicines/acrivastine/taking-acrivastine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/acrivastine/common-questions-about-acrivastine/"
+],
+"source_url": "https://www.nhs.uk/medicines/acrivastine/"
+},
+{
+"key": "www.nhs.uk/medicines/alendronic-acid/",
+"title": "Alendronic acid (NHS medicine guide)",
+"slug": "nhs alendronic-acid",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/alendronic-acid/about-alendronic-acid/",
+"www.nhs.uk/medicines/alendronic-acid/who-can-and-cannot-take-alendronic-acid/",
+"www.nhs.uk/medicines/alendronic-acid/how-and-when-to-take-alendronic-acid/",
+"www.nhs.uk/medicines/alendronic-acid/side-effects-of-alendronic-acid/",
+"www.nhs.uk/medicines/alendronic-acid/pregnancy-breastfeeding-and-fertility-while-taking-alendronic-acid/",
+"www.nhs.uk/medicines/alendronic-acid/taking-alendronic-acid-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/alendronic-acid/common-questions-about-alendronic-acid/"
+],
+"source_url": "https://www.nhs.uk/medicines/alendronic-acid/"
+},
+{
+"key": "www.nhs.uk/medicines/allopurinol/",
+"title": "Allopurinol (NHS medicine guide)",
+"slug": "nhs allopurinol",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/allopurinol/about-allopurinol/",
+"www.nhs.uk/medicines/allopurinol/who-can-and-cannot-take-allopurinol/",
+"www.nhs.uk/medicines/allopurinol/how-and-when-to-take-allopurinol/",
+"www.nhs.uk/medicines/allopurinol/side-effects-of-allopurinol/",
+"www.nhs.uk/medicines/allopurinol/pregnancy-breastfeeding-and-fertility-while-taking-allopurinol/",
+"www.nhs.uk/medicines/allopurinol/taking-allopurinol-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/allopurinol/common-questions-about-allopurinol/"
+],
+"source_url": "https://www.nhs.uk/medicines/allopurinol/"
+},
+{
+"key": "www.nhs.uk/medicines/amitriptyline-for-depression/",
+"title": "Amitriptyline for depression (NHS medicine guide)",
+"slug": "nhs amitriptyline-for-depression",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/amitriptyline-for-depression/about-amitriptyline-for-depression/",
+"www.nhs.uk/medicines/amitriptyline-for-depression/who-can-and-cannot-take-amitriptyline-for-depression/",
+"www.nhs.uk/medicines/amitriptyline-for-depression/how-and-when-to-take-amitriptyline-for-depression/",
+"www.nhs.uk/medicines/amitriptyline-for-depression/side-effects-of-amitriptyline-for-depression/",
+"www.nhs.uk/medicines/amitriptyline-for-depression/pregnancy-breastfeeding-and-fertility-while-taking-amitriptyline-for-depression/",
+"www.nhs.uk/medicines/amitriptyline-for-depression/taking-amitriptyline-for-depression-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/amitriptyline-for-depression/common-questions-about-amitriptyline-for-depression/"
+],
+"source_url": "https://www.nhs.uk/medicines/amitriptyline-for-depression/"
+},
+{
+"key": "www.nhs.uk/medicines/amitriptyline-for-pain/",
+"title": "Amitriptyline for pain (NHS medicine guide)",
+"slug": "nhs amitriptyline-for-pain",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/amitriptyline-for-pain/about-amitriptyline-for-pain-and-migraine/",
+"www.nhs.uk/medicines/amitriptyline-for-pain/who-can-and-cannot-take-amitriptyline-for-pain-and-migraine/",
+"www.nhs.uk/medicines/amitriptyline-for-pain/how-and-when-to-take-amitriptyline-for-pain-and-migraine/",
+"www.nhs.uk/medicines/amitriptyline-for-pain/side-effects-of-amitriptyline-for-pain-and-migraine/",
+"www.nhs.uk/medicines/amitriptyline-for-pain/pregnancy-breastfeeding-and-fertility-while-taking-amitriptyline-for-pain-and-migraine/",
+"www.nhs.uk/medicines/amitriptyline-for-pain/taking-amitriptyline-for-pain-and-migraine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/amitriptyline-for-pain/common-questions-about-amitriptyline-for-pain-and-migraine/"
+],
+"source_url": "https://www.nhs.uk/medicines/amitriptyline-for-pain/"
+},
+{
+"key": "www.nhs.uk/medicines/amoxicillin/",
+"title": "Amoxicillin (NHS medicine guide)",
+"slug": "nhs amoxicillin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/amoxicillin/about-amoxicillin/",
+"www.nhs.uk/medicines/amoxicillin/who-can-and-cannot-take-amoxicillin/",
+"www.nhs.uk/medicines/amoxicillin/how-and-when-to-take-amoxicillin/",
+"www.nhs.uk/medicines/amoxicillin/side-effects-of-amoxicillin/",
+"www.nhs.uk/medicines/amoxicillin/pregnancy-breastfeeding-and-fertility-while-taking-amoxicillin/",
+"www.nhs.uk/medicines/amoxicillin/taking-amoxicillin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/amoxicillin/common-questions-about-amoxicillin/"
+],
+"source_url": "https://www.nhs.uk/medicines/amoxicillin/"
+},
+{
+"key": "www.nhs.uk/medicines/anastrozole/",
+"title": "Anastrozole (NHS medicine guide)",
+"slug": "nhs anastrozole",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/anastrozole/about-anastrozole/",
+"www.nhs.uk/medicines/anastrozole/who-can-and-cannot-take-anastrozole/",
+"www.nhs.uk/medicines/anastrozole/how-and-when-to-take-anastrozole/",
+"www.nhs.uk/medicines/anastrozole/side-effects-of-anastrozole/",
+"www.nhs.uk/medicines/anastrozole/pregnancy-breastfeeding-and-fertility-while-taking-anastrozole/",
+"www.nhs.uk/medicines/anastrozole/taking-anastrozole-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/anastrozole/common-questions-about-anastrozole/"
+],
+"source_url": "https://www.nhs.uk/medicines/anastrozole/"
+},
+{
+"key": "www.nhs.uk/medicines/antibiotics/",
+"title": "Antibiotics (NHS medicine guide)",
+"slug": "nhs antibiotics",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/antibiotics/side-effects/",
+"www.nhs.uk/medicines/antibiotics/antibiotic-antimicrobial-resistance/",
+"www.nhs.uk/medicines/antibiotics/interactions/",
+"www.nhs.uk/medicines/antibiotics/uses/"
+],
+"source_url": "https://www.nhs.uk/medicines/antibiotics/"
+},
+{
+"key": "www.nhs.uk/medicines/anticoagulants/",
+"title": "Anticoagulant medicines (NHS medicine guide)",
+"slug": "nhs anticoagulants",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/anticoagulants/side-effects/",
+"www.nhs.uk/medicines/anticoagulants/considerations/",
+"www.nhs.uk/medicines/anticoagulants/dosage/",
+"www.nhs.uk/medicines/anticoagulants/uses/"
+],
+"source_url": "https://www.nhs.uk/medicines/anticoagulants/"
+},
+{
+"key": "www.nhs.uk/medicines/aripiprazole/",
+"title": "Aripiprazole (NHS medicine guide)",
+"slug": "nhs aripiprazole",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/aripiprazole/about-aripiprazole/",
+"www.nhs.uk/medicines/aripiprazole/who-can-and-cannot-take-aripiprazole/",
+"www.nhs.uk/medicines/aripiprazole/how-and-when-to-take-aripiprazole/",
+"www.nhs.uk/medicines/aripiprazole/side-effects-of-aripiprazole/",
+"www.nhs.uk/medicines/aripiprazole/pregnancy-breastfeeding-and-fertility-while-taking-aripiprazole/",
+"www.nhs.uk/medicines/aripiprazole/taking-aripiprazole-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/aripiprazole/common-questions-about-aripiprazole/"
+],
+"source_url": "https://www.nhs.uk/medicines/aripiprazole/"
+},
+{
+"key": "www.nhs.uk/medicines/azathioprine/",
+"title": "Azathioprine (NHS medicine guide)",
+"slug": "nhs azathioprine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/azathioprine/about-azathioprine/",
+"www.nhs.uk/medicines/azathioprine/who-can-and-cannot-take-azathioprine/",
+"www.nhs.uk/medicines/azathioprine/how-and-when-to-take-azathioprine/",
+"www.nhs.uk/medicines/azathioprine/side-effects-of-azathioprine/",
+"www.nhs.uk/medicines/azathioprine/pregnancy-breastfeeding-and-fertility-while-taking-azathioprine/",
+"www.nhs.uk/medicines/azathioprine/taking-azathioprine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/azathioprine/common-questions-about-azathioprine/"
+],
+"source_url": "https://www.nhs.uk/medicines/azathioprine/"
+},
+{
+"key": "www.nhs.uk/medicines/azithromycin/",
+"title": "Azithromycin (NHS medicine guide)",
+"slug": "nhs azithromycin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/azithromycin/about-azithromycin/",
+"www.nhs.uk/medicines/azithromycin/who-can-and-cannot-take-azithromycin/",
+"www.nhs.uk/medicines/azithromycin/how-and-when-to-take-azithromycin/",
+"www.nhs.uk/medicines/azithromycin/side-effects-of-azithromycin/",
+"www.nhs.uk/medicines/azithromycin/pregnancy-breastfeeding-and-fertility-while-taking-azithromycin/",
+"www.nhs.uk/medicines/azithromycin/taking-azithromycin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/azithromycin/common-questions-about-azithromycin/"
+],
+"source_url": "https://www.nhs.uk/medicines/azithromycin/"
+},
+{
+"key": "www.nhs.uk/medicines/beclometasone-inhalers/",
+"title": "Beclometasone inhalers (NHS medicine guide)",
+"slug": "nhs beclometasone-inhalers",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/beclometasone-inhalers/about-beclometasone-inhalers/",
+"www.nhs.uk/medicines/beclometasone-inhalers/who-can-and-cannot-use-beclometasone-inhalers/",
+"www.nhs.uk/medicines/beclometasone-inhalers/how-and-when-to-use-beclometasone-inhalers/",
+"www.nhs.uk/medicines/beclometasone-inhalers/side-effects-of-beclometasone-inhalers/",
+"www.nhs.uk/medicines/beclometasone-inhalers/pregnancy-breastfeeding-and-fertility-while-using-beclometasone-inhalers/",
+"www.nhs.uk/medicines/beclometasone-inhalers/common-questions-about-beclometasone-inhalers/",
+"www.nhs.uk/medicines/beclometasone-inhalers/using-beclometasone-inhalers-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/beclometasone-inhalers/"
+},
+{
+"key": "www.nhs.uk/medicines/beclometasone-nasal-spray/",
+"title": "Beclometasone nasal spray (NHS medicine guide)",
+"slug": "nhs beclometasone-nasal-spray",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/beclometasone-nasal-spray/about-beclometasone-nasal-spray/",
+"www.nhs.uk/medicines/beclometasone-nasal-spray/who-can-and-cannot-use-beclometasone-nasal-spray/",
+"www.nhs.uk/medicines/beclometasone-nasal-spray/how-and-when-to-use-beclometasone-nasal-spray/",
+"www.nhs.uk/medicines/beclometasone-nasal-spray/side-effects-of-beclometasone-nasal-spray/",
+"www.nhs.uk/medicines/beclometasone-nasal-spray/pregnancy-breastfeeding-and-fertility-while-using-beclometasone-nasal-spray/",
+"www.nhs.uk/medicines/beclometasone-nasal-spray/common-questions-about-beclometasone-nasal-spray/",
+"www.nhs.uk/medicines/beclometasone-nasal-spray/using-beclometasone-nasal-spray-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/beclometasone-nasal-spray/"
+},
+{
+"key": "www.nhs.uk/medicines/beclometasone-skin-creams/",
+"title": "Beclometasone skin cream (NHS medicine guide)",
+"slug": "nhs beclometasone-skin-creams",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/beclometasone-skin-creams/about-beclometasone-skin-cream/",
+"www.nhs.uk/medicines/beclometasone-skin-creams/who-can-and-cannot-use-beclometasone-skin-cream/",
+"www.nhs.uk/medicines/beclometasone-skin-creams/how-and-when-to-use-beclometasone-skin-cream/",
+"www.nhs.uk/medicines/beclometasone-skin-creams/side-effects-of-beclometasone-skin-cream/",
+"www.nhs.uk/medicines/beclometasone-skin-creams/pregnancy-breastfeeding-and-fertility-while-using-beclometasone-skin-cream/",
+"www.nhs.uk/medicines/beclometasone-skin-creams/common-questions-about-beclometasone-skin-cream/",
+"www.nhs.uk/medicines/beclometasone-skin-creams/using-beclometasone-skin-cream-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/beclometasone-skin-creams/"
+},
+{
+"key": "www.nhs.uk/medicines/bendroflumethiazide/",
+"title": "Bendroflumethiazide (NHS medicine guide)",
+"slug": "nhs bendroflumethiazide",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/bendroflumethiazide/about-bendroflumethiazide/",
+"www.nhs.uk/medicines/bendroflumethiazide/who-can-and-cannot-take-bendroflumethiazide/",
+"www.nhs.uk/medicines/bendroflumethiazide/how-and-when-to-take-bendroflumethiazide/",
+"www.nhs.uk/medicines/bendroflumethiazide/side-effects-of-bendroflumethiazide/",
+"www.nhs.uk/medicines/bendroflumethiazide/pregnancy-breastfeeding-and-fertility-while-taking-bendroflumethiazide/",
+"www.nhs.uk/medicines/bendroflumethiazide/taking-bendroflumethiazide-with-other-medicines-and-herbal-remedies/",
+"www.nhs.uk/medicines/bendroflumethiazide/common-questions-about-bendroflumethiazide/"
+],
+"source_url": "https://www.nhs.uk/medicines/bendroflumethiazide/"
+},
+{
+"key": "www.nhs.uk/medicines/benzydamine/",
+"title": "Benzydamine (NHS medicine guide)",
+"slug": "nhs benzydamine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/benzydamine/about-benzydamine/",
+"www.nhs.uk/medicines/benzydamine/who-can-and-cannot-use-benzydamine/",
+"www.nhs.uk/medicines/benzydamine/how-and-when-to-use-benzydamine/",
+"www.nhs.uk/medicines/benzydamine/side-effects-of-benzydamine/",
+"www.nhs.uk/medicines/benzydamine/pregnancy-breastfeeding-and-fertility-while-using-benzydamine/",
+"www.nhs.uk/medicines/benzydamine/common-questions-about-benzydamine/",
+"www.nhs.uk/medicines/benzydamine/using-benzydamine-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/benzydamine/"
+},
+{
+"key": "www.nhs.uk/medicines/betahistine/",
+"title": "Betahistine (NHS medicine guide)",
+"slug": "nhs betahistine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/betahistine/about-betahistine/",
+"www.nhs.uk/medicines/betahistine/who-can-and-cannot-take-betahistine/",
+"www.nhs.uk/medicines/betahistine/how-and-when-to-take-betahistine/",
+"www.nhs.uk/medicines/betahistine/side-effects-of-betahistine/",
+"www.nhs.uk/medicines/betahistine/pregnancy-breastfeeding-and-fertility-while-taking-betahistine/",
+"www.nhs.uk/medicines/betahistine/taking-betahistine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/betahistine/common-questions-about-betahistine/"
+],
+"source_url": "https://www.nhs.uk/medicines/betahistine/"
+},
+{
+"key": "www.nhs.uk/medicines/betamethasone-eyes-ears-and-nose/",
+"title": "Betamethasone for eyes, ears and nose (NHS medicine guide)",
+"slug": "nhs betamethasone-eyes-ears-and-nose",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/betamethasone-eyes-ears-and-nose/about-betamethasone-for-eyes-ears-and-nose/",
+"www.nhs.uk/medicines/betamethasone-eyes-ears-and-nose/who-can-and-cannot-use-betamethasone-for-eyes-ears-and-nose/",
+"www.nhs.uk/medicines/betamethasone-eyes-ears-and-nose/how-and-when-to-use-betamethasone-for-eyes-ears-and-nose/",
+"www.nhs.uk/medicines/betamethasone-eyes-ears-and-nose/side-effects-of-betamethasone-for-eyes-ears-and-nose/",
+"www.nhs.uk/medicines/betamethasone-eyes-ears-and-nose/pregnancy-breastfeeding-and-fertility-while-using-betamethasone-for-eyes-ears-and-nose/",
+"www.nhs.uk/medicines/betamethasone-eyes-ears-and-nose/common-questions-about-betamethasone-for-eyes-ears-and-nose/",
+"www.nhs.uk/medicines/betamethasone-eyes-ears-and-nose/using-betamethasone-for-eyes-ears-and-nose-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/betamethasone-eyes-ears-and-nose/"
+},
+{
+"key": "www.nhs.uk/medicines/betamethasone-skin/",
+"title": "Betamethasone for skin (NHS medicine guide)",
+"slug": "nhs betamethasone-skin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/betamethasone-skin/about-betamethasone-for-skin/",
+"www.nhs.uk/medicines/betamethasone-skin/who-can-and-cannot-use-betamethasone-for-skin/",
+"www.nhs.uk/medicines/betamethasone-skin/how-and-when-to-use-betamethasone-for-skin/",
+"www.nhs.uk/medicines/betamethasone-skin/side-effects-of-betamethasone-for-skin/",
+"www.nhs.uk/medicines/betamethasone-skin/pregnancy-breastfeeding-and-fertility-while-using-betamethasone-for-skin/",
+"www.nhs.uk/medicines/betamethasone-skin/common-questions-about-betamethasone-for-skin/",
+"www.nhs.uk/medicines/betamethasone-skin/using-betamethasone-for-skin-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/betamethasone-skin/"
+},
+{
+"key": "www.nhs.uk/medicines/bimatoprost/",
+"title": "Bimatoprost – a medicine for high pressure inside the eye and glaucoma (NHS medicine guide)",
+"slug": "nhs bimatoprost",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/bimatoprost/about-bimatoprost/",
+"www.nhs.uk/medicines/bimatoprost/who-can-and-cannot-use-bimatoprost/",
+"www.nhs.uk/medicines/bimatoprost/how-and-when-to-use-bimatoprost/",
+"www.nhs.uk/medicines/bimatoprost/side-effects-of-bimatoprost/",
+"www.nhs.uk/medicines/bimatoprost/pregnancy-breastfeeding-and-fertility-while-using-bimatoprost/",
+"www.nhs.uk/medicines/bimatoprost/common-questions-about-bimatoprost/",
+"www.nhs.uk/medicines/bimatoprost/using-bimatoprost-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/bimatoprost/"
+},
+{
+"key": "www.nhs.uk/medicines/insulin/biphasic-insulin/",
+"title": "Biphasic insulin (NHS medicine guide)",
+"slug": "nhs biphasic-insulin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/insulin/biphasic-insulin/about-biphasic-insulin/",
+"www.nhs.uk/medicines/insulin/biphasic-insulin/who-can-and-cannot-take-biphasic-insulin/",
+"www.nhs.uk/medicines/insulin/biphasic-insulin/how-and-when-to-take-biphasic-insulin/",
+"www.nhs.uk/medicines/insulin/biphasic-insulin/side-effects-of-biphasic-insulin/",
+"www.nhs.uk/medicines/insulin/biphasic-insulin/pregnancy-breastfeeding-and-fertility-while-taking-biphasic-insulin/",
+"www.nhs.uk/medicines/insulin/biphasic-insulin/taking-biphasic-insulin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/insulin/biphasic-insulin/common-questions-about-biphasic-insulin/",
+"www.nhs.uk/medicines/insulin/biphasic-insulin/storing-and-travelling-with-biphasic-insulin/"
+],
+"source_url": "https://www.nhs.uk/medicines/insulin/biphasic-insulin/"
+},
+{
+"key": "www.nhs.uk/medicines/bisacodyl/",
+"title": "Bisacodyl (NHS medicine guide)",
+"slug": "nhs bisacodyl",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/bisacodyl/about-bisacodyl/",
+"www.nhs.uk/medicines/bisacodyl/who-can-and-cannot-take-bisacodyl/",
+"www.nhs.uk/medicines/bisacodyl/how-and-when-to-take-or-use-bisacodyl/",
+"www.nhs.uk/medicines/bisacodyl/side-effects-of-bisacodyl/",
+"www.nhs.uk/medicines/bisacodyl/pregnancy-breastfeeding-and-fertility-while-taking-bisacodyl/",
+"www.nhs.uk/medicines/bisacodyl/taking-bisacodyl-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/bisacodyl/common-questions-about-bisacodyl/"
+],
+"source_url": "https://www.nhs.uk/medicines/bisacodyl/"
+},
+{
+"key": "www.nhs.uk/medicines/brinzolamide/",
+"title": "Brinzolamide – a medicine for high pressure inside the eye and glaucoma (NHS medicine guide)",
+"slug": "nhs brinzolamide",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/brinzolamide/about-brinzolamide/",
+"www.nhs.uk/medicines/brinzolamide/who-can-and-cannot-use-brinzolamide/",
+"www.nhs.uk/medicines/brinzolamide/how-and-when-to-use-brinzolamide/",
+"www.nhs.uk/medicines/brinzolamide/side-effects-of-brinzolamide/",
+"www.nhs.uk/medicines/brinzolamide/pregnancy-breastfeeding-and-fertility-while-using-brinzolamide/",
+"www.nhs.uk/medicines/brinzolamide/common-questions-about-brinzolamide/",
+"www.nhs.uk/medicines/brinzolamide/using-brinzolamide-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/brinzolamide/"
+},
+{
+"key": "www.nhs.uk/medicines/budesonide-inhalers/",
+"title": "Budesonide inhalers (NHS medicine guide)",
+"slug": "nhs budesonide-inhalers",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/budesonide-inhalers/about-budesonide-inhalers/",
+"www.nhs.uk/medicines/budesonide-inhalers/who-can-and-cannot-use-budesonide-inhalers/",
+"www.nhs.uk/medicines/budesonide-inhalers/how-and-when-to-use-budesonide-inhalers/",
+"www.nhs.uk/medicines/budesonide-inhalers/side-effects-of-budesonide-inhalers/",
+"www.nhs.uk/medicines/budesonide-inhalers/pregnancy-breastfeeding-and-fertility-while-using-budesonide-inhalers/",
+"www.nhs.uk/medicines/budesonide-inhalers/common-questions-about-budesonide-inhalers/",
+"www.nhs.uk/medicines/budesonide-inhalers/using-budesonide-inhalers-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/budesonide-inhalers/"
+},
+{
+"key": "www.nhs.uk/medicines/buprenorphine-for-pain/",
+"title": "Buprenorphine for pain (NHS medicine guide)",
+"slug": "nhs buprenorphine-for-pain",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/buprenorphine-for-pain/about-buprenorphine-for-pain/",
+"www.nhs.uk/medicines/buprenorphine-for-pain/who-can-and-cannot-use-buprenorphine-for-pain/",
+"www.nhs.uk/medicines/buprenorphine-for-pain/how-and-when-to-use-buprenorphine/",
+"www.nhs.uk/medicines/buprenorphine-for-pain/side-effects-of-buprenorphine/",
+"www.nhs.uk/medicines/buprenorphine-for-pain/pregnancy-breastfeeding-and-fertility-while-using-buprenorphine/",
+"www.nhs.uk/medicines/buprenorphine-for-pain/common-questions-about-buprenorphine/",
+"www.nhs.uk/medicines/buprenorphine-for-pain/using-buprenorphine-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/buprenorphine-for-pain/"
+},
+{
+"key": "www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/",
+"title": "Buscopan (NHS medicine guide)",
+"slug": "nhs buscopan-hyoscine-butylbromide",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/about-buscopan/",
+"www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/who-can-and-cannot-take-buscopan/",
+"www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/how-and-when-to-take-buscopan/",
+"www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/side-effects-of-buscopan/",
+"www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/pregnancy-breastfeeding-and-fertility-while-taking-buscopan/",
+"www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/taking-buscopan-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/common-questions-about-buscopan/"
+],
+"source_url": "https://www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/"
+},
+{
+"key": "www.nhs.uk/medicines/carbimazole/",
+"title": "Carbimazole (NHS medicine guide)",
+"slug": "nhs carbimazole",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/carbimazole/about-carbimazole/",
+"www.nhs.uk/medicines/carbimazole/who-can-and-cannot-take-carbimazole/",
+"www.nhs.uk/medicines/carbimazole/how-and-when-to-take-carbimazole/",
+"www.nhs.uk/medicines/carbimazole/side-effects-of-carbimazole/",
+"www.nhs.uk/medicines/carbimazole/pregnancy-breastfeeding-and-fertility-while-taking-carbimazole/",
+"www.nhs.uk/medicines/carbimazole/taking-carbimazole-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/carbimazole/common-questions-about-carbimazole/"
+],
+"source_url": "https://www.nhs.uk/medicines/carbimazole/"
+},
+{
+"key": "www.nhs.uk/medicines/carbocisteine/",
+"title": "Carbocisteine (NHS medicine guide)",
+"slug": "nhs carbocisteine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/carbocisteine/about-carbocisteine/",
+"www.nhs.uk/medicines/carbocisteine/who-can-and-cannot-take-carbocisteine/",
+"www.nhs.uk/medicines/carbocisteine/how-and-when-to-take-carbocisteine/",
+"www.nhs.uk/medicines/carbocisteine/side-effects-of-carbocisteine/",
+"www.nhs.uk/medicines/carbocisteine/pregnancy-breastfeeding-and-fertility-while-taking-carbocisteine/",
+"www.nhs.uk/medicines/carbocisteine/taking-carbocisteine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/carbocisteine/common-questions-about-carbocisteine/"
+],
+"source_url": "https://www.nhs.uk/medicines/carbocisteine/"
+},
+{
+"key": "www.nhs.uk/medicines/carmellose-sodium/",
+"title": "Carmellose sodium eye drops (NHS medicine guide)",
+"slug": "nhs carmellose-sodium",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/carmellose-sodium/about-carmellose-sodium-eye-drops/",
+"www.nhs.uk/medicines/carmellose-sodium/who-can-and-cannot-use-carmellose-sodium-eye-drops/",
+"www.nhs.uk/medicines/carmellose-sodium/how-and-when-to-use-carmellose-sodium-eye-drops/",
+"www.nhs.uk/medicines/carmellose-sodium/side-effects-of-carmellose-sodium-eye-drops/",
+"www.nhs.uk/medicines/carmellose-sodium/pregnancy-breastfeeding-and-fertility-while-using-carmellose-sodium-eye-drops/",
+"www.nhs.uk/medicines/carmellose-sodium/common-questions-about-carmellose-sodium-eye-drops/",
+"www.nhs.uk/medicines/carmellose-sodium/using-carmellose-sodium-eye-drops-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/carmellose-sodium/"
+},
+{
+"key": "www.nhs.uk/medicines/carvedilol/",
+"title": "Carvedilol (NHS medicine guide)",
+"slug": "nhs carvedilol",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/carvedilol/about-carvedilol/",
+"www.nhs.uk/medicines/carvedilol/who-can-and-cannot-take-carvedilol/",
+"www.nhs.uk/medicines/carvedilol/how-and-when-to-take-carvedilol/",
+"www.nhs.uk/medicines/carvedilol/side-effects-of-carvedilol/",
+"www.nhs.uk/medicines/carvedilol/pregnancy-breastfeeding-and-fertility-while-taking-carvedilol/",
+"www.nhs.uk/medicines/carvedilol/taking-carvedilol-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/carvedilol/common-questions-about-carvedilol/"
+],
+"source_url": "https://www.nhs.uk/medicines/carvedilol/"
+},
+{
+"key": "www.nhs.uk/medicines/cefalexin/",
+"title": "Cefalexin (NHS medicine guide)",
+"slug": "nhs cefalexin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/cefalexin/about-cefalexin/",
+"www.nhs.uk/medicines/cefalexin/who-can-and-cannot-take-cefalexin/",
+"www.nhs.uk/medicines/cefalexin/how-and-when-to-take-cefalexin/",
+"www.nhs.uk/medicines/cefalexin/side-effects-of-cefalexin/",
+"www.nhs.uk/medicines/cefalexin/pregnancy-breastfeeding-and-fertility-while-taking-cefalexin/",
+"www.nhs.uk/medicines/cefalexin/taking-cefalexin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/cefalexin/common-questions-about-cefalexin/"
+],
+"source_url": "https://www.nhs.uk/medicines/cefalexin/"
+},
+{
+"key": "www.nhs.uk/medicines/cetirizine/",
+"title": "Cetirizine (NHS medicine guide)",
+"slug": "nhs cetirizine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/cetirizine/about-cetirizine/",
+"www.nhs.uk/medicines/cetirizine/who-can-and-cannot-take-cetirizine/",
+"www.nhs.uk/medicines/cetirizine/how-and-when-to-take-cetirizine/",
+"www.nhs.uk/medicines/cetirizine/side-effects-of-cetirizine/",
+"www.nhs.uk/medicines/cetirizine/pregnancy-breastfeeding-and-fertility-while-taking-cetirizine/",
+"www.nhs.uk/medicines/cetirizine/taking-cetirizine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/cetirizine/common-questions-about-cetirizine/"
+],
+"source_url": "https://www.nhs.uk/medicines/cetirizine/"
+},
+{
+"key": "www.nhs.uk/medicines/chloramphenicol/",
+"title": "Chloramphenicol (NHS medicine guide)",
+"slug": "nhs chloramphenicol",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/chloramphenicol/about-chloramphenicol/",
+"www.nhs.uk/medicines/chloramphenicol/who-can-and-cannot-use-chloramphenicol/",
+"www.nhs.uk/medicines/chloramphenicol/how-and-when-to-use-chloramphenicol/",
+"www.nhs.uk/medicines/chloramphenicol/side-effects-of-chloramphenicol/",
+"www.nhs.uk/medicines/chloramphenicol/pregnancy-breastfeeding-and-fertility-while-taking-chloramphenicol/",
+"www.nhs.uk/medicines/chloramphenicol/common-questions-about-chloramphenicol/",
+"www.nhs.uk/medicines/chloramphenicol/using-chloramphenicol-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/chloramphenicol/"
+},
+{
+"key": "www.nhs.uk/medicines/chlorhexidine/",
+"title": "Chlorhexidine (NHS medicine guide)",
+"slug": "nhs chlorhexidine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/chlorhexidine/about-chlorhexidine/",
+"www.nhs.uk/medicines/chlorhexidine/who-can-and-cannot-use-chlorhexidine/",
+"www.nhs.uk/medicines/chlorhexidine/how-and-when-to-use-chlorhexidine/",
+"www.nhs.uk/medicines/chlorhexidine/side-effects-of-chlorhexidine/",
+"www.nhs.uk/medicines/chlorhexidine/pregnancy-breastfeeding-and-fertility-while-using-chlorhexidine/",
+"www.nhs.uk/medicines/chlorhexidine/common-questions-about-chlorhexidine/",
+"www.nhs.uk/medicines/chlorhexidine/using-chlorhexidine-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/chlorhexidine/"
+},
+{
+"key": "www.nhs.uk/medicines/chlorphenamine-including-piriton/",
+"title": "Chlorphenamine (NHS medicine guide)",
+"slug": "nhs chlorphenamine-including-piriton",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/chlorphenamine-including-piriton/about-chlorphenamine/",
+"www.nhs.uk/medicines/chlorphenamine-including-piriton/who-can-and-cannot-take-chlorphenamine/",
+"www.nhs.uk/medicines/chlorphenamine-including-piriton/how-and-when-to-take-chlorphenamine/",
+"www.nhs.uk/medicines/chlorphenamine-including-piriton/side-effects-of-chlorphenamine/",
+"www.nhs.uk/medicines/chlorphenamine-including-piriton/pregnancy-breastfeeding-and-fertility-while-taking-chlorphenamine/",
+"www.nhs.uk/medicines/chlorphenamine-including-piriton/taking-chlorphenamine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/chlorphenamine-including-piriton/common-questions-about-chlorphenamine/"
+],
+"source_url": "https://www.nhs.uk/medicines/chlorphenamine-including-piriton/"
+},
+{
+"key": "www.nhs.uk/medicines/ciprofloxacin/",
+"title": "Ciprofloxacin (NHS medicine guide)",
+"slug": "nhs ciprofloxacin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/ciprofloxacin/about-ciprofloxacin/",
+"www.nhs.uk/medicines/ciprofloxacin/who-can-and-cannot-take-or-use-ciprofloxacin/",
+"www.nhs.uk/medicines/ciprofloxacin/how-and-when-to-take-or-use-ciprofloxacin/",
+"www.nhs.uk/medicines/ciprofloxacin/side-effects-of-ciprofloxacin/",
+"www.nhs.uk/medicines/ciprofloxacin/pregnancy-breastfeeding-and-fertility-while-taking-or-using-ciprofloxacin/",
+"www.nhs.uk/medicines/ciprofloxacin/taking-or-using-ciprofloxacin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/ciprofloxacin/common-questions-about-ciprofloxacin/"
+],
+"source_url": "https://www.nhs.uk/medicines/ciprofloxacin/"
+},
+{
+"key": "www.nhs.uk/medicines/clarithromycin/",
+"title": "Clarithromycin (NHS medicine guide)",
+"slug": "nhs clarithromycin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/clarithromycin/about-clarithromycin/",
+"www.nhs.uk/medicines/clarithromycin/who-can-and-cannot-take-clarithromycin/",
+"www.nhs.uk/medicines/clarithromycin/how-and-when-to-take-clarithromycin/",
+"www.nhs.uk/medicines/clarithromycin/side-effects-of-clarithromycin/",
+"www.nhs.uk/medicines/clarithromycin/pregnancy-breastfeeding-and-fertility-while-taking-clarithromycin/",
+"www.nhs.uk/medicines/clarithromycin/taking-clarithromycin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/clarithromycin/common-questions-about-clarithromycin/"
+],
+"source_url": "https://www.nhs.uk/medicines/clarithromycin/"
+},
+{
+"key": "www.nhs.uk/medicines/clonazepam/",
+"title": "Clonazepam (NHS medicine guide)",
+"slug": "nhs clonazepam",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/clonazepam/about-clonazepam/",
+"www.nhs.uk/medicines/clonazepam/who-can-and-cannot-take-clonazepam/",
+"www.nhs.uk/medicines/clonazepam/how-and-when-to-take-clonazepam/",
+"www.nhs.uk/medicines/clonazepam/side-effects-of-clonazepam/",
+"www.nhs.uk/medicines/clonazepam/pregnancy-breastfeeding-and-fertility-while-taking-clonazepam/",
+"www.nhs.uk/medicines/clonazepam/taking-clonazepam-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/clonazepam/common-questions-about-clonazepam/"
+],
+"source_url": "https://www.nhs.uk/medicines/clonazepam/"
+},
+{
+"key": "www.nhs.uk/medicines/clonidine/",
+"title": "Clonidine (NHS medicine guide)",
+"slug": "nhs clonidine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/clonidine/about-clonidine/",
+"www.nhs.uk/medicines/clonidine/who-can-and-cannot-take-clonidine/",
+"www.nhs.uk/medicines/clonidine/how-and-when-to-take-clonidine/",
+"www.nhs.uk/medicines/clonidine/side-effects-of-clonidine/",
+"www.nhs.uk/medicines/clonidine/pregnancy-breastfeeding-and-fertility-while-taking-clonidine/",
+"www.nhs.uk/medicines/clonidine/taking-clonidine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/clonidine/common-questions-about-clonidine/"
+],
+"source_url": "https://www.nhs.uk/medicines/clonidine/"
+},
+{
+"key": "www.nhs.uk/medicines/clopidogrel/",
+"title": "Clopidogrel (NHS medicine guide)",
+"slug": "nhs clopidogrel",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/clopidogrel/about-clopidogrel/",
+"www.nhs.uk/medicines/clopidogrel/who-can-and-cannot-take-clopidogrel/",
+"www.nhs.uk/medicines/clopidogrel/how-and-when-to-take-clopidogrel/",
+"www.nhs.uk/medicines/clopidogrel/side-effects-of-clopidogrel/",
+"www.nhs.uk/medicines/clopidogrel/pregnancy-breastfeeding-and-fertility-while-taking-clopidogrel/",
+"www.nhs.uk/medicines/clopidogrel/taking-clopidogrel-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/clopidogrel/common-questions-about-clopidogrel/"
+],
+"source_url": "https://www.nhs.uk/medicines/clopidogrel/"
+},
+{
+"key": "www.nhs.uk/medicines/co-codamol-for-adults/",
+"title": "Co codamol for adults (NHS medicine guide)",
+"slug": "nhs co-codamol-for-adults",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/co-codamol-for-adults/about-co-codamol-for-adults/",
+"www.nhs.uk/medicines/co-codamol-for-adults/who-can-and-cannot-take-co-codamol/",
+"www.nhs.uk/medicines/co-codamol-for-adults/how-and-when-to-take-co-codamol-for-adults/",
+"www.nhs.uk/medicines/co-codamol-for-adults/side-effects-of-co-codamol-for-adults/",
+"www.nhs.uk/medicines/co-codamol-for-adults/pregnancy-breastfeeding-and-fertility-while-taking-co-codamol-for-adults/",
+"www.nhs.uk/medicines/co-codamol-for-adults/taking-co-codamol-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/co-codamol-for-adults/common-questions-about-co-codamol-for-adults/"
+],
+"source_url": "https://www.nhs.uk/medicines/co-codamol-for-adults/"
+},
+{
+"key": "www.nhs.uk/medicines/co-codamol-for-children/",
+"title": "Co codamol for children (NHS medicine guide)",
+"slug": "nhs co-codamol-for-children",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/co-codamol-for-children/about-co-codamol-for-children/",
+"www.nhs.uk/medicines/co-codamol-for-children/who-can-and-cannot-take-co-codamol/",
+"www.nhs.uk/medicines/co-codamol-for-children/how-and-when-to-give-co-codamol-for-children/",
+"www.nhs.uk/medicines/co-codamol-for-children/side-effects-of-co-codamol-for-children/",
+"www.nhs.uk/medicines/co-codamol-for-children/taking-co-codamol-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/co-codamol-for-children/common-questions-about-co-codamol-for-children/"
+],
+"source_url": "https://www.nhs.uk/medicines/co-codamol-for-children/"
+},
+{
+"key": "www.nhs.uk/medicines/co-beneldopa/",
+"title": "Co-beneldopa – a medicine for symptoms of Parkinson (NHS medicine guide)",
+"slug": "nhs co-beneldopa",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/co-beneldopa/about-co-beneldopa/",
+"www.nhs.uk/medicines/co-beneldopa/who-can-and-cannot-take-co-beneldopa/",
+"www.nhs.uk/medicines/co-beneldopa/how-and-when-to-take-co-beneldopa/",
+"www.nhs.uk/medicines/co-beneldopa/side-effects-of-co-beneldopa/",
+"www.nhs.uk/medicines/co-beneldopa/pregnancy-breastfeeding-and-fertility-while-taking-co-beneldopa/",
+"www.nhs.uk/medicines/co-beneldopa/taking-co-beneldopa-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/co-beneldopa/common-questions-about-co-beneldopa/"
+],
+"source_url": "https://www.nhs.uk/medicines/co-beneldopa/"
+},
+{
+"key": "www.nhs.uk/medicines/co-dydramol/",
+"title": "Co-dydramol (NHS medicine guide)",
+"slug": "nhs co-dydramol",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/co-dydramol/about-co-dydramol/",
+"www.nhs.uk/medicines/co-dydramol/who-can-and-cannot-take-co-dydramol/",
+"www.nhs.uk/medicines/co-dydramol/how-and-when-to-take-co-dydramol/",
+"www.nhs.uk/medicines/co-dydramol/side-effects-of-co-dydramol/",
+"www.nhs.uk/medicines/co-dydramol/pregnancy-breastfeeding-and-fertility-while-taking-co-dydramol/",
+"www.nhs.uk/medicines/co-dydramol/taking-co-dydramol-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/co-dydramol/common-questions-about-co-dydramol/"
+],
+"source_url": "https://www.nhs.uk/medicines/co-dydramol/"
+},
+{
+"key": "www.nhs.uk/medicines/colecalciferol/",
+"title": "Colecalciferol (NHS medicine guide)",
+"slug": "nhs colecalciferol",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/colecalciferol/about-colecalciferol/",
+"www.nhs.uk/medicines/colecalciferol/who-can-and-cannot-take-colecalciferol/",
+"www.nhs.uk/medicines/colecalciferol/how-and-when-to-take-colecalciferol/",
+"www.nhs.uk/medicines/colecalciferol/side-effects-of-colecalciferol/",
+"www.nhs.uk/medicines/colecalciferol/pregnancy-breastfeeding-and-fertility-while-taking-colecalciferol/",
+"www.nhs.uk/medicines/colecalciferol/taking-colecalciferol-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/colecalciferol/common-questions-about-colecalciferol/"
+],
+"source_url": "https://www.nhs.uk/medicines/colecalciferol/"
+},
+{
+"key": "www.nhs.uk/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/",
+"title": "Continuous combined HRT (NHS medicine guide)",
+"slug": "nhs continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/about-continuous-combined-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/who-can-and-cannot-take-continuous-combined-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/how-and-when-to-take-continuous-combined-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/side-effects-of-continuous-combined-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/pregnancy-breastfeeding-and-fertility-while-taking-continuous-combined-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/taking-continuous-combined-hrt-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/common-questions-about-continuous-combined-hrt/"
+],
+"source_url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/"
+},
+{
+"key": "www.nhs.uk/medicines/cyanocobalamin/",
+"title": "Cyanocobalamin – vitamin B12 used for vitamin B12 deficiency anaemia (NHS medicine guide)",
+"slug": "nhs cyanocobalamin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/cyanocobalamin/about-cyanocobalamin/",
+"www.nhs.uk/medicines/cyanocobalamin/who-can-and-cannot-take-cyanocobalamin/",
+"www.nhs.uk/medicines/cyanocobalamin/how-and-when-to-take-cyanocobalamin/",
+"www.nhs.uk/medicines/cyanocobalamin/side-effects-of-cyanocobalamin/",
+"www.nhs.uk/medicines/cyanocobalamin/pregnancy-breastfeeding-and-fertility-while-taking-cyanocobalamin/",
+"www.nhs.uk/medicines/cyanocobalamin/taking-cyanocobalamin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/cyanocobalamin/common-questions-about-cyanocobalamin/"
+],
+"source_url": "https://www.nhs.uk/medicines/cyanocobalamin/"
+},
+{
+"key": "www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/",
+"title": "Depo-Provera (medroxyprogesterone contraceptive injections) (NHS medicine guide)",
+"slug": "nhs contraceptive-injections-medroxyprogesterone",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/about-medroxyprogesterone-contraceptive-injections/",
+"www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/who-can-and-cannot-have-medroxyprogesterone-contraceptive-injections/",
+"www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/how-and-when-to-have-medroxyprogesterone-contraceptive-injections/",
+"www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/side-effects-of-medroxyprogesterone-contraceptive-injections/",
+"www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/pregnancy-and-breastfeeding-while-having-medroxyprogesterone-contraceptive-injections/",
+"www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/common-questions-about-medroxyprogesterone-contraceptive-injections/",
+"www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/having-medroxyprogesterone-contraceptive-injections-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/"
+},
+{
+"key": "www.nhs.uk/medicines/dexamethasone-eye-drops/",
+"title": "Dexamethasone eye drops (NHS medicine guide)",
+"slug": "nhs dexamethasone-eye-drops",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/dexamethasone-eye-drops/about-dexamethasone-eye-drops/",
+"www.nhs.uk/medicines/dexamethasone-eye-drops/who-can-and-cannot-use-dexamethasone-eye-drops/",
+"www.nhs.uk/medicines/dexamethasone-eye-drops/how-and-when-to-use-dexamethasone-eye-drops/",
+"www.nhs.uk/medicines/dexamethasone-eye-drops/side-effects-of-dexamethasone-eye-drops/",
+"www.nhs.uk/medicines/dexamethasone-eye-drops/pregnancy-breastfeeding-and-fertility-while-using-dexamethasone-eye-drops/",
+"www.nhs.uk/medicines/dexamethasone-eye-drops/common-questions-about-dexamethasone-eye-drops/",
+"www.nhs.uk/medicines/dexamethasone-eye-drops/using-dexamethasone-eye-drops-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/dexamethasone-eye-drops/"
+},
+{
+"key": "www.nhs.uk/medicines/dexamethasone-tablets-and-liquid/",
+"title": "Dexamethasone tablets and liquid (NHS medicine guide)",
+"slug": "nhs dexamethasone-tablets-and-liquid",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/dexamethasone-tablets-and-liquid/about-dexamethasone-tablets-and-liquid/",
+"www.nhs.uk/medicines/dexamethasone-tablets-and-liquid/who-can-and-cannot-take-dexamethasone-tablets-and-liquid/",
+"www.nhs.uk/medicines/dexamethasone-tablets-and-liquid/how-and-when-to-take-dexamethasone-tablets-and-liquid/",
+"www.nhs.uk/medicines/dexamethasone-tablets-and-liquid/side-effects-of-dexamethasone-tablets-and-liquid/",
+"www.nhs.uk/medicines/dexamethasone-tablets-and-liquid/pregnancy-breastfeeding-and-fertility-while-taking-dexamethasone-tablets-and-liquid/",
+"www.nhs.uk/medicines/dexamethasone-tablets-and-liquid/taking-dexamethasone-tablets-and-liquid-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/dexamethasone-tablets-and-liquid/common-questions-about-dexamethasone-tablets-and-liquid/"
+],
+"source_url": "https://www.nhs.uk/medicines/dexamethasone-tablets-and-liquid/"
+},
+{
+"key": "www.nhs.uk/medicines/diclofenac/",
+"title": "Diclofenac (NHS medicine guide)",
+"slug": "nhs diclofenac",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/diclofenac/about-diclofenac/",
+"www.nhs.uk/medicines/diclofenac/who-can-and-cannot-take-or-use-diclofenac/",
+"www.nhs.uk/medicines/diclofenac/how-and-when-to-take-or-use-diclofenac/",
+"www.nhs.uk/medicines/diclofenac/side-effects-of-diclofenac/",
+"www.nhs.uk/medicines/diclofenac/pregnancy-breastfeeding-and-fertility-while-taking-or-using-diclofenac/",
+"www.nhs.uk/medicines/diclofenac/taking-diclofenac-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/diclofenac/common-questions-about-diclofenac/"
+],
+"source_url": "https://www.nhs.uk/medicines/diclofenac/"
+},
+{
+"key": "www.nhs.uk/medicines/digoxin/",
+"title": "Digoxin (NHS medicine guide)",
+"slug": "nhs digoxin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/digoxin/about-digoxin/",
+"www.nhs.uk/medicines/digoxin/who-can-and-cannot-take-digoxin/",
+"www.nhs.uk/medicines/digoxin/how-and-when-to-take-digoxin/",
+"www.nhs.uk/medicines/digoxin/side-effects-of-digoxin/",
+"www.nhs.uk/medicines/digoxin/pregnancy-breastfeeding-and-fertility-while-taking-digoxin/",
+"www.nhs.uk/medicines/digoxin/taking-digoxin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/digoxin/common-questions-about-digoxin/"
+],
+"source_url": "https://www.nhs.uk/medicines/digoxin/"
+},
+{
+"key": "www.nhs.uk/medicines/diltiazem/",
+"title": "Diltiazem (NHS medicine guide)",
+"slug": "nhs diltiazem",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/diltiazem/about-diltiazem/",
+"www.nhs.uk/medicines/diltiazem/who-can-and-cannot-take-diltiazem/",
+"www.nhs.uk/medicines/diltiazem/how-and-when-to-take-diltiazem/",
+"www.nhs.uk/medicines/diltiazem/side-effects-of-diltiazem/",
+"www.nhs.uk/medicines/diltiazem/pregnancy-breastfeeding-and-fertility-while-taking-diltiazem/",
+"www.nhs.uk/medicines/diltiazem/taking-diltiazem-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/diltiazem/common-questions-about-diltiazem/"
+],
+"source_url": "https://www.nhs.uk/medicines/diltiazem/"
+},
+{
+"key": "www.nhs.uk/medicines/diphenhydramine/",
+"title": "Diphenhydramine (NHS medicine guide)",
+"slug": "nhs diphenhydramine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/diphenhydramine/about-diphenhydramine/",
+"www.nhs.uk/medicines/diphenhydramine/who-can-and-cannot-take-diphenhydramine/",
+"www.nhs.uk/medicines/diphenhydramine/how-and-when-to-take-or-use-diphenhydramine/",
+"www.nhs.uk/medicines/diphenhydramine/side-effects-of-diphenhydramine/",
+"www.nhs.uk/medicines/diphenhydramine/pregnancy-breastfeeding-and-fertility-while-taking-or-using-diphenhydramine/",
+"www.nhs.uk/medicines/diphenhydramine/taking-or-using-diphenhydramine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/diphenhydramine/common-questions-about-diphenhydramine/"
+],
+"source_url": "https://www.nhs.uk/medicines/diphenhydramine/"
+},
+{
+"key": "www.nhs.uk/medicines/dipyridamole/",
+"title": "Dipyridamole (NHS medicine guide)",
+"slug": "nhs dipyridamole",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/dipyridamole/about-dipyridamole/",
+"www.nhs.uk/medicines/dipyridamole/who-can-and-cannot-take-dipyridamole/",
+"www.nhs.uk/medicines/dipyridamole/how-and-when-to-take-dipyridamole/",
+"www.nhs.uk/medicines/dipyridamole/side-effects-of-dipyridamole/",
+"www.nhs.uk/medicines/dipyridamole/pregnancy-breastfeeding-and-fertility-while-taking-dipyridamole/",
+"www.nhs.uk/medicines/dipyridamole/taking-dipyridamole-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/dipyridamole/common-questions-about-dipyridamole/"
+],
+"source_url": "https://www.nhs.uk/medicines/dipyridamole/"
+},
+{
+"key": "www.nhs.uk/medicines/docusate/",
+"title": "Docusate (NHS medicine guide)",
+"slug": "nhs docusate",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/docusate/about-docusate/",
+"www.nhs.uk/medicines/docusate/who-can-and-cannot-take-or-use-docusate/",
+"www.nhs.uk/medicines/docusate/how-and-when-to-take-or-use-docusate/",
+"www.nhs.uk/medicines/docusate/side-effects-of-docusate/",
+"www.nhs.uk/medicines/docusate/pregnancy-breastfeeding-and-fertility-while-taking-or-using-docusate/",
+"www.nhs.uk/medicines/docusate/taking-or-using-docusate-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/docusate/common-questions-about-docusate/"
+],
+"source_url": "https://www.nhs.uk/medicines/docusate/"
+},
+{
+"key": "www.nhs.uk/medicines/domperidone/",
+"title": "Domperidone (NHS medicine guide)",
+"slug": "nhs domperidone",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/domperidone/about-domperidone/",
+"www.nhs.uk/medicines/domperidone/who-can-and-cannot-take-domperidone/",
+"www.nhs.uk/medicines/domperidone/how-and-when-to-take-domperidone/",
+"www.nhs.uk/medicines/domperidone/side-effects-of-domperidone/",
+"www.nhs.uk/medicines/domperidone/pregnancy-breastfeeding-and-fertility-while-taking-domperidone/",
+"www.nhs.uk/medicines/domperidone/taking-domperidone-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/domperidone/common-questions-about-domperidone/"
+],
+"source_url": "https://www.nhs.uk/medicines/domperidone/"
+},
+{
+"key": "www.nhs.uk/medicines/donepezil/",
+"title": "Donepezil (NHS medicine guide)",
+"slug": "nhs donepezil",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/donepezil/about-donepezil/",
+"www.nhs.uk/medicines/donepezil/who-can-and-cannot-take-donepezil/",
+"www.nhs.uk/medicines/donepezil/how-and-when-to-take-donepezil/",
+"www.nhs.uk/medicines/donepezil/side-effects-of-donepezil/",
+"www.nhs.uk/medicines/donepezil/pregnancy-breastfeeding-and-fertility-while-taking-donepezil/",
+"www.nhs.uk/medicines/donepezil/taking-donepezil-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/donepezil/common-questions-about-donepezil/"
+],
+"source_url": "https://www.nhs.uk/medicines/donepezil/"
+},
+{
+"key": "www.nhs.uk/medicines/empagliflozin/",
+"title": "Empagliflozin (NHS medicine guide)",
+"slug": "nhs empagliflozin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/empagliflozin/about-empagliflozin/",
+"www.nhs.uk/medicines/empagliflozin/who-can-and-cannot-take-empagliflozin/",
+"www.nhs.uk/medicines/empagliflozin/how-and-when-to-take-empagliflozin/",
+"www.nhs.uk/medicines/empagliflozin/side-effects-of-empagliflozin/",
+"www.nhs.uk/medicines/empagliflozin/pregnancy-breastfeeding-and-fertility-while-taking-empagliflozin/",
+"www.nhs.uk/medicines/empagliflozin/taking-empagliflozin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/empagliflozin/common-questions-about-empagliflozin/"
+],
+"source_url": "https://www.nhs.uk/medicines/empagliflozin/"
+},
+{
+"key": "www.nhs.uk/medicines/eplerenone/",
+"title": "Eplerenone (NHS medicine guide)",
+"slug": "nhs eplerenone",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/eplerenone/about-eplerenone/",
+"www.nhs.uk/medicines/eplerenone/who-can-and-cannot-take-eplerenone/",
+"www.nhs.uk/medicines/eplerenone/how-and-when-to-take-eplerenone/",
+"www.nhs.uk/medicines/eplerenone/side-effects-of-eplerenone/",
+"www.nhs.uk/medicines/eplerenone/pregnancy-breastfeeding-and-fertility-while-taking-eplerenone/",
+"www.nhs.uk/medicines/eplerenone/taking-eplerenone-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/eplerenone/common-questions-about-eplerenone/"
+],
+"source_url": "https://www.nhs.uk/medicines/eplerenone/"
+},
+{
+"key": "www.nhs.uk/medicines/esomeprazole/",
+"title": "Esomeprazole (NHS medicine guide)",
+"slug": "nhs esomeprazole",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/esomeprazole/about-esomeprazole/",
+"www.nhs.uk/medicines/esomeprazole/who-can-and-cannot-take-esomeprazole/",
+"www.nhs.uk/medicines/esomeprazole/how-and-when-to-take-esomeprazole/",
+"www.nhs.uk/medicines/esomeprazole/side-effects-of-esomeprazole/",
+"www.nhs.uk/medicines/esomeprazole/pregnancy-breastfeeding-and-fertility-while-taking-esomeprazole/",
+"www.nhs.uk/medicines/esomeprazole/taking-esomeprazole-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/esomeprazole/common-questions-about-esomeprazole/"
+],
+"source_url": "https://www.nhs.uk/medicines/esomeprazole/"
+},
+{
+"key": "www.nhs.uk/medicines/ezetimibe/",
+"title": "Ezetimibe (NHS medicine guide)",
+"slug": "nhs ezetimibe",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/ezetimibe/about-ezetimibe/",
+"www.nhs.uk/medicines/ezetimibe/who-can-and-cannot-take-ezetimibe/",
+"www.nhs.uk/medicines/ezetimibe/how-and-when-to-take-ezetimibe/",
+"www.nhs.uk/medicines/ezetimibe/side-effects-of-ezetimibe/",
+"www.nhs.uk/medicines/ezetimibe/pregnancy-breastfeeding-and-fertility-while-taking-ezetimibe/",
+"www.nhs.uk/medicines/ezetimibe/taking-ezetimibe-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/ezetimibe/common-questions-about-ezetimibe/"
+],
+"source_url": "https://www.nhs.uk/medicines/ezetimibe/"
+},
+{
+"key": "www.nhs.uk/medicines/fentanyl/",
+"title": "Fentanyl (NHS medicine guide)",
+"slug": "nhs fentanyl",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/fentanyl/about-fentanyl/",
+"www.nhs.uk/medicines/fentanyl/who-can-and-cannot-use-fentanyl/",
+"www.nhs.uk/medicines/fentanyl/how-and-when-to-use-fentanyl/",
+"www.nhs.uk/medicines/fentanyl/side-effects-of-fentanyl/",
+"www.nhs.uk/medicines/fentanyl/pregnancy-breastfeeding-and-fertility-while-using-fentanyl/",
+"www.nhs.uk/medicines/fentanyl/common-questions-about-fentanyl/",
+"www.nhs.uk/medicines/fentanyl/using-fentanyl-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/fentanyl/"
+},
+{
+"key": "www.nhs.uk/medicines/ferrous-sulfate/",
+"title": "Ferrous sulfate (NHS medicine guide)",
+"slug": "nhs ferrous-sulfate",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/ferrous-sulfate/about-ferrous-sulfate/",
+"www.nhs.uk/medicines/ferrous-sulfate/who-can-and-cannot-take-ferrous-sulfate/",
+"www.nhs.uk/medicines/ferrous-sulfate/how-and-when-to-take-ferrous-sulfate/",
+"www.nhs.uk/medicines/ferrous-sulfate/side-effects-of-ferrous-sulfate/",
+"www.nhs.uk/medicines/ferrous-sulfate/pregnancy-breastfeeding-and-fertility-while-taking-ferrous-sulfate/",
+"www.nhs.uk/medicines/ferrous-sulfate/taking-ferrous-sulfate-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/ferrous-sulfate/common-questions-about-ferrous-sulfate/"
+],
+"source_url": "https://www.nhs.uk/medicines/ferrous-sulfate/"
+},
+{
+"key": "www.nhs.uk/medicines/fexofenadine/",
+"title": "Fexofenadine (NHS medicine guide)",
+"slug": "nhs fexofenadine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/fexofenadine/about-fexofenadine/",
+"www.nhs.uk/medicines/fexofenadine/who-can-and-cannot-take-fexofenadine/",
+"www.nhs.uk/medicines/fexofenadine/how-and-when-to-take-fexofenadine/",
+"www.nhs.uk/medicines/fexofenadine/side-effects-of-fexofenadine/",
+"www.nhs.uk/medicines/fexofenadine/pregnancy-breastfeeding-and-fertility-while-taking-fexofenadine/",
+"www.nhs.uk/medicines/fexofenadine/taking-fexofenadine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/fexofenadine/common-questions-about-fexofenadine/"
+],
+"source_url": "https://www.nhs.uk/medicines/fexofenadine/"
+},
+{
+"key": "www.nhs.uk/medicines/finasteride/",
+"title": "Finasteride (NHS medicine guide)",
+"slug": "nhs finasteride",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/finasteride/about-finasteride/",
+"www.nhs.uk/medicines/finasteride/who-can-and-cannot-take-finasteride/",
+"www.nhs.uk/medicines/finasteride/how-and-when-to-take-finasteride/",
+"www.nhs.uk/medicines/finasteride/side-effects-of-finasteride/",
+"www.nhs.uk/medicines/finasteride/taking-finasteride-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/finasteride/common-questions-about-finasteride/",
+"www.nhs.uk/medicines/finasteride/fertility-and-pregnancy-while-taking-finasteride/"
+],
+"source_url": "https://www.nhs.uk/medicines/finasteride/"
+},
+{
+"key": "www.nhs.uk/medicines/flucloxacillin/",
+"title": "Flucloxacillin (NHS medicine guide)",
+"slug": "nhs flucloxacillin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/flucloxacillin/about-flucloxacillin/",
+"www.nhs.uk/medicines/flucloxacillin/who-can-and-cannot-take-flucloxacillin/",
+"www.nhs.uk/medicines/flucloxacillin/how-and-when-to-take-flucloxacillin/",
+"www.nhs.uk/medicines/flucloxacillin/side-effects-of-flucloxacillin/",
+"www.nhs.uk/medicines/flucloxacillin/pregnancy-breastfeeding-and-fertility-while-taking-flucloxacillin/",
+"www.nhs.uk/medicines/flucloxacillin/taking-flucloxacillin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/flucloxacillin/common-questions-about-flucloxacillin/"
+],
+"source_url": "https://www.nhs.uk/medicines/flucloxacillin/"
+},
+{
+"key": "www.nhs.uk/medicines/fluconazole/",
+"title": "Fluconazole (NHS medicine guide)",
+"slug": "nhs fluconazole",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/fluconazole/about-fluconazole/",
+"www.nhs.uk/medicines/fluconazole/who-can-and-cannot-take-fluconazole/",
+"www.nhs.uk/medicines/fluconazole/how-and-when-to-take-fluconazole/",
+"www.nhs.uk/medicines/fluconazole/side-effects-of-fluconazole/",
+"www.nhs.uk/medicines/fluconazole/pregnancy-breastfeeding-and-fertility-while-taking-fluconazole/",
+"www.nhs.uk/medicines/fluconazole/taking-fluconazole-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/fluconazole/common-questions-about-fluconazole/"
+],
+"source_url": "https://www.nhs.uk/medicines/fluconazole/"
+},
+{
+"key": "www.nhs.uk/medicines/fluticasone-inhalers/",
+"title": "Fluticasone inhalers (NHS medicine guide)",
+"slug": "nhs fluticasone-inhalers",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/fluticasone-inhalers/about-inhaled-fluticasone/",
+"www.nhs.uk/medicines/fluticasone-inhalers/who-can-and-cannot-use-inhaled-fluticasone/",
+"www.nhs.uk/medicines/fluticasone-inhalers/how-and-when-to-use-inhaled-fluticasone/",
+"www.nhs.uk/medicines/fluticasone-inhalers/side-effects-of-inhaled-fluticasone/",
+"www.nhs.uk/medicines/fluticasone-inhalers/pregnancy-breastfeeding-and-fertility-while-using-inhaled-fluticasone/",
+"www.nhs.uk/medicines/fluticasone-inhalers/common-questions-about-inhaled-fluticasone/",
+"www.nhs.uk/medicines/fluticasone-inhalers/using-inhaled-fluticasone-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/fluticasone-inhalers/"
+},
+{
+"key": "www.nhs.uk/medicines/fluticasone-nasal-spray-and-drops/",
+"title": "Fluticasone nasal spray and drops (NHS medicine guide)",
+"slug": "nhs fluticasone-nasal-spray-and-drops",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/fluticasone-nasal-spray-and-drops/about-fluticasone-nasal-spray-and-drops/",
+"www.nhs.uk/medicines/fluticasone-nasal-spray-and-drops/who-can-and-cannot-use-fluticasone-nasal-spray-and-drops/",
+"www.nhs.uk/medicines/fluticasone-nasal-spray-and-drops/how-and-when-to-use-fluticasone-nasal-spray-and-drops/",
+"www.nhs.uk/medicines/fluticasone-nasal-spray-and-drops/side-effects-of-fluticasone-nasal-spray-and-drops/",
+"www.nhs.uk/medicines/fluticasone-nasal-spray-and-drops/pregnancy-breastfeeding-and-fertility-while-using-fluticasone-nasal-spray-and-drops/",
+"www.nhs.uk/medicines/fluticasone-nasal-spray-and-drops/common-questions-about-fluticasone-nasal-spray-and-drops/",
+"www.nhs.uk/medicines/fluticasone-nasal-spray-and-drops/using-fluticasone-nasal-spray-and-drops-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/fluticasone-nasal-spray-and-drops/"
+},
+{
+"key": "www.nhs.uk/medicines/fusidic-acid/",
+"title": "Fusidic acid (NHS medicine guide)",
+"slug": "nhs fusidic-acid",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/fusidic-acid/about-fusidic-acid/",
+"www.nhs.uk/medicines/fusidic-acid/who-can-and-cannot-use-fusidic-acid/",
+"www.nhs.uk/medicines/fusidic-acid/how-and-when-to-use-fusidic-acid/",
+"www.nhs.uk/medicines/fusidic-acid/side-effects-of-fusidic-acid/",
+"www.nhs.uk/medicines/fusidic-acid/pregnancy-breastfeeding-and-fertility-while-using-fusidic-acid/",
+"www.nhs.uk/medicines/fusidic-acid/common-questions-about-fusidic-acid/",
+"www.nhs.uk/medicines/fusidic-acid/using-fusidic-acid-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/fusidic-acid/"
+},
+{
+"key": "www.nhs.uk/medicines/fybogel-ispaghula-husk/",
+"title": "Fybogel (ispaghula husk) (NHS medicine guide)",
+"slug": "nhs fybogel-ispaghula-husk",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/fybogel-ispaghula-husk/about-fybogel-ispaghula-husk/",
+"www.nhs.uk/medicines/fybogel-ispaghula-husk/who-can-and-cannot-take-fybogel/",
+"www.nhs.uk/medicines/fybogel-ispaghula-husk/how-and-when-to-take-fybogel/",
+"www.nhs.uk/medicines/fybogel-ispaghula-husk/side-effects-of-fybogel/",
+"www.nhs.uk/medicines/fybogel-ispaghula-husk/pregnancy-breastfeeding-and-fertility-while-taking-fybogel/",
+"www.nhs.uk/medicines/fybogel-ispaghula-husk/taking-fybogel-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/fybogel-ispaghula-husk/common-questions-about-fybogel/"
+],
+"source_url": "https://www.nhs.uk/medicines/fybogel-ispaghula-husk/"
+},
+{
+"key": "www.nhs.uk/medicines/gabapentin/",
+"title": "Gabapentin (NHS medicine guide)",
+"slug": "nhs gabapentin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/gabapentin/about-gabapentin/",
+"www.nhs.uk/medicines/gabapentin/who-can-and-cannot-take-gabapentin/",
+"www.nhs.uk/medicines/gabapentin/how-and-when-to-take-gabapentin/",
+"www.nhs.uk/medicines/gabapentin/side-effects-of-gabapentin/",
+"www.nhs.uk/medicines/gabapentin/pregnancy-breastfeeding-and-fertility-while-taking-gabapentin/",
+"www.nhs.uk/medicines/gabapentin/taking-gabapentin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/gabapentin/common-questions-about-gabapentin/"
+],
+"source_url": "https://www.nhs.uk/medicines/gabapentin/"
+},
+{
+"key": "www.nhs.uk/medicines/gaviscon/",
+"title": "Gaviscon – medicine to treat heartburn and indigestion (NHS medicine guide)",
+"slug": "nhs gaviscon",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/gaviscon/about-gaviscon/",
+"www.nhs.uk/medicines/gaviscon/who-can-and-cannot-take-gaviscon/",
+"www.nhs.uk/medicines/gaviscon/how-and-when-to-take-gaviscon/",
+"www.nhs.uk/medicines/gaviscon/side-effects-of-gaviscon/",
+"www.nhs.uk/medicines/gaviscon/pregnancy-breastfeeding-and-fertility-while-taking-gaviscon/",
+"www.nhs.uk/medicines/gaviscon/taking-gaviscon-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/gaviscon/common-questions-about-gaviscon/"
+],
+"source_url": "https://www.nhs.uk/medicines/gaviscon/"
+},
+{
+"key": "www.nhs.uk/medicines/glyceryl-trinitrate-gtn/",
+"title": "Glyceryl trinitrate (GTN) (NHS medicine guide)",
+"slug": "nhs glyceryl-trinitrate-gtn",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/glyceryl-trinitrate-gtn/about-glyceryl-trinitrate-gtn/",
+"www.nhs.uk/medicines/glyceryl-trinitrate-gtn/who-can-and-cannot-take-glyceryl-trinitrate-gtn/",
+"www.nhs.uk/medicines/glyceryl-trinitrate-gtn/how-and-when-to-take-glyceryl-trinitrate-gtn/",
+"www.nhs.uk/medicines/glyceryl-trinitrate-gtn/side-effects-of-glyceryl-trinitrate-gtn/",
+"www.nhs.uk/medicines/glyceryl-trinitrate-gtn/pregnancy-breastfeeding-and-fertility-while-taking-glyceryl-trinitrate-gtn/",
+"www.nhs.uk/medicines/glyceryl-trinitrate-gtn/taking-glyceryl-trinitrate-gtn-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/glyceryl-trinitrate-gtn/common-questions-about-glyceryl-trinitrate-gtn/"
+],
+"source_url": "https://www.nhs.uk/medicines/glyceryl-trinitrate-gtn/"
+},
+{
+"key": "www.nhs.uk/medicines/hormone-replacement-therapy-hrt/",
+"title": "Hormone replacement therapy (HRT) (NHS medicine guide)",
+"slug": "nhs hormone-replacement-therapy-hrt",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/about-hormone-replacement-therapy-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/side-effects-of-hormone-replacement-therapy-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/alternatives-to-hormone-replacement-therapy-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/benefits-and-risks-of-hormone-replacement-therapy-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/oestrogen-tablets-patches-gel-and-spray/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/tibolone/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/types-of-hormone-replacement-therapy-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/when-to-take-hormone-replacement-therapy-hrt/"
+],
+"source_url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/"
+},
+{
+"key": "www.nhs.uk/medicines/hydrocortisone-buccal-tablets/",
+"title": "Hydrocortisone buccal tablets (NHS medicine guide)",
+"slug": "nhs hydrocortisone-buccal-tablets",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/hydrocortisone-buccal-tablets/about-hydrocortisone-buccal-tablets/",
+"www.nhs.uk/medicines/hydrocortisone-buccal-tablets/who-can-and-cannot-use-hydrocortisone-buccal-tablets/",
+"www.nhs.uk/medicines/hydrocortisone-buccal-tablets/how-and-when-to-use-hydrocortisone-buccal-tablets/",
+"www.nhs.uk/medicines/hydrocortisone-buccal-tablets/side-effects-of-hydrocortisone-buccal-tablets/",
+"www.nhs.uk/medicines/hydrocortisone-buccal-tablets/pregnancy-breastfeeding-and-fertility-while-using-hydrocortisone-buccal-tablets/",
+"www.nhs.uk/medicines/hydrocortisone-buccal-tablets/common-questions-about-hydrocortisone-buccal-tablets/",
+"www.nhs.uk/medicines/hydrocortisone-buccal-tablets/using-hydrocortisone-buccal-tablets-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/hydrocortisone-buccal-tablets/"
+},
+{
+"key": "www.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/",
+"title": "Hydrocortisone for piles and itchy bottom (NHS medicine guide)",
+"slug": "nhs hydrocortisone-for-piles-and-itchy-bottom",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/about-hydrocortisone-for-piles-and-itchy-bottom/",
+"www.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/who-can-and-cannot-use-hydrocortisone-for-piles-and-itchy-bottom/",
+"www.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/how-and-when-to-use-hydrocortisone-for-piles-and-itchy-bottom/",
+"www.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/side-effects-of-hydrocortisone-for-piles-and-itchy-bottom/",
+"www.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/pregnancy-breastfeeding-and-fertility-while-using-hydrocortisone-for-piles-and-itchy-bottom/",
+"www.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/common-questions-about-hydrocortisone-for-piles-and-itchy-bottom/",
+"www.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/using-hydrocortisone-for-piles-and-itchy-bottom-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/"
+},
+{
+"key": "www.nhs.uk/medicines/hydrocortisone-injections/",
+"title": "Hydrocortisone injections (NHS medicine guide)",
+"slug": "nhs hydrocortisone-injections",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/hydrocortisone-injections/about-hydrocortisone-injections/",
+"www.nhs.uk/medicines/hydrocortisone-injections/who-can-and-cannot-have-hydrocortisone-injections/",
+"www.nhs.uk/medicines/hydrocortisone-injections/how-and-when-to-have-hydrocortisone-injections/",
+"www.nhs.uk/medicines/hydrocortisone-injections/side-effects-of-hydrocortisone-injections/",
+"www.nhs.uk/medicines/hydrocortisone-injections/pregnancy-breastfeeding-and-fertility-if-youre-having-hydrocortisone-injections/",
+"www.nhs.uk/medicines/hydrocortisone-injections/common-questions-about-hydrocortisone-injections/",
+"www.nhs.uk/medicines/hydrocortisone-injections/having-hydrocortisone-injections-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/hydrocortisone-injections/"
+},
+{
+"key": "www.nhs.uk/medicines/hydrocortisone-tablets/",
+"title": "Hydrocortisone tablets (NHS medicine guide)",
+"slug": "nhs hydrocortisone-tablets",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/hydrocortisone-tablets/about-hydrocortisone-tablets/",
+"www.nhs.uk/medicines/hydrocortisone-tablets/who-can-and-cannot-take-hydrocortisone-tablets/",
+"www.nhs.uk/medicines/hydrocortisone-tablets/how-and-when-to-take-hydrocortisone-tablets/",
+"www.nhs.uk/medicines/hydrocortisone-tablets/side-effects-of-hydrocortisone-tablets/",
+"www.nhs.uk/medicines/hydrocortisone-tablets/pregnancy-breastfeeding-and-fertility-while-taking-hydrocortisone-tablets/",
+"www.nhs.uk/medicines/hydrocortisone-tablets/taking-hydrocortisone-tablets-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/hydrocortisone-tablets/common-questions-about-hydrocortisone-tablets/"
+],
+"source_url": "https://www.nhs.uk/medicines/hydrocortisone-tablets/"
+},
+{
+"key": "www.nhs.uk/medicines/hydroxocobalamin/",
+"title": "Hydroxocobalamin (NHS medicine guide)",
+"slug": "nhs hydroxocobalamin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/hydroxocobalamin/about-hydroxocobalamin/",
+"www.nhs.uk/medicines/hydroxocobalamin/who-can-and-cannot-have-hydroxocobalamin/",
+"www.nhs.uk/medicines/hydroxocobalamin/side-effects-of-hydroxocobalamin/",
+"www.nhs.uk/medicines/hydroxocobalamin/pregnancy-breastfeeding-and-fertility-while-having-hydroxocobalamin/",
+"www.nhs.uk/medicines/hydroxocobalamin/common-questions-about-hydroxocobalamin/",
+"www.nhs.uk/medicines/hydroxocobalamin/having-hydroxocobalamin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/hydroxocobalamin/having-your-hydroxocobalamin-injection/"
+],
+"source_url": "https://www.nhs.uk/medicines/hydroxocobalamin/"
+},
+{
+"key": "www.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/",
+"title": "Ibuprofen and codeine (NHS medicine guide)",
+"slug": "nhs ibuprofen-and-codeine-nurofen-plus",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/about-ibuprofen-and-codeine/",
+"www.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/who-can-and-cannot-take-ibuprofen-and-codeine/",
+"www.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/how-and-when-to-take-ibuprofen-and-codeine/",
+"www.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/side-effects-of-ibuprofen-and-codeine/",
+"www.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/pregnancy-breastfeeding-and-fertility-while-taking-ibuprofen-and-codeine/",
+"www.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/taking-ibuprofen-and-codeine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/common-questions-about-ibuprofen-and-codeine-old/"
+],
+"source_url": "https://www.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/"
+},
+{
+"key": "www.nhs.uk/medicines/insulin/intermediate-acting-insulin/",
+"title": "Intermediate-acting insulin (NHS medicine guide)",
+"slug": "nhs intermediate-acting-insulin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/insulin/intermediate-acting-insulin/about-intermediate-acting-insulin/",
+"www.nhs.uk/medicines/insulin/intermediate-acting-insulin/who-can-and-cannot-take-intermediate-acting-insulin/",
+"www.nhs.uk/medicines/insulin/intermediate-acting-insulin/how-and-when-to-take-intermediate-acting-insulin/",
+"www.nhs.uk/medicines/insulin/intermediate-acting-insulin/side-effects-of-intermediate-acting-insulin/",
+"www.nhs.uk/medicines/insulin/intermediate-acting-insulin/pregnancy-breastfeeding-and-fertility-while-taking-intermediate-acting-insulin/",
+"www.nhs.uk/medicines/insulin/intermediate-acting-insulin/taking-intermediate-acting-insulin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/insulin/intermediate-acting-insulin/common-questions-about-intermediate-acting-insulin/",
+"www.nhs.uk/medicines/insulin/intermediate-acting-insulin/storing-and-travelling-with-intermediate-acting-insulin/"
+],
+"source_url": "https://www.nhs.uk/medicines/insulin/intermediate-acting-insulin/"
+},
+{
+"key": "www.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/",
+"title": "Isosorbide mononitrate and isosorbide dinitrate (NHS medicine guide)",
+"slug": "nhs isosorbide-mononitrate-dinitrate",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/about-isosorbide-mononitrate-and-isosorbide-dinitrate/",
+"www.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/who-can-and-cannot-take-isosorbide-mononitrate-and-isosorbide-dinitrate/",
+"www.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/how-and-when-to-take-isosorbide-mononitrate-and-isosorbide-dinitrate/",
+"www.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/side-effects-of-isosorbide-mononitrate-and-isosorbide-dinitrate/",
+"www.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/pregnancy-breastfeeding-and-fertility-while-taking-isosorbide-mononitrate-and-isosorbide-dinitrate/",
+"www.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/taking-isosorbide-mononitrate-and-isosorbide-dinitrate-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/common-questions-about-isosorbide-mononitrate-and-isosorbide-dinitrate/"
+],
+"source_url": "https://www.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/"
+},
+{
+"key": "www.nhs.uk/medicines/ketoconazole/",
+"title": "Ketoconazole (NHS medicine guide)",
+"slug": "nhs ketoconazole",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/ketoconazole/about-ketoconazole/",
+"www.nhs.uk/medicines/ketoconazole/who-can-and-cannot-use-ketoconazole/",
+"www.nhs.uk/medicines/ketoconazole/how-and-when-to-use-ketoconazole/",
+"www.nhs.uk/medicines/ketoconazole/side-effects-of-ketoconazole/",
+"www.nhs.uk/medicines/ketoconazole/pregnancy-breastfeeding-and-fertility-while-using-ketoconazole/",
+"www.nhs.uk/medicines/ketoconazole/common-questions-about-ketoconazole/",
+"www.nhs.uk/medicines/ketoconazole/using-ketoconazole-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/ketoconazole/"
+},
+{
+"key": "www.nhs.uk/medicines/lansoprazole/",
+"title": "Lansoprazole (NHS medicine guide)",
+"slug": "nhs lansoprazole",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/lansoprazole/about-lansoprazole/",
+"www.nhs.uk/medicines/lansoprazole/who-can-and-cannot-take-lansoprazole/",
+"www.nhs.uk/medicines/lansoprazole/how-and-when-to-take-lansoprazole/",
+"www.nhs.uk/medicines/lansoprazole/side-effects-of-lansoprazole/",
+"www.nhs.uk/medicines/lansoprazole/pregnancy-breastfeeding-and-fertility-while-taking-lansoprazole/",
+"www.nhs.uk/medicines/lansoprazole/taking-lansoprazole-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/lansoprazole/common-questions-about-lansoprazole/"
+],
+"source_url": "https://www.nhs.uk/medicines/lansoprazole/"
+},
+{
+"key": "www.nhs.uk/medicines/latanoprost/",
+"title": "Latanoprost (NHS medicine guide)",
+"slug": "nhs latanoprost",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/latanoprost/about-latanoprost/",
+"www.nhs.uk/medicines/latanoprost/who-can-and-cannot-use-latanoprost/",
+"www.nhs.uk/medicines/latanoprost/how-and-when-to-use-latanoprost/",
+"www.nhs.uk/medicines/latanoprost/side-effects-of-latanoprost/",
+"www.nhs.uk/medicines/latanoprost/pregnancy-breastfeeding-and-fertility-while-using-latanoprost/",
+"www.nhs.uk/medicines/latanoprost/common-questions-about-latanoprost/",
+"www.nhs.uk/medicines/latanoprost/using-latanoprost-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/latanoprost/"
+},
+{
+"key": "www.nhs.uk/medicines/letrozole/",
+"title": "Letrozole (NHS medicine guide)",
+"slug": "nhs letrozole",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/letrozole/about-letrozole/",
+"www.nhs.uk/medicines/letrozole/who-can-and-cannot-take-letrozole/",
+"www.nhs.uk/medicines/letrozole/how-and-when-to-take-letrozole/",
+"www.nhs.uk/medicines/letrozole/side-effects-of-letrozole/",
+"www.nhs.uk/medicines/letrozole/pregnancy-breastfeeding-and-fertility-while-taking-letrozole/",
+"www.nhs.uk/medicines/letrozole/taking-letrozole-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/letrozole/common-questions-about-letrozole/"
+],
+"source_url": "https://www.nhs.uk/medicines/letrozole/"
+},
+{
+"key": "www.nhs.uk/medicines/lithium/",
+"title": "Lithium (NHS medicine guide)",
+"slug": "nhs lithium",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/lithium/about-lithium/",
+"www.nhs.uk/medicines/lithium/who-can-and-cannot-take-lithium/",
+"www.nhs.uk/medicines/lithium/how-and-when-to-take-lithium/",
+"www.nhs.uk/medicines/lithium/side-effects-of-lithium/",
+"www.nhs.uk/medicines/lithium/pregnancy-breastfeeding-and-fertility-while-taking-lithium/",
+"www.nhs.uk/medicines/lithium/taking-lithium-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/lithium/common-questions-about-lithium/"
+],
+"source_url": "https://www.nhs.uk/medicines/lithium/"
+},
+{
+"key": "www.nhs.uk/medicines/insulin/long-acting-insulin/",
+"title": "Long-acting insulin (NHS medicine guide)",
+"slug": "nhs long-acting-insulin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/insulin/long-acting-insulin/about-long-acting-insulin/",
+"www.nhs.uk/medicines/insulin/long-acting-insulin/who-can-and-cannot-take-long-acting-insulin/",
+"www.nhs.uk/medicines/insulin/long-acting-insulin/how-and-when-to-take-long-acting-insulin/",
+"www.nhs.uk/medicines/insulin/long-acting-insulin/side-effects-of-long-acting-insulin/",
+"www.nhs.uk/medicines/insulin/long-acting-insulin/pregnancy-breastfeeding-and-fertility-while-taking-long-acting-insulin/",
+"www.nhs.uk/medicines/insulin/long-acting-insulin/taking-long-acting-insulin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/insulin/long-acting-insulin/common-questions-about-long-acting-insulin/",
+"www.nhs.uk/medicines/insulin/long-acting-insulin/storing-and-travelling-with-long-acting-insulin/"
+],
+"source_url": "https://www.nhs.uk/medicines/insulin/long-acting-insulin/"
+},
+{
+"key": "www.nhs.uk/medicines/loperamide/",
+"title": "Loperamide (NHS medicine guide)",
+"slug": "nhs loperamide",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/loperamide/about-loperamide/",
+"www.nhs.uk/medicines/loperamide/who-can-and-cannot-take-loperamide/",
+"www.nhs.uk/medicines/loperamide/how-and-when-to-take-loperamide/",
+"www.nhs.uk/medicines/loperamide/side-effects-of-loperamide/",
+"www.nhs.uk/medicines/loperamide/pregnancy-breastfeeding-and-fertility-while-taking-loperamide/",
+"www.nhs.uk/medicines/loperamide/taking-loperamide-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/loperamide/common-questions-about-loperamide/"
+],
+"source_url": "https://www.nhs.uk/medicines/loperamide/"
+},
+{
+"key": "www.nhs.uk/medicines/loratadine/",
+"title": "Loratadine (Clarityn) (NHS medicine guide)",
+"slug": "nhs loratadine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/loratadine/about-loratadine/",
+"www.nhs.uk/medicines/loratadine/who-can-and-cannot-take-loratadine/",
+"www.nhs.uk/medicines/loratadine/how-and-when-to-take-loratadine/",
+"www.nhs.uk/medicines/loratadine/side-effects-of-loratadine/",
+"www.nhs.uk/medicines/loratadine/pregnancy-breastfeeding-and-fertility-while-taking-loratadine/",
+"www.nhs.uk/medicines/loratadine/taking-loratadine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/loratadine/common-questions-about-loratadine/"
+],
+"source_url": "https://www.nhs.uk/medicines/loratadine/"
+},
+{
+"key": "www.nhs.uk/medicines/lorazepam/",
+"title": "Lorazepam (NHS medicine guide)",
+"slug": "nhs lorazepam",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/lorazepam/about-lorazepam/",
+"www.nhs.uk/medicines/lorazepam/who-can-and-cannot-take-lorazepam/",
+"www.nhs.uk/medicines/lorazepam/how-and-when-to-take-lorazepam/",
+"www.nhs.uk/medicines/lorazepam/side-effects-of-lorazepam/",
+"www.nhs.uk/medicines/lorazepam/pregnancy-breastfeeding-and-fertility-while-taking-lorazepam/",
+"www.nhs.uk/medicines/lorazepam/taking-lorazepam-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/lorazepam/common-questions-about-lorazepam/"
+],
+"source_url": "https://www.nhs.uk/medicines/lorazepam/"
+},
+{
+"key": "www.nhs.uk/medicines/lymecycline/",
+"title": "Lymecycline (NHS medicine guide)",
+"slug": "nhs lymecycline",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/lymecycline/about-lymecycline/",
+"www.nhs.uk/medicines/lymecycline/who-can-and-cannot-take-lymecycline/",
+"www.nhs.uk/medicines/lymecycline/how-and-when-to-take-lymecycline/",
+"www.nhs.uk/medicines/lymecycline/side-effects-of-lymecycline/",
+"www.nhs.uk/medicines/lymecycline/pregnancy-breastfeeding-and-fertility-while-taking-lymecycline/",
+"www.nhs.uk/medicines/lymecycline/taking-lymecycline-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/lymecycline/common-questions-about-lymecycline/"
+],
+"source_url": "https://www.nhs.uk/medicines/lymecycline/"
+},
+{
+"key": "www.nhs.uk/medicines/medroxyprogesterone-tablets/",
+"title": "Medroxyprogesterone tablets (NHS medicine guide)",
+"slug": "nhs medroxyprogesterone-tablets",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/medroxyprogesterone-tablets/about-medroxyprogesterone-tablets/",
+"www.nhs.uk/medicines/medroxyprogesterone-tablets/who-can-and-cannot-take-medroxyprogesterone-tablets/",
+"www.nhs.uk/medicines/medroxyprogesterone-tablets/how-and-when-to-take-medroxyprogesterone-tablets/",
+"www.nhs.uk/medicines/medroxyprogesterone-tablets/side-effects-of-medroxyprogesterone-tablets/",
+"www.nhs.uk/medicines/medroxyprogesterone-tablets/pregnancy-breastfeeding-and-fertility-while-taking-medroxyprogesterone-tablets/",
+"www.nhs.uk/medicines/medroxyprogesterone-tablets/taking-medroxyprogesterone-tablets-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/medroxyprogesterone-tablets/common-questions-about-medroxyprogesterone-tablets/"
+],
+"source_url": "https://www.nhs.uk/medicines/medroxyprogesterone-tablets/"
+},
+{
+"key": "www.nhs.uk/medicines/melatonin/",
+"title": "Melatonin (NHS medicine guide)",
+"slug": "nhs melatonin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/melatonin/about-melatonin/",
+"www.nhs.uk/medicines/melatonin/who-can-and-cannot-take-melatonin/",
+"www.nhs.uk/medicines/melatonin/how-and-when-to-take-melatonin/",
+"www.nhs.uk/medicines/melatonin/side-effects-of-melatonin/",
+"www.nhs.uk/medicines/melatonin/pregnancy-breastfeeding-and-fertility-while-taking-melatonin/",
+"www.nhs.uk/medicines/melatonin/taking-melatonin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/melatonin/common-questions-about-melatonin/"
+],
+"source_url": "https://www.nhs.uk/medicines/melatonin/"
+},
+{
+"key": "www.nhs.uk/medicines/mesalazine/",
+"title": "Mesalazine (NHS medicine guide)",
+"slug": "nhs mesalazine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/mesalazine/about-mesalazine/",
+"www.nhs.uk/medicines/mesalazine/who-can-and-cannot-take-mesalazine/",
+"www.nhs.uk/medicines/mesalazine/how-and-when-to-take-mesalazine/",
+"www.nhs.uk/medicines/mesalazine/side-effects-of-mesalazine/",
+"www.nhs.uk/medicines/mesalazine/pregnancy-breastfeeding-and-fertility-while-taking-mesalazine/",
+"www.nhs.uk/medicines/mesalazine/taking-mesalazine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/mesalazine/common-questions-about-mesalazine/"
+],
+"source_url": "https://www.nhs.uk/medicines/mesalazine/"
+},
+{
+"key": "www.nhs.uk/medicines/methadone/",
+"title": "Methadone (NHS medicine guide)",
+"slug": "nhs methadone",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/methadone/about-methadone/",
+"www.nhs.uk/medicines/methadone/who-can-and-cannot-take-methadone/",
+"www.nhs.uk/medicines/methadone/how-and-when-to-take-methadone/",
+"www.nhs.uk/medicines/methadone/side-effects-of-methadone/",
+"www.nhs.uk/medicines/methadone/pregnancy-breastfeeding-and-fertility-while-taking-methadone/",
+"www.nhs.uk/medicines/methadone/taking-methadone-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/methadone/common-questions-about-methadone/"
+],
+"source_url": "https://www.nhs.uk/medicines/methadone/"
+},
+{
+"key": "www.nhs.uk/medicines/methotrexate/",
+"title": "Methotrexate (NHS medicine guide)",
+"slug": "nhs methotrexate",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/methotrexate/about-methotrexate/",
+"www.nhs.uk/medicines/methotrexate/who-can-and-cannot-take-methotrexate/",
+"www.nhs.uk/medicines/methotrexate/how-and-when-to-take-methotrexate/",
+"www.nhs.uk/medicines/methotrexate/side-effects-of-methotrexate/",
+"www.nhs.uk/medicines/methotrexate/pregnancy-breastfeeding-and-fertility-while-taking-methotrexate/",
+"www.nhs.uk/medicines/methotrexate/taking-methotrexate-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/methotrexate/common-questions-about-methotrexate/"
+],
+"source_url": "https://www.nhs.uk/medicines/methotrexate/"
+},
+{
+"key": "www.nhs.uk/medicines/methylphenidate-adults/",
+"title": "Methylphenidate (NHS medicine guide)",
+"slug": "nhs methylphenidate-adults",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/methylphenidate-adults/about-methylphenidate-for-adults/",
+"www.nhs.uk/medicines/methylphenidate-adults/who-can-and-cannot-take-methylphenidate-for-adults/",
+"www.nhs.uk/medicines/methylphenidate-adults/how-and-when-to-take-methylphenidate-for-adults/",
+"www.nhs.uk/medicines/methylphenidate-adults/side-effects-of-methylphenidate-for-adults/",
+"www.nhs.uk/medicines/methylphenidate-adults/pregnancy-breastfeeding-and-fertility-while-taking-methylphenidate-for-adults/",
+"www.nhs.uk/medicines/methylphenidate-adults/taking-methylphenidate-for-adults-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/methylphenidate-adults/common-questions-about-methylphenidate-for-adults/"
+],
+"source_url": "https://www.nhs.uk/medicines/methylphenidate-adults/"
+},
+{
+"key": "www.nhs.uk/medicines/methylphenidate-children/",
+"title": "Methylphenidate for children (NHS medicine guide)",
+"slug": "nhs methylphenidate-children",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/methylphenidate-children/about-methylphenidate-for-children/",
+"www.nhs.uk/medicines/methylphenidate-children/who-can-and-cannot-take-methylphenidate-for-children/",
+"www.nhs.uk/medicines/methylphenidate-children/how-and-when-to-take-methylphenidate-for-children/",
+"www.nhs.uk/medicines/methylphenidate-children/side-effects-of-methylphenidate-for-children/",
+"www.nhs.uk/medicines/methylphenidate-children/taking-methylphenidate-for-children-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/methylphenidate-children/common-questions-about-methylphenidate-for-children/"
+],
+"source_url": "https://www.nhs.uk/medicines/methylphenidate-children/"
+},
+{
+"key": "www.nhs.uk/medicines/metoprolol/",
+"title": "Metoprolol (NHS medicine guide)",
+"slug": "nhs metoprolol",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/metoprolol/about-metoprolol/",
+"www.nhs.uk/medicines/metoprolol/who-can-and-cannot-take-metoprolol/",
+"www.nhs.uk/medicines/metoprolol/how-and-when-to-take-metoprolol/",
+"www.nhs.uk/medicines/metoprolol/side-effects-of-metoprolol/",
+"www.nhs.uk/medicines/metoprolol/pregnancy-breastfeeding-and-fertility-while-taking-metoprolol/",
+"www.nhs.uk/medicines/metoprolol/taking-metoprolol-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/metoprolol/common-questions-about-metoprolol/"
+],
+"source_url": "https://www.nhs.uk/medicines/metoprolol/"
+},
+{
+"key": "www.nhs.uk/medicines/metronidazole/",
+"title": "Metronidazole (NHS medicine guide)",
+"slug": "nhs metronidazole",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/metronidazole/about-metronidazole/",
+"www.nhs.uk/medicines/metronidazole/who-can-and-cannot-take-metronidazole/",
+"www.nhs.uk/medicines/metronidazole/how-and-when-to-take-or-use-metronidazole/",
+"www.nhs.uk/medicines/metronidazole/side-effects-of-metronidazole/",
+"www.nhs.uk/medicines/metronidazole/pregnancy-breastfeeding-and-fertility-while-taking-or-using-metronidazole/",
+"www.nhs.uk/medicines/metronidazole/taking-metronidazole-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/metronidazole/common-questions-about-metronidazole/"
+],
+"source_url": "https://www.nhs.uk/medicines/metronidazole/"
+},
+{
+"key": "www.nhs.uk/medicines/mirabegron/",
+"title": "Mirabegron (NHS medicine guide)",
+"slug": "nhs mirabegron",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/mirabegron/about-mirabegron/",
+"www.nhs.uk/medicines/mirabegron/who-can-and-cannot-take-mirabegron/",
+"www.nhs.uk/medicines/mirabegron/how-and-when-to-take-mirabegron/",
+"www.nhs.uk/medicines/mirabegron/side-effects-of-mirabegron/",
+"www.nhs.uk/medicines/mirabegron/pregnancy-breastfeeding-and-fertility-while-taking-mirabegron/",
+"www.nhs.uk/medicines/mirabegron/taking-mirabegron-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/mirabegron/common-questions-about-mirabegron/"
+],
+"source_url": "https://www.nhs.uk/medicines/mirabegron/"
+},
+{
+"key": "www.nhs.uk/medicines/mometasone-for-skin/",
+"title": "Mometasone for skin (NHS medicine guide)",
+"slug": "nhs mometasone-for-skin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/mometasone-for-skin/about-mometasone-for-skin/",
+"www.nhs.uk/medicines/mometasone-for-skin/who-can-and-cannot-use-mometasone-for-skin/",
+"www.nhs.uk/medicines/mometasone-for-skin/how-and-when-to-use-mometasone-for-skin/",
+"www.nhs.uk/medicines/mometasone-for-skin/side-effects-of-mometasone-for-skin/",
+"www.nhs.uk/medicines/mometasone-for-skin/pregnancy-breastfeeding-and-fertility-while-using-mometasone-for-skin/",
+"www.nhs.uk/medicines/mometasone-for-skin/common-questions-about-mometasone-for-skin/",
+"www.nhs.uk/medicines/mometasone-for-skin/using-mometasone-for-skin-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/mometasone-for-skin/"
+},
+{
+"key": "www.nhs.uk/medicines/mometasone-inhaler/",
+"title": "Mometasone inhalers (NHS medicine guide)",
+"slug": "nhs mometasone-inhaler",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/mometasone-inhaler/about-mometasone-inhalers/",
+"www.nhs.uk/medicines/mometasone-inhaler/who-can-and-cannot-use-mometasone-inhalers/",
+"www.nhs.uk/medicines/mometasone-inhaler/how-and-when-to-use-mometasone-inhalers/",
+"www.nhs.uk/medicines/mometasone-inhaler/side-effects-of-mometasone-inhalers/",
+"www.nhs.uk/medicines/mometasone-inhaler/pregnancy-breastfeeding-and-fertility-while-using-mometasone-inhalers/",
+"www.nhs.uk/medicines/mometasone-inhaler/common-questions-about-mometasone-inhalers/",
+"www.nhs.uk/medicines/mometasone-inhaler/using-mometasone-inhalers-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/mometasone-inhaler/"
+},
+{
+"key": "www.nhs.uk/medicines/mometasone-nasal-spray/",
+"title": "Mometasone nasal spray (NHS medicine guide)",
+"slug": "nhs mometasone-nasal-spray",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/mometasone-nasal-spray/about-mometasone-nasal-spray/",
+"www.nhs.uk/medicines/mometasone-nasal-spray/who-can-and-cannot-use-mometasone-nasal-spray/",
+"www.nhs.uk/medicines/mometasone-nasal-spray/how-and-when-to-use-mometasone-nasal-spray/",
+"www.nhs.uk/medicines/mometasone-nasal-spray/side-effects-of-mometasone-nasal-spray/",
+"www.nhs.uk/medicines/mometasone-nasal-spray/pregnancy-breastfeeding-and-fertility-while-using-mometasone-nasal-spray/",
+"www.nhs.uk/medicines/mometasone-nasal-spray/common-questions-about-mometasone-nasal-spray/",
+"www.nhs.uk/medicines/mometasone-nasal-spray/using-mometasone-nasal-spray-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/mometasone-nasal-spray/"
+},
+{
+"key": "www.nhs.uk/medicines/montelukast/",
+"title": "Montelukast (NHS medicine guide)",
+"slug": "nhs montelukast",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/montelukast/about-montelukast/",
+"www.nhs.uk/medicines/montelukast/who-can-and-cannot-take-montelukast/",
+"www.nhs.uk/medicines/montelukast/how-and-when-to-take-montelukast/",
+"www.nhs.uk/medicines/montelukast/side-effects-of-montelukast/",
+"www.nhs.uk/medicines/montelukast/pregnancy-breastfeeding-and-fertility-while-taking-montelukast/",
+"www.nhs.uk/medicines/montelukast/taking-montelukast-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/montelukast/common-questions-about-montelukast/"
+],
+"source_url": "https://www.nhs.uk/medicines/montelukast/"
+},
+{
+"key": "www.nhs.uk/medicines/nefopam/",
+"title": "Nefopam (NHS medicine guide)",
+"slug": "nhs nefopam",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/nefopam/about-nefopam/",
+"www.nhs.uk/medicines/nefopam/who-can-and-cannot-take-nefopam/",
+"www.nhs.uk/medicines/nefopam/how-and-when-to-take-nefopam/",
+"www.nhs.uk/medicines/nefopam/side-effects-of-nefopam/",
+"www.nhs.uk/medicines/nefopam/pregnancy-breastfeeding-and-fertility-while-taking-nefopam/",
+"www.nhs.uk/medicines/nefopam/taking-nefopam-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/nefopam/common-questions-about-nefopam/"
+],
+"source_url": "https://www.nhs.uk/medicines/nefopam/"
+},
+{
+"key": "www.nhs.uk/medicines/nitrofurantoin/",
+"title": "Nitrofurantoin (NHS medicine guide)",
+"slug": "nhs nitrofurantoin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/nitrofurantoin/about-nitrofurantoin/",
+"www.nhs.uk/medicines/nitrofurantoin/who-can-and-cannot-take-nitrofurantoin/",
+"www.nhs.uk/medicines/nitrofurantoin/how-and-when-to-take-nitrofurantoin/",
+"www.nhs.uk/medicines/nitrofurantoin/side-effects-of-nitrofurantoin/",
+"www.nhs.uk/medicines/nitrofurantoin/pregnancy-breastfeeding-and-fertility-while-taking-nitrofurantoin/",
+"www.nhs.uk/medicines/nitrofurantoin/taking-nitrofurantoin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/nitrofurantoin/common-questions-about-nitrofurantoin/"
+],
+"source_url": "https://www.nhs.uk/medicines/nitrofurantoin/"
+},
+{
+"key": "www.nhs.uk/medicines/nortriptyline/",
+"title": "Nortriptyline (NHS medicine guide)",
+"slug": "nhs nortriptyline",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/nortriptyline/about-nortriptyline/",
+"www.nhs.uk/medicines/nortriptyline/who-can-and-cannot-take-nortriptyline/",
+"www.nhs.uk/medicines/nortriptyline/how-and-when-to-take-nortriptyline/",
+"www.nhs.uk/medicines/nortriptyline/side-effects-of-nortiptyline/",
+"www.nhs.uk/medicines/nortriptyline/pregnancy-breastfeeding-and-fertility-while-taking-nortriptyline/",
+"www.nhs.uk/medicines/nortriptyline/taking-nortriptyline-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/nortriptyline/common-questions-about-nortriptyline/"
+],
+"source_url": "https://www.nhs.uk/medicines/nortriptyline/"
+},
+{
+"key": "www.nhs.uk/medicines/nystatin/",
+"title": "Nystatin (NHS medicine guide)",
+"slug": "nhs nystatin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/nystatin/about-nystatin/",
+"www.nhs.uk/medicines/nystatin/who-can-and-cannot-take-or-use-nystatin/",
+"www.nhs.uk/medicines/nystatin/how-and-when-to-take-or-use-nystatin/",
+"www.nhs.uk/medicines/nystatin/side-effects-of-nystatin/",
+"www.nhs.uk/medicines/nystatin/pregnancy-breastfeeding-and-fertility-while-taking-or-using-nystatin/",
+"www.nhs.uk/medicines/nystatin/taking-or-using-nystatin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/nystatin/common-questions-about-nystatin/"
+],
+"source_url": "https://www.nhs.uk/medicines/nystatin/"
+},
+{
+"key": "www.nhs.uk/medicines/hormone-replacement-therapy-hrt/oestrogen-tablets-patches-gel-and-spray/",
+"title": "Oestrogen (NHS medicine guide)",
+"slug": "nhs oestrogen-tablets-patches-gel-and-spray",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/oestrogen-tablets-patches-gel-and-spray/about-oestrogen-tablets-patches-gel-and-spray/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/oestrogen-tablets-patches-gel-and-spray/who-can-and-cannot-take-or-use-oestrogen-tablets-patches-gel-and-spray/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/oestrogen-tablets-patches-gel-and-spray/how-and-when-to-take-or-use-oestrogen-tablets-patches-gel-and-spray/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/oestrogen-tablets-patches-gel-and-spray/side-effects-of-oestrogen-tablets-patches-gel-and-spray/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/oestrogen-tablets-patches-gel-and-spray/pregnancy-breastfeeding-and-fertility-while-taking-or-using-oestrogen-tablets-patches-gel-and-spray/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/oestrogen-tablets-patches-gel-and-spray/taking-or-using-oestrogen-tablets-patches-gel-and-spray-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/oestrogen-tablets-patches-gel-and-spray/common-questions-about-oestrogen-tablets-patches-gel-and-spray/"
+],
+"source_url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/oestrogen-tablets-patches-gel-and-spray/"
+},
+{
+"key": "www.nhs.uk/medicines/olanzapine/",
+"title": "Olanzapine (NHS medicine guide)",
+"slug": "nhs olanzapine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/olanzapine/about-olanzapine/",
+"www.nhs.uk/medicines/olanzapine/who-can-and-cannot-take-olanzapine/",
+"www.nhs.uk/medicines/olanzapine/how-and-when-to-take-olanzapine/",
+"www.nhs.uk/medicines/olanzapine/side-effects-of-olanzapine/",
+"www.nhs.uk/medicines/olanzapine/pregnancy-breastfeeding-and-fertility-while-taking-olanzapine/",
+"www.nhs.uk/medicines/olanzapine/taking-olanzapine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/olanzapine/common-questions-about-olanzapine/"
+],
+"source_url": "https://www.nhs.uk/medicines/olanzapine/"
+},
+{
+"key": "www.nhs.uk/medicines/oxybutynin/",
+"title": "Oxybutynin (NHS medicine guide)",
+"slug": "nhs oxybutynin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/oxybutynin/about-oxybutynin/",
+"www.nhs.uk/medicines/oxybutynin/who-can-and-cannot-take-oxybutynin/",
+"www.nhs.uk/medicines/oxybutynin/how-and-when-to-take-oxybutynin/",
+"www.nhs.uk/medicines/oxybutynin/side-effects-of-oxybutynin/",
+"www.nhs.uk/medicines/oxybutynin/pregnancy-breastfeeding-and-fertility-while-taking-oxybutynin/",
+"www.nhs.uk/medicines/oxybutynin/taking-oxybutynin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/oxybutynin/common-questions-about-oxybutynin/"
+],
+"source_url": "https://www.nhs.uk/medicines/oxybutynin/"
+},
+{
+"key": "www.nhs.uk/medicines/pantoprazole/",
+"title": "Pantoprazole (NHS medicine guide)",
+"slug": "nhs pantoprazole",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/pantoprazole/about-pantoprazole/",
+"www.nhs.uk/medicines/pantoprazole/who-can-and-cannot-take-pantoprazole/",
+"www.nhs.uk/medicines/pantoprazole/how-and-when-to-take-pantoprazole/",
+"www.nhs.uk/medicines/pantoprazole/side-effects-of-pantoprazole/",
+"www.nhs.uk/medicines/pantoprazole/pregnancy-breastfeeding-and-fertility-while-taking-pantoprazole/",
+"www.nhs.uk/medicines/pantoprazole/taking-pantoprazole-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/pantoprazole/common-questions-about-pantoprazole/"
+],
+"source_url": "https://www.nhs.uk/medicines/pantoprazole/"
+},
+{
+"key": "www.nhs.uk/medicines/peppermint-oil/",
+"title": "Peppermint oil (NHS medicine guide)",
+"slug": "nhs peppermint-oil",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/peppermint-oil/about-peppermint-oil/",
+"www.nhs.uk/medicines/peppermint-oil/who-can-and-cannot-take-peppermint-oil/",
+"www.nhs.uk/medicines/peppermint-oil/how-and-when-to-take-peppermint-oil/",
+"www.nhs.uk/medicines/peppermint-oil/side-effects-of-peppermint-oil/",
+"www.nhs.uk/medicines/peppermint-oil/pregnancy-breastfeeding-and-fertility-while-taking-peppermint-oil/",
+"www.nhs.uk/medicines/peppermint-oil/taking-peppermint-oil-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/peppermint-oil/common-questions-about-peppermint-oil/"
+],
+"source_url": "https://www.nhs.uk/medicines/peppermint-oil/"
+},
+{
+"key": "www.nhs.uk/medicines/perindopril/",
+"title": "Perindopril (NHS medicine guide)",
+"slug": "nhs perindopril",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/perindopril/about-perindopril/",
+"www.nhs.uk/medicines/perindopril/who-can-and-cannot-take-perindopril/",
+"www.nhs.uk/medicines/perindopril/how-and-when-to-take-perindopril/",
+"www.nhs.uk/medicines/perindopril/side-effects-of-perindopril/",
+"www.nhs.uk/medicines/perindopril/pregnancy-breastfeeding-and-fertility-while-taking-perindopril/",
+"www.nhs.uk/medicines/perindopril/taking-perindopril-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/perindopril/common-questions-about-perindopril/"
+],
+"source_url": "https://www.nhs.uk/medicines/perindopril/"
+},
+{
+"key": "www.nhs.uk/medicines/prednisolone/",
+"title": "Prednisolone tablets and liquid (NHS medicine guide)",
+"slug": "nhs prednisolone",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/prednisolone/about-prednisolone-tablets-and-liquid/",
+"www.nhs.uk/medicines/prednisolone/who-can-and-cannot-take-prednisolone-tablets-and-liquid/",
+"www.nhs.uk/medicines/prednisolone/how-and-when-to-take-prednisolone-tablets-and-liquid/",
+"www.nhs.uk/medicines/prednisolone/side-effects-of-prednisolone-tablets-and-liquid/",
+"www.nhs.uk/medicines/prednisolone/pregnancy-breastfeeding-and-fertility-while-taking-prednisolone-tablets-and-liquid/",
+"www.nhs.uk/medicines/prednisolone/taking-prednisolone-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/prednisolone/common-questions-about-prednisolone-tablets-and-liquid/"
+],
+"source_url": "https://www.nhs.uk/medicines/prednisolone/"
+},
+{
+"key": "www.nhs.uk/medicines/pregabalin/",
+"title": "Pregabalin (NHS medicine guide)",
+"slug": "nhs pregabalin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/pregabalin/about-pregabalin/",
+"www.nhs.uk/medicines/pregabalin/who-can-and-cannot-take-pregabalin/",
+"www.nhs.uk/medicines/pregabalin/how-and-when-to-take-pregabalin/",
+"www.nhs.uk/medicines/pregabalin/side-effects-of-pregabalin/",
+"www.nhs.uk/medicines/pregabalin/pregnancy-breastfeeding-and-fertility-while-taking-pregabalin/",
+"www.nhs.uk/medicines/pregabalin/taking-pregabalin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/pregabalin/common-questions-about-pregabalin/"
+],
+"source_url": "https://www.nhs.uk/medicines/pregabalin/"
+},
+{
+"key": "www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/",
+"title": "PrEP (NHS medicine guide)",
+"slug": "nhs pre-exposure-prophylaxis-prep",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/about-pre-exposure-prophylaxis-prep/",
+"www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/who-can-and-cannot-take-pre-exposure-prophylaxis-prep/",
+"www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/how-and-when-to-take-pre-exposure-prophylaxis-prep/",
+"www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/side-effects-of-pre-exposure-prophylaxis-prep/",
+"www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/pregnancy-breastfeeding-and-fertility-while-taking-pre-exposure-prophylaxis-prep/",
+"www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/taking-pre-exposure-prophylaxis-prep-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/common-questions-about-pre-exposure-prophylaxis-prep/"
+],
+"source_url": "https://www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/"
+},
+{
+"key": "www.nhs.uk/medicines/prochlorperazine/",
+"title": "Prochlorperazine (NHS medicine guide)",
+"slug": "nhs prochlorperazine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/prochlorperazine/about-prochlorperazine/",
+"www.nhs.uk/medicines/prochlorperazine/who-can-and-cannot-take-prochlorperazine/",
+"www.nhs.uk/medicines/prochlorperazine/how-and-when-to-take-prochlorperazine/",
+"www.nhs.uk/medicines/prochlorperazine/side-effects-of-prochlorperazine/",
+"www.nhs.uk/medicines/prochlorperazine/pregnancy-breastfeeding-and-fertility-while-taking-prochlorperazine/",
+"www.nhs.uk/medicines/prochlorperazine/taking-prochlorperazine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/prochlorperazine/common-questions-about-prochlorperazine/"
+],
+"source_url": "https://www.nhs.uk/medicines/prochlorperazine/"
+},
+{
+"key": "www.nhs.uk/medicines/promethazine/",
+"title": "Promethazine (NHS medicine guide)",
+"slug": "nhs promethazine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/promethazine/about-promethazine/",
+"www.nhs.uk/medicines/promethazine/who-can-and-cannot-take-promethazine/",
+"www.nhs.uk/medicines/promethazine/how-and-when-to-take-promethazine/",
+"www.nhs.uk/medicines/promethazine/side-effects-of-promethazine/",
+"www.nhs.uk/medicines/promethazine/pregnancy-breastfeeding-and-fertility-while-taking-promethazine/",
+"www.nhs.uk/medicines/promethazine/taking-promethazine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/promethazine/common-questions-about-promethazine/"
+],
+"source_url": "https://www.nhs.uk/medicines/promethazine/"
+},
+{
+"key": "www.nhs.uk/medicines/propranolol/",
+"title": "Propranolol (NHS medicine guide)",
+"slug": "nhs propranolol",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/propranolol/about-propranolol/",
+"www.nhs.uk/medicines/propranolol/who-can-and-cannot-take-propranolol/",
+"www.nhs.uk/medicines/propranolol/how-and-when-to-take-propranolol/",
+"www.nhs.uk/medicines/propranolol/side-effects-of-propranolol/",
+"www.nhs.uk/medicines/propranolol/pregnancy-breastfeeding-and-fertility-while-taking-propranolol/",
+"www.nhs.uk/medicines/propranolol/taking-propranolol-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/propranolol/common-questions-about-propranolol/"
+],
+"source_url": "https://www.nhs.uk/medicines/propranolol/"
+},
+{
+"key": "www.nhs.uk/medicines/pseudoephedrine/",
+"title": "Pseudoephedrine (NHS medicine guide)",
+"slug": "nhs pseudoephedrine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/pseudoephedrine/about-pseudoephedrine/",
+"www.nhs.uk/medicines/pseudoephedrine/who-can-and-cannot-take-pseudoephedrine/",
+"www.nhs.uk/medicines/pseudoephedrine/how-and-when-to-take-pseudoephedrine/",
+"www.nhs.uk/medicines/pseudoephedrine/side-effects-of-pseudoephedrine/",
+"www.nhs.uk/medicines/pseudoephedrine/pregnancy-breastfeeding-and-fertility-while-taking-pseudoephedrine/",
+"www.nhs.uk/medicines/pseudoephedrine/taking-pseudoephedrine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/pseudoephedrine/common-questions-about-pseudoephedrine/"
+],
+"source_url": "https://www.nhs.uk/medicines/pseudoephedrine/"
+},
+{
+"key": "www.nhs.uk/medicines/ramipril/",
+"title": "Ramipril (NHS medicine guide)",
+"slug": "nhs ramipril",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/ramipril/about-ramipril/",
+"www.nhs.uk/medicines/ramipril/who-can-and-cannot-take-ramipril/",
+"www.nhs.uk/medicines/ramipril/how-and-when-to-take-ramipril/",
+"www.nhs.uk/medicines/ramipril/side-effects-of-ramipril/",
+"www.nhs.uk/medicines/ramipril/pregnancy-breastfeeding-and-fertility-while-taking-ramipril/",
+"www.nhs.uk/medicines/ramipril/taking-ramipril-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/ramipril/common-questions-about-ramipril/"
+],
+"source_url": "https://www.nhs.uk/medicines/ramipril/"
+},
+{
+"key": "www.nhs.uk/medicines/insulin/rapid-acting-insulin/",
+"title": "Rapid-acting insulin (NHS medicine guide)",
+"slug": "nhs rapid-acting-insulin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/insulin/rapid-acting-insulin/about-rapid-acting-insulin/",
+"www.nhs.uk/medicines/insulin/rapid-acting-insulin/who-can-and-cannot-take-rapid-acting-insulin/",
+"www.nhs.uk/medicines/insulin/rapid-acting-insulin/how-and-when-to-take-rapid-acting-insulin/",
+"www.nhs.uk/medicines/insulin/rapid-acting-insulin/side-effects-of-rapid-acting-insulin/",
+"www.nhs.uk/medicines/insulin/rapid-acting-insulin/pregnancy-breastfeeding-and-fertility-while-taking-rapid-acting-insulin/",
+"www.nhs.uk/medicines/insulin/rapid-acting-insulin/taking-rapid-acting-insulin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/insulin/rapid-acting-insulin/common-questions-about-rapid-acting-insulin/",
+"www.nhs.uk/medicines/insulin/rapid-acting-insulin/storing-and-travelling-with-rapid-acting-insulin/"
+],
+"source_url": "https://www.nhs.uk/medicines/insulin/rapid-acting-insulin/"
+},
+{
+"key": "www.nhs.uk/medicines/risperidone/",
+"title": "Risperidone (NHS medicine guide)",
+"slug": "nhs risperidone",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/risperidone/about-risperidone/",
+"www.nhs.uk/medicines/risperidone/who-can-and-cannot-take-risperidone/",
+"www.nhs.uk/medicines/risperidone/how-and-when-to-take-risperidone/",
+"www.nhs.uk/medicines/risperidone/side-effects-of-risperidone/",
+"www.nhs.uk/medicines/risperidone/pregnancy-breastfeeding-and-fertility-while-taking-risperidone/",
+"www.nhs.uk/medicines/risperidone/taking-risperidone-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/risperidone/common-questions-about-risperidone/"
+],
+"source_url": "https://www.nhs.uk/medicines/risperidone/"
+},
+{
+"key": "www.nhs.uk/medicines/ropinirole/",
+"title": "Ropinirole (NHS medicine guide)",
+"slug": "nhs ropinirole",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/ropinirole/about-ropinirole/",
+"www.nhs.uk/medicines/ropinirole/who-can-and-cannot-take-ropinirole/",
+"www.nhs.uk/medicines/ropinirole/how-and-when-to-take-ropinirole/",
+"www.nhs.uk/medicines/ropinirole/side-effects-of-ropinirole/",
+"www.nhs.uk/medicines/ropinirole/pregnancy-breastfeeding-and-fertility-while-taking-ropinirole/",
+"www.nhs.uk/medicines/ropinirole/taking-ropinirole-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/ropinirole/common-questions-about-ropinirole/"
+],
+"source_url": "https://www.nhs.uk/medicines/ropinirole/"
+},
+{
+"key": "www.nhs.uk/medicines/salbutamol-inhaler/",
+"title": "Salbutamol (NHS medicine guide)",
+"slug": "nhs salbutamol-inhaler",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/salbutamol-inhaler/about-salbutamol-inhalers/",
+"www.nhs.uk/medicines/salbutamol-inhaler/who-can-and-cannot-use-salbutamol-inhalers/",
+"www.nhs.uk/medicines/salbutamol-inhaler/how-and-when-to-use-salbutamol-inhalers/",
+"www.nhs.uk/medicines/salbutamol-inhaler/side-effects-of-salbutamol-inhalers/",
+"www.nhs.uk/medicines/salbutamol-inhaler/pregnancy-breastfeeding-and-fertility-while-using-salbutamol-inhalers/",
+"www.nhs.uk/medicines/salbutamol-inhaler/common-questions-about-salbutamol-inhalers/",
+"www.nhs.uk/medicines/salbutamol-inhaler/using-salbutamol-inhalers-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/salbutamol-inhaler/"
+},
+{
+"key": "www.nhs.uk/medicines/senna/",
+"title": "Senna (NHS medicine guide)",
+"slug": "nhs senna",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/senna/about-senna/",
+"www.nhs.uk/medicines/senna/who-can-and-cannot-take-senna/",
+"www.nhs.uk/medicines/senna/how-and-when-to-take-senna/",
+"www.nhs.uk/medicines/senna/side-effects-of-senna/",
+"www.nhs.uk/medicines/senna/pregnancy-breastfeeding-and-fertility-while-taking-senna/",
+"www.nhs.uk/medicines/senna/taking-senna-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/senna/common-questions-about-senna/"
+],
+"source_url": "https://www.nhs.uk/medicines/senna/"
+},
+{
+"key": "www.nhs.uk/medicines/hormone-replacement-therapy-hrt/sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches/",
+"title": "Sequential combined HRT (NHS medicine guide)",
+"slug": "nhs sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches/about-sequential-combined-hormone-replacement-therapy-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches/who-can-and-cannot-take-or-use-sequential-combined-hormone-replacement-therapy-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches/how-and-when-to-take-or-use-sequential-combined-hormone-replacement-therapy-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches/side-effects-of-sequential-combined-hormone-replacement-therapy-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches/pregnancy-breastfeeding-and-fertility-while-taking-or-using-sequential-combined-hormone-replacement-therapy-hrt/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches/taking-sequential-combined-hormone-replacement-therapy-hrt-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches/common-questions-about-sequential-combined-hormone-replacement-therapy-hrt/"
+],
+"source_url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches/"
+},
+{
+"key": "www.nhs.uk/medicines/insulin/short-acting-insulin/",
+"title": "Short-acting insulin (NHS medicine guide)",
+"slug": "nhs short-acting-insulin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/insulin/short-acting-insulin/about-short-acting-insulin/",
+"www.nhs.uk/medicines/insulin/short-acting-insulin/who-can-and-cannot-take-short-acting-insulin/",
+"www.nhs.uk/medicines/insulin/short-acting-insulin/how-and-when-to-take-short-acting-insulin/",
+"www.nhs.uk/medicines/insulin/short-acting-insulin/side-effects-of-short-acting-insulin/",
+"www.nhs.uk/medicines/insulin/short-acting-insulin/pregnancy-breastfeeding-and-fertility-while-taking-short-acting-insulin/",
+"www.nhs.uk/medicines/insulin/short-acting-insulin/taking-short-acting-insulin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/insulin/short-acting-insulin/common-questions-about-short-acting-insulin/",
+"www.nhs.uk/medicines/insulin/short-acting-insulin/storing-and-travelling-with-short-acting-insulin/"
+],
+"source_url": "https://www.nhs.uk/medicines/insulin/short-acting-insulin/"
+},
+{
+"key": "www.nhs.uk/medicines/sodium-valproate/",
+"title": "Sodium valproate (NHS medicine guide)",
+"slug": "nhs sodium-valproate",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/sodium-valproate/about-sodium-valproate/",
+"www.nhs.uk/medicines/sodium-valproate/who-can-and-cannot-take-sodium-valproate/",
+"www.nhs.uk/medicines/sodium-valproate/how-and-when-to-take-sodium-valproate/",
+"www.nhs.uk/medicines/sodium-valproate/side-effects-of-sodium-valproate/",
+"www.nhs.uk/medicines/sodium-valproate/pregnancy-breastfeeding-and-fertility-while-taking-sodium-valproate/",
+"www.nhs.uk/medicines/sodium-valproate/taking-sodium-valproate-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/sodium-valproate/common-questions-about-sodium-valproate/"
+],
+"source_url": "https://www.nhs.uk/medicines/sodium-valproate/"
+},
+{
+"key": "www.nhs.uk/medicines/solifenacin/",
+"title": "Solifenacin (NHS medicine guide)",
+"slug": "nhs solifenacin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/solifenacin/about-solifenacin/",
+"www.nhs.uk/medicines/solifenacin/who-can-and-cannot-take-solifenacin/",
+"www.nhs.uk/medicines/solifenacin/how-and-when-to-take-solifenacin/",
+"www.nhs.uk/medicines/solifenacin/side-effects-of-solifenacin/",
+"www.nhs.uk/medicines/solifenacin/pregnancy-breastfeeding-and-fertility-while-taking-solifenacin/",
+"www.nhs.uk/medicines/solifenacin/taking-solifenacin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/solifenacin/common-questions-about-solifenacin/"
+],
+"source_url": "https://www.nhs.uk/medicines/solifenacin/"
+},
+{
+"key": "www.nhs.uk/medicines/sotalol/",
+"title": "Sotalol (NHS medicine guide)",
+"slug": "nhs sotalol",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/sotalol/about-sotalol/",
+"www.nhs.uk/medicines/sotalol/who-can-and-cannot-take-sotalol/",
+"www.nhs.uk/medicines/sotalol/how-and-when-to-take-sotalol/",
+"www.nhs.uk/medicines/sotalol/side-effects-of-sotalol/",
+"www.nhs.uk/medicines/sotalol/pregnancy-breastfeeding-and-fertility-while-taking-sotalol/",
+"www.nhs.uk/medicines/sotalol/taking-sotalol-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/sotalol/common-questions-about-sotalol/"
+],
+"source_url": "https://www.nhs.uk/medicines/sotalol/"
+},
+{
+"key": "www.nhs.uk/medicines/sulfasalazine/",
+"title": "Sulfasalazine (NHS medicine guide)",
+"slug": "nhs sulfasalazine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/sulfasalazine/about-sulfasalazine/",
+"www.nhs.uk/medicines/sulfasalazine/who-can-and-cannot-take-sulfasalazine/",
+"www.nhs.uk/medicines/sulfasalazine/how-and-when-to-take-sulfasalazine/",
+"www.nhs.uk/medicines/sulfasalazine/side-effects-of-sulfasalazine/",
+"www.nhs.uk/medicines/sulfasalazine/pregnancy-breastfeeding-and-fertility-while-taking-sulfasalazine/",
+"www.nhs.uk/medicines/sulfasalazine/taking-sulfasalazine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/sulfasalazine/common-questions-about-sulfasalazine/"
+],
+"source_url": "https://www.nhs.uk/medicines/sulfasalazine/"
+},
+{
+"key": "www.nhs.uk/medicines/sumatriptan/",
+"title": "Sumatriptan (NHS medicine guide)",
+"slug": "nhs sumatriptan",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/sumatriptan/about-sumatriptan/",
+"www.nhs.uk/medicines/sumatriptan/who-can-and-cannot-take-or-use-sumatriptan/",
+"www.nhs.uk/medicines/sumatriptan/how-and-when-to-take-or-use-sumatriptan/",
+"www.nhs.uk/medicines/sumatriptan/side-effects-of-sumatriptan/",
+"www.nhs.uk/medicines/sumatriptan/pregnancy-breastfeeding-and-fertility-while-taking-sumatriptan/",
+"www.nhs.uk/medicines/sumatriptan/taking-sumatriptan-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/sumatriptan/common-questions-about-sumatriptan/"
+],
+"source_url": "https://www.nhs.uk/medicines/sumatriptan/"
+},
+{
+"key": "www.nhs.uk/medicines/tamsulosin/",
+"title": "Tamsulosin (NHS medicine guide)",
+"slug": "nhs tamsulosin",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/tamsulosin/about-tamsulosin/",
+"www.nhs.uk/medicines/tamsulosin/who-can-and-cannot-take-tamsulosin/",
+"www.nhs.uk/medicines/tamsulosin/how-and-when-to-take-tamsulosin/",
+"www.nhs.uk/medicines/tamsulosin/side-effects-of-tamsulosin/",
+"www.nhs.uk/medicines/tamsulosin/pregnancy-breastfeeding-and-fertility-while-taking-tamsulosin/",
+"www.nhs.uk/medicines/tamsulosin/taking-tamsulosin-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/tamsulosin/common-questions-about-tamsulosin/"
+],
+"source_url": "https://www.nhs.uk/medicines/tamsulosin/"
+},
+{
+"key": "www.nhs.uk/medicines/terbinafine/",
+"title": "Terbinafine (NHS medicine guide)",
+"slug": "nhs terbinafine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/terbinafine/about-terbinafine/",
+"www.nhs.uk/medicines/terbinafine/who-can-and-cannot-take-or-use-terbinafine/",
+"www.nhs.uk/medicines/terbinafine/how-and-when-to-take-or-use-terbinafine/",
+"www.nhs.uk/medicines/terbinafine/side-effects-of-terbinafine/",
+"www.nhs.uk/medicines/terbinafine/pregnancy-breastfeeding-and-fertility-while-taking-or-using-terbinafine/",
+"www.nhs.uk/medicines/terbinafine/taking-or-using-terbinafine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/terbinafine/common-questions-about-terbinafine/"
+],
+"source_url": "https://www.nhs.uk/medicines/terbinafine/"
+},
+{
+"key": "www.nhs.uk/medicines/thiamine-vitamin-b1/",
+"title": "Thiamine (NHS medicine guide)",
+"slug": "nhs thiamine-vitamin-b1",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/thiamine-vitamin-b1/about-thiamine/",
+"www.nhs.uk/medicines/thiamine-vitamin-b1/who-can-and-cannot-take-thiamine/",
+"www.nhs.uk/medicines/thiamine-vitamin-b1/how-and-when-to-take-thiamine/",
+"www.nhs.uk/medicines/thiamine-vitamin-b1/side-effects-of-thiamine/",
+"www.nhs.uk/medicines/thiamine-vitamin-b1/pregnancy-breastfeeding-and-fertility-while-taking-thiamine/",
+"www.nhs.uk/medicines/thiamine-vitamin-b1/taking-thiamine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/thiamine-vitamin-b1/common-questions-about-thiamine/"
+],
+"source_url": "https://www.nhs.uk/medicines/thiamine-vitamin-b1/"
+},
+{
+"key": "www.nhs.uk/medicines/hormone-replacement-therapy-hrt/tibolone/",
+"title": "Tibolone (NHS medicine guide)",
+"slug": "nhs tibolone",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/tibolone/about-tibolone/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/tibolone/who-can-and-cannot-take-tibolone/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/tibolone/how-and-when-to-take-tibolone/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/tibolone/side-effects-of-tibolone/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/tibolone/pregnancy-breastfeeding-and-fertility-while-taking-tibolone/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/tibolone/taking-tibolone-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/tibolone/common-questions-about-tibolone/"
+],
+"source_url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/tibolone/"
+},
+{
+"key": "www.nhs.uk/medicines/tiotropium-inhalers/",
+"title": "Tiotropium inhalers (NHS medicine guide)",
+"slug": "nhs tiotropium-inhalers",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/tiotropium-inhalers/about-tiotropium-inhalers/",
+"www.nhs.uk/medicines/tiotropium-inhalers/who-can-and-cannot-use-tiotropium-inhalers/",
+"www.nhs.uk/medicines/tiotropium-inhalers/how-and-when-to-use-tiotropium-inhalers/",
+"www.nhs.uk/medicines/tiotropium-inhalers/side-effects-of-tiotropium-inhalers/",
+"www.nhs.uk/medicines/tiotropium-inhalers/pregnancy-breastfeeding-and-fertility-while-using-tiotropium-inhalers/",
+"www.nhs.uk/medicines/tiotropium-inhalers/common-questions-about-tiotropium-inhalers/",
+"www.nhs.uk/medicines/tiotropium-inhalers/using-tiotropium-inhalers-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/tiotropium-inhalers/"
+},
+{
+"key": "www.nhs.uk/medicines/tolterodine/",
+"title": "Tolterodine – a medicine to treat symptoms of an overactive bladder (NHS medicine guide)",
+"slug": "nhs tolterodine",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/tolterodine/about-tolterodine/",
+"www.nhs.uk/medicines/tolterodine/who-can-and-cannot-take-tolterodine/",
+"www.nhs.uk/medicines/tolterodine/how-and-when-to-take-tolterodine/",
+"www.nhs.uk/medicines/tolterodine/side-effects-of-tolterodine/",
+"www.nhs.uk/medicines/tolterodine/pregnancy-breastfeeding-and-fertility-while-taking-tolterodine/",
+"www.nhs.uk/medicines/tolterodine/taking-tolterodine-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/tolterodine/common-questions-about-tolterodine/"
+],
+"source_url": "https://www.nhs.uk/medicines/tolterodine/"
+},
+{
+"key": "www.nhs.uk/medicines/tramadol/",
+"title": "Tramadol (NHS medicine guide)",
+"slug": "nhs tramadol",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/tramadol/about-tramadol/",
+"www.nhs.uk/medicines/tramadol/who-can-and-cannot-take-tramadol/",
+"www.nhs.uk/medicines/tramadol/how-and-when-to-take-tramadol/",
+"www.nhs.uk/medicines/tramadol/side-effects-of-tramadol/",
+"www.nhs.uk/medicines/tramadol/pregnancy-breastfeeding-and-fertility-while-taking-tramadol/",
+"www.nhs.uk/medicines/tramadol/taking-tramadol-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/tramadol/common-questions-about-tramadol/"
+],
+"source_url": "https://www.nhs.uk/medicines/tramadol/"
+},
+{
+"key": "www.nhs.uk/medicines/tranexamic-acid/",
+"title": "Tranexamic acid (NHS medicine guide)",
+"slug": "nhs tranexamic-acid",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/tranexamic-acid/about-tranexamic-acid/",
+"www.nhs.uk/medicines/tranexamic-acid/who-can-and-cannot-take-tranexamic-acid/",
+"www.nhs.uk/medicines/tranexamic-acid/how-and-when-to-take-tranexamic-acid/",
+"www.nhs.uk/medicines/tranexamic-acid/side-effects-of-tranexamic-acid/",
+"www.nhs.uk/medicines/tranexamic-acid/pregnancy-breastfeeding-and-fertility-while-taking-tranexamic-acid/",
+"www.nhs.uk/medicines/tranexamic-acid/taking-tranexamic-acid-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/tranexamic-acid/common-questions-about-tranexamic-acid/"
+],
+"source_url": "https://www.nhs.uk/medicines/tranexamic-acid/"
+},
+{
+"key": "www.nhs.uk/medicines/trimethoprim/",
+"title": "Trimethoprim (NHS medicine guide)",
+"slug": "nhs trimethoprim",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/trimethoprim/about-trimethoprim/",
+"www.nhs.uk/medicines/trimethoprim/who-can-and-cannot-take-trimethoprim/",
+"www.nhs.uk/medicines/trimethoprim/how-and-when-to-take-trimethoprim/",
+"www.nhs.uk/medicines/trimethoprim/side-effects-of-trimethoprim/",
+"www.nhs.uk/medicines/trimethoprim/pregnancy-breastfeeding-and-fertility-while-taking-trimethoprim/",
+"www.nhs.uk/medicines/trimethoprim/taking-trimethoprim-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/trimethoprim/common-questions-about-trimethoprim/"
+],
+"source_url": "https://www.nhs.uk/medicines/trimethoprim/"
+},
+{
+"key": "www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/",
+"title": "Utrogestan (NHS medicine guide)",
+"slug": "nhs utrogestan-micronised-progesterone",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/about-utrogestan/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/who-can-and-cannot-take-utrogestan/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/how-and-when-to-take-utrogestan/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/side-effects-of-utrogestan/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/pregnancy-breastfeeding-and-fertility-while-taking-utrogestan/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/taking-utrogestan-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/common-questions-about-utrogestan/"
+],
+"source_url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/"
+},
+{
+"key": "www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/",
+"title": "Vaginal oestrogen (NHS medicine guide)",
+"slug": "nhs vaginal-oestrogen",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/about-vaginal-oestrogen/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/who-can-and-cannot-use-vaginal-oestrogen/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/how-and-when-to-use-vaginal-oestrogen/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/side-effects-of-vaginal-oestrogen/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/pregnancy-breastfeeding-and-fertility-while-using-vaginal-oestrogen/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/common-questions-about-vaginal-oestrogen/",
+"www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/using-vaginal-oestrogen-with-other-medicines-and-herbal-supplements/"
+],
+"source_url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/"
+},
+{
+"key": "www.nhs.uk/medicines/valproic-acid/",
+"title": "Valproic acid (NHS medicine guide)",
+"slug": "nhs valproic-acid",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/valproic-acid/about-valproic-acid/",
+"www.nhs.uk/medicines/valproic-acid/who-can-and-cannot-take-valproic-acid/",
+"www.nhs.uk/medicines/valproic-acid/how-and-when-to-take-valproic-acid/",
+"www.nhs.uk/medicines/valproic-acid/side-effects-of-valproic-acid/",
+"www.nhs.uk/medicines/valproic-acid/pregnancy-breastfeeding-and-fertility-while-taking-valproic-acid/",
+"www.nhs.uk/medicines/valproic-acid/taking-valproic-acid-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/valproic-acid/common-questions-about-valproic-acid/"
+],
+"source_url": "https://www.nhs.uk/medicines/valproic-acid/"
+},
+{
+"key": "www.nhs.uk/medicines/varenicline/",
+"title": "Varenicline – a medicine to help you stop smoking (NHS medicine guide)",
+"slug": "nhs varenicline",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/varenicline/about-varenicline/",
+"www.nhs.uk/medicines/varenicline/who-can-and-cannot-take-varenicline/",
+"www.nhs.uk/medicines/varenicline/how-and-when-to-take-varenicline/",
+"www.nhs.uk/medicines/varenicline/side-effects-of-varenicline/",
+"www.nhs.uk/medicines/varenicline/pregnancy-breastfeeding-and-fertility-while-taking-varenicline/",
+"www.nhs.uk/medicines/varenicline/taking-varenicline-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/varenicline/common-questions-about-varenicline/"
+],
+"source_url": "https://www.nhs.uk/medicines/varenicline/"
+},
+{
+"key": "www.nhs.uk/medicines/verapamil/",
+"title": "Verapamil (NHS medicine guide)",
+"slug": "nhs verapamil",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/verapamil/about-verapamil/",
+"www.nhs.uk/medicines/verapamil/who-can-and-cannot-take-verapamil/",
+"www.nhs.uk/medicines/verapamil/how-and-when-to-take-verapamil/",
+"www.nhs.uk/medicines/verapamil/side-effects-of-verapamil/",
+"www.nhs.uk/medicines/verapamil/pregnancy-breastfeeding-and-fertility-while-taking-verapamil/",
+"www.nhs.uk/medicines/verapamil/taking-verapamil-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/verapamil/common-questions-about-verapamil/"
+],
+"source_url": "https://www.nhs.uk/medicines/verapamil/"
+},
+{
+"key": "www.nhs.uk/medicines/zolpidem/",
+"title": "Zolpidem (NHS medicine guide)",
+"slug": "nhs zolpidem",
+"category": "medicine-pharmacology",
+"paths": [
+"www.nhs.uk/medicines/zolpidem/about-zolpidem/",
+"www.nhs.uk/medicines/zolpidem/who-can-and-cannot-take-zolpidem/",
+"www.nhs.uk/medicines/zolpidem/how-and-when-to-take-zolpidem/",
+"www.nhs.uk/medicines/zolpidem/side-effects-of-zolpidem/",
+"www.nhs.uk/medicines/zolpidem/pregnancy-breastfeeding-and-fertility-while-taking-zolpidem/",
+"www.nhs.uk/medicines/zolpidem/taking-zolpidem-with-other-medicines-and-herbal-supplements/",
+"www.nhs.uk/medicines/zolpidem/common-questions-about-zolpidem/"
+],
+"source_url": "https://www.nhs.uk/medicines/zolpidem/"
+}
+]
+}

@@ -1,0 +1,610 @@
+{
+"pack": "se-crafts",
+"kind": "stackexchange",
+"title": "Stack Exchange - crafts",
+"about": "Top-voted questions with their best answers from crafts.stackexchange.com.",
+"archive": "se-crafts",
+"made": "2026-10-17",
+"items": [
+{
+"path": "questions/74/are-there-any-tips-as-to-how-to-set-the-tightness-of-my-stiches",
+"title": "Are there any tips as to how to set the tightness of my stiches?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/205/are-there-markers-paints-pencils-etc-that-are-known-to-not-change-color-over-t",
+"title": "Are there markers, paints, pencils, etc that are known to not change color over time?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10623/are-you-supposed-to-oil-the-upper-thread-tension-discs-on-a-sewing-machine",
+"title": "Are you supposed to oil the upper thread tension discs on a sewing machine?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4046/best-materials-for-a-long-lasting-scroll",
+"title": "Best materials for a long-lasting scroll",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/102/can-air-drying-clay-projects-be-preserved",
+"title": "Can air-drying clay projects be preserved?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2575/can-i-cast-a-glow-in-the-dark-flower-in-resin",
+"title": "Can I cast a glow in the dark flower in resin?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2557/can-i-replicate-this-bumpy-fabric-on-a-pillow",
+"title": "Can I replicate this \"bumpy\" fabric on a pillow?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2443/can-i-turn-this-cast-iron-grill-into-a-usable-firepot-with-possible-tuyere",
+"title": "Can I turn this cast iron grill into a usable firepot with possible tuyere?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2468/can-i-use-the-potholder-quilting-technique-to-make-a-quilt-out-of-t-shirts",
+"title": "Can I use the potholder quilting technique to make a quilt out of t-shirts?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3791/can-i-use-upholstery-vinyl-as-the-fabric-for-a-hardcover-book-opposed-to-using",
+"title": "Can I use Upholstery Vinyl as the fabric for a hardcover book opposed to using Leather?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10942/can-you-identify-this-yarn-tool",
+"title": "Can you identify this yarn tool?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1817/cleanly-extract-homemade-candle-from-glass-or-plastic-mold",
+"title": "Cleanly extract homemade candle from glass or plastic mold?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10896/corset-making-which-material-should-i-use-for-the-boning",
+"title": "Corset making: which material should I use for the boning?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/12034/do-all-sewing-machines-have-the-same-needles-mounting-wise",
+"title": "Do all sewing machines have the same needles (mounting wise)?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/7/does-knitting-needle-material-make-a-difference-in-knitting",
+"title": "Does knitting needle material make a difference in knitting?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/32/durable-t-shirt-design-methods",
+"title": "Durable T-shirt design methods",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10766/future-proofing-paper-and-ink-letter",
+"title": "Future-proofing paper and ink letter",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4250/historical-glue-from-beeswax-and-stone-meal",
+"title": "Historical glue from beeswax and stone meal?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1726/how-can-i-add-an-internal-pocket-to-pants-that-don-t-have-one",
+"title": "How can I add an internal pocket to pants that don't have one?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/330/how-can-i-affix-keyboard-keys-to-a-suit-jacket",
+"title": "How can I affix keyboard keys to a suit jacket?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/376/how-can-i-avoid-smudging-my-pencil-drawings",
+"title": "How can I avoid smudging my pencil drawings?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2627/how-can-i-braid-my-own-shoelaces",
+"title": "How can I braid my own shoelaces?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/29/how-can-i-cleanly-cut-the-inside-of-a-paper-on-a-different-angle",
+"title": "How can I cleanly cut the inside of a paper on a different angle?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3044/how-can-i-cut-a-near-perfect-circle-out-of-a-plastic-bottle",
+"title": "How can I cut a near perfect circle out of a plastic bottle?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/284/how-can-i-cut-popsicle-craft-sticks-without-splitting-them",
+"title": "How can I cut popsicle craft sticks without splitting them?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/279/how-can-i-determine-a-yarn-s-weight",
+"title": "How can I determine a yarn's weight?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/348/how-can-i-efficiently-make-the-loops-for-chain-mail-or-small-chain-crafts",
+"title": "How can I efficiently make the loops for chain mail or small chain crafts?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/214/how-can-i-finish-stitching-those-last-few-inches",
+"title": "How can I finish stitching those last few inches?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1901/how-can-i-get-that-translucent-effect-on-jack-o-lanterns",
+"title": "How can I get that translucent effect on Jack O' Lanterns?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/579/how-can-i-hand-sew-an-invisible-hem",
+"title": "How can I hand-sew an \"invisible\" hem?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/121/how-can-i-hide-ends-that-have-been-woven-in-on-a-crochet-project",
+"title": "How can I hide ends that have been woven in on a crochet project?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/66/how-can-i-keep-track-of-my-stitches-when-crocheting-with-fuzzy-yarn",
+"title": "How can I keep track of my stitches when crocheting with fuzzy yarn?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/280/how-can-i-knit-faster",
+"title": "How can I knit faster?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/391/how-can-i-pre-wash-dry-bolts-of-fabric-in-a-way-that-will-prevent-the-cut-ends",
+"title": "How can I pre-wash/dry bolts of fabric in a way that will prevent the cut ends from unraveling?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1785/how-can-i-protect-my-pencil-charcoal-drawings-once-complete",
+"title": "How can I protect my pencil & charcoal drawings once complete?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/174/how-can-i-safely-cut-pieces-off-a-small-wooden-cube",
+"title": "How can I safely cut pieces off a small wooden cube?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3702/how-can-i-safely-transport-a-charcoal-drawing",
+"title": "How can I safely transport a charcoal drawing?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/350/how-can-i-smoothly-flatten-select-parts-of-a-wire-design",
+"title": "How can I smoothly flatten select parts of a wire design?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1839/how-can-i-stop-my-thread-from-bunching-when-using-a-sewing-machine",
+"title": "How can I stop my thread from bunching when using a sewing machine?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2233/how-can-i-trace-a-pattern-from-a-top-with-darts",
+"title": "How can I trace a pattern from a top with darts?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/17/how-can-paper-be-glued-to-cardboard-without-creating-wrinkles",
+"title": "How can paper be glued to cardboard without creating wrinkles?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/176/how-can-you-preserve-oil-paints-on-your-palette-between-sessions",
+"title": "How can you preserve oil paints on your palette between sessions?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1801/how-can-you-tell-if-an-oil-painting-is-dry",
+"title": "How can you tell if an oil painting is dry?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/26/how-do-i-choose-which-adhesive-or-material-to-repair-action-figures",
+"title": "How do I choose which adhesive or material to repair action figures?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/406/how-do-i-cut-a-perfect-square-out-of-paper-for-origami-folding",
+"title": "How do I cut a perfect square out of paper for origami folding?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/544/how-do-i-cut-the-bottom-off-a-glass-wine-bottle",
+"title": "How do I cut the bottom off a glass wine bottle?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/270/how-do-i-determine-what-size-zig-zag-stitch-to-use",
+"title": "How do I determine what size zig-zag stitch to use?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4175/how-do-i-join-polyester-tubular-yarn-skeins-together",
+"title": "How do I join polyester tubular yarn skeins together?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1853/how-do-i-keep-ribbon-ends-from-fraying",
+"title": "How do I keep ribbon ends from fraying?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/95/how-do-i-know-when-my-sewing-machine-needs-a-service",
+"title": "How do I know when my sewing machine needs a service?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/228/how-do-i-prepare-plaster-casts-for-casting-tin-figurines",
+"title": "How do I prepare plaster casts for casting tin figurines?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/595/how-do-i-remove-labels-from-glass-jars-bottles",
+"title": "How do I remove labels from glass jars/bottles?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/651/how-do-you-bond-clear-acrylic-to-wood",
+"title": "How do you bond clear acrylic to wood?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2/how-do-you-choose-a-stitch-length-when-straight-stitching-an-arbitrary-fabric",
+"title": "How do you choose a stitch length when straight stitching an arbitrary fabric?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/588/how-does-shading-blending-with-carbon-pencils-differ-from-graphite-pencils",
+"title": "How does shading & blending with carbon pencils differ from graphite pencils?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2660/how-should-i-go-about-designing-clothing-for-a-teddy-bear",
+"title": "How should I go about designing clothing for a teddy bear?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2488/how-to-color-with-an-even-darkness",
+"title": "How to color with an even darkness?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/640/how-to-cut-a-mug-without-breaking-it",
+"title": "How to cut a mug without breaking it?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2215/how-to-cut-gift-cards-in-order-to-make-a-mosaic",
+"title": "How to cut gift cards in order to make a mosaic?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1967/how-to-glue-a-map-onto-a-globe",
+"title": "How to glue a map onto a globe?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2342/how-to-keep-scratch-art-paper-clean-and-free-of-pencil-and-eraser-marks",
+"title": "How to keep scratch art paper clean and free of pencil and eraser marks?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3107/how-to-make-stitches-invisible",
+"title": "How to make stitches invisible",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2362/how-to-maximize-the-post-dried-life-expectancy-of-flowers",
+"title": "How to maximize the post-dried life expectancy of flowers?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2983/how-to-pick-an-embroidery-machine",
+"title": "How to pick an embroidery machine",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1730/how-to-prevent-the-paper-from-getting-damaged-due-to-a-steel-compass",
+"title": "How to prevent the paper from getting damaged due to a steel compass?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4/how-to-protect-preserve-water-color-paintings",
+"title": "How to protect & preserve water color paintings",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5364/how-to-reuse-a-sewing-pattern-without-damaging-it",
+"title": "How to reuse a sewing pattern without damaging it",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3682/how-to-tell-when-i-have-the-right-ribbing",
+"title": "How to tell when I have the right ribbing?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/8367/i-need-an-alternative-to-leather",
+"title": "I need an alternative to leather",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/213/is-it-possible-to-frequently-change-colours-while-crocheting",
+"title": "Is it possible to frequently change colours while crocheting?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1874/is-regular-wood-glue-suitable-for-lighter-woods-e-g-balsa",
+"title": "Is regular \"wood glue\" suitable for lighter woods (e.g. balsa)?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/422/is-there-a-difference-in-stability-between-prestringing-and-placing-a-bead",
+"title": "Is there a difference in stability between prestringing and placing a bead?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1744/is-there-a-kid-safe-carving-material",
+"title": "Is there a kid-safe carving material?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/170/is-there-a-way-to-determine-the-fiber-content-of-a-yarn-if-i-ve-lost-the-label",
+"title": "Is there a way to determine the fiber content of a yarn if I've lost the label?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10650/low-cost-alternatives-to-resin-for-creating-the-illusion-of-there-being-an-opa",
+"title": "Low cost alternatives to resin for creating the illusion of there being an opaque fluid in a bottle or jar",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2441/making-thin-brittle-sand-design-that-holds-together",
+"title": "Making thin brittle sand design that holds together",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/401/multi-unit-pottery-kiln-how-hot-can-it-go",
+"title": "Multi-unit pottery kiln - how hot can it go?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3468/oil-painting-in-coastal-environment",
+"title": "Oil painting in coastal environment",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4279/replicating-a-silicone-object",
+"title": "Replicating a silicone object",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/7921/trying-to-turn-a-vintage-wash-basin-into-a-vessel-sink-how-can-i-get-rid-of-th",
+"title": "Trying to turn a vintage wash basin into a vessel sink. How can I get rid of this standing water?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4096/using-human-hair-for-amigurumi-stuffing",
+"title": "Using human hair for amigurumi stuffing",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/319/what-are-the-equivalents-between-us-crochet-stitch-terms-and-uk-terms",
+"title": "What are the equivalents between US crochet stitch terms and UK terms?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2136/what-can-i-do-to-reduce-pain-while-crocheting",
+"title": "What can I do to reduce pain while crocheting?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/6/what-causes-frosting-when-applying-a-varnish",
+"title": "What causes frosting when applying a varnish?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/313/what-criteria-should-i-be-considering-when-looking-at-a-second-hand-sewing-mac",
+"title": "What criteria should I be considering when looking at a second hand sewing machine?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1957/what-fabric-is-appropriate-for-an-ironing-board-cover",
+"title": "What fabric is appropriate for an ironing board cover?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1884/what-fabric-would-work-well-for-a-flag",
+"title": "What fabric would work well for a flag?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3795/what-features-should-i-look-for-in-circular-knitting-needles-to-make-them-easi",
+"title": "What features should I look for in circular knitting needles to make them easier to use with my arthritis?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/114/what-fiber-crafts-can-i-do-when-i-am-allergic-to-wool",
+"title": "What fiber crafts can I do when I am allergic to wool?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1750/what-is-an-easy-way-to-waterproof-large-pieces-of-cardboard",
+"title": "What is an easy way to waterproof large pieces of cardboard?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/304/what-is-the-advantage-of-having-an-angled-drawing-desk",
+"title": "What is the advantage of having an angled drawing desk?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2884/what-is-the-best-way-to-create-a-stencil-for-a-large-spray-paint-image",
+"title": "What is the best way to create a stencil for a large spray paint image?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/142/what-is-the-conversion-for-uk-and-us-crochet-hooks-to-mm",
+"title": "What is the conversion for UK and US crochet hooks to mm?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4092/what-is-the-difference-between-normal-single-crochet-and-single-crochet-into-b",
+"title": "What is the difference between normal single crochet and single crochet into back loop only?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1751/what-is-the-name-of-japanese-printing-which-uses-hammered-leaves-on-white-clot",
+"title": "What is the name of Japanese printing which uses hammered leaves on white cloth?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/86/what-is-the-technique-to-get-a-proper-consistent-crochet-tension-without-being",
+"title": "What is the technique to get a proper consistent crochet tension without being too tight?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/240/what-is-this-small-hand-held-cutter",
+"title": "What is this small hand held cutter?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2294/what-is-this-tool-in-my-sewing-kit",
+"title": "What is this tool in my sewing kit?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/374/what-is-yarn-weight",
+"title": "What is yarn weight?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/375/what-kind-of-glue-to-make-a-magnet-adhere-to-wood",
+"title": "What kind of glue to make a magnet adhere to wood?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/542/what-kind-of-glue-works-for-stones-and-shells",
+"title": "What kind of glue works for stones and shells?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/506/what-kind-of-palm-leaves-or-other-material-can-be-used-for-palm-weaving",
+"title": "What kind of palm leaves or other material can be used for palm weaving?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/4011/what-kind-of-paper-can-i-use-in-place-of-u-s-currency-for-origami",
+"title": "What kind of paper can I use in place of U.S. currency for origami?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/201/what-kind-of-stitch-makes-up-t-shirt-seams-on-commercial-grade-clothing",
+"title": "What kind of stitch makes up t-shirt seams on commercial grade clothing?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1803/what-material-to-use-for-a-prop-sword",
+"title": "What material to use for a prop sword?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2370/what-materials-can-be-used-to-fill-a-puffy-jacket",
+"title": "What materials can be used to fill a puffy jacket?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2482/what-to-look-for-in-a-good-beginner-s-sewing-machine",
+"title": "What to look for in a good beginner's sewing machine?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1706/what-type-of-glue-will-work-well-on-wood-and-metal",
+"title": "What type of glue will work well on wood and metal?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2300/what-s-the-difference-between-a-pigment-and-a-dye",
+"title": "What's the difference between a pigment and a dye?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/87/what-s-the-difference-between-crochet-knitting-and-tunisian-crochet",
+"title": "What's the difference between crochet, knitting, and tunisian crochet?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3313/which-glue-should-i-use-to-attach-paper-to-glass",
+"title": "Which glue should I use to attach paper to glass?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/11426/which-knitting-pattern-is-particularly-heat-insulating",
+"title": "Which knitting pattern is particularly heat insulating?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/10450/why-are-needles-designed-for-sewing-thick-canvas-or-heavy-leather-three-edged",
+"title": "Why are needles designed for sewing thick canvas or heavy leather three-edged?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1710/why-are-the-corners-of-my-work-curling",
+"title": "Why are the corners of my work curling?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2949/why-is-wearing-a-mask-recommended-when-carving-antler",
+"title": "Why is wearing a mask recommended when carving antler?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/5318/why-would-a-candle-require-a-much-larger-wick-than-normal-for-its-size",
+"title": "Why would a candle require a much larger wick than normal for its size?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3683/will-cyanoacrylates-damage-plastic",
+"title": "Will cyanoacrylates damage plastic?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/3579/will-lack-of-a-zig-zag-stitch-be-a-problem-for-me",
+"title": "Will lack of a zig-zag stitch be a problem for me?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/1777/will-putting-an-oil-painting-under-glass-cause-damage",
+"title": "Will putting an oil painting under glass cause damage?",
+"category": "tools-crafts-skills"
+},
+{
+"path": "questions/2576/will-there-be-a-noticeable-offset-if-knitting-rib-from-an-unravelled-edge",
+"title": "Will there be a noticeable offset if knitting rib from an unravelled edge?",
+"category": "tools-crafts-skills"
+}
+]
+}

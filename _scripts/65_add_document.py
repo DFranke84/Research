@@ -6,7 +6,7 @@
       (last line: RESULT {json} for the Library Manager app)
   _scripts\\.venv\\Scripts\\python _scripts\\65_add_document.py "<file>" [--category <folder>] [--title "<title>"] [--force]
       add it: the original is copied into the category folder next to a Markdown file with its full text,
-      then CATALOG and README are refreshed.
+      then the catalog and LIBRARY.md are refreshed.
       --force  add it even though it looks like a duplicate or not relevant;  --no-ocr  skip OCR of scanned pages
 """
 import argparse, csv, datetime, hashlib, importlib, json, os, sys
