@@ -196,8 +196,6 @@ and filling them takes your own material:
 - **Local Area**: built for Kalispell / Flathead County, Montana (plants for that growing zone, Montana
   wildlife, topographic maps) together with the **Waypoints** page (your own named places on those maps). The
   tools that built it are not included; for a new library these stay empty.
-- **Cooking School**: shows a video cooking course laid out lesson by lesson (the first owner's own course).
-  Empty unless you have such a course.
 - **Recipe from Email** needs Microsoft Outlook.
 
 ---
