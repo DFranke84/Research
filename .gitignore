@@ -1,0 +1,20 @@
+# Whitelist: only the code, launchers and guides go in git.
+# The library itself (category folders, _sources, _work, catalogs, the tour video) never does.
+/*
+!/.gitignore
+!/Setup.bat
+!/Library Manager.vbs
+!/README.md
+!/README - Library Manager.md
+!/_scripts/
+
+/_scripts/*
+!/_scripts/*.py
+!/_scripts/*.pyw
+!/_scripts/*.ps1
+!/_scripts/*.bat
+!/_scripts/*.sh
+!/_scripts/*.ico
+!/_scripts/requirements.txt
+!/_scripts/_retired/
+__pycache__/
