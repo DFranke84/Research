@@ -3,6 +3,8 @@
 Your own offline reference library: practical how-to material (water, food, medicine, energy, repairs, survival
 skills, recipes…) that you collect and keep on your own computer, readable without the internet.
 
+▶ **[Watch the feature tour on YouTube](https://youtu.be/wOhPy0c1FPk)** - Library Manager on the PC and the tablet viewer, in about 10 minutes.
+
 **Library Manager** is the window you use to add things, browse by category, search every word, and read pages,
 PDFs and videos. The library starts **empty**. You fill it with your own choices:
 
