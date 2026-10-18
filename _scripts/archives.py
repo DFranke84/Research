@@ -23,6 +23,13 @@ SE_SITES = ["diy", "gardening", "mechanics", "bicycles", "cooking", "outdoors", 
             "homebrew", "sustainability", "crafts", "lifehacks"]
 for _s in SE_SITES:
     ARCHIVES["se-" + _s] = ("stack_exchange", f"{_s}.stackexchange.com_en_all_", f"Stack Exchange - {_s}")
+# Not a pack's source, but worth having: with an English Wikipedia archive in _sources\zim, the Wikipedia pack and
+# Build Local Area read articles from it instead of wikipedia.org (which slows down - throttles - big batches).
+EXTRA = {
+    "wikipedia-nopic": ("wikipedia", "wikipedia_en_all_nopic_", "Wikipedia - text only (avoids web limits)"),
+    "wikipedia-maxi": ("wikipedia", "wikipedia_en_all_maxi_", "Wikipedia - with pictures (avoids web limits)"),
+}
+ARCHIVES.update(EXTRA)
 
 _DATE = r"(\d{4}-\d{2}[a-z]?)\.zim$"
 

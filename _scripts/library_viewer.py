@@ -761,12 +761,17 @@ def gallery_images(it):
     return out
 
 
+def on_white(im):
+    """RGB copy of a picture; transparent parts (diagrams, logos) go on white, not black."""
+    im = im.convert("RGBA" if im.mode in ("RGBA", "LA", "P", "PA") else "RGB")
+    if im.mode == "RGBA":
+        bg = Image.new("RGB", im.size, "#ffffff"); bg.paste(im, mask=im.split()[3]); im = bg
+    return im
+
+
 def fit_image(path, w, h):
     im = Image.open(path); im.seek(0)
-    im = ImageOps.exif_transpose(im)
-    im = im.convert("RGBA" if im.mode in ("RGBA", "LA", "P") else "RGB")
-    if im.mode == "RGBA":   # transparent diagrams on white
-        bg = Image.new("RGB", im.size, "#ffffff"); bg.paste(im, mask=im.split()[3]); im = bg
+    im = on_white(ImageOps.exif_transpose(im))
     im.thumbnail((w, h), Image.LANCZOS)
     return im
 
@@ -822,7 +827,7 @@ def render_source(kind, path, w, h):
     if kind == "image":
         im = Image.open(path)
         im.seek(0)
-        im = ImageOps.exif_transpose(im).convert("RGB")
+        im = on_white(ImageOps.exif_transpose(im))
         if im.width < 40 or im.height < 40:   # icons / spacer gifs
             return None
         return ImageOps.fit(im, (w, h), Image.LANCZOS, centering=(0.5, 0.35))
@@ -3184,7 +3189,12 @@ class Reader(tk.Frame):
             if s.startswith("|"):
                 if re.fullmatch(r"\|[\s:|-]+\|?", s):
                     continue
-                t.insert("end", "   ".join(c.strip() for c in s.strip("|").split("|")) + "\n", "mono"); continue
+                cells = [c.strip() for c in s.strip("|").split("|")]
+                if not any(cells):   # an empty header row ("| | |")
+                    continue
+                if len(cells) == 2:   # key facts: "Label: value", with the page's bold/italics
+                    self.inline(f"**{cells[0]}:**  {cells[1]}" if cells[0] else cells[1], ()); t.insert("end", "\n"); continue
+                t.insert("end", "   ".join(re.sub(r"(\*\*|\*|__)(.+?)\1", r"\2", c) for c in cells) + "\n", "mono"); continue
             lm = re.match(r"^\s*([-*+]|\d+[.)])\s+(.*)", line)
             if lm:
                 bullet = "\u2022" if lm[1] in "-*+" else lm[1]
@@ -3245,7 +3255,7 @@ class Reader(tk.Frame):
     def inline_image(self, p, maxw):
         try:
             im = Image.open(p); im.seek(0)
-            im = ImageOps.exif_transpose(im).convert("RGB")
+            im = on_white(ImageOps.exif_transpose(im))
             if im.width < 40:
                 return
             if im.width > maxw:
