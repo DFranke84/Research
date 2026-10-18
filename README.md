@@ -267,6 +267,8 @@ Every page records its source and license at the top of its `.md` file. Free sou
 (Wikipedia, Stack Exchange, Appropedia…) or public domain (US government works); iFixit is non-commercial only.
 Pages saved from other websites and your own documents are for personal offline use - check before sharing them.
 
+The Library Manager code itself is free to use, change and share under the [MIT License](LICENSE).
+
 ---
 
 **More detail** on every Library Manager page (browsing, reading, notes, favorites, moving and deleting items,
