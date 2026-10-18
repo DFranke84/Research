@@ -204,6 +204,7 @@ def start_here(conf, groups_built):
               "article. Add your own local documents (extension guides, planting calendars) with **Add a Document** and pick "
               "the **Local Area** category.", "", "**Never eat a wild plant or mushroom identified only from a description or photo.**"]
     meta = {"title": f"Start Here - {name}", "category": "local-area", "source_type": "local-overview",
+            "publisher": "Weather records and sightings",
             "source_url": f"https://www.openstreetmap.org/?mlat={conf['lat']}&mlon={conf['lon']}#map=11/{conf['lat']}/{conf['lon']}",
             "sources": [{"name": "Open-Meteo historical weather (ERA5)", "url": "https://open-meteo.com/"},
                         {"name": "iNaturalist", "url": "https://www.inaturalist.org/"}] +
@@ -259,7 +260,8 @@ def species_page(conf, group, folder, ptype, sc, reg):
             download(url, os.path.join(img_dir, name))
         except Exception:
             continue
-        photos.append({"file": name, "caption": f"{title} - {ph.get('attribution') or 'iNaturalist'}",
+        credit = " ".join((ph.get("attribution") or "iNaturalist").split())   # credits can hold line breaks
+        photos.append({"file": name, "caption": f"{title} - {credit}",
                        "source_file_page": f"https://www.inaturalist.org/photos/{ph['id']}", "license": ph["license_code"].upper()})
         if len(photos) >= 4:
             break

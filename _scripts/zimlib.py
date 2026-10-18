@@ -75,16 +75,24 @@ class WebWikipedia:
         self.images = []
 
     def get(self, url, **kw):
-        for attempt in range(4):
+        """One request at a time, a little apart; when Wikipedia says "too many requests" (429) it waits as long as
+        asked (Retry-After) or longer each time - several tools may be fetching at once."""
+        wait = 10
+        for attempt in range(7):
+            time.sleep(0.3)
             try:
                 r = self.s.get(url, timeout=60, **kw)
-                if r.status_code == 429 or r.status_code >= 500:
-                    raise IOError(f"HTTP {r.status_code}")
-                return r
             except Exception:
-                if attempt == 3:
+                if attempt == 6:
                     raise
-                time.sleep(5 * (attempt + 1))
+                time.sleep(wait); wait = min(wait * 2, 300); continue
+            if r.status_code == 429 or r.status_code >= 500:
+                if attempt == 6:
+                    raise IOError(f"HTTP {r.status_code}")
+                ra = r.headers.get("Retry-After", "")
+                time.sleep(max(int(ra) if ra.isdigit() else 0, wait)); wait = min(wait * 2, 300)
+                continue
+            return r
 
     def get_entry_by_path(self, path):
         m = re.match(r"/__img__/(\d+)/", path)

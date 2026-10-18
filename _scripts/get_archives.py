@@ -10,7 +10,7 @@ against Kiwix's published SHA-256 before using it. Files go to <library>\\_sourc
 import hashlib, json, os, sys, time
 sys.path.insert(0, os.path.dirname(__file__))
 import requests
-from archives import ARCHIVES, ZIM_DIR, latest, local_path
+from archives import ARCHIVES, EXTRA, ZIM_DIR, latest, local_path
 from common import RESEARCH
 
 S = requests.Session()
@@ -22,7 +22,8 @@ def pack_archives():
     pf = os.path.join(RESEARCH, "starter", "packs.json")
     packs = json.load(open(pf, encoding="utf-8"))["packs"] if os.path.exists(pf) else []
     out = [(p["archive"], p["title"], p["items"]) for p in packs if p.get("archive") in ARCHIVES]
-    return out or [(k, v[2], 0) for k, v in ARCHIVES.items()]
+    out = out or [(k, v[2], 0) for k, v in ARCHIVES.items() if k not in EXTRA]
+    return out + [(k, v[2], 0) for k, v in EXTRA.items()]
 
 
 def gb(n):

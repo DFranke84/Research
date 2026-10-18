@@ -53,41 +53,45 @@ def main():
     reg = None if check else SlugRegistry()
     added = []
     for title, code in items:
-        e = resolve(title)
-        if e is None:
-            print(f"not found: {title}")
-            continue
-        path = e.path
-        if path in have:
-            print(f"already in library: {title} -> {path}")
-            continue
-        if check:
-            soup = BeautifulSoup(bytes(e.get_item().content).decode("utf-8", "replace"), "html.parser")
-            print(f"{title} -> {path} [{CODES[code]}]\n    {first_para(soup)[:220]}")
-            continue
-        art = article_md(e, max_images=30)
-        category = CODES[code]
-        slug = reg.claim(slugify(e.title), "wiki:" + path)
-        d = cat_dir(category)
-        md, imgs = save_article_images(art, os.path.join(d, slug + "_images"), slug + "_images")
-        rev = art["meta"].get("wgCurRevisionId")
-        url = "https://en.wikipedia.org/wiki/" + path
-        meta = {"title": e.title, "category": category, "source_type": "wikipedia-article",
-                "publisher": "Wikipedia (English)", "source_url": url,
-                "revision_url": f"https://en.wikipedia.org/w/index.php?oldid={rev}" if rev else None,
-                "retrieved_from": SOURCE_LABEL,
-                "license": "CC BY-SA 4.0 (text: Wikipedia contributors); images: see each file page",
-                "wikipedia_categories": content_cats(art["meta"])[:12],
-                "images": imgs, "words": len(md.split()), "compiled": TODAY,
-                "date_added": TODAY, "date_source": "added to the library"}
-        head = (f"# {e.title}\n\n**Source:** Wikipedia - <{url}>" + (f" (revision <{meta['revision_url']}>)" if rev else "")
-                + f"  \n**License:** CC BY-SA 4.0 - Wikipedia contributors\n\n")
-        body = re.sub(r"^\s*#\s.*\n", "", md)
-        open(os.path.join(d, slug + ".md"), "w", encoding="utf-8").write(front_matter(meta) + head + body + "\n")
-        built.append({"path": path, "slug": slug, "category": category, "title": e.title})
-        have.add(path)
-        added.append((e.title, path))
-        print(f"added: {category}/{slug}.md ({meta['words']} words, {len(imgs)} images)", flush=True)
+        try:
+            e = resolve(title)
+            if e is None:
+                print(f"not found: {title}")
+                continue
+            path = e.path
+            if path in have:
+                print(f"already in library: {title} -> {path}")
+                continue
+            if check:
+                soup = BeautifulSoup(bytes(e.get_item().content).decode("utf-8", "replace"), "html.parser")
+                print(f"{title} -> {path} [{CODES[code]}]\n    {first_para(soup)[:220]}")
+                continue
+            art = article_md(e, max_images=30)
+            category = CODES[code]
+            slug = reg.claim(slugify(e.title), "wiki:" + path)
+            d = cat_dir(category)
+            md, imgs = save_article_images(art, os.path.join(d, slug + "_images"), slug + "_images")
+            rev = art["meta"].get("wgCurRevisionId")
+            url = "https://en.wikipedia.org/wiki/" + path
+            meta = {"title": e.title, "category": category, "source_type": "wikipedia-article",
+                    "publisher": "Wikipedia (English)", "source_url": url,
+                    "revision_url": f"https://en.wikipedia.org/w/index.php?oldid={rev}" if rev else None,
+                    "retrieved_from": SOURCE_LABEL,
+                    "license": "CC BY-SA 4.0 (text: Wikipedia contributors); images: see each file page",
+                    "wikipedia_categories": content_cats(art["meta"])[:12],
+                    "images": imgs, "words": len(md.split()), "compiled": TODAY,
+                    "date_added": TODAY, "date_source": "added to the library"}
+            head = (f"# {e.title}\n\n**Source:** Wikipedia - <{url}>" + (f" (revision <{meta['revision_url']}>)" if rev else "")
+                    + f"  \n**License:** CC BY-SA 4.0 - Wikipedia contributors\n\n")
+            body = re.sub(r"^\s*#\s.*\n", "", md)
+            open(os.path.join(d, slug + ".md"), "w", encoding="utf-8").write(front_matter(meta) + head + body + "\n")
+            built.append({"path": path, "slug": slug, "category": category, "title": e.title})
+            have.add(path)
+            added.append((e.title, path))
+            print(f"added: {category}/{slug}.md ({meta['words']} words, {len(imgs)} images)", flush=True)
+        except Exception as ex:   # one article that will not come (network, odd page) must not stop the rest
+            print(f"skipped: {title} ({type(ex).__name__}: {ex})"[:200], flush=True)
+
     if check or not added:
         return
     os.makedirs(W, exist_ok=True)

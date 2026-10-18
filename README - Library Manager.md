@@ -107,7 +107,9 @@ search cleared, any open item closed, back to the top. The Add pages keep what y
 Local Area is the section about where you live, in the library folder `local-area`. Make it with
 **`Build Local Area.bat`** (see `README.md`, *Your Local Area*): it asks for your town and builds Start Here
 (frost dates, growing season, hardiness zone, monthly weather), species pages for the plants, wildlife, insects
-and fungi seen near you, and - in the US - topographic maps. Until then the section is not shown. (The first owner's
+and fungi seen near you, and - in the US - topographic maps. Until then the section is not shown. The species pages'
+Wikipedia articles come from wikipedia.org, which slows down (throttles) big batches; with a Wikipedia archive in
+`_sources\zim` (Get Archives.bat → *Wikipedia - text only*) they are read from that file instead. (The first owner's
 Kalispell section was put together by hand and is not part of the download.)
 
 - **Start Here** opens straight away. The other tiles - **Plants**, **Wildlife**, **Insects & Spiders**,

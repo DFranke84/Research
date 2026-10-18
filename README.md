@@ -15,6 +15,17 @@ PDFs and videos. The library starts **empty**. You fill it with your own choices
 Everything stays as plain files (one Markdown page per item, with its original PDF and pictures beside it), so
 nothing is locked inside an app.
 
+## What it looks like
+
+<table>
+<tr><td width="50%"><img src="docs/images/library-manager-home.png" alt="Home: totals, recently added, every category"><br><sub>Home: totals, recently added, every category</sub></td><td width="50%"><img src="docs/images/library-manager-local-area.png" alt="Local Area made by Build Local Area for Asheville, NC"><br><sub>Local Area made by Build Local Area for Asheville, NC</sub></td></tr>
+<tr><td width="50%"><img src="docs/images/library-manager-species.png" alt="A species page: photo, key facts, when it is seen nearby"><br><sub>A species page: photo, key facts, when it is seen nearby</sub></td><td width="50%"><img src="docs/images/library-manager-start-here.png" alt="Start Here: frost dates, growing season, hardiness zone, weather"><br><sub>Start Here: frost dates, growing season, hardiness zone, weather</sub></td></tr>
+<tr><td width="50%"><img src="docs/images/library-manager-recipes.png" alt="Recipes, sorted onto tiles by kind of dish"><br><sub>Recipes, sorted onto tiles by kind of dish</sub></td><td width="50%"><img src="docs/images/library-manager-recipe.jpg" alt="A recipe saved from a link: photo, PDF and video"><br><sub>A recipe saved from a link: photo, PDF and video</sub></td></tr>
+<tr><td width="50%"><img src="docs/images/library-manager-whole-library.png" alt="The whole library on topic tiles"><br><sub>The whole library on topic tiles</sub></td></tr>
+</table>
+
+*Pictures from a demo library built from scratch with these tools (starter-pack samples, a few recipes, a Local Area for Asheville, NC).*
+
 ---
 
 ## How the apps fit together
@@ -61,6 +72,9 @@ for your own material, more for the starter packs (see below).
 
 A new library shows its categories with nothing in them yet. The first thing you add creates the catalog, and
 everything else (search, the AI apps' link to the library, the tablet viewer) follows from it.
+
+
+**Testing a fresh install?** [TESTING.md](TESTING.md) is a step-by-step checklist for setting all the apps up from scratch in a test folder - no experience needed.
 
 ---
 
@@ -155,7 +169,7 @@ The packs are the choices another library was built from. Take all of them, some
 
 | Pack | Items | What you download first |
 |---|---:|---|
-| Wikipedia articles | 2,359 | nothing - fetched from wikipedia.org (about 2 hours) |
+| Wikipedia articles | 2,359 | nothing - fetched from wikipedia.org (about 2 hours), **or** a Wikipedia archive (see below) |
 | iFixit repair guides | 4,491 | iFixit archive, 3.6 GB |
 | Stack Exchange Q&A (13 sites: DIY, gardening, cooking, outdoors, mechanics…) | 4,264 | one archive per site, 28 MB - 2.1 GB |
 | MedlinePlus (health topics, drugs, encyclopedia) | 1,270 | MedlinePlus archive, 1.9 GB |
@@ -172,6 +186,14 @@ The packs are the choices another library was built from. Take all of them, some
 2. **`Build Starter Library.bat`** lists the packs and builds the ones you pick into library pages, with their
    pictures. Building from an archive is quick (minutes); Wikipedia and the web pack take hours because every page
    is fetched separately. You can stop and run it again - finished items are skipped.
+
+> **Wikipedia may slow you down.** wikipedia.org limits how fast one computer may fetch pages ("throttling").
+> For a large batch - the Wikipedia pack, or Build Local Area with many species - it can make the tools wait
+> minutes at a time, and a page that still won't come is skipped (run the tool again later to fill it in).
+> **To be sure, download Wikipedia first:** in `Get Archives.bat` pick **Wikipedia - text only** (about 53 GB) or
+> **Wikipedia - with pictures** (about 127 GB). When a Wikipedia archive is in `_sources\zim`, both tools take the
+> articles from it instead - no limits, no internet needed for that part. (With the text-only archive the
+> articles come without their pictures; species pages still get their iNaturalist photos.)
 
 The archives are useful on their own as well: Library Manager's **Offline Archives** page reads them directly,
 and the AI apps can search them while answering (the 🗃️ button).
@@ -205,7 +227,9 @@ to take per group (100 is the default - the most often seen first). Then it buil
 | **AIPortable map** | A "My area" region in AIPortable's offline map list (Tools/Settings → Maps → Download maps) | if AIPortable sits next to the library |
 
 Library Manager then shows Local Area (and Waypoints, when there are maps) with tiles for these topics.
-About 1,000 species pages take an hour or so; you can stop and run it again - finished pages are skipped. Running
+About 1,000 species pages take an hour or so; you can stop and run it again - finished pages are skipped.
+Each page includes the species' Wikipedia article, so wikipedia.org's limits apply here too - for many species,
+download a Wikipedia archive first (see the note under *Starter packs*). Running
 it for a different place replaces the old section (the old pages go to the Recycle Bin). Add your own local
 documents - extension guides, planting calendars, local regulations - with **Add a Document**, category
 **Local Area**; they show under **Your Documents**.
