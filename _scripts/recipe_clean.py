@@ -4,9 +4,11 @@ menus, ads, comments and link lists.
 extract(html) -> {"name", "description", "image", "yield", "prep", "cook", "total", "ingredients": [...],
                   "instructions": [...], "notes": [...], "video": {...} or None, "method": "..."}  or None
 Order of methods: schema.org JSON-LD -> schema.org microdata -> recipe-card plugin markup (WP Recipe Maker, Tasty,
-Mediavine Create, ...) -> "Ingredients" / "Directions" headings in the article body.
+Mediavine Create, ...) -> Substack recipe card (fetched from the site's recipe API) -> "Ingredients" / "Directions"
+headings in the article body.
 """
 import html as _html, json, os, re, subprocess, sys
+from urllib.parse import quote
 from bs4 import BeautifulSoup
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import find_browser
@@ -162,6 +164,59 @@ def from_card(soup):
     return None
 
 
+# ---------------------------------------------------------------- 3b) Substack recipe cards
+SUBSTACK_EMBED = re.compile(r"recipe-embed[^>]{0,200}?data-attrs=\\?[\"'][^\"']*?id(?:&quot;|\\?\")\s*:\s*(\d+)")
+
+
+def _doc_text(node):
+    """Plain text of a Substack rich-text block ({"type": "doc", "content": [...]}); paragraphs on their own lines."""
+    if isinstance(node, list):
+        return "\n".join(t for t in (_doc_text(n) for n in node) if t)
+    if not isinstance(node, dict):
+        return ""
+    if node.get("type") == "text":
+        return node.get("text") or ""
+    parts = [_doc_text(c) for c in node.get("content") or []]
+    return ("\n" if node.get("type") in ("doc", "bulletList", "orderedList") else "").join(p for p in parts if p)
+
+
+def from_substack(soup, html):
+    """Substack posts load their recipe card from /api/v1/recipe/<id> after the page opens, so it is not in the HTML."""
+    m = SUBSTACK_EMBED.search(html)
+    if not m:
+        return None
+    base = soup.find("link", rel="canonical") or soup.find("meta", property="og:url")
+    base = (base.get("href") or base.get("content") or "") if base else ""
+    host = re.match(r"https?://[^/]+", base)
+    if not host:
+        return None
+    try:
+        import requests
+        r = requests.get(f"{host.group(0)}/api/v1/recipe/{m.group(1)}", timeout=30,
+                         headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}).json()["recipe"]
+    except Exception:
+        return None
+    ing = []
+    for i in r.get("ingredients") or []:
+        txt = clean(_doc_text(i.get("content")))
+        if i.get("type") == "ingredient":
+            ing.append(clean(f"{i.get('quantity') or ''} {txt}"))
+        elif txt:   # a group heading inside the ingredient list ("For the frosting")
+            ing.append(f"**{txt}**")
+    ins = [clean(s) for st in r.get("steps") or [] for s in _doc_text(st).split("\n") if clean(s)]
+    if not ing or not ins:
+        return None
+    md = r.get("metadata") or {}
+    img = r.get("image_url")   # full camera-size original: ask Substack's image service for a 1200px copy
+    img = f"https://substackcdn.com/image/fetch/w_1200,c_limit,f_jpg,q_85/{quote(img, safe='')}" if img else None
+    mins =lambda n: (f"{n // 60} hr {n % 60} min" if n >= 60 else f"{n} min") if isinstance(n, int) and n else None
+    return {"name": clean(r.get("name") or ""), "description": clean(_doc_text(md.get("description"))),
+            "image": img, "yield": clean(str(md.get("recipeYield") or "")),
+            "prep": mins(md.get("prepTime")), "cook": mins(md.get("cookTime")), "total": mins(md.get("totalTime")),
+            "ingredients": [x for x in ing if x], "instructions": ins, "notes": [], "video": None,
+            "method": "the post's Substack recipe card"}
+
+
 # ---------------------------------------------------------------- 4) headings in the article
 def from_headings(soup):
     for t in soup(["script", "style", "nav", "header", "footer", "aside", "form", "iframe", "noscript"]):
@@ -284,7 +339,7 @@ def main_image(soup):
 
 def extract(html):
     soup = BeautifulSoup(html, "lxml")
-    for f in (from_jsonld, from_microdata, from_card):
+    for f in (from_jsonld, from_microdata, from_card, lambda s: from_substack(s, html)):
         r = f(soup)
         if r:
             break
