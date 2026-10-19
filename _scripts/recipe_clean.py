@@ -217,6 +217,51 @@ def from_substack(soup, html):
             "method": "the post's Substack recipe card"}
 
 
+# ---------------------------------------------------------------- notes + nutrition (any method)
+NOTES_BOX = re.compile(r"^(wprm-recipe-notes|tasty-recipes-notes|mv-create-notes|recipe-notes|recipe-card-notes|"
+                       r"cooked-recipe-notes|ERSNotes)$", re.I)
+NUTRITION_BOX = re.compile(r"^(wprm-nutrition-label-container|tasty-recipes-nutrition|mv-create-nutrition|recipe-nutrition|"
+                           r"nutrition-info|recipe-card-nutrition)$", re.I)
+NUTRIENTS = [("servingSize", "Serving size"), ("calories", "Calories"), ("carbohydrateContent", "Carbohydrates"),
+             ("proteinContent", "Protein"), ("fatContent", "Fat"), ("saturatedFatContent", "Saturated fat"),
+             ("unsaturatedFatContent", "Unsaturated fat"), ("transFatContent", "Trans fat"),
+             ("cholesterolContent", "Cholesterol"), ("sodiumContent", "Sodium"), ("fiberContent", "Fiber"),
+             ("sugarContent", "Sugar")]
+
+
+def card_notes(soup):
+    """The recipe card's Notes box (tips, swaps, storage) as a list of lines."""
+    box = soup.find(class_=NOTES_BOX)
+    if not box:
+        return []
+    for t in box(["script", "style", "button", "svg"]):
+        t.decompose()
+    items = [el for el in box.find_all(["li", "p"]) if not el.find(["li", "p"])]
+    lines = [clean(el.get_text(" ")) for el in items] if items else [clean(x) for x in box.get_text("\n").split("\n")]
+    return [x for x in dict.fromkeys(lines) if x and not re.match(r"^(recipe )?notes?:?$", x, re.I) and not JUNK.match(x)]
+
+
+def nutrition(soup, ld=None):
+    """One line: "Calories: 220 · Fat: 14g ..." from the schema.org data, else the card's nutrition box."""
+    n = (ld or {}).get("nutrition")
+    if isinstance(n, dict):
+        parts = [f"{label}: {clean(n[k])}" for k, label in NUTRIENTS if n.get(k) and clean(n[k])]
+        if parts:
+            return " · ".join(parts)
+    box = soup.find(class_=NUTRITION_BOX)
+    if not box:
+        return ""
+    words = [clean(x) for x in box.get_text("\n").split("\n")]
+    words = [w for w in words if w and not re.match(r"^nutrition( facts| information)?:?$", w, re.I)]
+    out = []   # card boxes list "Calories:" and "220" as separate pieces: join each label with its value
+    for w in words:
+        if out and out[-1].endswith(":"):
+            out[-1] += " " + w
+        else:
+            out.append(w)
+    return " · ".join(out)[:600]
+
+
 # ---------------------------------------------------------------- 4) headings in the article
 def from_headings(soup):
     for t in soup(["script", "style", "nav", "header", "footer", "aside", "form", "iframe", "noscript"]):
@@ -353,6 +398,9 @@ def extract(html):
                 break
         if not r["instructions"]:
             return None   # an ingredient list alone is not a usable recipe
+    if r and not r.get("article"):   # the card's Notes and Nutrition, whichever method found the recipe
+        r["notes"] = r.get("notes") or card_notes(BeautifulSoup(html, "lxml"))
+        r["nutrition"] = r.get("nutrition") or nutrition(BeautifulSoup(html, "lxml"), _jsonld(soup))
     if r and not r.get("image"):
         og = soup.find("meta", property="og:image") or soup.find("meta", attrs={"name": "twitter:image"})
         r["image"] = (og.get("content") if og else None) or main_image(BeautifulSoup(html, "lxml"))
@@ -406,11 +454,15 @@ def to_markdown(r):
             n += 1; steps.append(f"{n}. {s}")
     if steps:
         out += ["## Instructions", ""] + steps
+    if r.get("notes"):
+        out += ["", "## Notes", ""] + [f"- {x}" for x in r["notes"]]
+    if r.get("nutrition"):
+        out += ["", "## Nutrition", "", r["nutrition"]]
     return "\n".join(out).strip()
 
 
 def to_pdf(r, title, source, image_path, pdf_path):
-    """One clean page: title, photo, ingredients, numbered steps, source line. Rendered by headless Chrome."""
+    """One clean page: title, photo, ingredients, numbered steps, notes, nutrition, source line. Rendered by headless Chrome."""
     r = tidy(r)
     e = _html.escape
     img = f'<img src="{os.path.basename(image_path)}">' if image_path else ""
@@ -424,9 +476,11 @@ def to_pdf(r, title, source, image_path, pdf_path):
       h1{{font-size:21pt;margin:0 0 6px}} .src{{color:#666;font-size:9pt;word-break:break-all}}
       img{{max-width:100%;max-height:300px;display:block;margin:10px 0;border-radius:6px}}
       .info{{margin:6px 0 10px;font-size:11pt}} h2{{font-size:14pt;border-bottom:1px solid #ccc;margin:14px 0 6px}}
-      h4{{margin:8px 0 2px}} li{{margin:3px 0}} .desc{{font-style:italic}}</style></head><body>
+      h4{{margin:8px 0 2px}} li{{margin:3px 0}} .desc{{font-style:italic}} .nut{{font-size:10.5pt;margin:4px 0}}</style></head><body>
       <h1>{e(title)}</h1>{'<div class="desc">' + e(r['description']) + '</div>' if r.get('description') else ''}
       {img}<div class="info">{info}</div>{article if r.get("article") else f"<h2>Ingredients</h2><ul>{ing}</ul>" + (f"<h2>Instructions</h2><ol>{steps}</ol>" if steps else "")}
+      {"<h2>Notes</h2><ul>" + "".join(f"<li>{e(x)}</li>" for x in r["notes"]) + "</ul>" if r.get("notes") else ""}
+      {f'<h2>Nutrition</h2><p class="nut">{e(r["nutrition"])}</p>' if r.get("nutrition") else ""}
       <p class="src">Source: {e(source)}</p></body></html>"""
     tmp = os.path.splitext(pdf_path)[0] + ".print.html"
     open(tmp, "w", encoding="utf-8").write(page)
