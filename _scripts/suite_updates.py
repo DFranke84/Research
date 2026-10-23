@@ -66,10 +66,10 @@ def save_settings(**changes):
 
 
 def _first_line(text):
-    for line in str(text or "").splitlines():
+    for line in str(text or "").replace("﻿", "").splitlines():
         line = line.strip()
         if line and not line.startswith("#"):
-            return re.sub(r"^[-*]\s*", "", line)[:110]
+            return re.sub(r"\*\*|__|`", "", re.sub(r"^[-*]\s+", "", line))[:110]   # plain text: no bullet or **bold** markers
     return ""
 
 
