@@ -19,6 +19,7 @@ import library_viewer as lv
 import waypoints as wpt
 import na_map_server as nams
 import zim_viewer as zv
+import suite_updates as su
 
 
 class HomePage(Page):
@@ -1057,6 +1058,10 @@ class App(tk.Tk):
         hl = tk.Label(side, text="?  How to use", font=(F, 9, "underline"), bg=C["side"], fg=C["side_text"], cursor="hand2")
         hl.pack(side="bottom", anchor="w", padx=22)
         hl.bind("<Button-1>", lambda e: os.startfile(guide) if os.path.exists(guide) else None)
+        self.upd_link = tk.Label(side, text="⟳  Check for updates", font=(F, 9, "underline"), bg=C["side"], fg=C["side_text"],
+                                 cursor="hand2")
+        self.upd_link.pack(side="bottom", anchor="w", padx=22, pady=(0, 2))
+        self.upd_link.bind("<Button-1>", lambda e: self.check_updates())
 
         main = tk.Frame(self, bg=C["bg"]); main.pack(side="left", fill="both", expand=True)
         head = tk.Frame(main, bg=C["bg"]); head.pack(fill="x", padx=30, pady=(24, 12))
@@ -1094,6 +1099,7 @@ class App(tk.Tk):
         self.current = None
         self.show("home")
         self.after(100, self.poll)
+        self.after(30000, self.weekly_updates)
         self.protocol("WM_DELETE_WINDOW", self.close)
 
     def wheel(self, e):
@@ -1272,6 +1278,84 @@ class App(tk.Tk):
             except Exception as e:
                 self.write(f"(display error: {e})\n", "err")
         self.pages["home"].load()
+
+    # ---------------------------------------------------------------- check for updates (see suite_updates.py)
+    def check_updates(self, quiet=False):
+        """Asks in the background; the answer comes back through the queue. quiet: only mark the menu link if there is news."""
+        if not quiet:
+            self.upd_link.config(text="⟳  Checking...")
+
+        def work():
+            try:
+                r, err = su.check(), None
+            except Exception as e:
+                r, err = None, str(e)
+            self.q.put(("call", lambda: self.updates_checked(r, err, quiet)))
+        threading.Thread(target=work, daemon=True).start()
+
+    def weekly_updates(self):
+        if su.weekly_due():
+            self.check_updates(quiet=True)
+
+    def updates_checked(self, r, err, quiet):
+        news = bool(r and r.get("updates"))
+        self.upd_link.config(text="⟳  Update available" if news else "⟳  Check for updates",
+                             fg=C["accent"] if news else C["side_text"], font=(F, 9, "bold", "underline") if news else (F, 9, "underline"))
+        if quiet:
+            return
+        if err:
+            messagebox.showerror("Check for updates", f"Couldn't check for updates:\n{err}", parent=self); return
+        self.updates_dialog(r)
+
+    def updates_dialog(self, r):
+        suite, git = su.has_suite(), su.is_git()
+        d = tk.Toplevel(self); d.title("Check for updates"); d.configure(bg=C["card"]); d.transient(self); d.resizable(False, False)
+        if os.path.exists(ICON):
+            d.iconbitmap(ICON)
+        body = tk.Frame(d, bg=C["card"]); body.pack(fill="both", padx=24, pady=(20, 8))
+        label(body, f"{r['updates']} update(s) available" if r["updates"] else "Everything is up to date", 14, True).pack(anchor="w")
+        for c in r["components"]:
+            row = tk.Frame(body, bg=C["card"]); row.pack(fill="x", pady=(10, 0))
+            ver = f"{c.get('installed') or '-'}  →  {c['latest']}" if c.get("update") else (c.get("installed") or c.get("latest") or "")
+            label(row, c.get("title") or c["name"], 10, True).pack(side="left")
+            label(row, f"{ver}   ·   {c.get('status', '')}", 10, fg="primary" if c.get("update") else "dim").pack(side="right", padx=(24, 0))
+            if c.get("update") and c.get("notes"):
+                label(body, c["notes"], 9, fg="dim", wraplength=560).pack(anchor="w")
+        if r["updates"] and suite and not git:
+            hint = ("Only program files are replaced - your library, notes and settings stay as they are. Library Manager closes, "
+                    "updates in its own window, then starts again.")
+        elif r["updates"] and git:
+            hint = "This copy is a git checkout - update it with git pull."
+        elif r["updates"]:
+            hint = "Installed without the AI Research Suite, so the new version is downloaded from the release page."
+        else:
+            hint = ""
+        if hint:
+            label(body, hint, 9, fg="dim", wraplength=560).pack(anchor="w", pady=(14, 0))
+        weekly = tk.BooleanVar(value=su.settings().get("weeklyCheck", False))
+        if suite:
+            tk.Checkbutton(body, text="Check once a week when online (only github.com is contacted)", variable=weekly,
+                           command=lambda: su.save_settings(weeklyCheck=weekly.get()), bg=C["card"], fg=C["text"],
+                           activebackground=C["card"], selectcolor=C["card"], font=(F, 9)).pack(anchor="w", pady=(12, 0))
+        bar = tk.Frame(d, bg=C["card"]); bar.pack(fill="x", padx=24, pady=(10, 20))
+        Btn(bar, "Close", d.destroy, "secondary").pack(side="right")
+        page = next((c.get("page") for c in r["components"] if c.get("update") and c.get("page")), None)
+        if r["updates"] and suite and not git:
+            Btn(bar, "Update now", lambda: (d.destroy(), self.run_update(r)), "primary").pack(side="right", padx=(0, 8))
+        elif r["updates"] and page and not suite:
+            Btn(bar, "Open the release page", lambda: os.startfile(page), "primary").pack(side="right", padx=(0, 8))
+        d.update_idletasks()
+        d.geometry(f"+{self.winfo_rootx() + (self.winfo_width() - d.winfo_width()) // 2}+{self.winfo_rooty() + 120}")
+        d.grab_set()
+
+    def run_update(self, r):
+        if self.busy:
+            messagebox.showinfo("Busy", "Please wait - another job is still running.", parent=self); return
+        try:
+            su.start_update()
+        except Exception as e:
+            messagebox.showerror("Check for updates", f"Couldn't start the updater:\n{e}", parent=self); return
+        self.close()
 
     # ---------------------------------------------------------------- window size / place, kept between runs
     def restore_window(self):
