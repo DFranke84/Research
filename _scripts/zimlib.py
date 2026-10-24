@@ -6,9 +6,12 @@ from bs4 import BeautifulSoup
 
 import os
 # the library's own copy: <library>\_sources\zim (found relative to this script, so the library can move).
-# Any English Wikipedia archive works (maxi / nopic / mini, any date); the newest one is used.
+# A complete English Wikipedia archive (maxi = with pictures, nopic = text only, any date); the newest one is used.
+# The condensed "mini" archive is never used: it holds only each article's introduction, and pages built
+# from it would be cut short - wikipedia.org is used instead.
 _ZIM_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "_sources", "zim")
-_found = sorted(glob.glob(os.path.join(_ZIM_DIR, "wikipedia_en_all_*.zim")), key=lambda p: re.findall(r"\d{4}-\d{2}", p)[-1:])
+_found = sorted((p for p in glob.glob(os.path.join(_ZIM_DIR, "wikipedia_en_all_*.zim")) if "_mini_" not in os.path.basename(p)),
+                key=lambda p: re.findall(r"\d{4}-\d{2}", p)[-1:])
 ZIM_PATH = _found[-1] if _found else None
 ZIM_DATE = time.strftime("%Y-%m-%d")
 if ZIM_PATH:

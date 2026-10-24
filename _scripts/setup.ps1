@@ -6,7 +6,10 @@
 #   4. optional tools                     - offers Chrome (if neither Chrome nor Edge) and antiword (via Git for Windows)
 #   5. desktop shortcut                   - "Library Manager", pointing at this copy of the folder
 #   6. a final check                      - _scripts\check_setup.py
-param([switch]$Yes, [switch]$NoShortcut)   # -Yes: answer Yes to every question; -NoShortcut: leave the desktop alone
+param([switch]$Yes, [switch]$NoShortcut, [string]$OptionalTools = 'ask')
+# -Yes: answer Yes to every question; -NoShortcut: leave the desktop alone
+# -OptionalTools: 'ask' (the questions below), 'none', or which to install: 'git', 'chrome' or 'git,chrome'
+#                 (the AI Research Suite installer asks in its wizard and passes the answer here)
 $ErrorActionPreference = "Continue"   # Python/pip print warnings on stderr; success is judged by exit codes
 $Scripts = $PSScriptRoot
 $Root = Split-Path $Scripts -Parent
@@ -105,13 +108,17 @@ Say "Packages are installed." Green
 # ------------------------------------------------------------------ 4. optional tools
 Step 4 "Optional tools"
 $missing = (& $VPy (Join-Path $Scripts "check_setup.py") --missing) -split ","
+function Want($tool, $q) {
+    if ($OptionalTools -eq 'ask') { return Ask $q }
+    return @($OptionalTools -split ',' | ForEach-Object { $_.Trim() }) -contains $tool
+}
 if ($missing -contains "browser") {
     Say "No Chrome or Edge found - they make the clean one-page recipe PDFs." Yellow
-    if ((Have-Winget) -and (Ask "Install Google Chrome now?")) { if (Winget-Install "Google.Chrome") { Say "Chrome installed." Green } }
+    if ((Have-Winget) -and (Want "chrome" "Install Google Chrome now?")) { if (Winget-Install "Google.Chrome") { Say "Chrome installed." Green } }
 }
 if ($missing -contains "antiword") {
     Say "antiword not found - it reads old Word .doc files (it comes with Git for Windows, about 300 MB)." Yellow
-    if ((Have-Winget) -and (Ask "Install Git for Windows now?")) { if (Winget-Install "Git.Git") { Say "Git for Windows installed." Green } }
+    if ((Have-Winget) -and (Want "git" "Install Git for Windows now?")) { if (Winget-Install "Git.Git") { Say "Git for Windows installed." Green } }
 }
 if (-not ($missing | Where-Object { $_ })) { Say "Nothing else needed." Green }
 
