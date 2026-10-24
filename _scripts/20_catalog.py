@@ -69,9 +69,11 @@ for cat in CATEGORIES:
         if row:
             rows.append(row)
 with open(os.path.join(RESEARCH, "CATALOG.csv"), "w", newline="", encoding="utf-8-sig") as fh:
-    w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
-    w.writeheader(); w.writerows(rows)
+    if rows:   # a brand-new library has nothing yet - the files are still written, empty
+        w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
+        w.writeheader(); w.writerows(rows)
 json.dump(rows, open(os.path.join(RESEARCH, "CATALOG.json"), "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+os.makedirs(os.path.dirname(CACHE), exist_ok=True)   # a brand-new library has no _work folder yet
 tmp = CACHE + ".tmp"   # write then swap, so an interrupted run never leaves a broken cache
 json.dump({"version": VERSION, "files": new_cache}, open(tmp, "w", encoding="utf-8"), ensure_ascii=False, default=str)
 os.replace(tmp, CACHE)
