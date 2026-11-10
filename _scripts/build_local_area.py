@@ -381,15 +381,13 @@ def aiportable_region(conf, km):
 
 # ------------------------------------------------------------------------------------------------ main
 def recycle(paths):
-    """Send files / folders to the Windows Recycle Bin (never a permanent delete)."""
-    import subprocess
-    for p in paths:
-        if not os.path.exists(p):
-            continue
-        kind = "DeleteDirectory" if os.path.isdir(p) else "DeleteFile"
-        subprocess.run(["powershell", "-NoProfile", "-Command",
-                        "Add-Type -AssemblyName Microsoft.VisualBasic; [Microsoft.VisualBasic.FileIO.FileSystem]::"
-                        f"{kind}('{p}', 'OnlyErrorDialogs', 'SendToRecycleBin')"], check=False)
+    """Send files / folders to the Windows Recycle Bin (never a permanent delete) - the same helper Library Manager's
+    Delete uses, so any path works (an apostrophe in a folder name broke the old PowerShell one-liner)."""
+    from library_delete import recycle as to_bin
+    left = to_bin(paths)
+    for p in left:
+        print(f"  could not move {p} to the Recycle Bin - is it open in another program?")
+    return left
 
 
 def ask(prompt, default):

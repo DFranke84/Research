@@ -5,7 +5,9 @@ here = fso.GetParentFolderName(WScript.ScriptFullName)
 pyw = here & "\_scripts\.venv\Scripts\pythonw.exe"
 app = here & "\_scripts\library_manager.pyw"
 If Not fso.FileExists(pyw) Then
-    MsgBox "Can't find Python for the library:" & vbCrLf & pyw, vbExclamation, "Library Manager"
+    MsgBox "Library Manager isn't set up on this PC yet (or its Python was moved)." & vbCrLf & vbCrLf & _
+           "Double-click Setup.bat in this folder to set it up, then start Library Manager again:" & vbCrLf & here, _
+           vbExclamation, "Library Manager"
     WScript.Quit 1
 End If
 Set sh = CreateObject("WScript.Shell")

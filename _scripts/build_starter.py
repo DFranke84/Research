@@ -43,9 +43,11 @@ def build(pack):
         with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
             f.write("\n".join(f"{d['path']}:{CODE_OF[d['category']]}" for d in todo))
         try:
-            subprocess.run([sys.executable, os.path.join(HERE, "67_add_wiki_articles.py"), "--file", f.name])
+            rc = subprocess.run([sys.executable, os.path.join(HERE, "67_add_wiki_articles.py"), "--file", f.name]).returncode
         finally:
             os.remove(f.name)
+        if rc:
+            raise RuntimeError(f"the Wikipedia articles script stopped with an error (code {rc})")
     elif pack["kind"] == "zim":
         importlib.import_module("15_build_zim_docs").build(pack["archive"], docs=items)
     elif pack["kind"] == "stackexchange":
@@ -72,25 +74,42 @@ def main():
         if p.get("about") and "--list" not in args:
             print(f"       {p['about']}")
     if "--list" in args:
-        return
+        return 0
     if not args:
         ans = input("\nType the numbers to build (e.g. 1 3), 'all' for every ready pack, or Enter to stop: ").strip()
         if not ans:
-            return
+            return 0
         args = ["all"] if ans.lower() == "all" else [r[1]["pack"] for r in rows for a in ans.replace(",", " ").split() if a == str(r[0])]
     chosen = [r for r in rows if (args == ["all"] and r[2]) or r[1]["pack"] in args]
+    failed = [a for a in args if a != "all" and a not in {r[1]["pack"] for r in rows}]
+    for a in failed:
+        print(f"  '{a}' is not one of the starter packs - skipped")
     for i, p, ready, done in chosen:
         if not ready:
             print(f"\nSkipping {p['title']}: download its archive first with Get Archives.bat")
+            failed.append(p["pack"])
             continue
         print(f"\n=== {p['title']}: {len(p['items']) - done:,} to build ===", flush=True)
-        build(p)
+        try:
+            build(p)
+        except Exception as e:   # one pack going wrong doesn't stop the others; it is reported at the end
+            print(f"\n{p['title']} stopped: {type(e).__name__}: {e}", flush=True)
+            failed.append(p["pack"])
     if chosen:
         print("\nUpdating the catalog...", flush=True)
         for script in ("20_catalog.py", "21_readme.py"):
-            subprocess.run([sys.executable, os.path.join(HERE, script)], capture_output=True)
+            r = subprocess.run([sys.executable, os.path.join(HERE, script)], capture_output=True, text=True,
+                               encoding="utf-8", errors="replace")
+            if r.returncode:
+                print(f"{script} stopped with an error:\n{(r.stdout + r.stderr)[-1500:]}", flush=True)
+                failed.append(script)
+    if failed:
+        print(f"\nNot everything finished ({', '.join(failed)}). Run it again - finished items are skipped.")
+        return 1   # the AI Research Suite installer tries the step again and reports it
+    if chosen:
         print("Done. Open Library Manager to browse what was added.")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

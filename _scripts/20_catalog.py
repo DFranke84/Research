@@ -27,9 +27,13 @@ def read(f, cat, img_dir):
     problems = []
     txt = open(f, encoding="utf-8").read()
     try:
-        fm = yaml.safe_load(txt.split("---\n", 2)[1])
+        fm = yaml.safe_load(txt.replace("\r\n", "\n").split("---\n", 2)[1])
     except Exception as e:
         return None, [(f, "bad front-matter: %s" % e)]
+    if not isinstance(fm, dict):   # empty, or just a line of text: report it, don't stop the whole catalog
+        return None, [(f, "bad front-matter: not a list of fields")]
+    if not isinstance(fm.get("sources"), list) or not all(isinstance(s, dict) for s in fm["sources"]):
+        fm["sources"] = []
     src = fm.get("source_url") or (fm.get("sources") or [{}])[0].get("url") or fm.get("provenance")
     if not src:
         problems.append((f, "no source"))
@@ -68,11 +72,35 @@ for cat in CATEGORIES:
         problems += probs
         if row:
             rows.append(row)
-with open(os.path.join(RESEARCH, "CATALOG.csv"), "w", newline="", encoding="utf-8-sig") as fh:
-    if rows:   # a brand-new library has nothing yet - the files are still written, empty
-        w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
-        w.writeheader(); w.writerows(rows)
-json.dump(rows, open(os.path.join(RESEARCH, "CATALOG.json"), "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+# Each file is written beside its final name and then swapped in, so the AI apps and Library Manager, which may
+# read the catalog at any moment, never see a half-written one.
+def replace_file(path, write):
+    import time
+    tmp = path + ".tmp"
+    write(tmp)
+    for attempt in range(10):   # a program reading the old file at this very moment can block the swap briefly
+        try:
+            os.replace(tmp, path); return
+        except PermissionError:
+            if attempt == 9:
+                raise
+            time.sleep(0.5)
+
+
+def write_csv(path):
+    with open(path, "w", newline="", encoding="utf-8-sig") as fh:
+        if rows:   # a brand-new library has nothing yet - the files are still written, empty
+            w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
+            w.writeheader(); w.writerows(rows)
+
+
+def write_json(path):
+    with open(path, "w", encoding="utf-8") as fh:
+        json.dump(rows, fh, indent=1, ensure_ascii=False)
+
+
+replace_file(os.path.join(RESEARCH, "CATALOG.csv"), write_csv)
+replace_file(os.path.join(RESEARCH, "CATALOG.json"), write_json)
 os.makedirs(os.path.dirname(CACHE), exist_ok=True)   # a brand-new library has no _work folder yet
 tmp = CACHE + ".tmp"   # write then swap, so an interrupted run never leaves a broken cache
 json.dump({"version": VERSION, "files": new_cache}, open(tmp, "w", encoding="utf-8"), ensure_ascii=False, default=str)

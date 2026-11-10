@@ -13,6 +13,32 @@ import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+
+def _already_open():
+    """True when Library Manager is already running for this library (a second copy would clear the first one's
+    Offline Archives pictures and both would write the same settings files). Brings the open window to the front."""
+    if sys.platform != "win32":
+        return False
+    try:
+        k32, u32 = ctypes.windll.kernel32, ctypes.windll.user32
+        k32.CreateMutexW.restype = ctypes.c_void_p
+        name = "Local\\ResearchLibraryManager-" + re.sub(r"[^A-Za-z0-9]", "_", os.path.normcase(os.path.abspath(__file__)))[-200:]
+        globals()["_mutex"] = k32.CreateMutexW(None, False, name)   # kept for the life of the process
+        if k32.GetLastError() != 183:   # ERROR_ALREADY_EXISTS
+            return False
+        hwnd = u32.FindWindowW(None, "Library Manager")
+        if hwnd:
+            u32.ShowWindow(hwnd, 9)   # SW_RESTORE
+            u32.SetForegroundWindow(hwnd)
+        return True
+    except Exception:
+        return False
+
+
+if __name__ == "__main__" and _already_open():
+    sys.exit(0)
+
 from lm_ui import *
 from lm_ui import Page
 import library_viewer as lv
@@ -1231,6 +1257,7 @@ class App(tk.Tk):
                 p = subprocess.Popen([PY, "-u"] + args, cwd=RESEARCH, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, env=env,
                                      stdin=subprocess.DEVNULL, text=True, encoding="utf-8", errors="replace",
                                      creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0))
+                self.proc = p   # so closing the window can stop it (it has no window of its own)
                 for line in p.stdout:
                     self.q.put(("line", line))
                 self.q.put(("done", p.wait()))
@@ -1388,9 +1415,17 @@ class App(tk.Tk):
             pass
 
     def close(self):
-        if self.busy and not messagebox.askyesno("Still working", "A job is still running. Close anyway?\n"
-                                                 "(It is safer to wait until it finishes.)"):
-            return
+        if self.busy:
+            if not messagebox.askyesno("Still working", "A job is still running. Stop it and close?\n\n"
+                                       "It is safer to wait until it finishes. If you stop it, run the same job again "
+                                       "later - what it already finished is kept.", parent=self):
+                return
+            p = getattr(self, "proc", None)   # without this the job would go on running out of sight
+            if p is not None and p.poll() is None:
+                try:
+                    p.terminate(); p.wait(timeout=5)
+                except Exception:
+                    pass
         self.save_window()
         self.na_map.stop()
         for p in self.pages.values():   # keep a note that was being typed
@@ -1412,7 +1447,10 @@ if __name__ == "__main__":
     if sys.stderr is None:   # started with pythonw (no console): keep error messages in _work/library_manager_errors.log
         try:
             import datetime
-            sys.stderr = open(os.path.join(RESEARCH, "_work", "library_manager_errors.log"), "a", encoding="utf-8", buffering=1)
+            elog = os.path.join(RESEARCH, "_work", "library_manager_errors.log")
+            if os.path.exists(elog) and os.path.getsize(elog) > 1_000_000:   # keep it small: start afresh, the last one kept
+                os.replace(elog, elog[:-4] + ".old.log")
+            sys.stderr = open(elog, "a", encoding="utf-8", buffering=1)
             sys.stderr.write(f"\n--- started {datetime.datetime.now():%Y-%m-%d %H:%M:%S}\n")
             threading.excepthook = lambda a: __import__("traceback").print_exception(a.exc_type, a.exc_value, a.exc_traceback)
         except OSError:

@@ -196,17 +196,20 @@ class SHFILEOPSTRUCTW(ctypes.Structure):
 
 
 def recycle(paths):
-    """Send files/folders to the Recycle Bin (FO_DELETE + FOF_ALLOWUNDO). Returns the paths that are still there."""
+    """Send files/folders to the Recycle Bin (FO_DELETE + FOF_ALLOWUNDO). Returns the paths that are still there.
+    FOF_WANTNUKEWARNING: where there is no Recycle Bin (many USB sticks and SD cards) or a file is too big for it,
+    Windows asks first instead of deleting for good without a word. Saying No leaves the file where it is."""
     import time
     left = []
+    flags = 0x0040 | 0x0010 | 0x0004 | 0x0400 | 0x4000   # ALLOWUNDO, NOCONFIRMATION, SILENT, NOERRORUI, WANTNUKEWARNING
     for p in (os.path.abspath(x) for x in paths if os.path.exists(x)):
         for attempt in range(3):   # one at a time, so a file that is briefly in use does not stop the others
-            op = SHFILEOPSTRUCTW(None, 3, p + "\0\0", None, 0x0040 | 0x0010 | 0x0004 | 0x0400, False, None, None)
-            ctypes.windll.shell32.SHFileOperationW(ctypes.byref(op))
-            if not os.path.exists(p):
-                break
+            op = SHFILEOPSTRUCTW(None, 3, p + "\0\0", None, flags, False, None, None)
+            rc = ctypes.windll.shell32.SHFileOperationW(ctypes.byref(op))
+            if not os.path.exists(p) or (rc == 0 and op.fAnyOperationsAborted):
+                break   # gone - or the person said No to deleting it for good: leave it, don't ask again
             time.sleep(0.4)
-        else:
+        if os.path.exists(p):
             left.append(p)
     return left
 
